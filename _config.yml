@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website Testi
+title: Data Stuff
 
 # Your name to show in the footer
 author: Jaakko
@@ -39,12 +39,12 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "talonen.dm@gmail.com"
   facebook: deanattali
   github: daattali
-  twitter: daattali
+  twitter: JaakkoTalonen
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: jaakko-talonen
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -70,7 +70,7 @@ rss-description: This website is a virtual proof that I'm awesome
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   linkedin: true
   vk: false
 
@@ -227,4 +227,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
