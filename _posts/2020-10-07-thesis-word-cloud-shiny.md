@@ -11,8 +11,11 @@ thumbnail-img: /assets/pics/thesiswordcloud2015.PNG
 published: true
 ---
 ## Word cloud - Thesis: Advances in Methods of Anomaly Detection and Visualization of Multivariate Data
+Thesis published already in year 2015 and this word cloud app was created few months later.
 
-Simple R shiny application running in shinyapps: [Thesis word cloud](https://talonen.shinyapps.io/thesis_wordcloud/ "shiny app")
+Test simple R shiny application running in shinyapps: [Thesis word cloud](https://talonen.shinyapps.io/thesis_wordcloud/ "shiny app")
+
+Surprise, the most common word is "data" and thus having the largest font size.
 
 ### References
 
