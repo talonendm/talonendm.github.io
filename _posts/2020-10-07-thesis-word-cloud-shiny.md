@@ -8,6 +8,7 @@ tags:
 comments: true
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/pics/thesiswordcloud2015.PNG
+published: true
 ---
 ## Word cloud - Thesis: Advances in Methods of Anomaly Detection and Visualization of Multivariate Data
 
