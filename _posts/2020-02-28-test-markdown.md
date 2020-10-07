@@ -9,6 +9,7 @@ gh-badge:
   - follow
 tags:
   - test
+  - demopage
 comments: true
 published: true
 ---
