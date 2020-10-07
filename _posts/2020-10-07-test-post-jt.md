@@ -1,6 +1,6 @@
 ---
 layout: post
-title: testing blog post in github
+title: My first blog post in github + how to do it
 subtitle: by jaakko
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/hello_world.jpeg
@@ -13,11 +13,30 @@ published: true
 
 ## Create files into _posts/ folder
 
-Format: YYYY-MM-DD-<"name of the post">.md
+File name format: YYYY-MM-DD-<"name of the post">.md
   
-Edit posts / files in github or in [Prose](https://prose.io/)
+- Edit posts / files in github or in [Prose](https://prose.io/)
+- File size limit 100mB / repo limit.
 
-File size limit 100mB / repo limit.
+Remember to add to meta data: 
+- published: true
+
+Other meta data fields:
+
+~~~
+---
+layout: post
+title: 
+subtitle: 
+cover-img: /assets/ ...
+thumbnail-img: /assets/ ..
+share-img: /assets/ ..
+tags:
+  - tag1
+  - tag2
+published: true
+---
+~~~
 
 ### References 
 
