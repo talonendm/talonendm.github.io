@@ -38,9 +38,15 @@ published: true
 ---
 ~~~
 
+## iFrame [5]
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=S1TQCi9axzg" frameborder="0" allowfullscreen></iframe>
+
+
 ### References 
 
 1. [How to edit and add new posts in Jekyll blog online - Tutorial 8](https://www.youtube.com/watch?v=E0RbrYSMw3g "youtube")
 2. [daattali](https://github.com/daattali/beautiful-jekyll/ "beautiful-jekyll")
 3. [Github repo quota](https://github.com/settings/repositories)
 4. [Jekyll](https://github.com/jekyll/jekyll)
+5. [iFrame to Jekyll](https://stackoverflow.com/questions/28617683/can-i-bring-in-a-custom-video-iframe-into-jekyll-markdown-blogs)
