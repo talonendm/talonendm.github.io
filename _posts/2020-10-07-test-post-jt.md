@@ -38,12 +38,11 @@ published: true
 ---
 ~~~
 
-## iFrame [5]
+## iFrame
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=S1TQCi9axzg" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://talonendm.github.io/p5js-page/ex1/" frameborder="0" allowfullscreen></iframe>
-
+<iframe width="860" height="515" src="https://talonendm.github.io/p5js-page/ex1/" frameborder="0" allowfullscreen></iframe>
+[5, 6]
 
 
 
@@ -55,3 +54,4 @@ published: true
 3. [Github repo quota](https://github.com/settings/repositories)
 4. [Jekyll](https://github.com/jekyll/jekyll)
 5. [iFrame to Jekyll](https://stackoverflow.com/questions/28617683/can-i-bring-in-a-custom-video-iframe-into-jekyll-markdown-blogs)
+6. [Guest Tutorial #4: Matrix Digital Rain in p5.js with Emily Xie](https://www.youtube.com/watch?v=S1TQCi9axzg)
