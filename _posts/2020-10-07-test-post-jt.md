@@ -3,7 +3,7 @@ layout: post
 title: testing blog post in github
 subtitle: by jaakko
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/hello_world.jpeg
 share-img: /assets/img/hello_world.jpeg
 tags:
   - test
