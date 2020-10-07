@@ -1,17 +1,15 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Hello World!
+subtitle: World is made for learning new stuff
 published: true
 ---
 
-My name is Jaakko Talonen. I have the following qualities:
+My name is Jaakko Talonen and I am living data driven life
 
 - I rock data
 - I'm extremely loyal to data and models
 
 What else do you need?
 
-### My Linked in profile
-
-https://www.linkedin.com/in/jaakko-talonen/
+- Don't hesitate to contact me via email, twitter or what ever..
