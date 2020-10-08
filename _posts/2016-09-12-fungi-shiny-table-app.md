@@ -13,6 +13,10 @@ published: true
 
 Test simple R shiny application running on shinyapps.io: [Mushrooms - Fungi table](https://talonen.shinyapps.io/app-fungi-insta/ "shiny app")
 
+### Shiny tip:
+
+[Shiny article](https://shiny.rstudio.com/articles/unicode.html "Unicode characters")
+
 ### References
 
 1. [Shinyapps](https://shiny.rstudio.com/articles/shinyapps.html)
