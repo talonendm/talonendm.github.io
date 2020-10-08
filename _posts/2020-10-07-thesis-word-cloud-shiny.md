@@ -6,7 +6,7 @@ subtitle: Visual presentation of the most common words in each Chapter
 tags:
   - thesis
 comments: true
-cover-img: /assets/img/path.jpg
+cover-img: /assets/pics/wide/wide_grasshopper.PNG
 thumbnail-img: /assets/pics/thesiswordcloud2015.PNG
 published: true
 ---
