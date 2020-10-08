@@ -12,6 +12,7 @@ published: true
 ## Mushrooms
 
 Test simple R shiny application running on shinyapps.io: [Mushrooms - Fungi table](https://talonen.shinyapps.io/app-fungi-insta/ "shiny app")
+However, this app is not very useful and I suggest to go for example here: [laji.fi](https://laji.fi/)
 
 ### Shiny tip:
 
