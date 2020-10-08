@@ -1,8 +1,8 @@
 ---
 layout: post
-title: My first blog post in github + how to do it
+title: My first blog post in github and short notes how to do it next time
 subtitle: by jaakko
-cover-img: /assets/img/path.jpg
+cover-img: /assets/pics/wide/wide_silja_bella.PNG
 thumbnail-img: /assets/img/hello_world.jpeg
 share-img: /assets/img/hello_world.jpeg
 tags:
@@ -10,6 +10,11 @@ tags:
   - blog
 published: true
 ---
+
+## Why?
+
+I had LinkedIn training organized by my employer (Napa). It was encouraged to make blog posts etc., so here we go. Actually, I have created a lot of different projects in my past and being quite active again. My kids start to cope their selves and thus I am having more time. Now I can piece out data related stuff together. Let's see, if some projects / solutions help me to solve future challeges / goals e.g. at work.
+
 
 ## Create files into _posts/ folder
 
@@ -40,6 +45,7 @@ published: true
 
 ## iFrame
 
+Unfortunately I don't have my first home page at Helsinki University of Technology. This p5.js is quite new experiment, but it looks similar as in good old days:
 
 <iframe width="860" height="515" src="https://talonendm.github.io/p5js-page/ex1/" frameborder="0" allowfullscreen></iframe>
 [5, 6]
