@@ -89,4 +89,8 @@ You can add notification, warning and error boxes like this:
 
 # iFrame
 
-<iframe width="1024" height="800" src="www.miogames.com/media/maja/index.html" frameborder="1" allowfullscreen></iframe>
+<iframe width="1024" height="800" src="http://www.miogames.com/" frameborder="1" allowfullscreen></iframe>
+
+<iframe width="1024" height="800" src="http://www.miogames.com/media/maja/index.html" frameborder="1" allowfullscreen></iframe>
+
+<iframe width="1024" height="800" src="vaarasivu.html" frameborder="1" allowfullscreen></iframe>
