@@ -86,3 +86,7 @@ You can add notification, warning and error boxes like this:
 
 {: .box-error}
 **Error:** This is an error box.
+
+# iFrame
+
+<iframe width="800" height="600" src="http://www.miogames.com/media/maja/index.html" frameborder="0" allowfullscreen></iframe>
