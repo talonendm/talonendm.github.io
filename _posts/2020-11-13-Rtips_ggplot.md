@@ -6,7 +6,7 @@ tags:
   - R
   - ggplot
 comments: true
-cover-img: /assets/pics/wide/wide_seaweed.PNG
+cover-img: /assets/pics/wide/wide_Time series and histogram.png
 thumbnail-img: /assets/pics/Rtips_ggplot_Capture.PNG
 published: true
 ---
@@ -78,6 +78,48 @@ print(gg2) + ggtitle("Histogram")
 
 ~~~
 
+## many ggplots in the same figure
+
+Required packages:
+
+~~~
+if (!require(here)) install.packages('here')
+library(here) # create path for ggsave
+
+if (!require(cowplot)) install.packages('cowplot')
+library(cowplot)
+
+if (!require(ggpubr)) install.packages('ggpubr')
+library(ggpubr)
+
+if (!require(here)) install.packages('here')
+library(here)
+~~~
+
+First, let's change theme a bit. Generated picture is used as top image in this blog post.
+~~~
+gg1 <- gg1 + theme(plot.background = element_rect(fill = "#C0C0C0"), 
+                   panel.grid.major = element_line(colour = "grey90"), 
+                   axis.ticks = element_line(size = 2)) # https://ggplot2.tidyverse.org/reference/theme.html
+
+
+gg2 <- gg2 + 
+  theme(plot.background = element_rect(fill = "#C0C0C3"))  # https://ggplot2.tidyverse.org/reference/theme.html
+
+
+gg_plots <- ggarrange(gg1, gg2 , 
+                          labels = c("A", "B"),
+                          ncol = 2, nrow = 1)
+
+gg_plots <- gg_plots + ggtitle("Time series and histogram")
+
+last_plot()$labels$title
+paste0(here("/"), last_plot()$labels$title, ".png")
+
+ggsave(filename = paste0(here("/"), "wide_", last_plot()$labels$title, ".png"),
+       width = 29, height = 6, units = "cm",  dpi = 300)
+
+~~~
 
 ### References
 
