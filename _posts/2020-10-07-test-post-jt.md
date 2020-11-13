@@ -57,7 +57,7 @@ pwd
 cd /c/github/talonendm.github.io # your local path   
 ls
 git add . 
-git commit -m ""         # e.g. picture added to assets/cover/ folder
+git commit -m "."         # e.g. picture added to assets/cover/ folder
 git pull origin master    #  (if some changes have been made e.g. directly in the repo)
 git push origin master
 ```
@@ -67,7 +67,7 @@ Or if sure that no changes in master..
 ```
 #!/bin/bash
 git add .
-git commit -m ""         # e.g. picture added to assets/cover/ folder
+git commit -m "."         # e.g. picture added to assets/cover/ folder
 git push origin master
 ```
 e.g.
