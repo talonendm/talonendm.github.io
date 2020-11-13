@@ -48,28 +48,33 @@ published: true
 ~~~
 
 ## Git
-
-
 Update github pages (copy paste) [8]: 
+Git bash commans [10]:
 
 ```
-git add .
-git commit -m "e.g. picture added to assets/cover/ folder"
-git pull origin master     (if some changes have been made e.g. directly in the repo)
+#!/bin/bash
+pwd
+cd /c/github/talonendm.github.io # your local path   
+ls
+git add . 
+git commit -m " "         # e.g. picture added to assets/cover/ folder
+git pull origin master    #  (if some changes have been made e.g. directly in the repo)
 git push origin master
 ```
 
 Or if sure that no changes in master..
 
 ```
+#!/bin/bash
 git add .
-git commit -m "git instructions"
+git commit -m "git comments and changes"         # e.g. picture added to assets/cover/ folder
 git push origin master
 ```
 
 Update github pages (first time):
 
 ```
+#!/bin/bash
 git clone https://github.com/talonendm/talonendm.github.io.git
 git add .
 git commit -m "e.g. picture added to assets/cover/ folder"
@@ -108,3 +113,4 @@ print ('Hello, world!')
 7. [Lesson 6. How to fork a repo in GitHub Intro version control git](https://www.earthdatascience.org/workshops/intro-version-control-git/about-forks/)
 8. [Git commands](https://github.com/talonendm/notes/blob/master/gitcommands.txt)
 9. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code)
+10. [Shell Comments](https://bash.cyberciti.biz/guide/Shell_Comments)
