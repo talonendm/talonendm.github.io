@@ -4,10 +4,11 @@ title: R tips - ggplot package
 subtitle: Simple time series and annotate points and labels on it
 tags:
   - R
-  - ggplot
+  - package ggplot
+  - package ggsave
 comments: true
 cover-img: /assets/pics/wide/wide_Time series and histogram.png
-thumbnail-img: /assets/pics/square_time series, points and labels.png
+thumbnail-img: /assets/pics/cover/square_time series, points and labels.png
 published: true
 ---
 # R tips - ggplot 
