@@ -17,8 +17,13 @@ I had LinkedIn training organized by my employer. It was again encouraged to wri
 
 ## Create files into _posts/ folder
 
-File name format: YYYY-MM-DD-<"name of the post">.md
-  
+I found create github page and instructions how to create blog posts to my own github page [2]. First step was to fork [7] this repository and make my own edits as:
+
+Create new file to _posts folder: https://github.com/talonendm/talonendm.github.io/tree/master/_posts
+Blog post file name format is:
+- YYYY-MM-DD-<"name of the post">.md
+
+Edit post:
 - Edit posts / files in github or in [Prose](https://prose.io/)
 - File size limit 100mB / repo limit.
 
@@ -60,3 +65,4 @@ Unfortunately I don't have my first home page at Helsinki University of Technolo
 4. [Jekyll](https://github.com/jekyll/jekyll)
 5. [iFrame to Jekyll](https://stackoverflow.com/questions/28617683/can-i-bring-in-a-custom-video-iframe-into-jekyll-markdown-blogs)
 6. [Guest Tutorial #4: Matrix Digital Rain in p5.js with Emily Xie](https://www.youtube.com/watch?v=S1TQCi9axzg)
+7. [Lesson 6. How to fork a repo in GitHub Intro version control git](https://www.earthdatascience.org/workshops/intro-version-control-git/about-forks/)
