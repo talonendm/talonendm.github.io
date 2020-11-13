@@ -77,8 +77,6 @@ print(gg2) + ggtitle("Histogram")
 
 ### References
 
-4. [Jekyll](https://github.com/jekyll/jekyll)
-
 1. ["random numbers"](https://stackoverflow.com/questions/19352267/create-a-dataframe-with-random-numbers-in-each-column)
 2. ["Adding extra points to graph"](https://stackoverflow.com/questions/36541086/adding-an-extra-point-in-a-ggplot2-graph)
 3. ["geom_text how to position the text on bar as I want?"](https://stackoverflow.com/questions/40211451/geom-text-how-to-position-the-text-on-bar-as-i-want)
