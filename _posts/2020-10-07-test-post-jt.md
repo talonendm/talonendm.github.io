@@ -98,6 +98,50 @@ An HTML iframe is used to display a web page within a web page. Unfortunately I 
 [5, 6]
 
 
+## Google Analytics
+
+https://analytics.google.com/analytics/
+
+I read few blog posts to find out how to add Google Analytics into github pages, like:
+
+- https://curtisvermeeren.github.io/2016/11/18/Jekyll-Google-Analytics.html
+- https://desiredpersona.com/google-analytics-jekyll/
+- https://michaelsoolee.com/google-analytics-jekyll/
+
+But in practice, you just need to get your tracking id from settings:
+```
+UA-<numbers>-<number> 
+```
+
+add copy paste it to _config.yml file *without* parenthesis. 
+
+```
+# Fill in your Google Analytics gtag.js ID to track your website using gtag
+#gtag: ""
+
+# Fill in your Google Analytics ID to track your website using Google Analytics
+#google_analytics: ""
+
+# Google Tag Manager ID
+#gtm: ""
+```
+
+to
+
+```
+# Fill in your Google Analytics gtag.js ID to track your website using gtag
+#gtag: ""
+
+# Fill in your Google Analytics ID to track your website using Google Analytics
+#google_analytics: UA-<numbers>-<number> 
+
+# Google Tag Manager ID
+#gtm: ""
+```
+
+
+
+
 ## Markdown
 
 Blocks of code are either fenced by lines with three back-ticks [9] and add e.g. python or javascript after ticks:
