@@ -10,7 +10,10 @@ cover-img: /assets/pics/wide/wide_seaweed.PNG
 thumbnail-img: /assets/pics/Rtips_ggplot_Capture.PNG
 published: true
 ---
-## R tips - ggplot 
+# R tips - ggplot 
+
+
+## time series
 
 ~~~
 
@@ -56,7 +59,7 @@ print(gg1 + ggtitle("time series, points and labels"))
 
 ~~~
 
-h2. Histogram
+## Histogram: geom_histogram
 
 Let's create larger data frame [https://plotly.com/][6].
 ~~~
