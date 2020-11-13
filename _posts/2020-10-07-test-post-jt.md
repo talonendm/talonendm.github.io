@@ -47,21 +47,12 @@ published: true
 ---
 ~~~
 
-## iFrame
-
-Unfortunately I don't have my first home page at Helsinki University of Technology. This p5.js is quite new experiment, but it looks similar as in good old days:
-
-<iframe width="860" height="515" src="https://talonendm.github.io/p5js-page/ex1/" frameborder="0" allowfullscreen></iframe>
-[5, 6]
-
-
 ## Git
 
 
 Update github pages (copy paste) [8]: 
 
-```python
-
+```
 git add .
 git commit -m "e.g. picture added to assets/cover/ folder"
 git pull origin master     (if some changes have been made e.g. directly in the repo)
@@ -78,12 +69,31 @@ git push origin master
 
 Update github pages (first time):
 
-```javascript
+```
 git clone https://github.com/talonendm/talonendm.github.io.git
 git add .
 git commit -m "e.g. picture added to assets/cover/ folder"
 git pull origin master     (if some changes have been made e.g. directly in the repo)
 git push origin master
+```
+
+## iFrame
+An HTML iframe is used to display a web page within a web page. Unfortunately I don't have my first home page at Helsinki University of Technology. This p5.js is quite new experiment, but it looks similar as in good old days:
+
+<iframe width="860" height="515" src="https://talonendm.github.io/p5js-page/ex1/" frameborder="0" allowfullscreen></iframe>
+[5, 6]
+
+
+## Markdown
+
+Blocks of code are either fenced by lines with three back-ticks [9] and add e.g. python or javascript after ticks:
+
+Python code:
+```python
+import json
+import decimal
+import pandas as pd
+print ('Hello, world!')
 ```
 
 
@@ -97,3 +107,4 @@ git push origin master
 6. [Guest Tutorial #4: Matrix Digital Rain in p5.js with Emily Xie](https://www.youtube.com/watch?v=S1TQCi9axzg)
 7. [Lesson 6. How to fork a repo in GitHub Intro version control git](https://www.earthdatascience.org/workshops/intro-version-control-git/about-forks/)
 8. [Git commands](https://github.com/talonendm/notes/blob/master/gitcommands.txt)
+9. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code)
