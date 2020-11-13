@@ -42,8 +42,9 @@ df_max_min <- df %>% dplyr::filter(values == 0 | values == 100)
 Annotate points and labels to gg1 object, see [stackoverflow.com][2] and [stackoverflow.com][3].
 ~~~
 
-# annotate points and labels: [2 & 3]
-gg1 <- gg1 + annotate("point", df_max_min$datetime, df_max_min$values, colour="red") + geom_text(data = df_max_min, aes(x= datetime, y= values, label = "extreme"))# https://stackoverflow.com/questions/36541086/adding-an-extra-point-in-a-ggplot2-graph
+# annotate points and labels: [2 & 3] # https://stackoverflow.com/questions/36541086/adding-an-extra-point-in-a-ggplot2-graph
+gg1 <- gg1 + annotate("point", df_max_min$datetime, df_max_min$values, colour="red") + 
+geom_text(data = df_max_min, aes(x= datetime, y= values, label = "extreme")) 
 
 # add horizontal and vertical lines:
 gg1 <- gg1 + geom_vline(xintercept = df_max_min$datetime, linetype = "dashed", color = "red", size=1)  
