@@ -55,11 +55,13 @@ print(gg1 + ggtitle("time series, points and labels"))
 3. https://stackoverflow.com/questions/40211451/geom-text-how-to-position-the-text-on-bar-as-i-want "geom_text how to position the text on bar as I want?"
 4. https://wordpress.com/support/markdown-quick-reference/ "markdown references"
 5. https://gist.github.com/jonikarppinen/47dc8c1d7ab7e911f4c9 "markdown comments"
-<!-- a normal html comment -->
 
-[//]: # (This is a comment.)
-[//]: # (This is a comment on a new line.)
 
+<!-- a normal html comment [5] -->
+[//]: # (This is a comment. [5])
+
+
+[//]: # (Markdown comments - label in brackets is shown when hovering the link)
 [1]: https://stackoverflow.com/questions/19352267/create-a-dataframe-with-random-numbers-in-each-column "random numbers"
 [2]: https://stackoverflow.com/questions/36541086/adding-an-extra-point-in-a-ggplot2-graph "Adding extra points to graph"
 [3]: https://stackoverflow.com/questions/40211451/geom-text-how-to-position-the-text-on-bar-as-i-want "geom_text how to position the text on bar as I want?"
