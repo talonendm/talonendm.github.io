@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Thesis Shiny app - word cloud
-subtitle: Visual presentation of the most common words in each Chapter
+title: R tips - ggplot package
+subtitle: Simple time series and annotate points and labels on it
 tags:
-  - thesis
+  - R
+  - ggplot
 comments: true
 cover-img: /assets/pics/wide/wide_seaweed.PNG
-thumbnail-img: /assets/pics/vedonlyontiCapture.PNG
+thumbnail-img: /assets/pics/Rtips_ggplot_Capture.PNG
 published: true
 ---
 ## R tips - ggplot 
@@ -44,7 +45,7 @@ print(gg1 + ggtitle("time series, points and labels"))
 
 ### References
 
-1) https://stackoverflow.com/questions/19352267/create-a-dataframe-with-random-numbers-in-each-column
-2) https://stackoverflow.com/questions/36541086/adding-an-extra-point-in-a-ggplot2-graph
-3) https://stackoverflow.com/questions/40211451/geom-text-how-to-position-the-text-on-bar-as-i-want
+[1]: https://stackoverflow.com/questions/19352267/create-a-dataframe-with-random-numbers-in-each-column
+[2]: https://stackoverflow.com/questions/36541086/adding-an-extra-point-in-a-ggplot2-graph
+[3]: https://stackoverflow.com/questions/40211451/geom-text-how-to-position-the-text-on-bar-as-i-want
 
