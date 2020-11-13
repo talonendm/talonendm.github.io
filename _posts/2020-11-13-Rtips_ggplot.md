@@ -7,7 +7,7 @@ tags:
   - ggplot
 comments: true
 cover-img: /assets/pics/wide/wide_Time series and histogram.png
-thumbnail-img: /assets/pics/Rtips_ggplot_Capture.PNG
+thumbnail-img: /assets/pics/square_time series, points and labels.png
 published: true
 ---
 # R tips - ggplot 
@@ -47,7 +47,9 @@ Annotate points and labels to gg1 object, see [stackoverflow.com][2] and [stacko
 
 # annotate points and labels: [2 & 3] # https://stackoverflow.com/questions/36541086/adding-an-extra-point-in-a-ggplot2-graph
 gg1 <- gg1 + annotate("point", df_max_min$datetime, df_max_min$values, colour="red") + 
-geom_text(data = df_max_min, aes(x= datetime, y= values, label = "extreme")) 
+  geom_text(data = df_max_min, aes(x= datetime, y= values, label = "extreme")) + 
+  ggtitle("time series, points and labels") 
+
 
 # add horizontal and vertical lines:
 gg1 <- gg1 + geom_vline(xintercept = df_max_min$datetime, linetype = "dashed", color = "red", size=1)  
@@ -116,8 +118,13 @@ gg_plots <- gg_plots + ggtitle("Time series and histogram")
 last_plot()$labels$title
 paste0(here("/"), last_plot()$labels$title, ".png")
 
+# wide image on blog post ===========
 ggsave(filename = paste0(here("/"), "wide_", last_plot()$labels$title, ".png"),
        width = 29, height = 6, units = "cm",  dpi = 300)
+
+# Square image on main page ===========
+ggsave(filename = paste0(here("/"), "square_", gg1$labels$title, ".png"), plot = gg1,
+       width = 10, height = 10, units = "cm",  dpi = 300)
 
 ~~~
 
