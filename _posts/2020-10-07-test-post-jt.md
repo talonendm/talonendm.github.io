@@ -55,6 +55,36 @@ Unfortunately I don't have my first home page at Helsinki University of Technolo
 [5, 6]
 
 
+## Git
+
+
+Update github pages (copy paste) [8]: 
+
+```python
+
+git add .
+git commit -m "e.g. picture added to assets/cover/ folder"
+git pull origin master     (if some changes have been made e.g. directly in the repo)
+git push origin master
+```
+
+Or if sure that no changes in master..
+
+```
+git add .
+git commit -m "git instructions"
+git push origin master
+```
+
+Update github pages (first time):
+
+```javascript
+git clone https://github.com/talonendm/talonendm.github.io.git
+git add .
+git commit -m "e.g. picture added to assets/cover/ folder"
+git pull origin master     (if some changes have been made e.g. directly in the repo)
+git push origin master
+```
 
 
 ### References 
@@ -66,3 +96,4 @@ Unfortunately I don't have my first home page at Helsinki University of Technolo
 5. [iFrame to Jekyll](https://stackoverflow.com/questions/28617683/can-i-bring-in-a-custom-video-iframe-into-jekyll-markdown-blogs)
 6. [Guest Tutorial #4: Matrix Digital Rain in p5.js with Emily Xie](https://www.youtube.com/watch?v=S1TQCi9axzg)
 7. [Lesson 6. How to fork a repo in GitHub Intro version control git](https://www.earthdatascience.org/workshops/intro-version-control-git/about-forks/)
+8. [Git commands](https://github.com/talonendm/notes/blob/master/gitcommands.txt)
