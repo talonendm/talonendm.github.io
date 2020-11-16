@@ -17,9 +17,11 @@ olutme
 
 just directly test p5.js as said [stackoverflow.com](https://stackoverflow.com/questions/53267193/p5js-with-jekyll).
 
+---
 <script src="https://github.com/talonendm/p5js-page/tree/gh-pages/objects/libraries/p5.js" type="text/javascript"></script>
 <script src="https://github.com/talonendm/p5js-page/tree/gh-pages/objects/libraries/p5.dom.js" type="text/javascript"></script>
 <script src="https://github.com/talonendm/p5js-page/tree/gh-pages/objects/libraries/p5.sound.js" type="text/javascript"></script>
 <script src="https://github.com/talonendm/p5js-page/tree/gh-pages/sketch.js" type="text/javascript"></script>
+---
 
 tossa pitais olla..
