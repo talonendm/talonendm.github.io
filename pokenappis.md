@@ -12,15 +12,19 @@ use-site-title: true
 Game:
 
 
+
+
+
+<div id="sketch-holder-jt"></div>
+<script>
+
+
 window.addEventListener('keydown', function(e) {
   if(e.keyCode == 32 && e.target == document.body) {
     e.preventDefault();
   }
 });
 
-
-<div id="sketch-holder-jt"></div>
-<script>
 
 // space 32: https://stackoverflow.com/questions/22559830/html-prevent-space-bar-from-scrolling-page
 // https://stackoverflow.com/questions/18522864/disable-scroll-down-when-spacebar-is-pressed-on-firefox/18525368
