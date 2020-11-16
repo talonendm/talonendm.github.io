@@ -16,6 +16,7 @@ Game:
 
 
 // debug tips: https://www.quora.com/Why-is-JavaScript-not-working-with-my-HTML#:~:text=the%20JavaScript%20console.-,Open%20your%20page%20in%20a%20browser%2C%20then%20open%20the%20developer,that%20appear%20in%20the%20console.
+// CTRL- SHIFT i console
 
 // words and keyboard: 5.11.2020
 let value = 0;
@@ -84,6 +85,8 @@ function setup() {
   // createCanvas(700, 400); //, WEBGL);
   const canvas = createCanvas(720, 400);
   canvas.parent('sketch-holder-jt')
+  
+  frameRate(10); // no need to have 60.
   
   
   // textFont('georgia');
