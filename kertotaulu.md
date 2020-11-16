@@ -22,7 +22,5 @@ just directly test p5.js as said [stackoverflow.com](https://stackoverflow.com/q
 ## sketch holder added here:
 
 <div id="sketch-holder"></div>
-
-<div id="sketch-holder"></div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.1/p5.min.js"></script>
-<script src="p5/test.js"></script>
+<script src="/kertotaulu/test.js"></script>
