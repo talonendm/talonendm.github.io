@@ -1,7 +1,7 @@
 ---
 layout: page
 title: p5.js experiments
-use-site-title: false
+use-site-title: true
 ---
 
 this page is under construction.
