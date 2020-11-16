@@ -16,10 +16,10 @@ author: Jaakko
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Re\:Teatteri: "https://talonendm.github.io/reteatteri/"
+    - Re:Teatteri: "https://talonendm.github.io/reteatteri/"
     # - Beautiful Jekyll: "https://beautifuljekyll.com"
     # - Learn markdown: "https://www.markdowntutorial.com/"
-    - Source code: "https://deanattali.com"
+    - Source code: "https://github.com/daattali/beautiful-jekyll#readme"
   Author's home: "https://talonendm.github.io"
 
 # --- Logo --- #
@@ -111,7 +111,7 @@ footer-link-col: "#404040"
 # instead of colour
 
 #navbar-img: "/assets/img/bgimage.png"
-#footer-img: "/assets/img/bgimage.png"
+footer-img: "/assets/img/bgimage.png"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
