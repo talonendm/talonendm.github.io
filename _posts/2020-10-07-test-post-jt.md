@@ -102,6 +102,15 @@ Forking a repo on GitHub but allowing new issues on the fork.
 - Check the box next to Issues
 - See: [stackoverflow.com](https://softwareengineering.stackexchange.com/questions/179468/forking-a-repo-on-github-but-allowing-new-issues-on-the-fork)
 
+### Issues
+Create issues at Github pages. 
+
+[Link issue to commit](https://stackoverflow.com/questions/1687262/link-to-the-issue-number-on-github-within-a-commit-message#:~:text=In%20order%20to%20link%20the,in%20your%20git%20commit%20message.) as
+```
+git commit -m "keyboard added test #1"
+```
+see, e.g. [issue 1](https://github.com/talonendm/talonendm.github.io/issues/1)
+
 
 ## iFrame
 An HTML iframe is used to display a web page within a web page. Unfortunately I don't have my first home page at Helsinki University of Technology. This p5.js is quite new experiment, but it looks similar as in good old days:
