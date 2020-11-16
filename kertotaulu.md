@@ -23,19 +23,6 @@ just directly test p5.js as said [stackoverflow.com](https://stackoverflow.com/q
 
 <div id="sketch-holder"></div>
 
-```javascript
-<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.1/p5.min.js"></script> -->
-```
-
-<script src="https://github.com/talonendm/p5js-page/tree/gh-pages/objects/libraries/p5.js" type="text/javascript"></script>
-<script src="https://github.com/talonendm/p5js-page/tree/gh-pages/objects/libraries/p5.dom.js" type="text/javascript"></script>
-<script src="https://github.com/talonendm/p5js-page/tree/gh-pages/objects/libraries/p5.sound.js" type="text/javascript"></script>
-<script src="https://github.com/talonendm/p5js-page/tree/gh-pages/sketch.js" type="text/javascript" id="sketch-holder"></script>
-
-
-if not working 
----
-
----
-
-tossa pitais olla.. id=sketch-holder
+<div id="sketch-holder"></div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.1/p5.min.js"></script>
+<script src="p5/test.js"></script>
