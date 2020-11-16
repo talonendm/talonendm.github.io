@@ -13,6 +13,10 @@ Game:
 
 <div id="sketch-holder-jt"></div>
 <script>
+
+
+// debug tips: https://www.quora.com/Why-is-JavaScript-not-working-with-my-HTML#:~:text=the%20JavaScript%20console.-,Open%20your%20page%20in%20a%20browser%2C%20then%20open%20the%20developer,that%20appear%20in%20the%20console.
+
 // words and keyboard: 5.11.2020
 let value = 0;
 
@@ -69,8 +73,8 @@ let character_points;
 function preload() {
   //my table is comma separated value "csv"
   //and has a header specifying the columns labels
-  table = loadTable('pokemon.txt', 'csv', 'header');
-  character_points = loadTable('character_points.txt', 'csv', 'header');
+  table = loadTable('p5/nappistaituri/pokemon.txt', 'csv', 'header');
+  character_points = loadTable('p5/nappistaituri/character_points.txt', 'csv', 'header');
   //the file can be remote
   //table = loadTable("http://p5js.org/reference/assets/mammals.csv",
   //                  "csv", "header");
