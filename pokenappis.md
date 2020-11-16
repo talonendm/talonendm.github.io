@@ -265,7 +265,7 @@ function draw() {
     // length of selected word:
     text((letter_selected + 1) + "/" + words[selected_word].length, 120, 370)
     text("words: " + (selected_word + 1) + "/" + words.length, 320, 370)
-    text(nfc(time, 0), 310, 40);
+    text(nfc(time/1000, 1), 310, 40); // show milliseconds divided by 1000 one decimal
   } else {
 
     text("Points = " + nfc(points, 0) + ". Total letters:" + totalletters + ".", 200, 200); // milliseconds, no decimals needed. 
