@@ -27,6 +27,9 @@ Edit post:
 - Edit posts / files in github or in [Prose](https://prose.io/)
 - File size limit 100mB / repo limit.
 
+
+Use [Front Matter Block](https://jekyllrb.com/docs/front-matter/) describing meta data in each post.
+
 Remember to add to meta data: 
 - published: true
 
