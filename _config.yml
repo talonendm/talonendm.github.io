@@ -16,9 +16,10 @@ author: Jaakko
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-    - page source code: "https://deanattali.com"
+    - Re\:Teatteri: "https://talonendm.github.io/reteatteri/"
+    # - Beautiful Jekyll: "https://beautifuljekyll.com"
+    # - Learn markdown: "https://www.markdowntutorial.com/"
+    - Source code: "https://deanattali.com"
   Author's home: "https://talonendm.github.io"
 
 # --- Logo --- #

@@ -1,12 +1,12 @@
 ---
 layout: page
-title: reteatteri
+title: "re:teatteri"
 use-site-title: true
 ---
 
-this is test.
+this page is under construction.
 
 # Restaurants
 
-- 1df
-- 2sdfdg
+- 1st restaurant
+- 2nd restaurant
