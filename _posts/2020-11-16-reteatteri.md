@@ -9,7 +9,7 @@ tags:
   - restaurants
 comments: false
 cover-img: /assets/pics/wide/wide_reteatteri.PNG
-thumbnail-img: /assets/pics/thumbnail/www/reteatterislides.png
+thumbnail-img: /assets/pics/thumbnail/www/reteatterislides.PNG
 published: true
 ---
 
@@ -19,3 +19,5 @@ under construction..
 
 ## Slides
 Note, these slides are not updated anymore: [Re:teatteri Slides](https://talonendm.github.io/Reteatteri2/)
+- arrow keys: change slide
+- ESC: see all the slides
