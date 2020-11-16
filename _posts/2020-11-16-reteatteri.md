@@ -6,14 +6,15 @@ tags:
   - re:teatteri
   - revealjs
   - markdown
+  - restaurants
 comments: false
 cover-img: /assets/pics/wide/wide_reteatteri.PNG
 thumbnail-img: /assets/pics/thumbnail/www/reteatterislides.png
-published: false
+published: true
 ---
 
 # Re:teatteri
-
+under construction..
 
 
 ## Slides
