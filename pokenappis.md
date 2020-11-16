@@ -1,6 +1,6 @@
 ---
 layout: page
-title: p5.js kertotaulu
+title: p5.js pokenappis
 use-site-title: true
 ---
 
