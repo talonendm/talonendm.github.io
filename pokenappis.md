@@ -12,7 +12,7 @@ use-site-title: true
 Game:
 
 
-
+![Touch_typing](/assets/pics/page/www/Touch_typing.png){: .mx-auto.d-block :}
 
 
 <div id="sketch-holder-jt"></div>
@@ -406,6 +406,9 @@ function sortTable(n) {
 </script>
 
 
+[Keyboard source](https://upload.wikimedia.org/wikipedia/commons/4/40/Touch_typing.png)
+
+## Old stuff
 
 ```javascript
 <div id="sketch-holder"></div>
@@ -415,6 +418,5 @@ function sortTable(n) {
 <script src="https://github.com/talonendm/p5js-page/tree/gh-pages/objects/sketch.js" type="text/javascript"></script>
 ```
 
-not working 
 see last [comment](https://stackoverflow.com/questions/53267193/p5js-with-jekyll)
 [md example](https://raw.githubusercontent.com/KevinWorkman/HappyCoding/gh-pages/examples/p5js/_posts/2018-07-04-fireworks.md)

@@ -94,6 +94,15 @@ git pull origin master     (if some changes have been made e.g. directly in the 
 git push origin master
 ```
 
+
+## Enable Issues to forked repo
+Forking a repo on GitHub but allowing new issues on the fork.
+- Fork a repo
+- Go to the Settings page of your fork , e.g. https://github.com/talonendm/talonendm.github.io/settings
+- Check the box next to Issues
+- See: [stackoverflow.com](https://softwareengineering.stackexchange.com/questions/179468/forking-a-repo-on-github-but-allowing-new-issues-on-the-fork)
+
+
 ## iFrame
 An HTML iframe is used to display a web page within a web page. Unfortunately I don't have my first home page at Helsinki University of Technology. This p5.js is quite new experiment, but it looks similar as in good old days:
 
