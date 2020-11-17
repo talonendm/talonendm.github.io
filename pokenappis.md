@@ -95,6 +95,9 @@ function preload() {
   //the file can be remote
   //table = loadTable("http://p5js.org/reference/assets/mammals.csv",
   //                  "csv", "header");
+  
+  myFont = loadFont('assets/fonts/broken15/BROKEN15.TTF');
+  
 }
 
 function setup() {
@@ -106,6 +109,7 @@ function setup() {
   
   
   // textFont('georgia');
+  textFont(myFont);
   textSize(width / 17);
   textAlign(CENTER, CENTER);
 
