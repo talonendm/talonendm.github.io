@@ -123,8 +123,8 @@ fetch("https://api.apispreadsheets.com/data/3630/", {
 })
 ~~~
 
-I created txt file separating name, points and [date](https://stackoverflow.com/questions/10286204/what-is-the-right-json-date-format)
-Here you can add new rows to [test](https://talonendm.github.io/pokenappis/p5/nappistaituri/test_add_points.html) API.
+I created txt file separating name, points and date, see [date json-format](https://stackoverflow.com/questions/10286204/what-is-the-right-json-date-format). 
+Here you can add new rows to [test-file](https://talonendm.github.io/pokenappis/p5/nappistaituri/test_add_points.html) API. Note, POST command accept any format (string as points etc.).
 
 Here you can add new rows and check updated table e.g. CMD using curl command:
 ~~~

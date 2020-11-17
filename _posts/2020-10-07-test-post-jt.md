@@ -3,8 +3,8 @@ layout: post
 title: My first blog post in github and short notes how to do it next time
 subtitle: by jaakko
 cover-img: /assets/pics/wide/wide_silja_bella.PNG
-thumbnail-img: /assets/img/hello_world.jpeg
-share-img: /assets/img/hello_world.jpeg
+thumbnail-img: /assets/pics/thumbnail/photo/hello_stockholm.JPG
+share-img: /assets/pics/thumbnail/photo/kaktus.JPG
 tags:
   - test
   - blog

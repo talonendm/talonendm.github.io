@@ -7,6 +7,8 @@ tags:
   - hobby
   - shiny
 comments: false
+cover-img: /assets/pics/cover/photo/sunflower.JPG
+thumbnail-img: /assets/pics/thumbnail/photo/sieni2016.JPG
 published: true
 ---
 ## Mushrooms
