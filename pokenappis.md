@@ -259,7 +259,7 @@ function draw() {
 
 
 
-    textSize(width / 12);
+    textSize(38);
     textAlign(LEFT, TOP);
     // show word from the sentence:
     text(words[selected_word], 20, 30);
@@ -269,7 +269,8 @@ function draw() {
     // print(textWidth(sana)); // https://p5js.org/reference/#/p5/textWidth; in pixels
     // print((sana.length)); // number of characters, e.g. jaakko = 6
 	
-	textSize(72);
+	// textSize(72);
+	textSize(144 + sin(time/3000)*40);
     textAlign(CENTER, CENTER);
     text(words[selected_word].charAt(letter_selected), width /2, height/2);
     
