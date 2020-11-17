@@ -96,7 +96,7 @@ function preload() {
   //table = loadTable("http://p5js.org/reference/assets/mammals.csv",
   //                  "csv", "header");
   
-  myFont = loadFont('assets/fonts/broken15/BROKEN15.TTF');
+  myFont = loadFont('fonts/broken15/BROKEN15.TTF'); // location pokenappis/
   
 }
 
