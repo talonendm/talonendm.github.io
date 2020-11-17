@@ -111,7 +111,7 @@ function setup() {
   // textFont('georgia');
   textFont(myFont);
   textSize(width / 17);
-  textAlign(CENTER, CENTER);
+  textAlign(LEFT, CENTER);
 
 
   print(table.getRowCount() + ' total rows in table');
@@ -257,20 +257,33 @@ function draw() {
 
     time = millis();
 
+
+
+    textSize(width / 12);
+    textAlign(LEFT, CENTER);
     // show word from the sentence:
-    text(words[selected_word], 200, 200);
+    text(words[selected_word], 20, 50);
 
 
     var kirjain = sana.charAt(0);
     // print(textWidth(sana)); // https://p5js.org/reference/#/p5/textWidth; in pixels
     // print((sana.length)); // number of characters, e.g. jaakko = 6
-    text(words[selected_word].charAt(letter_selected), 200, 300);
+	
+	textSize(width / 10);
+    textAlign(CENTER, CENTER);
+    text(words[selected_word].charAt(letter_selected), width /2, height/2);
     text(nappis, 200, 100);
 
     // length of selected word:
-    text((letter_selected + 1) + "/" + words[selected_word].length, 120, 370)
-    text("words: " + (selected_word + 1) + "/" + words.length, 320, 370)
-    text(nfc(time/1000, 1), 310, 40); // show milliseconds divided by 1000 one decimal
+	textSize(width / 17);
+    textAlign(LEFT, BOTTOM);
+    text((letter_selected + 1) + "/" + words[selected_word].length, 20, height - 20)
+	
+	textAlign(LEFT, BOTTOM);
+    text("words: " + (selected_word + 1) + "/" + words.length, width/2, height - 20)
+	
+	textAlign(RIGHT, BOTTOM);
+    text(nfc(time/1000, 1), width - 20, height - 20); // show milliseconds divided by 1000 one decimal
   } else {
 
     text("Points = " + nfc(points, 0) + ". Total letters:" + totalletters + ".", 200, 200); // milliseconds, no decimals needed. 
