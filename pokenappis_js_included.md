@@ -1,6 +1,6 @@
 ---
 layout: page
-title: p5.js pokenappis
+title: p5.js pokenappis js included - DEPRICATED! No more folders.. 17.11.2020
 use-site-title: true
 share-img: /assets/pics/thumbnail/photo/characters.JPG
 ---
