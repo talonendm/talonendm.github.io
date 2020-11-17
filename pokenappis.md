@@ -248,10 +248,10 @@ function draw() {
 
   if (game_running) {
 
-    fill(vari);
-    rect(25, 25, 50, 50);
+    //fill(vari);
+    //rect(25, 25, 50, 50);
 
-    fill(value);
+    fill(0);
 
     //fill(255);
 
@@ -260,30 +260,37 @@ function draw() {
 
 
     textSize(width / 12);
-    textAlign(LEFT, CENTER);
+    textAlign(LEFT, TOP);
     // show word from the sentence:
-    text(words[selected_word], 20, 50);
+    text(words[selected_word], 20, 30);
 
 
     var kirjain = sana.charAt(0);
     // print(textWidth(sana)); // https://p5js.org/reference/#/p5/textWidth; in pixels
     // print((sana.length)); // number of characters, e.g. jaakko = 6
 	
-	textSize(width / 10);
+	textSize(72);
     textAlign(CENTER, CENTER);
     text(words[selected_word].charAt(letter_selected), width /2, height/2);
-    text(nappis, 200, 100);
+    
+	
 
     // length of selected word:
 	textSize(width / 17);
     textAlign(LEFT, BOTTOM);
     text((letter_selected + 1) + "/" + words[selected_word].length, 20, height - 20)
 	
-	textAlign(LEFT, BOTTOM);
+	textAlign(CENTER, BOTTOM);
     text("words: " + (selected_word + 1) + "/" + words.length, width/2, height - 20)
 	
 	textAlign(RIGHT, BOTTOM);
     text(nfc(time/1000, 1), width - 20, height - 20); // show milliseconds divided by 1000 one decimal
+	
+	
+	fill(vari);
+	textAlign(RIGHT, TOP);
+	text(nappis, width - 20, 30);
+	
   } else {
 
     text("Points = " + nfc(points, 0) + ". Total letters:" + totalletters + ".", 200, 200); // milliseconds, no decimals needed. 
