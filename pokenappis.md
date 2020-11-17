@@ -2,6 +2,7 @@
 layout: page
 title: p5.js pokenappis
 use-site-title: true
+share-img: /assets/pics/thumbnail/photo/characters.JPG
 ---
 
 
