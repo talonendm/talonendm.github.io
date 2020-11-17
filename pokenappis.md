@@ -110,7 +110,7 @@ function setup() {
   
   // textFont('georgia');
   textFont(myFont);
-  textSize(width / 17);
+  textSize(width / 14);
   textAlign(LEFT, CENTER);
 
 
@@ -270,7 +270,9 @@ function draw() {
     // print((sana.length)); // number of characters, e.g. jaakko = 6
 	
 	// textSize(72);
-	textSize(144 + sin(time/3000)*40);
+	textFont(myFont);
+	var tekstikoko = 144 + sin(time/3000)*40;
+	textSize(tekstikoko);
     textAlign(CENTER, CENTER);
     text(words[selected_word].charAt(letter_selected), width /2, height/2);
     
