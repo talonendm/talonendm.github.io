@@ -13,16 +13,15 @@ published: true
 
 ## Sheet Best
 Turn your simple spreadsheets into REST API
-- https://sheet.best/
--- [How to use API](https://docs.sheet.best/#quickstart)
-
+- [Sheet Best](https://sheet.best/)
+- Instructions for Sheet Best: [How to use API](https://docs.sheet.best/#quickstart)
 
 ## API Spreadsheets
 Instantly Use Your Spreadsheets as an API and Database 
-- https://www.apispreadsheets.com/
-- Create account (ta.dm)
+- [API Spreadsheets](https://www.apispreadsheets.com/)
+- Create account: (taXXX.dm)
 
-READ
+### READ
 - To READ rows from your file, make a GET request to your API URL
 - There are 3 OPTIONAL url parameters you can include: dataFormat, query and limit. Play around with them and see how the API URL changes
 - You will get your data as a JSON response and a status code of 200 if your request is successful
@@ -37,19 +36,19 @@ So I decided to delete right away file that I uploaded. It contained just some e
 However, 
 this free service seems to be ok for simple games (storing records)
 
-# CREATE
+### CREATE
 To CREATE rows from your file, make a POST request to your API URL
 - You need to include a JSON encoded BODY with your new rows. Play around with the format to see how the rows should look.
 - You will get a status code of 201 if your rows were successfully created
 
-## CURL
+#### CURL
 ~~~
 $ curl -X POST 'https://api.apispreadsheets.com/data/3630/' \
 -H "Content-Type: application/json" \
 -d '{"data": {"player":"jake","points":1000,"timestamp":"2012-04-23T18:25:43.511Z"}}'
 ~~~
 
-## HTML
+#### HTML
 ~~~
 <!DOCTYPE html>
 <html>
@@ -92,7 +91,7 @@ $ curl -X POST 'https://api.apispreadsheets.com/data/3630/' \
 </html>
 ~~~
 
-## Python
+#### Python
 ~~~
 # pip install requests
 
@@ -108,7 +107,7 @@ else:
 	pass
 ~~~
 
-## Javascirpt
+#### Javascirpt
 
 ~~~
 fetch("https://api.apispreadsheets.com/data/3630/", {
@@ -125,6 +124,8 @@ fetch("https://api.apispreadsheets.com/data/3630/", {
 ~~~
 
 I created txt file separating name, points and [date](https://stackoverflow.com/questions/10286204/what-is-the-right-json-date-format)
+Here you can add new rows to [test](https://talonendm.github.io/pokenappis/p5/nappistaituri/test_add_points.html) API.
+
 Here you can add new rows and check updated table e.g. CMD using curl command:
 ~~~
 > curl "https://api.apispreadsheets.com/data/3630/"
