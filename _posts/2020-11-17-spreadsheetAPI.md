@@ -20,7 +20,7 @@ Turn your simple spreadsheets into REST API
 Instantly Use Your Spreadsheets as an API and Database 
 - [API Spreadsheets](https://www.apispreadsheets.com/)
 - Create account: (taXXX.dm)
-
+- Instructions: [https://www.apispreadsheets.com/]
 ### READ
 - To READ rows from your file, make a GET request to your API URL
 - There are 3 OPTIONAL url parameters you can include: dataFormat, query and limit. Play around with them and see how the API URL changes
