@@ -17,8 +17,8 @@ I had LinkedIn training organized by my employer. It was again encouraged to wri
 
 In addition:
 - Time to time I need to give "free" IT advice to my loved ones. One way to make this more efficient is provide link to my own blog.
-- I need to take care of my wife, and children laptops. Some setups etc. So, own blog works as good reference and I don't need to google same things again and again.
-- What else I could do during dark November evenings and nights than create code and write blog posts? As I mentioned before, I have lot of materials that I haven't commented or archived.
+- I need to take care of my wife, and children laptops. Some setups etc. So, own blog works as good reference and I don't need to use Google same things again and again.
+- What else I could do during dark November evenings and nights than create code and write blog posts? As I mentioned before, I have a lot of different type of materials (code, scientific, Java games, Android games, 3D printing etc.) that I haven't commented or archived.
 - I would like to inspire offspring in coding. I guess [p5.js](https://p5js.org/) should be good choice and proof them that coding can be fun and easy.
 - I want create more or at least improve my code before it is stored under ice, see: [Archive Progeam](https://archiveprogram.github.com/)
 
