@@ -33,3 +33,10 @@ Random data set was generated.
 
 
 
+## Microsoft Windows - Office 
+Data files can be messed up, if e.g. date is in format 18.11.2020 and other column has value 18.11 --> 18.11.2020
+In this case, e.g. if you use Finnish keyboard and language do the following:
+- Search: Alueasetukset
+- Maa tai Alue: Suomi
+- Alueasetus: Windows recommendation: Suositus (Suomi) -> englanti (Eurooppa)
+- Vaihda datamuotoa: , -> .

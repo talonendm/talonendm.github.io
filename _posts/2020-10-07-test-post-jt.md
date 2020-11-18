@@ -15,6 +15,13 @@ published: true
 
 I had LinkedIn training organized by my employer. It was again encouraged to write blog posts etc., so here we go. I am passionated about data science and languages like R and Python. So those topics will be covered by this blog. In addition, I have created a lot of different projects in my past and being quite active again. My kids start to cope their selves and thus I am having more time. Now I can piece out data related stuff together. Let's see, if some projects / solutions help me to solve future challeges / goals e.g. at work. Being honest, time to time I need to use Google and find out the same simple solutions how to make simple models / plots. Probably in future I can just check it from my github pages.
 
+In addition:
+- Time to time I need to give "free" IT advice to my loved ones. One way to make this more efficient is provide link to my own blog.
+- I need to take care of my wife, and children laptops. Some setups etc. So, own blog works as good reference and I don't need to google same things again and again.
+- What else I could do during dark November evenings and nights than create code and write blog posts? As I mentioned before, I have lot of materials that I haven't commented or archived.
+- I would like to inspire offspring in coding. I guess [p5.js](https://p5js.org/) should be good choice and proof them that coding can be fun and easy.
+- I want create more or at least improve my code before it is stored under ice, see: [Archive Progeam](https://archiveprogram.github.com/)
+
 ## Create files into _posts/ folder
 
 I found create github page and instructions how to create blog posts to my own github page [2]. First step was to fork [7] this repository and make my own edits as:
