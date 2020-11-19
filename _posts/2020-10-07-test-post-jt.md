@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My first blog post in github and short notes how to do it next time
-subtitle: by jaakko
+subtitle: Jekyll blogging by Jaakko
 cover-img: /assets/pics/wide/wide_silja_bella.PNG
 thumbnail-img: /assets/pics/thumbnail/photo/hello_stockholm.JPG
 share-img: /assets/pics/thumbnail/photo/kaktus.JPG
@@ -20,7 +20,10 @@ In addition:
 - I need to take care of my wife, and children laptops. Some setups etc. So, own blog works as good reference and I don't need to use Google same things again and again.
 - What else I could do during dark November evenings and nights than create code and write blog posts? As I mentioned before, I have a lot of different type of materials (code, scientific, Java games, Android games, 3D printing etc.) that I haven't commented or archived.
 - I would like to inspire offspring in coding. I guess [p5.js](https://p5js.org/) should be good choice and proof them that coding can be fun and easy.
-- I want create more or at least improve my code before it is stored under ice, see: [Archive Progeam](https://archiveprogram.github.com/)
+- I want create more or at least improve my code before it is stored under ice, see: [Archive Program](https://archiveprogram.github.com/)
+- Follow and write down what's happening in areas of my interest
+- Do simple and funny things too and time to time challenge myself with topics that are not easy for me
+- etc.
 
 ## Create files into _posts/ folder
 
@@ -76,6 +79,8 @@ Or if sure that no changes in master..
 
 ```
 #!/bin/bash
+cd git/talonendm.github.io/
+git status
 git add .
 git commit -m "."         # e.g. picture added to assets/cover/ folder
 git push origin master
@@ -83,6 +88,8 @@ git push origin master
 e.g.
 ```
 #!/bin/bash
+cd git/talonendm.github.io/
+git status
 git add .
 git commit -m "git comments and changes"         # e.g. picture added to assets/cover/ folder
 git push origin master
@@ -94,13 +101,22 @@ Update github pages (first time):
 
 ```
 #!/bin/bash
+mkdir git
 git clone https://github.com/talonendm/talonendm.github.io.git
 git add .
 git commit -m "e.g. picture added to assets/cover/ folder"
 git pull origin master     (if some changes have been made e.g. directly in the repo)
 git push origin master
 ```
-
+Update github pages (next time):
+```
+#!/bin/bash
+git status
+git add .
+git commit -m "e.g. picture added to assets/cover/ folder"
+git pull origin master     (if some changes have been made e.g. directly in the repo)
+git push origin master
+```
 
 ## Enable Issues to forked repo
 Forking a repo on GitHub but allowing new issues on the fork.
