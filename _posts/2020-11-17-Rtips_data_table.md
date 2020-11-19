@@ -8,7 +8,7 @@ tags:
   - mungling
 comments: true
 cover-img: /assets/pics/wide/wide_Time series and histogram.png
-thumbnail-img: /assets/pics/cover/square_time series, points and labels.png
+thumbnail-img: /assets/pics/thumbnail/R/square_time series, points and labels.png
 published: false
 ---
 # R tips - data table

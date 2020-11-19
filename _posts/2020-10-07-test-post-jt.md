@@ -23,6 +23,7 @@ In addition:
 - I want create more or at least improve my code before it is stored under ice, see: [Archive Program](https://archiveprogram.github.com/)
 - Follow and write down what's happening in areas of my interest
 - Do simple and funny things too and time to time challenge myself with topics that are not easy for me
+- Post tagging in Beautiful Jekyll seems to work nicely. Finally I will find my "not-work" related notes easily. No more hundreds of post-it papers on my desk ...
 - etc.
 
 ## Create files into _posts/ folder
