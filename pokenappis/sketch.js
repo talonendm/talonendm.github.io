@@ -60,6 +60,13 @@ var totalletters = 0;
 //}
 
 
+let xml;
+const REMOTE = true,
+      TAG = 'title',
+      LIST = 'ol', ITEM = 'li',
+      titles = [];
+
+
 
 
 let table;
@@ -67,6 +74,18 @@ let table;
 let character_points;
 // https://p5js.org/reference/#/p5/loadTable
 function preload() {
+	
+  xml = loadXML('https://talonendm.github.io/feed.xml');	
+	
+ // console.log(xml);
+ // print(xml);
+  
+  
+  
+  
+  //xml = loadXML('https://feeds.yle.fi/uutiset/v1/majorHeadlines/YLE_UUTISET.rss');
+  //print(xml);
+	
   //my table is comma separated value "csv"
   //and has a header specifying the columns labels
   table = loadTable('p5/nappistaituri/pokemon.txt', 'csv', 'header');
@@ -89,6 +108,23 @@ function setup() {
   canvas.parent('sketch-holder-jt')
   
   frameRate(10); // no need to have 60.
+  
+  
+  
+  const items = xml.getChild('channel').getChildren('item');
+
+  for (const item of items) {
+    print(item.listChildren());
+    titles.push(item.getChild(TAG).getContent());
+  }
+  
+  
+   const ol = createElement(LIST)
+            .style('color', 'blue')
+            .style('font-weight: bold')
+            .style('font-size: 1.2em');
+
+  for (const title of titles)  createElement(ITEM, title).parent(ol);
   
   
   // textFont('georgia');
@@ -227,7 +263,9 @@ function playNote(note, duration) {
 }
 
 function draw() {
-  background(120);
+  background(160);
+
+
 
   if (game_running) {
 
