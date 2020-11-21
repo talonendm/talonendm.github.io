@@ -200,6 +200,13 @@ print ('Hello, world!')
 ```
 
 
+## Notepad++ Tips
+Some tips:
+Comment multiple rows:
+- Select rows, CTRL-Q: [How to comment out multiple lines at once in Notepad++?
+](https://superuser.com/questions/790353/how-to-comment-out-multiple-lines-at-once-in-notepad)
+
+
 ### References 
 
 1. [How to edit and add new posts in Jekyll blog online - Tutorial 8](https://www.youtube.com/watch?v=E0RbrYSMw3g "youtube")
