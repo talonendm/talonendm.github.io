@@ -1,0 +1,56 @@
+"pelaajia",6
+"peleja",180874
+"pelaajien voitot"
+" 1.pelaaja",53239
+" 2.pelaaja",23969
+" 3.pelaaja",23771
+" 4.pelaaja",23940
+" 5.pelaaja",23806
+" 6.pelaaja",23849
+"pelaajien tasapelit"
+" 1.pelaaja",719.334
+" 2.pelaaja",1534.167
+" 3.pelaaja",1540.416
+" 4.pelaaja",1519.083
+" 5.pelaaja",1495.583
+" 6.pelaaja",1491.416
+"todennakoisyydet"
+"hai",0
+"pari",63349
+"2 paria",71660
+"3:set",21226
+"suora",4146
+"vari",3536
+"tayskasi",15453
+"neloset",1452
+"varisuora",52
+"todennakoisyydet kaikilla"
+"hai",154918
+"pari",459596
+"2 paria",287438
+"3:set",66240
+"suora",42517
+"vari",31023
+"tayskasi",40026
+"neloset",3165
+"varisuora",321
+"Voittajan kasi"
+"hai",0
+"pari",24098
+"2 paria",48402
+"3:set",31986
+"suora",20783
+"vari",16839
+"tayskasi",27277
+"neloset",2888
+"varisuora",301
+"Tasapelin tuottanut kasi"
+"hai",0
+"pari",756
+"2 paria",1890
+"3:set",418
+"suora",4382
+"vari",70
+"tayskasi",775
+"neloset",7
+"varisuora",2
