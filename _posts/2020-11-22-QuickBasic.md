@@ -13,15 +13,26 @@ published: true
 ---
 # Quick Basic
 
-Problems to open files, [in QB45 format detected](https://www.qb64.org/forum/index.php?topic=965.0). Conversion worked almost all files.
+"From the 80s to eternity. Unlike traditional BASIC and QBasic code, QB64 gets compiled automatically into machine code – allowing exceptional performance, easy distribution, and the ability to link with external C and C++ programming libaries.", se [qb64 portal](https://www.qb64.org/portal/).
 
+I had some problems to open old code files, [in QB45 format detected](https://www.qb64.org/forum/index.php?topic=965.0). Conversion worked almost all files.
+Finally, I was able to open all expect one file. I think it is simple car game having "fun" steering system. Instead of controlling steering wheel and speed, player can accelerate in both x- and y-directions. 
 
+- More info at [Pete's QBSSIC site](http://petesqbsite.com/phpBB3/viewtopic.php?t=7472).
+- [QB64 Files](https://www.qb64.org/wiki/FILES)
 
+## Download 
 
+https://www.qb64.org/portal/
+unpack e.g. to C:\qb64\
 
+![bas code in 45 binary format](/assets/pics/page/screenshot/qb64_45binarydetected.JPG){: .mx-auto.d-block :}
 
 
 # Code
+
+## Worm game for 2-4 palyers
+Worm game, download converted exe file [here]('https://talonendm.github.io/aseests/bas/converted/MATIS3_converted.exe').
 
 
 ## TEXAHO21.bas
@@ -31,9 +42,9 @@ Texas Hold'em simulator
 
 
 ## turpa200.bas
-Car game
+Car game, download converted exe file [here](https://talonendm.github.io/aseests/bas/converted/TURPA200_converted.exe).
 ![TURPAUT1.pas](/assets/pics/page/screenshot/TURPAUT1.JPG){: .mx-auto.d-block :}
-![turpa200.pas](/assets/pics/page/screenshot/HELIpas.JPG){: .mx-auto.d-block :}
+![turpa200.pas](/assets/pics/page/screenshot/turpa200.JPG){: .mx-auto.d-block :}
 ~~~
 '*****************************************************************************
 SCREEN 13
