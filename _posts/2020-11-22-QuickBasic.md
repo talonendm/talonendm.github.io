@@ -34,9 +34,9 @@ unpack e.g. to C:\qb64\
 ## Worm game for 2-4 palyers
 Worm game, download converted exe file [here]('https://talonendm.github.io/assets/bas/converted/MATIS3_converted.exe').
 
-![matis3 converted.pas](/assets/pics/page/screenshot/matis3_hidastus.JPG){: .mx-auto.d-block :}
+![matis3 converted.bas](/assets/pics/page/screenshot/matis3_hidastus.JPG){: .mx-auto.d-block :}
 
-Note: for loop added 21.11.2020 to matis3 (converted).pas after looppi:. It makes worms slower.
+Note: for loop added 21.11.2020 to matis3 (converted).bas after "looppi:"-row. It makes worms slower.
 ~~~
 FOR aaaa = 1 TO n
 
@@ -221,11 +221,71 @@ GOTO ihanalku
 
 ## TEXAHO21.bas
 Texas Hold'em simulator. It seems that I had creative coding skills already more than 19 years ago, see filename where results are saved and the extension based on my nick name. 
-![TURPAUT1.pas](/assets/pics/page/screenshot/10pari_v1.JPG){: .mx-auto.d-block :}
-![turpa200.pas](/assets/pics/page/screenshot/10pari_v2.JPG){: .mx-auto.d-block :}
+![TEXAHO21.bas](/assets/pics/page/screenshot/10pari_v1.JPG){: .mx-auto.d-block :}
+![TEXAHO21v2.bas](/assets/pics/page/screenshot/10pari_v2.JPG){: .mx-auto.d-block :}
+Output: pair of tens, 6 players: 
+~~~
+"pelaajia",6
+"peleja",180874
+"pelaajien voitot"
+" 1.pelaaja",53239
+" 2.pelaaja",23969
+" 3.pelaaja",23771
+" 4.pelaaja",23940
+" 5.pelaaja",23806
+" 6.pelaaja",23849
+"pelaajien tasapelit"
+" 1.pelaaja",719.334
+" 2.pelaaja",1534.167
+" 3.pelaaja",1540.416
+" 4.pelaaja",1519.083
+" 5.pelaaja",1495.583
+" 6.pelaaja",1491.416
+"todennakoisyydet"
+"hai",0
+"pari",63349
+"2 paria",71660
+"3:set",21226
+"suora",4146
+"vari",3536
+"tayskasi",15453
+"neloset",1452
+"varisuora",52
+"todennakoisyydet kaikilla"
+"hai",154918
+"pari",459596
+"2 paria",287438
+"3:set",66240
+"suora",42517
+"vari",31023
+"tayskasi",40026
+"neloset",3165
+"varisuora",321
+"Voittajan kasi"
+"hai",0
+"pari",24098
+"2 paria",48402
+"3:set",31986
+"suora",20783
+"vari",16839
+"tayskasi",27277
+"neloset",2888
+"varisuora",301
+"Tasapelin tuottanut kasi"
+"hai",0
+"pari",756
+"2 paria",1890
+"3:set",418
+"suora",4382
+"vari",70
+"tayskasi",775
+"neloset",7
+"varisuora",2
+~~~
+It seems that in case of even e.g. with 3 players, all these players get 0.3333 victory points.
 
 
-
+Code:
 ~~~
 '*****************************************************************************
 '* 13.10.2001
@@ -1136,8 +1196,8 @@ END
 
 ## turpa200.bas
 Car game, download converted exe file [here](https://talonendm.github.io/assets/bas/converted/TURPA200_converted.exe).
-![TURPAUT1.pas](/assets/pics/page/screenshot/TURPAUT1.JPG){: .mx-auto.d-block :}
-![turpa200.pas](/assets/pics/page/screenshot/turpa200.JPG){: .mx-auto.d-block :}
+![TURPAUT1.bas](/assets/pics/page/screenshot/TURPAUT1.JPG){: .mx-auto.d-block :}
+![turpa200.bas](/assets/pics/page/screenshot/turpa200.JPG){: .mx-auto.d-block :}
 ~~~
 '*****************************************************************************
 SCREEN 13
@@ -1291,12 +1351,436 @@ RETURN
 '*****************************************************************************
 ~~~
 
+## Royal Casino
+Play BlackJack up to 4 hands.
+![royalcasino.bas](/assets/pics/page/screenshot/royalcasino.JPG){: .mx-auto.d-block :}
+
+
+~~~
+SCREEN 12
+RANDOMIZE TIMER
+DIM k(6)
+DIM c(6)
+DIM loptulos(3)
+DIM blackjack(3)
+DIM win(3)
+DIM panos(3)
+DIM tupla(3)
+DIM insuu(3)
+
+money = 40
+
+
+alku:
+apukasi = 0
+b = 0
+tulos = 0
+assa = 0
+leeveen = 0
+
+CLS
+LOCATE 1, 33: PRINT "ROYAL CASINO"
+LOCATE 2, 58: PRINT "BLACK JACK"
+LINE (0, 0)-(605, 455), , B
+LINE (382, 14)-(382, 455)
+LINE (0, 14)-(605, 14)
+LINE (382, 228)-(605, 228)
+LINE (382, 300)-(605, 300)
+LINE (382, 323)-(605, 323)
+LINE (510, 228)-(510, 300)
+LOCATE 18, 52: PRINT "Money: "; money
+LOCATE 16, 52: PRINT "Bet:   "
+LOCATE 16, 66: PRINT "Insurance"
+
+1 LOCATE 20, 51: INPUT "How many hands (1-4)"; kasia
+IF kasia < 1 OR kasia > 4 THEN GOTO 1
+IF kasia > money THEN GOTO 1
+kasia = kasia - 1
+LINE (383, 301)-(604, 322), 0, BF
+
+LOCATE 4, 62: PRINT "Dealer ..."
+FOR hand = 0 TO kasia
+    LOCATE 5 + hand, 62: PRINT "Hand"; hand + 1; "..."
+    tupla(hand) = 0
+    insuu(hand) = 0
+NEXT hand
+cblackjack = 0
+
+FOR bb = 0 TO kasia
+    LOCATE 20, 51: PRINT "What is your bet"; bb + 1; " (1-9)"
+    2 LOCATE 28, 11 * bb + 6: INPUT betti
+    IF betti < 1 OR betti > 9 THEN LOCATE 28, 11 * bb + 6: PRINT "     ": GOTO 2
+    IF money - kasia + bb < betti THEN LOCATE 28, 11 * bb + 6: PRINT "     ": GOTO 2
+    panos(bb) = betti
+    LOCATE 28, 11 * bb + 6: PRINT " "
+    allbet = allbet + panos(bb)
+    money = money - panos(bb)
+    LOCATE 16, 52: PRINT "Bet:   "; allbet
+    LOCATE 18, 52: PRINT "Money: "; money
+NEXT bb
+
+LINE (383, 301)-(604, 322), 0, BF
+LOCATE 7 + kasia, 52: PRINT "H........ Hit me"
+LOCATE 8 + kasia, 52: PRINT "S........ Stay"
+LOCATE 9 + kasia, 52: PRINT "D........ Double down"
+LOCATE 10 + kasia, 52: PRINT "B........ Split bets"
+LOCATE 11 + kasia, 52: PRINT "I........ Insurance"
+
+aikaalku:
+assa = 0
+tulos = 0
+
+FOR a = 1 TO 6
+    k(a) = INT(RND(1) * 13) + 1
+    IF apukasi = 0 THEN c(a) = INT(RND(1) * 13) + 1
+    'LOCATE 1: PRINT k(a);
+    'LOCATE 2: PRINT c(a);
+NEXT a
+
+LINE (29 + apukasi * 88, 355)-(89 + apukasi * 88, 430), , B
+FOR a = 1 TO 2
+    GOSUB kortti
+NEXT a
+IF tulos = 21 THEN
+    FOR hmmm = 1 TO 1000: NEXT hmmm
+    SOUND 300, 300 / 200
+    blackjack(apukasi) = 1
+    LOCATE 20, 51: PRINT "BLACK JACK"
+    SOUND 440, 440 / 100
+    SOUND 300, 300 / 200
+    FOR hmmm = 1 TO 1000: NEXT hmmm
+    LINE (383, 301)-(604, 322), 0, BF
+END IF
+IF apukasi = 0 THEN LINE (30, 30)-(90, 110), , B
+
+IF apukasi = 0 THEN GOSUB ckortti
+
+
+
+looppi:
+g$ = INKEY$
+IF g$ = "" THEN GOTO looppi
+IF UCASE$(g$) = "H" AND a < 7 THEN blackjack(apukasi) = 0: GOTO hit
+IF UCASE$(g$) = "S" AND apukasi = kasia THEN loptulos(apukasi) = tulos: GOTO leave
+IF UCASE$(g$) = "S" AND apukasi < kasia THEN loptulos(apukasi) = tulos: apukasi = apukasi + 1: GOTO aikaalku
+IF UCASE$(g$) = "D" AND a = 3 AND tulos >= 9 AND tulos <= 11 AND tupla(apukasi) = 0 AND money >= panos(apukasi) THEN GOTO doublaus
+IF UCASE$(g$) = "I" AND c(1) = 1 AND insuu(apukasi) = 0 THEN GOTO insure
+IF UCASE$(g$) = "B" THEN H = 0
+IF g$ = CHR$(27) THEN END
+GOTO looppi
+
+hit:
+LOCATE 20, 51: PRINT "Hit me !"
+FOR hmmm = 1 TO 1000: NEXT hmmm
+LINE (383, 301)-(604, 322), 0, BF
+SOUND 340, 340 / 1000
+GOSUB kortti
+a = a + 1
+IF leeveen = 1 THEN
+    LOCATE 20, 51: PRINT "Over 21 !"
+    FOR hmmm = 1 TO 1000: NEXT hmmm
+    LINE (383, 301)-(604, 322), 0, BF
+    FOR hmmm = 1 TO 1000: NEXT hmmm
+    loptulos(apukasi) = tulos
+END IF
+IF leeveen = 1 AND apukasi <> kasia THEN leeveen = 0: apukasi = apukasi + 1: GOTO aikaalku
+IF leeveen = 1 THEN GOTO leave
+GOTO looppi
+
+insure:
+3 LOCATE 20, 51: INPUT "How many"; inmoney
+LINE (383, 301)-(604, 322), 0, BF
+IF INT(allbet / 2) < inmoney THEN GOTO 3
+IF money < inmoney THEN GOTO 3
+money = money - inmoney
+insuu(apukasi) = 1
+LOCATE 18, 52: PRINT "Money: "; money
+LOCATE 17, 69: PRINT inmoney
+GOTO looppi
+
+
+
+doublaus:
+BEEP
+tupla(apukasi) = 1
+allbet = allbet + panos(apukasi)
+money = money - panos(apukasi)
+panos(apukasi) = panos(apukasi) * 2
+LOCATE 16, 52: PRINT "Bet:   "; allbet
+LOCATE 18, 52: PRINT "Money: "; money
+LOCATE 28, 11 * apukasi + 7: PRINT panos(apukasi)
+leeveen = 1
+GOTO looppi
+
+leave:
+LOCATE 20, 51: PRINT "HHMMMMMM"
+FOR hmmm = 1 TO 1000: NEXT hmmm
+LINE (383, 301)-(604, 322), 0, BF
+FOR hmmm = 1 TO 1000: NEXT hmmm
+SOUND 340, 340 / 1000
+GOSUB ckortti
+IF ctulos < 17 THEN GOTO leave
+IF c(1) = 1 AND c(2) < 10 AND inmoney > 0 THEN inmoney = 0
+
+FOR hmmm = 1 TO 1000: NEXT hmmm
+FOR ch = 0 TO kasia
+    jako = 1: mako = 0
+    IF loptulos(ch) > 21 THEN teks$ = "     Lose -": win(ch) = 0: GOTO apuch
+    IF blackjack(ch) = 1 AND cblackjack = 1 THEN teks$ = "Stand off -": win(ch) = 1: GOTO apuch
+    IF cblackjack = 1 THEN teks$ = "     Lose -": win(ch) = 0: GOTO apuch
+    IF blackjack(ch) = 1 THEN teks$ = "  Win 3:2 -": win(ch) = 3: jako = 2: mako = panos(ch): GOTO apuch
+    IF ctulos > 21 THEN teks$ = "  Win 1:1 -": win(ch) = 2: GOTO apuch
+    IF ctulos > loptulos(ch) THEN teks$ = "     Lose -": win(ch) = 0: GOTO apuch
+    IF ctulos < loptulos(ch) THEN teks$ = "  Win 1:1 -": win(ch) = 2: GOTO apuch
+    IF ctulos = loptulos(ch) THEN teks$ = "Stand off -": win(ch) = 1: GOTO apuch
+    apuch:
+    LOCATE 5 + ch, 50: PRINT teks$
+    massii = massii + (panos(ch) * (win(ch) / jako)) - panos(ch) + mako
+    massii = INT(massii)
+    IF massii < 0 THEN masteks$ = "Lose:  "
+    IF massii = 0 THEN masteks$ = "Draw:  "
+    IF massii > 0 THEN masteks$ = "Win:   "
+    LOCATE 17, 52: PRINT masteks$; ABS(massii)
+    GOSUB saundi
+NEXT ch
+IF c(1) = 1 AND c(2) >= 10 AND inmoney > 0 THEN
+    inmoney = inmoney * 3
+    LOCATE 17, 69: PRINT inmoney
+    GOSUB saundi
+END IF
+LOCATE 20, 51: PRINT "Press ENTER to continue"
+DO
+    g$ = INKEY$
+LOOP UNTIL g$ = CHR$(13)
+LINE (383, 301)-(604, 322), 0, BF
+
+LOCATE 16, 52: PRINT "Bet:       "
+money = money + allbet
+LOCATE 18, 52: PRINT "Money: "; money
+allbet = 0
+GOSUB saundi
+LOCATE 17, 52: PRINT masteks$; "    "
+money = money + massii
+massii = 0
+LOCATE 18, 52: PRINT "Money: "; money
+GOSUB saundi
+IF c(1) = 1 AND c(2) >= 10 AND inmoney > 0 THEN
+    money = money + inmoney
+    inmoney = 0
+    LOCATE 18, 52: PRINT "Money: "; money
+    LOCATE 17, 69: PRINT inmoney
+    GOSUB saundi
+END IF
+IF money = 0 THEN END
+
+GOTO alku
+
+
+kortti:
+LOCATE 28 - a * 3, 7 + apukasi * 11
+IF k(a) > 1 AND k(a) < 11 THEN PRINT k(a)
+IF k(a) = 1 THEN PRINT " A"
+IF k(a) = 11 THEN PRINT " J"
+IF k(a) = 12 THEN PRINT " Q"
+IF k(a) = 13 THEN PRINT " K"
+IF a <> 1 THEN LINE (29 + apukasi * 88, 355 - (a - 2) * 45)-(89 + apukasi * 88, 355 - (a - 1) * 45), , B
+GOSUB lasku
+RETURN
+lasku:
+FOR d = 1 TO a
+    IF k(d) > 1 AND k(d) < 11 THEN yht = yht + k(d)
+    IF k(d) > 10 THEN yht = yht + 10
+    IF k(d) = 1 THEN yht = yht + 11: assa = assa + 1
+NEXT d
+tulos = yht
+yht = 0
+
+apulasku:
+IF tulos > 21 AND assa > 0 THEN assa = assa - 1: tulos = tulos - 10
+
+LOCATE 5 + apukasi, 72: PRINT tulos
+IF tulos > 21 THEN leeveen = 1
+RETURN
+
+ckortti:
+b = b + 1
+LOCATE 5, 1 + b * 6
+LINE (90, 30)-(90 + 48 * (b - 1), 110), , B
+
+IF c(b) > 1 AND c(b) < 11 THEN PRINT c(b)
+IF c(b) = 11 THEN PRINT " J"
+IF c(b) = 12 THEN PRINT " Q"
+IF c(b) = 13 THEN PRINT " K"
+IF c(b) = 1 THEN PRINT " A"
+
+GOSUB clasku
+RETURN
+
+clasku:
+FOR d = 1 TO b
+    IF c(d) > 1 AND c(d) < 11 THEN yht = yht + c(d)
+    IF c(d) > 10 THEN yht = yht + 10
+    IF c(d) = 1 THEN yht = yht + 11: cassa = cassa + 1
+NEXT d
+ctulos = yht
+yht = 0
+IF ctulos > 21 AND cassa > 0 THEN cassa = cassa - 1: ctulos = ctulos - 10
+IF c(1) = 1 AND c(2) >= 10 AND b = 2 THEN cblackjack = 1
+LOCATE 4, 72: PRINT ctulos
+RETURN
+
+saundi:
+SOUND 300, 300 / 70
+SOUND 200, 200 / 160
+FOR hmmm = 1 TO 2000: NEXT hmmm
+RETURN
+~~~
+
+## Running Psyko III
+New type of worm game. Actually quite interesting :D
+
+![runningPsyko3](/assets/pics/page/screenshot/runningPsyko3.JPG){: .mx-auto.d-block :}
+
+~~~
+RANDOMIZE TIMER
+GOSUB alkukuva
+GOSUB mission
+SCREEN 12
+CONST leveys = 640
+CONST korkeus = 480
+CONST aste = 5 * 3.141592653589793# / 180
+DIM ti AS INTEGER
+DIM bx AS INTEGER
+DIM by AS INTEGER
+DIM cle AS INTEGER
+x = 100: x1 = 100
+CONST v = 1
+CONST mv = .85
+CONST hidastus = 200000
+
+cle = 1
+
+ti = -1
+y = 100: y1 = 99
+kaantaja:
+FOR aaaa = 1 TO hidastus
+NEXT aaaa
+ti = ti + 1: IF ti = 10000 THEN lapi = 1: GOTO dead
+IF ti / 5 = INT(ti / 5) THEN
+    alfa = alfa + alfi
+    vx = v * SIN(alfa)
+    vy = v * COS(alfa)
+       
+END IF
+
+'IF ti / 20 = INT(ti / 20) THEN
+'ti2 = ti2 + 5
+'CIRCLE (leveys / 2, korkeus / 2), ti2, 14
+'END IF
+
+x = x + vx
+y = y + vy
+
+IF mx < x THEN mvx = mv
+IF mx > x THEN mvx = -mv
+IF my < y THEN mvy = mv
+IF my > y THEN mvy = -mv
+      
+mx = mx + mvx
+my = my + mvy
+LINE (mx, my)-(mx + 1, my + 1), 14, BF
+        
+IF noppe = 0 THEN
+    LINE (bx, by)-(bx + 10, by + 10), 0, BF
+    bx = INT(RND(1) * (leveys - 45)) + 20
+    by = INT(RND(1) * (korkeus - 45)) + 20
+    LINE (bx, by)-(bx + 10, by + 10), 4, BF
+    noppe = 1
+ELSE
+    IF POINT(x, y) = 4 AND noppe = 1 THEN noppe = 0: cle = cle + 1: boxes = boxes + 100
+END IF
+
+IF x > leveys THEN x = 0
+IF x < 0 THEN x = leveys
+IF y < 0 THEN y = korkeus
+IF y > korkeus THEN y = 0
+
+IF POINT(x, y) = 14 THEN GOTO dead
+PSET (x, y), 12
+PSET (x1, y1), 14
+x1 = x: y1 = y
+li$ = INKEY$
+IF li$ = "" THEN GOTO kaantaja
+IF li$ = "6" THEN alfi = -aste
+IF li$ = "5" THEN alfi = 0
+IF li$ = "4" THEN alfi = aste
+IF li$ = CHR$(27) THEN END
+IF li$ = CHR$(13) AND cle > 0 THEN cle = cle - 1: CLS: noppe = 0: ti2 = 0
+GOTO kaantaja
+dead:
+CLS
+PRINT "Press (ESC) to continue"
+points = ti + boxes + cle * 50
+DO
+    c = INT(RND(1) * 15)
+    COLOR c: LOCATE 15, 34
+    PRINT "POINTS: "; points
+    g$ = INKEY$
+LOOP UNTIL g$ = CHR$(27)
+IF lapi = 1 THEN
+    CLS
+    PRINT "You win psyko! Congralations!"
+    INPUT "Please give your name"; adf$
+    PLAY "MfT180o2P2P8L8GGGL2E-P24P8L8FFFL2D"
+END IF
+END
+mission:
+SCREEN 12
+COLOR 12: LOCATE 1, 30: PRINT "Running psyko III"
+        
+LOCATE 24: COLOR 15: PRINT "Press (ESC) to continue"
+LOCATE 5
+PRINT "Teht„v„si on v„istell„ per„ss„ tulevaa psyko III:sta."
+PRINT
+PRINT "Ohjaus:"
+PRINT "Vasemmalle = 4"
+PRINT "Oikealle   = 6"
+PRINT "Suoraan    = 5"
+PRINT "Kuvaruudun tyhjennys = (ENTER), jos olet ker„nnyt laatikoita."
+PRINT
+PRINT "Jokaisesta ker„tyst„ laatikosta saat aina yhden kuva ruudun tyhjennyksen."
+PRINT "(Alussa sinulla on yksi kuvaruudun tyhjennys)"
+PRINT
+PRINT "Peli loppuu kun t”rm„„t Psykon tai sinun j„tt„m„„si j„lkeen."
+PRINT
+PRINT "Pisteit„ saat seuraavasti:"
+PRINT
+PRINT "Aika: Mit„ kauemmin pysyt elossa sen enemm„n saat pisteit„"
+PRINT "Laatikot: 100 pistett„/laatikko"
+PRINT "K„ytt„m„tt”m„t laatikot: 50 pistett„/laatikko"
+
+DO
+    g$ = INKEY$
+LOOP UNTIL g$ = CHR$(27)
+CLS
+RETURN
+alkukuva:
+CLS
+COLOR 15: PRINT "Press (ENTER) to continue"
+DO
+    c = INT(RND(1) * 15)
+    COLOR c
+    LOCATE 12, 29: PRINT "BY: JAAKKO TALONEN"
+    g$ = INKEY$
+LOOP UNTIL g$ = CHR$(13)
+RETURN
+~~~
+
 
 ## References
-
-https://github.com/FellippeHeitor/p5js.bas
-https://github.com/FellippeHeitor?tab=repositories
-https://github.com/SteveMcNeill/Steve64
-https://www.qb64.org/forum/index.php?topic=965.0
-https://www.youtube.com/watch?v=gFoEKkh1b5o
-https://qbasic-forum.qbasic.net/qbasic-related/how-open-bas-file-that-created-1997-t622.html
+- [check this later p5js QB?](https://github.com/FellippeHeitor/p5js.bas)
+- https://github.com/FellippeHeitor?tab=repositories
+- https://github.com/SteveMcNeill/Steve64
+- https://www.qb64.org/forum/index.php?topic=965.0
+- https://www.youtube.com/watch?v=gFoEKkh1b5o
+- https://qbasic-forum.qbasic.net/qbasic-related/how-open-bas-file-that-created-1997-t622.html
