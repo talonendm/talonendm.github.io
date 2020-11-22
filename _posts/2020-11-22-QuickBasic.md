@@ -19,10 +19,16 @@ I had some problems to open old code files, [in QB45 format detected](https://ww
 Conversion worked almost all files.
 Finally, I was able to open all expect one file, [GRANDPRX.BAS](https://talonendm.github.io/assets/bas/GRANDPRX.BAS). Tell me if you are able to open this file :D !!
 ![conversionfailed](/assets/pics/page/screenshot/conversionfailed.JPG){: .mx-auto.d-block :}
-I think it is simple car game having "fun" steering system. Instead of controlling steering wheel and speed, player can accelerate in both x- and y-directions. 
+More info at [Pete's QBSSIC site](http://petesqbsite.com/phpBB3/viewtopic.php?t=7472) and [QB64 Files](https://www.qb64.org/wiki/FILES).
 
-- More info at [Pete's QBSSIC site](http://petesqbsite.com/phpBB3/viewtopic.php?t=7472).
-- [QB64 Files](https://www.qb64.org/wiki/FILES)
+I think it is simple car game having "fun" steering system. Instead of controlling steering wheel and speed, 
+player can accelerate in both x- and y-directions. I remember that I have played that with paper and pencil on squared paper. Rules was something like this:
+- draw circuit and paly with friends
+- player can:
+- Accelarate 1 square/turn in x/y-direction
+- Brake 2 squares/turn in x/y-direction
+- Additional rules for collision with other player or wall
+
 
 ## Download 
 
