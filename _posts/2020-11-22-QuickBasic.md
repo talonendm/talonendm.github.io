@@ -17,7 +17,7 @@ published: true
 
 I had some problems to open old code files, [in QB45 format detected](https://www.qb64.org/forum/index.php?topic=965.0). 
 Conversion worked almost all files.
-Finally, I was able to open all expect one file, [GRANDPRX.BAS]('https://talonendm.github.io/assets/bas/GRANDPRX.BAS'). Tell me if you are able to open this file :D !!
+Finally, I was able to open all expect one file, [GRANDPRX.BAS](https://talonendm.github.io/assets/bas/GRANDPRX.BAS). Tell me if you are able to open this file :D !!
 ![conversionfailed](/assets/pics/page/screenshot/conversionfailed.JPG){: .mx-auto.d-block :}
 I think it is simple car game having "fun" steering system. Instead of controlling steering wheel and speed, player can accelerate in both x- and y-directions. 
 
@@ -35,10 +35,10 @@ unpack e.g. to C:\qb64\
 # Code
 
 ## Worm game for 2-4 palyers
-Worm game, download converted exe file [here]('https://talonendm.github.io/assets/bas/converted/MATIS3_converted.exe').
+Worm game, download converted exe file [here](https://talonendm.github.io/assets/bas/converted/MATIS3_converted.exe).
 
 ![matis3 converted.bas](/assets/pics/page/screenshot/matis3_hidastus.JPG){: .mx-auto.d-block :}
-
+Worm "matis3" game winner is player 1 having 1711 points. If I remember correctly, it means that the worm is 1711 pixels long.  
 Note: for loop added 21.11.2020 to matis3 (converted).bas after "looppi:"-row. It makes worms slower.
 ~~~
 FOR aaaa = 1 TO n
