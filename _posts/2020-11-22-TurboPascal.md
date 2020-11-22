@@ -1,33 +1,30 @@
 ---
 layout: post
 title: Turbo Pascal
-subtitle: old codes wakw yp from coma
+subtitle: old codes wake up from coma
 tags:
   - Turbo Pascal
-  - PAS
+  - pas
   - antique code
 comments: true
-cover-img: /assets/pics/wide/wide_aigahaku.JPG
+cover-img: /assets/pics/cover/screenshot/pascal.JPG
 thumbnail-img: /assets/pics/thumbnail/www/TP.JPG
 published: true
 ---
 # Turbo Pascal
-"Borland Turbo Pascal is a Pascal programming language compiler with an Integrated Development Environment targeted at the hobbyist and entry-level market." - https://winworldpc.com/product/turbo-pascal/5x
+"Borland Turbo Pascal is a Pascal programming language compiler with an Integrated Development Environment targeted at the hobbyist and entry-level market." - [Win World PC](https://winworldpc.com/product/turbo-pascal/5x)
 
 ![HELI.exe](/assets/pics/page/screenshot/HELIpas.JPG){: .mx-auto.d-block :}
 
 ## Version
 My old files were not working after testing TP5.5 and the most recent DOSBox 0.74-3 and Turbo Pascal. I learned Turbo Pascal in the mid of 90s. 
 If I remember correct, I got a Finnish text book and disk with it from Santa Claus. 
-In my programs I have used GRAFIIKKA.TPU or with 8 characters GRAFIIKK.TPU file. 
+In my programs I have used GRAFIIKKA.TPU or with 8 characters GRAFIIKK.TPU file. In addition I had this next to PAS files: EGAVGA.BGI [download](https://osdn.net/projects/sfnet_hlanguage/downloads/Source/BGI/EGAVGA.BGI/).
 "A Turbo Pascal Unit is a separately-compiled file generated using Turbo Pascal or Borland Pascal for the purpose of linking at build time into an executable file making use of multiple modules. TPU files were introduced in Turbo Pascal 4.0" [Turbo Pascal Unit](http://fileformats.archiveteam.org/wiki/Turbo_Pascal_Unit). I got this error: [error-72-unit-file-format-error-plz-help](https://programmersheaven.com/discussion/242306/error-72-unit-file-format-error-plz-help)
 Although I copied that to more recent TPs [TP5.5](https://edn.embarcadero.com/article/20803) and [Turbo Pascal with DOSBox](https://sourceforge.net/projects/turbopascal-wdb/). I was not able to make it work. Luckily I found files for TP and I was able to run code. 
 Actually I had .exe file for almost the most recent game file (HELI2.pas).
-
-- [more TP versions available here](https://winworldpc.com/product/turbo-pascal/5x)
-
-In addition I had this next to PAS files: EGAVGA.BGI
-- download pages, use Google. 
+More TP versions available [here](https://winworldpc.com/product/turbo-pascal/5x).
+Working version with TURBO editor is available [here](https://talonendm.github.io/zip/TURBOHELI.zip) 
 
 ## Mount folder with oldgames
 Start DOSBox, I have DOSBox 0.74-3. Create folder "OLDGAMES" to C-drive and copy yor files there. 
@@ -52,8 +49,8 @@ C:\> TURBO
 ![HELI3.pas in TP editor](/assets/pics/page/screenshot/HELI3pasInTP.JPG){: .mx-auto.d-block :}
 
 Tips:
-- alt: open menu and use arrow keys
-- windows button: make possible to take screenshots. Otherwise mouse icon (square) just inside TURBO editor.
+- alt-key: open menu and use arrow keys
+- windows-key: make possible to take screenshots. Otherwise mouse icon (square) just inside TURBO editor.
 
 ## dosbox conf: https://www.dosbox.com/wiki/Configuration:CPU
 
@@ -2393,9 +2390,6 @@ end.
 
 ~~~
 
-
-
-
 # References
 - Thumbnail picture [Antique Software: Turbo Pascal v5.5](https://edn.embarcadero.com/article/20803)
-
+- [Turbo Pascal (With DOSBox)](https://sourceforge.net/projects/turbopascal-wdb/)
