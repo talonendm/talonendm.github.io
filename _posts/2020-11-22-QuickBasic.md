@@ -40,7 +40,7 @@ unpack e.g. to C:\qb64\
 
 # Code
 
-## Worm game for 2-4 palyers
+## Worm game for 2-4 players
 Worm game, download converted exe file [here](https://talonendm.github.io/assets/bas/converted/MATIS3_converted.exe).
 
 ![matis3 converted.bas](/assets/pics/page/screenshot/matis3_hidastus.JPG){: .mx-auto.d-block :}
