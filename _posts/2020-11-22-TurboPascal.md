@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Turbo Pascal
-subtitle: old codes wake up from coma - part 1
+subtitle: old games wake up from coma - part 1
 tags:
   - Turbo Pascal
   - pas

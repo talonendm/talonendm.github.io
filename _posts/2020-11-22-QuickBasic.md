@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quick Basic
-subtitle: old codes wake up from coma - part 2
+subtitle: old games wake up from coma - part 2
 tags:
   - Quick Basic
   - bas
