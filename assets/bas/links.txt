@@ -1,3 +1,5 @@
+
+QB files in P5%?!
 https://github.com/FellippeHeitor/p5js.bas
 https://github.com/FellippeHeitor?tab=repositories
 https://github.com/SteveMcNeill/Steve64
@@ -6,101 +8,5 @@ https://www.youtube.com/watch?v=gFoEKkh1b5o
 https://qbasic-forum.qbasic.net/qbasic-related/how-open-bas-file-that-created-1997-t622.html
 
 
-dosbox ohjeet
-https://www.dosbox.com/wiki/File:Dosbox2.jpg
-mount C C:\OLDGAMES
-C:
-HELI
 
 
-
-jos ei ole:
-EGAVGA.BGI
-
-
-
-
-dosbox conf: https://www.dosbox.com/wiki/Configuration:CPU
-
-[cpu]
-#      core: CPU Core used in emulation. auto will switch to dynamic if available and
-#            appropriate.
-#            Possible values: auto, dynamic, normal, simple.
-#   cputype: CPU Type used in emulation. auto is the fastest choice.
-#            Possible values: auto, 386, 386_slow, 486_slow, pentium_slow, 386_prefetch.
-#    cycles: Amount of instructions DOSBox tries to emulate each millisecond.
-#            Setting this value too high results in sound dropouts and lags.
-#            Cycles can be set in 3 ways:
-#              'auto'          tries to guess what a game needs.
-#                              It usually works, but can fail for certain games.
-#              'fixed #number' will set a fixed amount of cycles. This is what you usually
-#                              need if 'auto' fails. (Example: fixed 4000).
-#              'max'           will allocate as much cycles as your computer is able to
-#                              handle.
-#            Possible values: auto, fixed, max.
-#   cycleup: Amount of cycles to decrease/increase with keycombos.(CTRL-F11/CTRL-F12)
-# cycledown: Setting it lower than 100 will be a percentage.
-
-core=auto
-cputype=auto
-cycles=auto
-cycleup=10
-cycledown=20
-
-TO
-
-[cpu]
-#      core: CPU Core used in emulation. auto will switch to dynamic if available and
-#            appropriate.
-#            Possible values: auto, dynamic, normal, simple.
-#   cputype: CPU Type used in emulation. auto is the fastest choice.
-#            Possible values: auto, 386, 386_slow, 486_slow, pentium_slow, 386_prefetch.
-#    cycles: Amount of instructions DOSBox tries to emulate each millisecond.
-#            Setting this value too high results in sound dropouts and lags.
-#            Cycles can be set in 3 ways:
-#              'auto'          tries to guess what a game needs.
-#                              It usually works, but can fail for certain games.
-#              'fixed #number' will set a fixed amount of cycles. This is what you usually
-#                              need if 'auto' fails. (Example: fixed 4000).
-#              'max'           will allocate as much cycles as your computer is able to
-#                              handle.
-#            Possible values: auto, fixed, max.
-#   cycleup: Amount of cycles to decrease/increase with keycombos.(CTRL-F11/CTRL-F12)
-# cycledown: Setting it lower than 100 will be a percentage.
-
-core=auto
-cputype=auto
-cycles=max
-cycleup=10
-cycledown=20
-
-a bit faster...
-
-# GRAFIIKK.TPU
-Not working.. wrong TP version?
-https://programmersheaven.com/discussion/242306/error-72-unit-file-format-error-plz-help
-
-older turbo paskal
-
-https://sourceforge.net/projects/turbopascal-wdb/
-
-vois toimia.
-
-https://edn.embarcadero.com/article/20803
-
-http://fileformats.archiveteam.org/wiki/Turbo_Pascal_Unit
-
-Software
-Antique software: Turbo Pascal 5.5
-Various Turbo Pascal utilities including TPU dumpers
-
-http://www.murdoch-sutherland.com/programs/index.htm
-
-
-
-https://winworldpc.com/product/turbo-pascal/5x
-
-
-dosboxilla toimii! 
-mount C C:\tp\
-hidas ku mikä!!!

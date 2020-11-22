@@ -24,7 +24,7 @@ In addition:
 - Follow and write down what's happening in areas of my interest
 - Do simple and funny things too and time to time challenge myself with topics that are not easy for me
 - Post tagging in Beautiful Jekyll seems to work nicely. Finally I will find my "not-work" related notes easily. No more hundreds of post-it papers on my desk ...
-- etc.
+- and finally due COVID-19 it makes sence to stay home and explore my old code files right now [Corona Finland THL](https://thl.fi/fi/web/infektiotaudit-ja-rokotukset/ajankohtaista/ajankohtaista-koronaviruksesta-covid-19/tilannekatsaus-koronaviruksesta)
 
 ## Create files into _posts/ folder
 
