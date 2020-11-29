@@ -14,7 +14,7 @@ published: true
 ---
 # Helicopter game
 
-iframe width="1024" height="720" src="http://talonendm.github.io/helicopter/helikopteripeli2" frameborder="0" allowfullscreen></iframe>
+<iframe width="1024" height="720" src="http://talonendm.github.io/helicopter/helikopteripeli2" frameborder="0" allowfullscreen></iframe>
 
 Play game in full screen here: [Helicopter Game](http://talonendm.github.io/helicopter/helikopteripeli2) and without instructions panel here: [Helicopter Game 1](https://talonendm.github.io/helicopter/helikopteripeli).
 
