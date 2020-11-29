@@ -7,6 +7,7 @@ tags:
   - Java
   - very old code
   - JS
+  - 2012
 comments: true
 cover-img: /assets/pics/cover/screenshot/helicopter.JPG
 thumbnail-img: /assets/pics/thumbnail/screenshot/helicopter.JPG
@@ -14,10 +15,13 @@ published: true
 ---
 # Helicopter game
 
-<iframe width="1024" height="720" src="http://talonendm.github.io/helicopter/helikopteripeli2" frameborder="0" allowfullscreen></iframe>
+<iframe src="http://talonendm.github.io/helicopter/helikopteripeli" frameborder="0"></iframe>
 
 Play game in full screen here: [Helicopter Game](http://talonendm.github.io/helicopter/helikopteripeli2) and without instructions panel here: [Helicopter Game 1](https://talonendm.github.io/helicopter/helikopteripeli).
 
+Something is still available about my experimental learning process (8 years ago, see [test application](https://talonendm.github.io/helicopter/jaakko2).
+
+Something about [iframe](https://stackoverflow.com/questions/325273/make-iframe-to-fit-100-of-containers-remaining-height)s.
 
 ## Git stuff
 
