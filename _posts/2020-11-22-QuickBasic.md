@@ -6,6 +6,7 @@ tags:
   - Quick Basic
   - bas
   - antique code
+  - 1994
 comments: true
 cover-img: /assets/pics/cover/screenshot/qb.JPG
 thumbnail-img: /assets/pics/thumbnail/screenshot/qb.JPG
@@ -21,7 +22,7 @@ Finally, I was able to open all expect one file, [GRANDPRX.BAS](https://talonend
 ![conversionfailed](/assets/pics/page/screenshot/conversionfailed.JPG){: .mx-auto.d-block :}
 More info at [Pete's QBSSIC site](http://petesqbsite.com/phpBB3/viewtopic.php?t=7472) and [QB64 Files](https://www.qb64.org/wiki/FILES).
 
-I think it is simple car game having "fun" steering system. Instead of controlling steering wheel and speed, 
+It is simple car game having "fun" steering system created in year 1994. Instead of controlling steering wheel and speed, 
 player can accelerate in both x- and y-directions. I remember that I have played that with paper and pencil on squared paper, but instead of square in game pixels were used as metric. Rules was something like this:
 - draw circuit and paly with friends
 - player can:
