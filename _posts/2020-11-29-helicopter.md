@@ -8,20 +8,21 @@ tags:
   - very old code
   - JS
   - 2012
+  - processing.js
 comments: true
 cover-img: /assets/pics/cover/screenshot/helicopter.JPG
 thumbnail-img: /assets/pics/thumbnail/screenshot/helicopter.JPG
 published: true
 ---
 # Helicopter game
-
-<iframe src="http://talonendm.github.io/helicopter/helikopteripeli" frameborder="0"></iframe>
+https://talonendm.github.io/p5js-page/ex1/
+<iframe src="http://talonendm.github.io/helicopter/" frameborder="0"></iframe>
 
 Play game in full screen here: [Helicopter Game](http://talonendm.github.io/helicopter/helikopteripeli2) and without instructions panel here: [Helicopter Game 1](https://talonendm.github.io/helicopter/helikopteripeli).
 
 Something is still available about my experimental learning process (8 years ago, see [test application](https://talonendm.github.io/helicopter/jaakko2).
 
-Something about [iframe](https://stackoverflow.com/questions/325273/make-iframe-to-fit-100-of-containers-remaining-height)s.
+Something about [iframe](https://stackoverflow.com/questions/325273/make-iframe-to-fit-100-of-containers-remaining-height)s. If not working, probably id in pde-file to canvas in html needed.
 
 ## Git stuff
 
