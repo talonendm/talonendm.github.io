@@ -5,6 +5,8 @@ subtitle: Java
 tags:
   - Processing
   - Java
+  - very old code
+  - JS
 comments: true
 cover-img: /assets/pics/cover/screenshot/helicopter.JPG
 thumbnail-img: /assets/pics/thumbnail/screenshot/helicopter.JPG
@@ -12,8 +14,9 @@ published: true
 ---
 # Helicopter game
 
-Play game here: [Helicopter Game](http://talonendm.github.io/helicopter/helikopteripeli2). 
-Game without instructions: [Helicopter Game 1](https://talonendm.github.io/helicopter/helikopteripeli).
+iframe width="1024" height="720" src="http://talonendm.github.io/helicopter/helikopteripeli2" frameborder="0" allowfullscreen></iframe>
+
+Play game in full screen here: [Helicopter Game](http://talonendm.github.io/helicopter/helikopteripeli2) and without instructions panel here: [Helicopter Game 1](https://talonendm.github.io/helicopter/helikopteripeli).
 
 
 ## Git stuff
