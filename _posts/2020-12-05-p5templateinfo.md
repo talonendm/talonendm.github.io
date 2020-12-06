@@ -16,14 +16,17 @@ published: true
 
 ### create new repo in github
 
-<yourreponame>, e.g. onnenpyora
+In this example "onnenpyora" repo was created and p5 template code files were copied into it.
 
-Add a README file: This is where you can write a long description for your project. Learn more.
+Go to your GitHub pages, in my case: [https://github.com/talonendm/](https://github.com/talonendm/).
+Create new repository: onnenpyora
+Add a README file: This is where you can write a long description for your project.
 
-in Bash do following commands:
+Windows, start Git Bash and do the following commands:
 
 ~~~
-cd git
+
+cd git # or wherever you have your repositories
 git clone https://github.com/talonendm/onnenpyora.git
 cd onnenpyora
 git branch gh-pages
