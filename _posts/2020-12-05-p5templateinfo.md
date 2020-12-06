@@ -49,3 +49,15 @@ git push origin gh-pages
 ~~~
 
 go to new [gh-page](https://talonendm.github.io/onnenpyora/) and test that it works...
+
+
+
+
+Chrome tips:
+
+~~~
+crtl shift i
+application
+see js code in browser
+~~~
+
