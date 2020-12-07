@@ -67,15 +67,18 @@ function draw() {
   
   moving = abs(pmouseX - mouseX);
   
-  if (moving>0) {
+  if (moving>0 | mouseIsPressed) {
      loop_i = (loop_i + 1) % 10; // https://editor.p5js.org/kjhollentoo/sketches/Syf-33fJg
 	 image(imgs[loop_i], (windowWidth), (windowHeight)); 
   }
   
   if (mouseIsPressed) {
-	line(pmouseX, pmouseY, mouseX,mouseY);
+	line(pmouseX, pmouseY, mouseX, mouseY);
   }
-  
+  fill(0,255,0);
+  rectangle(40,40,70,70);
+  fill(0,0,255);
+  text(loop_i + ": " + moving, 50,50);
 }
   
 </script> 
