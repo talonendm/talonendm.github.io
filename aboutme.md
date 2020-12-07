@@ -26,6 +26,9 @@ What else do you need?
 
 <script>
 var canvas;
+
+
+var moving = 0;
 // var mic;
 let img;
 //<div id="sketch-holder-jt-karate"></div>
@@ -46,7 +49,7 @@ function setup() {
   canvas = createCanvas(windowWidth, windowHeight);
   // canvas.parent('sketch-holder-jt-karate');
   canvas.position(0,0);
-  
+  canvas.style('z-index', '-1'); https://www.youtube.com/watch?v=OIfEHD3KqCg
   // mic  = new p5.AudioIn();
   // mic.start();
   
@@ -54,10 +57,19 @@ function setup() {
   
 function draw() {
   // var vol = mic.getLevel();
-  image(img, 10, 10);
+  //image(img, 10, 10);
   // ellipse(300,200,vol* 40 + 20,30);
-  for (var i=0; i<5; i++) {
-    image(imgs[i], random(windowWidth), random(windowHeight)); 
+  //for (var i=0; i<5; i++) {
+   // image(imgs[i], random(windowWidth), random(windowHeight)); 
+  //}
+  
+  
+  
+  moving = abs(pmouseX - mouseX);
+  
+  if (moving>0) {
+     i = (i + 1) %% 10; 
+	 image(imgs[i], (windowWidth), (windowHeight)); 
   }
   
   if (mouseIsPressed) {
