@@ -31,7 +31,7 @@ let img;
 //<div id="sketch-holder-jt-karate"></div>
 
 function preload() { 
-  img = loadImage('assets/pics/animation/red-karatesample-image.png'); 
+  img = loadImage('https://github.com/talonendm/talonendm.github.io/assets/pics/animation/red-karate/karate-000328.png'); 
 } 
 
 function setup() {
