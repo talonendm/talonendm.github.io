@@ -26,7 +26,7 @@ What else do you need?
 
 <script>
 var canvas;
-
+var loop_i=0;
 
 var moving = 0;
 // var mic;
@@ -59,17 +59,17 @@ function draw() {
   // var vol = mic.getLevel();
   //image(img, 10, 10);
   // ellipse(300,200,vol* 40 + 20,30);
-  //for (var i=0; i<5; i++) {
-   // image(imgs[i], random(windowWidth), random(windowHeight)); 
-  //}
+ 
+   
+ 
   
   
   
   moving = abs(pmouseX - mouseX);
   
   if (moving>0) {
-     i = (i + 1) %% 10; 
-	 image(imgs[i], (windowWidth), (windowHeight)); 
+     loop_i = (loop_i + 1) %% 10; 
+	 image(imgs[loop_i], (windowWidth), (windowHeight)); 
   }
   
   if (mouseIsPressed) {
