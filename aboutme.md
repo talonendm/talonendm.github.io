@@ -49,7 +49,7 @@ function setup() {
   canvas = createCanvas(windowWidth, windowHeight);
   // canvas.parent('sketch-holder-jt-karate');
   canvas.position(0,0);
-  canvas.style('z-index', '-1'); https://www.youtube.com/watch?v=OIfEHD3KqCg
+  canvas.style('z-index', '-1'); // https://www.youtube.com/watch?v=OIfEHD3KqCg
   // mic  = new p5.AudioIn();
   // mic.start();
   
