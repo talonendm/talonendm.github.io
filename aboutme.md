@@ -38,7 +38,7 @@ function preload() {
   
   var ii = -1;
   for (var i=328; i<338; i++) {
-  ii = ii + 1;
+	ii = ii + 1;
     imgs[ii] = loadImage("pics/karate-000"+i+".png"); // https://editor.p5js.org/lmccart/sketches/S1UtI-Kgb
   }
 } 
@@ -57,7 +57,7 @@ function draw() {
   var vol = mic.getLevel();
   image(img, 10, 10);
   ellipse(300,200,vol* 40 + 20,30);
-  for (var i=0; i<5; i++) {{
+  for (var i=0; i<5; i++) {
     image(imgs[i], random(width), random(height)); 
   }
 }
