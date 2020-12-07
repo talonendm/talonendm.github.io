@@ -39,7 +39,7 @@ function preload() {
   img = loadImage('pics/karate-000328.png');
   
   var ii = -1;
-  for (var i=328; i<338; i++) {
+  for (var i=219; i<338; i++) {
 	ii = ii + 1;
     imgs[ii] = loadImage("pics/karate-000"+i+".png"); // https://editor.p5js.org/lmccart/sketches/S1UtI-Kgb
   }
@@ -67,8 +67,8 @@ function draw() {
   
   moving = abs(pmouseX - mouseX);
   
-  if (moving>0 | mouseIsPressed) {
-     loop_i = (loop_i + 1) % 10; // https://editor.p5js.org/kjhollentoo/sketches/Syf-33fJg
+  if (moving>2 | mouseIsPressed) {
+     loop_i = (loop_i + 1) % 120; // https://editor.p5js.org/kjhollentoo/sketches/Syf-33fJg
 	 image(imgs[loop_i], 0, 0); 
   }
   
