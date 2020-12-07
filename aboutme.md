@@ -21,7 +21,6 @@ What else do you need?
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/p5.js"></script>
-<script src="p5.sound.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.2/addons/p5.dom.min.js"></script> 
 
 
@@ -54,7 +53,7 @@ function setup() {
 }
   
 function draw() {
-  var vol = mic.getLevel();
+  // var vol = mic.getLevel();
   image(img, 10, 10);
   // ellipse(300,200,vol* 40 + 20,30);
   for (var i=0; i<5; i++) {
