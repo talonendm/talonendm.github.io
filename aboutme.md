@@ -12,7 +12,7 @@ My objective is to do something that could "wake up" my children interest on cod
 
 *Generally*
 
-- I rock data
+- I rock data 2
 - I'm extremely loyal to data and models
 
 What else do you need?
@@ -34,17 +34,17 @@ var imgs = [];
 function preload() { 
   // img = loadImage('pics/red-karate/karate-000328.png'); 
   // Access to fetch at 'pics/red-karate/karate-000328.png' from origin 'https://talonendm.github.io' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. If an opaque response serves your needs, set the request's mode to 'no-cors' to fetch the resource with CORS disabled.
-  img = loadImage('assets/pics/animation/red-karate/karate-000328.png');
+  img = loadImage('pics/red-karate/karate-000328.png');
   
   var ii = -1;
   for (var i=328; i<338; i++) {
   ii = ii + 1;
-    imgs[ii] = loadImage("assets/pics/animation/red-karate/karate-000"+i+".png"); // https://editor.p5js.org/lmccart/sketches/S1UtI-Kgb
+    imgs[ii] = loadImage("pics/red-karate/karate-000"+i+".png"); // https://editor.p5js.org/lmccart/sketches/S1UtI-Kgb
   }
 } 
 
 function setup() {
-   canvas = createCanvas(windowWidth, windowHeight);
+  canvas = createCanvas(windowWidth, windowHeight);
   // canvas.parent('sketch-holder-jt-karate');
   canvas.position(0,0);
   
@@ -55,11 +55,11 @@ function setup() {
   
 function draw() {
   var vol = mic.getLevel();
-   image(img, 10, 10);
+  image(img, 10, 10);
   ellipse(300,200,vol* 40 + 20,30);
   for (var i=0; i<5; i++) {{
     image(imgs[i], random(width), random(height)); 
   }
 }
   
-  </script> 
+</script> 
