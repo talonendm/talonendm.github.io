@@ -32,22 +32,26 @@ let img;
 //<div id="sketch-holder-jt-karate"></div>
 
 function preload() { 
-  img = loadImage('https://github.com/talonendm/talonendm.github.io/assets/pics/animation/red-karate/karate-000328.png'); 
+  // img = loadImage('https://github.com/talonendm/talonendm.github.io/assets/pics/animation/red-karate/karate-000328.png'); 
+  // Access to fetch at 'https://github.com/talonendm/talonendm.github.io/assets/pics/animation/red-karate/karate-000328.png' from origin 'https://talonendm.github.io' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. If an opaque response serves your needs, set the request's mode to 'no-cors' to fetch the resource with CORS disabled.
+  img = loadImage('assets/pics/animation/red-karate/karate-000328.png');
 } 
 
 function setup() {
-   const canvas = createCanvas(windowWidth, windowHeight);
+   canvas = createCanvas(windowWidth, windowHeight);
   // canvas.parent('sketch-holder-jt-karate');
   canvas.position(0,0);
   
   mic  = new p5.AudioIn();
   mic.start();
   
-  }
+}
   
-  function draw() {
+function draw() {
   var vol = mic.getLevel();
-     ellipse(300,200,vol* 40 + 20,30);
-	 }
+   image(img, 10, 10);
+  ellipse(300,200,vol* 40 + 20,30);
+  
+}
   
   </script> 
