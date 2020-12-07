@@ -76,7 +76,7 @@ function draw() {
 	line(pmouseX, pmouseY, mouseX, mouseY);
   }
   fill(0,255,0);
-  rectangle(40,40,70,70);
+  rect(40,40,70,70);
   fill(0,0,255);
   text(loop_i + ": " + moving, 50,50);
 }
