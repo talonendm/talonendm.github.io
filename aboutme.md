@@ -68,7 +68,7 @@ function draw() {
   moving = abs(pmouseX - mouseX);
   
   if (moving>0) {
-     loop_i = (loop_i + 1) %% 10; 
+     loop_i = (loop_i + 1) % 10; // https://editor.p5js.org/kjhollentoo/sketches/Syf-33fJg
 	 image(imgs[loop_i], (windowWidth), (windowHeight)); 
   }
   
