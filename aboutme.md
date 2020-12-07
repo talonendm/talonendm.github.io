@@ -69,7 +69,7 @@ function draw() {
   
   if (moving>0 | mouseIsPressed) {
      loop_i = (loop_i + 1) % 10; // https://editor.p5js.org/kjhollentoo/sketches/Syf-33fJg
-	 image(imgs[loop_i], (windowWidth), (windowHeight)); 
+	 image(imgs[loop_i], 0, 0); 
   }
   
   if (mouseIsPressed) {
