@@ -21,12 +21,13 @@ What else do you need?
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/p5.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/addons/p5.sound.min.js"></script>
+<script src="https://github.com/talonendm/p5.js/blob/master/lib/addons/p5.sound.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.2/addons/p5.dom.min.js"></script> 
 
 
 <script>
 var canvas;
+var mic;
 let img;
 //<div id="sketch-holder-jt-karate"></div>
 
@@ -39,12 +40,14 @@ function setup() {
   // canvas.parent('sketch-holder-jt-karate');
   canvas.position(0,0);
   
-  load
+  mic  = new p5.AudioIn();
+  mic.start();
   
   }
   
   function draw() {
-     circle(300,200,40,30);
+  var vol = mic.getLevel();
+     ellipse(300,200,vol* 40 + 20,30);
 	 }
   
   </script> 
