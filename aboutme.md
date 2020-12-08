@@ -92,8 +92,9 @@ function draw() {
 	
   }
   
-  if (getAudioContext().state !== 'running') {
+  if (getAudioContext().state == 'running') {
 	fill(100,100,100,30);
+	// and if it running then ellipses
 	var level = mic.getLevel();
 	ellipse(mouseX, mouseY, level * 500, level * 500);
   }
