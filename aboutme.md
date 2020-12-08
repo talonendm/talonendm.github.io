@@ -22,7 +22,7 @@ What else do you need?
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/p5.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.2/addons/p5.dom.min.js"></script> 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.8/p5.sound.js"></script> 
-
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.4/addons/p5.sound.min.js"></script>
 <script>
 // -------------------------------------------------------------------------------
 // no place holder: background: <div id="sketch-holder-jt-karate"></div>
@@ -87,10 +87,10 @@ function draw() {
 // Errors messages (CTRL SHIFT i) Chrome Developer Tools:
 // The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu
 // DevTools failed to load SourceMap: Could not load content for https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/addons/p5.sound.min.js.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
-//function touchStarted() {
-//  if (getAudioContext().state !== 'running') {
-//    getAudioContext().resume();
-//  }
-//}
+function touchStarted() {
+  if (getAudioContext().state !== 'running') {
+    getAudioContext().resume();
+  }
+}
 // ....................................................................
 </script> 
