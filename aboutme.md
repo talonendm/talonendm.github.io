@@ -81,17 +81,23 @@ function draw() {
 	
 	
 	if (getAudioContext().state !== 'running') {
-    getAudioContext().resume();
-	mic = new p5.AudioIn();
-    mic.start();
+		getAudioContext().resume();
+		mic = new p5.AudioIn();
+		mic.start();
 	
+		console.log("resumed sound");
+	
+	}
 	
 	
   }
+  
+  if (getAudioContext().state !== 'running') {
+	fill(100,100,100,30);
 	var level = mic.getLevel();
-	ellipse(mouseX / 2, mouseY / 2, level * 500, level * 500);
-	
+	ellipse(mouseX, mouseY, level * 500, level * 500);
   }
+  
   fill(0,255,0);
   rect(40, 40, 52, 55);
   fill(0,0,255);
