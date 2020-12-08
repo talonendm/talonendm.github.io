@@ -19,20 +19,21 @@ What else do you need?
 
 - Don't hesitate to contact me via email, twitter or what ever..
 
-
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/p5.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.2/addons/p5.dom.min.js"></script> 
-
+<script language="javascript" src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.8/p5.sound.js"></script>  // https://js6450.github.io/sound-p5-part1.html
 
 <script>
+// -------------------------------------------------------------------------------
+// no place holder: background: <div id="sketch-holder-jt-karate"></div>
 var canvas;
 var loop_i=0;
-
-var moving = 0;
-// var mic;
+var moving = 0; // mouseX movement
+var mic;
 let img;
-//<div id="sketch-holder-jt-karate"></div>
+
 var imgs = [];
+// ....................................................................
 function preload() { 
   // img = loadImage('pics/red-karate/karate-000328.png'); 
   // Access to fetch at 'pics/red-karate/karate-000328.png' from origin 'https://talonendm.github.io' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. If an opaque response serves your needs, set the request's mode to 'no-cors' to fetch the resource with CORS disabled.
@@ -44,27 +45,24 @@ function preload() {
     imgs[ii] = loadImage("pics/karate-000"+i+".png"); // https://editor.p5js.org/lmccart/sketches/S1UtI-Kgb
   }
 } 
-
+// ....................................................................
 function setup() {
-  canvas = createCanvas(windowWidth, windowHeight);
+  // canvas = createCanvas(windowWidth, windowHeight); // full screen
+    
+  canvas = createCanvas(1000, 1000); // we want size of image or a bit more
   // canvas.parent('sketch-holder-jt-karate');
   canvas.position(0,0);
   canvas.style('z-index', '-1'); // https://www.youtube.com/watch?v=OIfEHD3KqCg
-  // mic  = new p5.AudioIn();
-  // mic.start();
+  mic = new p5.AudioIn();
+  mic.start();
   
 }
-  
+// ....................................................................
 function draw() {
   // var vol = mic.getLevel();
   //image(img, 10, 10);
   // ellipse(300,200,vol* 40 + 20,30);
- 
-   
- 
-  
-  
-  
+
   moving = abs(pmouseX - mouseX);
   
   if (moving>2 | mouseIsPressed) {
@@ -72,8 +70,12 @@ function draw() {
 	 image(imgs[loop_i], 0, 0); 
   }
   
+  
+  
   if (mouseIsPressed) {
 	line(pmouseX, pmouseY, mouseX, mouseY);
+	var level = mic.getLevel();
+	ellipse(mouseX / 2, mouseY / 2, level * 500, level * 500);
   }
   fill(0,255,0);
   rect(40, 40, 52, 55);
