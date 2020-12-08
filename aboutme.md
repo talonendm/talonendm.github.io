@@ -75,8 +75,19 @@ function draw() {
   
   if (mouseIsPressed) {
 	line(pmouseX, pmouseY, mouseX, mouseY);
-	//var level = mic.getLevel();
-	//ellipse(mouseX / 2, mouseY / 2, level * 500, level * 500);
+	
+	
+	if (getAudioContext().state !== 'running') {
+    getAudioContext().resume();
+	mic = new p5.AudioIn();
+    mic.start();
+	
+	
+	
+  }
+	var level = mic.getLevel();
+	ellipse(mouseX / 2, mouseY / 2, level * 500, level * 500);
+	
   }
   fill(0,255,0);
   rect(40, 40, 52, 55);
@@ -90,6 +101,8 @@ function draw() {
 function touchStarted() {
   if (getAudioContext().state !== 'running') {
     getAudioContext().resume();
+	mic = new p5.AudioIn();
+    mic.start();
   }
 }
 // ....................................................................
