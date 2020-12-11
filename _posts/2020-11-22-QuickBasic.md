@@ -41,6 +41,7 @@ unpack e.g. to C:\qb64\
 
 {: .box-warning}
 **Warning:** Never download exe-files from untrusted pages!
+So, if you know and trust me, go ahead. Files with .exe extension are mainly meant for myself. In year 2040 I still can easily install my own worm game to my laptop!
 
 # Code
 
