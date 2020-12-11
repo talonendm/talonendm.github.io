@@ -39,10 +39,13 @@ unpack e.g. to C:\qb64\
 ![bas code in 45 binary format](/assets/pics/page/screenshot/qb64_45binarydetected.JPG){: .mx-auto.d-block :}
 
 
+{: .box-warning}
+**Warning:** Never download exe-files from untrusted pages!
+
 # Code
 
 ## Worm game for 2-4 players
-Worm game, download converted exe file [here](https://talonendm.github.io/assets/bas/converted/MATIS3_converted.exe).
+Worm game, download converted exe file [here](https://www.dropbox.com/sh/ne7b81igchipyai/AACfGCtSlHBKO1rAzsL7hhh8a?dl=0).
 
 ![matis3 converted.bas](/assets/pics/page/screenshot/matis3_hidastus.JPG){: .mx-auto.d-block :}
 Worm "matis3" game winner is player 1 having 1711 points. If I remember correctly, it means that the worm is 1711 pixels long.  
@@ -1205,7 +1208,7 @@ END
 ~~~
 
 ## turpa200.bas
-Car game, download converted exe file [here](https://talonendm.github.io/assets/bas/converted/TURPA200_converted.exe).
+Car game, download converted exe file [here](https://www.dropbox.com/sh/ne7b81igchipyai/AACfGCtSlHBKO1rAzsL7hhh8a?dl=0).
 ![TURPAUT1.bas](/assets/pics/page/screenshot/TURPAUT1.JPG){: .mx-auto.d-block :}
 ![turpa200.bas](/assets/pics/page/screenshot/turpa200.JPG){: .mx-auto.d-block :}
 ~~~
@@ -1362,7 +1365,7 @@ RETURN
 ~~~
 
 ## Royal Casino
-Play BlackJack up to 4 hands, download converted exe file [here](https://talonendm.github.io/assets/bas/converted/BLACKJACK_converted.exe).
+Play BlackJack up to 4 hands, download converted exe file [here](https://www.dropbox.com/sh/ne7b81igchipyai/AACfGCtSlHBKO1rAzsL7hhh8a?dl=0).
 ![royalcasino.bas](/assets/pics/page/screenshot/royalcasino.JPG){: .mx-auto.d-block :}
 
 
@@ -1787,7 +1790,7 @@ RETURN
 ~~~
 
 ## Baltsi
-Bouncing ball, collect items and beware water, download converted exe file [here](https://talonendm.github.io/assets/bas/converted/BALTSI_converted.exe).
+Bouncing ball, collect items and beware water, download converted exe file [here](https://www.dropbox.com/sh/ne7b81igchipyai/AACfGCtSlHBKO1rAzsL7hhh8a?dl=0).
 ~~~
 '*****************************************************************************
 SCREEN 12
