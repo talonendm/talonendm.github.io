@@ -13,30 +13,28 @@ thumbnail-img: /assets/pics/thumbnail/instagram/IMG_20160717_112037.jpg
 published: true
 ---
 
-# Frisbeegolf
-
 F
-
+<br>
 R
-
+<br>
 I 
-
+<br>
 S 
-
+<br>
 B 
-
+<br>
 E 
-
+<br>
 E 
-
+<p>
 G 
-
+<br>
 O 
-
+<br>
 L  
- 
+ <br>
 F 
-
+<br><br><br><br><br><br><br><br>
 
 
 
@@ -82,7 +80,7 @@ let playing = false;
 let fingers;
 let button;
 
-
+let img2;
 
 
 
@@ -110,7 +108,10 @@ function setup() {
   // button = createButton('play');
   // button.mousePressed(toggleVid); // attach button listener
   
-  fingers.size(480, 800);
+  // fingers.size(480, 800);
+  
+  
+  img2 = fingers.resize(108,192);
   
   // https://p5js.org/reference/#/p5/createVideo
   
@@ -127,7 +128,7 @@ function mousePressed() {
 function draw() {
 	background(150);
     
-	 image(fingers, 0, 300); // draw the video frame to canvas
+	 image(fingers, 0, 400); // draw the video frame to canvas
      filter(GRAY); // video in gray color...
     
 	
@@ -145,7 +146,7 @@ function draw() {
 
  */	
 
-image(fingers, 0, 350, 108, 192); // draw a second copy to canvas
+image(img2, 0, 450); // draw a second copy to canvas
 
 
 	fill(255, 255, 255);
