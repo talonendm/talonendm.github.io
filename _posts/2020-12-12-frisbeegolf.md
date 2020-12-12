@@ -39,7 +39,7 @@ let button;
 
 function setup() {
 
-  const canvas = createCanvas(480, 800);
+  const canvas = createCanvas(800, 1200);
   canvas.parent('sketch-holder-jt-video')
   
   frameRate(15); // no need to have 60.
@@ -61,7 +61,7 @@ function setup() {
   // https://p5js.org/reference/#/p5/createVideo
   
   
-  
+  // GOOD STUFF: https://creative-coding.decontextualize.com/video/
   
 }
 
@@ -73,8 +73,23 @@ function mousePressed() {
 function draw() {
 	background(150);
     image(fingers, 0, 0); // draw the video frame to canvas
-    filter(GRAY);
-    image(fingers, 0, 0, 48, 84); // draw a second copy to canvas
+    filter(GRAY); // video in gray color...
+	
+	
+    
+
+     fingers.loadPixels();
+  for (var y = 0; y < height; y += 10) {
+    for (var x = 0; x < width; x += 5) {
+      var offset = ((y*width)+x)*4;
+      rect(x, y, 10,
+        10 * (fingers.pixels[offset+1]/255));
+    }
+  }
+
+
+image(fingers, 0, 0, 150, 400); // draw a second copy to canvas
+
 
 	fill(255, 255, 255);
 	text("12.12.2020 Score 17: 3,4,4,5,6", 50, 50);
