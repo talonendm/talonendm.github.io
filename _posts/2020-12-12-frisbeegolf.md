@@ -111,7 +111,7 @@ function setup() {
   // fingers.size(480, 800);
   
   
-  img2 = fingers.resize(108,192);
+ // img2 = fingers.resize(108,192);
   
   // https://p5js.org/reference/#/p5/createVideo
   
@@ -146,7 +146,7 @@ function draw() {
 
  */	
 
-image(img2, 0, 450); // draw a second copy to canvas
+image(img2, 0, 450, 108,192); // draw a second copy to canvas
 
 
 	fill(255, 255, 255);
