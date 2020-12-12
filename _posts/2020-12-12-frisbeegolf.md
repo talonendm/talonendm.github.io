@@ -48,6 +48,8 @@ function setup() {
   // specify multiple formats for different browsers
   // fingers = createVideo(['assets/fingers.mov', 'assets/fingers.webm']);
   fingers = createVideo(['https://dl.dropboxusercontent.com/s/rfsxxpqy8g0rh4l/VID_20201212_105031_01.mp4?dl=0'], vidLoad);
+  
+  fingers.hide(); // by default video shows up in separate dom REF: https://editor.p5js.org/p5/sketches/Dom:_Video_Canvas
   // button = createButton('play');
   // button.mousePressed(toggleVid); // attach button listener
   
@@ -61,6 +63,11 @@ function setup() {
 }
 
 function draw() {
+	background(150);
+    image(fingers, 0, 0); // draw the video frame to canvas
+    filter(GRAY);
+    image(fingers, 0, 0, 48, 84); // draw a second copy to canvas
+
 	fill(255, 255, 255);
 	text("12.12.2020 Score 17: 3,4,4,5,6", 50, 50);
 
