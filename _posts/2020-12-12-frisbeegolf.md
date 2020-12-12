@@ -47,7 +47,10 @@ function setup() {
 
   // specify multiple formats for different browsers
   // fingers = createVideo(['assets/fingers.mov', 'assets/fingers.webm']);
-  fingers = createVideo(['https://dl.dropboxusercontent.com/s/rfsxxpqy8g0rh4l/VID_20201212_105031_01.mp4?dl=0'], vidLoad);
+  fingers = createVideo(['https://dl.dropboxusercontent.com/s/rfsxxpqy8g0rh4l/VID_20201212_105031_01.mp4?dl=0']);
+  
+  //  fingers = createVideo(['https://dl.dropboxusercontent.com/s/rfsxxpqy8g0rh4l/VID_20201212_105031_01.mp4?dl=0'], vidLoad);
+
   
   fingers.hide(); // by default video shows up in separate dom REF: https://editor.p5js.org/p5/sketches/Dom:_Video_Canvas
   // button = createButton('play');
@@ -61,6 +64,11 @@ function setup() {
   
   
 }
+
+function mousePressed() {
+  fingers.loop(); // set the video to loop and start playing
+}
+
 
 function draw() {
 	background(150);
