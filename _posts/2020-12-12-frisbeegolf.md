@@ -19,7 +19,6 @@ published: true
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/p5.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/addons/p5.sound.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.2/addons/p5.dom.min.js"></script> 
-<div id="sketch-holder-jt-video"></div>
 
 <script>
 
@@ -42,9 +41,14 @@ let button;
 
 
 function setup() {
+// <div id="sketch-holder-jt-video"></div>
 
-  const canvas = createCanvas(1080, 1920);
-  canvas.parent('sketch-holder-jt-video')
+ //  const canvas = createCanvas(1080, 1920);
+ // canvas.parent('sketch-holder-jt-video')
+  canvas = createCanvas(1080, 1920);
+  canvas.position(0,0);
+  canvas.style('z-index', '-1'); // https://www.youtube.com/watch?v=OIfEHD3KqCg
+  
   
   frameRate(30); // no need to have 60.
 
