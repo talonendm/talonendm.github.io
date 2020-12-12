@@ -8,7 +8,7 @@ tags:
   - video
   - Frisbeegolf
 comments: false
-cover-img: /assets/pics/cover/cottage.JPG
+cover-img: /assets/pics/cover/photo/cottage.JPG
 thumbnail-img: /assets/pics/thumbnail/instagram/IMG_20160717_112037.jpg
 published: true
 ---
