@@ -146,7 +146,7 @@ function draw() {
 
  */	
 
-image(img2, 0, 450, 108,192); // draw a second copy to canvas
+image(fingers, 0, 450, 108,192); // draw a second copy to canvas
 
 
 	fill(255, 255, 255);
