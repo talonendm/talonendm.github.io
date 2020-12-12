@@ -39,7 +39,7 @@ let button;
 
 function setup() {
 
-  const canvas = createCanvas(480, 800);
+  const canvas = createCanvas(800, 480);
   canvas.parent('sketch-holder-jt-video')
   
   frameRate(15); // no need to have 60.
@@ -48,40 +48,35 @@ function setup() {
   // specify multiple formats for different browsers
   // fingers = createVideo(['assets/fingers.mov', 'assets/fingers.webm']);
   fingers = createVideo(['https://dl.dropboxusercontent.com/s/rfsxxpqy8g0rh4l/VID_20201212_105031_01.mp4?dl=0'], vidLoad);
-  // button = createButton('play');
-  // button.mousePressed(toggleVid); // attach button listener
+  button = createButton('play');
+  button.mousePressed(toggleVid); // attach button listener
   
-  fingers.size(480, 800);
+  fingers.size(800, 480);
   
   // https://p5js.org/reference/#/p5/createVideo
   
+  fill(255, 255, 255);
+  text("12.12.2020 Score 17: 3,4,4,5,6", 50, 50);
   
   
-  
-}
-
-void draw() {
-	fill(255, 255, 255);
-	text("12.12.2020 Score 17: 3,4,4,5,6", 50, 50);
-
 }
 
 // plays or pauses the video depending on current state
-//function toggleVid() {
-//  if (playing) {
-//    fingers.pause();
-//    button.html('play');
-//  } else {
-//    fingers.loop();
-//   button.html('pause');
-//}
-//  playing = !playing;
-//}
+function toggleVid() {
+  if (playing) {
+    fingers.pause();
+    button.html('play');
+  } else {
+    fingers.loop();
+    button.html('pause');
+  }
+  playing = !playing;
+}
 
 
 // This function is called when the video loads
 function vidLoad() {
-  fingers.loop();
+  // fingers.loop();
   fingers.volume(0);
 }
 
