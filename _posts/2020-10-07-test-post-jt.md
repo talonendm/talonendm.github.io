@@ -200,6 +200,13 @@ print ('Hello, world!')
 ```
 
 
+[Quotes](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#blockquotes)
+```
+> Your quote
+```
+> Your quote
+
+
 ## Notepad++ Tips
 Some tips:
 Comment multiple rows:

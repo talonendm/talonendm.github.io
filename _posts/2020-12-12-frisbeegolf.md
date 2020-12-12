@@ -76,8 +76,8 @@ function toggleVid() {
 
 // This function is called when the video loads
 function vidLoad() {
-  vid.loop();
-  vid.volume(0);
+  // fingers.loop();
+  fingers.volume(0);
 }
 
 
