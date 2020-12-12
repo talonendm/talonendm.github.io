@@ -15,6 +15,52 @@ published: true
 
 # Frisbeegolf
 
+F
+
+R
+
+I 
+
+S 
+
+B 
+
+E 
+
+E 
+
+G 
+
+O 
+
+L  
+ 
+F 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2 
+
+0 
+
+2 
+
+0 
+
+
+
+
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/p5.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/addons/p5.sound.min.js"></script>
@@ -81,7 +127,7 @@ function mousePressed() {
 function draw() {
 	background(150);
     
-	 image(fingers, 0, 0); // draw the video frame to canvas
+	 image(fingers, 0, 300); // draw the video frame to canvas
      filter(GRAY); // video in gray color...
     
 	
@@ -99,11 +145,12 @@ function draw() {
 
  */	
 
-image(fingers, 0, 50, 108, 192); // draw a second copy to canvas
+image(fingers, 0, 350, 108, 192); // draw a second copy to canvas
 
 
 	fill(255, 255, 255);
-	text("12.12.2020 Score 17: 3,4,4,5,6", 50, 50);
+	textSize(32);
+	text("12.12.2020 Score 17: 3,4,4,5,6", 50, 550);
 
 }
 
