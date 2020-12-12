@@ -206,6 +206,10 @@ print ('Hello, world!')
 ```
 > Your quote
 
+[Emojies](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax#using-emoji)
+:+1:
+
+
 
 ## Notepad++ Tips
 Some tips:
