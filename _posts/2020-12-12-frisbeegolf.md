@@ -108,7 +108,7 @@ function setup() {
   // button = createButton('play');
   // button.mousePressed(toggleVid); // attach button listener
   
-  // fingers.size(480, 800);
+   fingers.size(480, 800);
   
   
  // img2 = fingers.resize(108,192);
