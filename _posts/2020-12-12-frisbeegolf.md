@@ -72,9 +72,7 @@ function mousePressed() {
 
 function draw() {
 	background(150);
-    image(fingers, 0, 0); // draw the video frame to canvas
-    filter(GRAY); // video in gray color...
-	
+    
 	
     
 
@@ -86,7 +84,11 @@ function draw() {
         10 * (fingers.pixels[offset+1]/255));
     }
   }
+   fingers.updatePixels();
 
+  image(fingers, 0, 0); // draw the video frame to canvas
+   // filter(GRAY); // video in gray color...
+	
 
 image(fingers, 0, 0, 150, 400); // draw a second copy to canvas
 
