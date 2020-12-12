@@ -12,8 +12,8 @@ My objective is to do something that could "wake up" my children interest on cod
 
 *Generally*
 
-- I rock data 2
-- I'm extremely loyal to data and models
+- I rock data
+- I'm passionated and extremely loyal to everything that is based on data but having critical mindset
 
 What else do you need?
 
@@ -35,6 +35,7 @@ var loop_i=0;
 var moving = 0; // mouseX movement
 var mic;
 let img;
+var micstart = false;
 
 var imgs = [];
 // ....................................................................
@@ -57,8 +58,8 @@ function setup() {
   // canvas.parent('sketch-holder-jt-karate');
   canvas.position(0,0);
   canvas.style('z-index', '-1'); // https://www.youtube.com/watch?v=OIfEHD3KqCg
-  mic = new p5.AudioIn();
-  mic.start();
+  // mic = new p5.AudioIn();
+  // mic.start();
   
 }
 // ....................................................................
@@ -80,13 +81,17 @@ function draw() {
 	line(pmouseX, pmouseY, mouseX, mouseY);
 	
 	
+	
+	
 	if (getAudioContext().state !== 'running') {
 		getAudioContext().resume();
 		mic = new p5.AudioIn();
 		mic.start();
 	
 		console.log("resumed sound");
-	
+	    
+		micstart = true;
+		
 	}
 	
 	
