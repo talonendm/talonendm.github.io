@@ -60,7 +60,7 @@ function setup() {
   
 }
 
-void draw() {
+function draw() {
 	fill(255, 255, 255);
 	text("12.12.2020 Score 17: 3,4,4,5,6", 50, 50);
 
