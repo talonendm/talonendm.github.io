@@ -7,54 +7,14 @@ tags:
   - p5
   - video
   - Frisbeegolf
-comments: false
-cover-img: /assets/pics/cover/photo/cottage.JPG
+comments: true
 thumbnail-img: /assets/pics/thumbnail/instagram/IMG_20160717_112037.jpg
 published: true
 ---
 
-F
-<br>
-R
-<br>
-I 
-<br>
-S 
-<br>
-B 
-<br>
-E 
-<br>
-E 
-<p>
-G 
-<br>
-O 
-<br>
-L  
- <br>
-F 
+<br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-2 
-
-0 
-
-2 
-
-0 
 
 
 
@@ -67,7 +27,7 @@ F
 <script>
 
 //dom // this probably needed if objects created in js
-
+// cover-img: /assets/pics/cover/photo/cottage.JPG
 
 window.addEventListener('keydown', function(e) {
   if(e.keyCode == 32 && e.target == document.body) {
@@ -92,6 +52,11 @@ function setup() {
   canvas = createCanvas(windowWidth, windowHeight);
   canvas.position(0,0);
   canvas.style('z-index', '-1'); // https://www.youtube.com/watch?v=OIfEHD3KqCg
+  
+  
+  // later: open points csv from dropbox
+  // calculate avg:
+  
   
   
   frameRate(30); // no need to have 60.
