@@ -69,7 +69,7 @@ function setup() {
   //  fingers = createVideo(['https://dl.dropboxusercontent.com/s/rfsxxpqy8g0rh4l/VID_20201212_105031_01.mp4?dl=0'], vidLoad);
   
   
-  fingers = createVideo(['https://dl.dropboxusercontent.com/s/t0jgtwqiuh2ixyl/friba2.mp4?dl=0']);
+  fingers = createVideo(['https://dl.dropboxusercontent.com/s/t0jgtwqiuh2ixyl/friba2.mp4?dl=0'], vidLoad); // autoplay func.
 
   
   fingers.hide(); // by default video shows up in separate dom REF: https://editor.p5js.org/p5/sketches/Dom:_Video_Canvas
