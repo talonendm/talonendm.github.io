@@ -89,7 +89,7 @@ function setup() {
 
  //  const canvas = createCanvas(1080, 1920);
  // canvas.parent('sketch-holder-jt-video')
-  canvas = createCanvas(1080, 1920);
+  canvas = createCanvas(windowWidth, windowHeight);
   canvas.position(0,0);
   canvas.style('z-index', '-1'); // https://www.youtube.com/watch?v=OIfEHD3KqCg
   
@@ -99,16 +99,19 @@ function setup() {
 
   // specify multiple formats for different browsers
   // fingers = createVideo(['assets/fingers.mov', 'assets/fingers.webm']);
-  fingers = createVideo(['https://dl.dropboxusercontent.com/s/rfsxxpqy8g0rh4l/VID_20201212_105031_01.mp4?dl=0']);
+  // fingers = createVideo(['https://dl.dropboxusercontent.com/s/rfsxxpqy8g0rh4l/VID_20201212_105031_01.mp4?dl=0']);
   
   //  fingers = createVideo(['https://dl.dropboxusercontent.com/s/rfsxxpqy8g0rh4l/VID_20201212_105031_01.mp4?dl=0'], vidLoad);
+  
+  
+  fingers = createVideo(['https://dl.dropboxusercontent.com/s/t0jgtwqiuh2ixyl/friba2.mp4?dl=0']);
 
   
   fingers.hide(); // by default video shows up in separate dom REF: https://editor.p5js.org/p5/sketches/Dom:_Video_Canvas
   // button = createButton('play');
   // button.mousePressed(toggleVid); // attach button listener
   
-   fingers.size(480, 800);
+   fingers.size(960, 540);
   
   
  // img2 = fingers.resize(108,192);
@@ -128,25 +131,25 @@ function mousePressed() {
 function draw() {
 	background(150);
     
-	 image(fingers, 0, 400); // draw the video frame to canvas
+	 image(fingers, 0, 0, windowWidth, windowHeight); // draw the video frame to canvas
      filter(GRAY); // video in gray color...
     
 	
-	/*
+//	/*
   // not working ...
-     fingers.loadPixels();
-  for (var y = 0; y < height; y += 10) {
-    for (var x = 0; x < width; x += 5) {
-      var offset = ((y*width)+x)*4;
-      rect(x, y, 10,
-        10 * (fingers.pixels[offset+1]/255));
-    }
-  }
-   fingers.updatePixels();
+  //   fingers.loadPixels();
+ // for (var y = 0; y < height; y += 10) {
+   // for (var x = 0; x < width; x += 5) {
+   //   var offset = ((y*width)+x)*4;
+   //   rect(x, y, 10,
+   //     10 * (fingers.pixels[offset+1]/255));
+   // }
+//  }
+ //  fingers.updatePixels();
 
- */	
+ //*/	
 
-image(fingers, 0, 450, 108,192); // draw a second copy to canvas
+//image(fingers, 0, 450, 108,192); // draw a second copy to canvas
 
 
 	fill(255, 255, 255);
