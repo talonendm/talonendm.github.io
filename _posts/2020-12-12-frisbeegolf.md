@@ -42,6 +42,7 @@ let button;
 
 let img2;
 
+var looppi = true;
 
 
 function setup() {
@@ -89,12 +90,19 @@ function setup() {
 }
 
 function mousePressed() {
-  fingers.loop(); // set the video to loop and start playing
+  // fingers.loop(); // set the video to loop and start playing
+  
+  looppi = !looppi;
+  
 }
 
 
 function draw() {
 	background(150);
+	
+	if (looppi) {
+	fingers.loop(); // set the video to loop and start playing
+}	
     
 	 image(fingers, 0, 0, windowWidth, windowHeight); // draw the video frame to canvas
      filter(GRAY); // video in gray color...
