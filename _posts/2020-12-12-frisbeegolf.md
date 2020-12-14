@@ -12,12 +12,7 @@ thumbnail-img: /assets/pics/thumbnail/instagram/IMG_20160717_112037.jpg
 published: true
 ---
 
-<br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br>
-
-
-
-
+<div id="sketch-holder-jt-video"></div>
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/p5.js"></script>
@@ -48,11 +43,11 @@ var looppi = true;
 function setup() {
 // <div id="sketch-holder-jt-video"></div>
 
- //  const canvas = createCanvas(1080, 1920);
- // canvas.parent('sketch-holder-jt-video')
-  canvas = createCanvas(windowWidth, windowHeight);
-  canvas.position(0,0);
-  canvas.style('z-index', '-1'); // https://www.youtube.com/watch?v=OIfEHD3KqCg
+  const canvas = createCanvas(960, 540);
+  canvas.parent('sketch-holder-jt-video')
+  // canvas = createCanvas(windowWidth, windowHeight);
+  // canvas.position(0,0);
+  // canvas.style('z-index', '-1'); // https://www.youtube.com/watch?v=OIfEHD3KqCg
   
   
   // later: open points csv from dropbox
@@ -60,7 +55,7 @@ function setup() {
   
   
   
-  frameRate(30); // no need to have 60.
+  // frameRate(30); // no need to have 60.
 
 
   // specify multiple formats for different browsers
@@ -101,28 +96,28 @@ function draw() {
 	background(150);
 	
 	if (looppi) {
-	fingers.loop(); // set the video to loop and start playing
-}	
+		fingers.loop(); // set the video to loop and start playing
+	}	
     
 	 image(fingers, 0, 0, windowWidth, windowHeight); // draw the video frame to canvas
      filter(GRAY); // video in gray color...
     
 	
-//	/*
-  // not working ...
-  //   fingers.loadPixels();
- // for (var y = 0; y < height; y += 10) {
-   // for (var x = 0; x < width; x += 5) {
-   //   var offset = ((y*width)+x)*4;
-   //   rect(x, y, 10,
-   //     10 * (fingers.pixels[offset+1]/255));
-   // }
-//  }
- //  fingers.updatePixels();
+	//	/*
+	// not working ...
+	//   fingers.loadPixels();
+	// for (var y = 0; y < height; y += 10) {
+	// for (var x = 0; x < width; x += 5) {
+	//   var offset = ((y*width)+x)*4;
+	//   rect(x, y, 10,
+	//     10 * (fingers.pixels[offset+1]/255));
+	// }
+	//  }
+	//  fingers.updatePixels();
 
- //*/	
+	//*/	
 
-//image(fingers, 0, 450, 108,192); // draw a second copy to canvas
+	//image(fingers, 0, 450, 108,192); // draw a second copy to canvas
 
 
 	fill(255, 255, 255);
@@ -149,6 +144,5 @@ function vidLoad() {
   fingers.loop();
   fingers.volume(0);
 }
-
 
 </script>
