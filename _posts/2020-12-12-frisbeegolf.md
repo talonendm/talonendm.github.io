@@ -7,7 +7,7 @@ tags:
   - p5
   - video
   - Frisbeegolf
-comments: true
+comments: false
 thumbnail-img: /assets/pics/thumbnail/instagram/IMG_20160717_112037.jpg
 published: true
 ---

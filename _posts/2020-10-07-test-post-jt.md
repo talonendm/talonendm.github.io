@@ -184,6 +184,14 @@ to
 #gtm: ""
 ```
 
+## Disqus
+
+Disqus [shortname](https://https-talonendm-github-io.disqus.com/admin/settings/general/) is shown here after registering the [page](https://disqus.com/admin/create/).
+
+For my [https-talonendm-github-io.disqus.com](https://talonendm.github.io/) I got shortname https-talonendm-github-io. 
+Note I can mention it here, because it is shown and used in public _config.yml file.
+
+Sharing buttons to FB and Twitter cannot be [disabled](https://disqus.com/home/channel/discussdisqus/discussion/channel-discussdisqus/admin_how_to_remove_share_buttons_from_social_media/best/).
 
 
 
