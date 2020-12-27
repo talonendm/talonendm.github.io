@@ -7,7 +7,7 @@ tags:
   - video
   - image
   - mask
-comments: true
+comments: false
 cover-img: /assets/pics/cover/photo/deers2.JPG
 thumbnail-img: /assets/pics/thumbnail/instagram/IMG_20160610_161421.jpg
 published: true

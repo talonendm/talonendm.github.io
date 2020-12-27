@@ -10,7 +10,7 @@ gh-badge:
 tags:
   - test
   - demopage
-comments: true
+comments: false
 published: true
 ---
 

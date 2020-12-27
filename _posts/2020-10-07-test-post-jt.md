@@ -8,6 +8,7 @@ share-img: /assets/pics/thumbnail/photo/kaktus.JPG
 tags:
   - test
   - blog
+comments: true
 published: true
 ---
 
@@ -187,13 +188,19 @@ to
 ## Disqus
 
 Disqus [shortname](https://https-talonendm-github-io.disqus.com/admin/settings/general/) is shown here after registering the [page](https://disqus.com/admin/create/).
+"A [shortname](https://help.disqus.com/en/articles/1717111-what-s-a-shortname) is the unique identifier assigned to a Disqus site. All the comments posted to a site are referenced with the shortname. The shortname tells Disqus to load only your site's comments, as well as the settings specified in your Disqus admin."
+
 
 For my [https-talonendm-github-io.disqus.com](https://talonendm.github.io/) I got shortname https-talonendm-github-io. 
 Note I can mention it here, because it is shown and used in public _config.yml file.
 
 Sharing buttons to FB and Twitter cannot be [disabled](https://disqus.com/home/channel/discussdisqus/discussion/channel-discussdisqus/admin_how_to_remove_share_buttons_from_social_media/best/).
 
-
+Note [this](https://fatfrogmedia.com/delete-disqus-comments-wordpress/)... why you shouldn't use Disqus... I think I will keep it, but just have
+```
+comments: false
+```
+in most of the blog posts.
 
 ## Markdown
 
