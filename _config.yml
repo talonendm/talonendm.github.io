@@ -16,6 +16,7 @@ author: Jaakko
 navbar-links:
   About Me: "aboutme"
   Resources:
+    - tags: "https://talonendm.github.io/tags/"
     - Re:Teatteri: "https://talonendm.github.io/reteatteri/"
     # - Beautiful Jekyll: "https://beautifuljekyll.com"
     # - Learn markdown: "https://www.markdowntutorial.com/"
