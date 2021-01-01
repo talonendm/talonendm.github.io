@@ -8,6 +8,11 @@ share-img: /assets/pics/thumbnail/photo/kaktus.JPG
 tags:
   - test
   - blog
+  - favicon
+  - iframe
+  - git
+  - Disqus
+  
 comments: true
 published: true
 ---
@@ -235,6 +240,8 @@ Edit _includes/head.html file and add these lines inside <head> tags:
 
 - [favicon tips](https://github.com/daattali/beautiful-jekyll/issues/312)
 - [desktop shortcut](https://stackoverflow.com/questions/19634368/how-to-get-favicon-icon-when-create-shortcut-of-website-page)
+
+I used [Favicon generator](https://www.favicon-generator.org/) for creating ico and png files for Android and Apple mobile phones.
 
 ## Notepad++ Tips
 Some tips:
