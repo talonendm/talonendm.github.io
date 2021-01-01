@@ -226,6 +226,16 @@ print ('Hello, world!')
 
 
 
+## Favicon
+Edit _includes/head.html file and add these lines inside <head> tags:
+```
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
+<link rel="SHORTCUT ICON" href="https://talonendm.github.io/favicon.ico"/>
+```
+
+- [favicon tips](https://github.com/daattali/beautiful-jekyll/issues/312)
+- [desktop shortcut](https://stackoverflow.com/questions/19634368/how-to-get-favicon-icon-when-create-shortcut-of-website-page)
+
 ## Notepad++ Tips
 Some tips:
 Comment multiple rows:
