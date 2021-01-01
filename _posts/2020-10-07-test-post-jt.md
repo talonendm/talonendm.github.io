@@ -232,6 +232,29 @@ print ('Hello, world!')
 
 
 ## Favicon
+
+Another test and this worked for browser, shortcut and Android:
+
+- Thanks for [Paul C,'s Favicon instructions](https://ptc-it.de/add-favicon-to-mm-jekyll-site/) and check more details from this site.
+- [favicon editor](https://realfavicongenerator.net/favicon_result?file_id=p1eqvsnca8i0f1ijt14g81ficvhj6#.X--QzlUzapo)
+
+In Favicon editor select correct folder where favicon's are stored (root is not the best place), so I used "/assets/favicon".
+Editor generates zip file and extract that into selected folder. 
+Edit _includes/head.html file and add these generated code lines inside <head> tags:
+```
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
+<link rel="manifest" href="/assets/favicon/site.webmanifest">
+<link rel="mask-icon" href="/assets/favicon/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="/assets/favicon/favicon.ico">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-config" content="/assets/favicon/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+```
+
+### My first Favicon test (not perfect solution):
+
 Edit _includes/head.html file and add these lines inside <head> tags:
 ```
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
@@ -245,10 +268,7 @@ I used [Favicon generator](https://www.favicon-generator.org/) for creating ico 
 BTW: it is working for IE desktop shortcut, but not for Google Chrome (problem in cache?), see e.g. [favicon not showing](https://www.xspdf.com/resolution/50372192.html).
 In addition, Chrome app link (favicon) in my One plus is working neither. Anyway, I didn't use much time for this, 'cos this isn't so important.
 
-Another test:
 
-- [Favicon instructions](https://ptc-it.de/add-favicon-to-mm-jekyll-site/)
-- [favicon editor](https://realfavicongenerator.net/favicon_result?file_id=p1eqvsnca8i0f1ijt14g81ficvhj6#.X--QzlUzapo)
 
 ## Notepad++ Tips
 Some tips:
