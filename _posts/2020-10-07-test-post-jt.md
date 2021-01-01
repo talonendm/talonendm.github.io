@@ -241,7 +241,14 @@ Edit _includes/head.html file and add these lines inside <head> tags:
 - [favicon tips](https://github.com/daattali/beautiful-jekyll/issues/312)
 - [desktop shortcut](https://stackoverflow.com/questions/19634368/how-to-get-favicon-icon-when-create-shortcut-of-website-page)
 
-I used [Favicon generator](https://www.favicon-generator.org/) for creating ico and png files for Android and Apple mobile phones.
+I used [Favicon generator](https://www.favicon-generator.org/) for creating ico and png files for Android and Apple mobile phones. 
+BTW: it is working for IE desktop shortcut, but not for Google Chrome (problem in cache?), see e.g. [favicon not showing](https://www.xspdf.com/resolution/50372192.html).
+In addition, Chrome app link (favicon) in my One plus is working neither. Anyway, I didn't use much time for this, 'cos this isn't so important.
+
+Another test:
+
+- [Favicon instructions](https://ptc-it.de/add-favicon-to-mm-jekyll-site/)
+- [favicon editor](https://realfavicongenerator.net/favicon_result?file_id=p1eqvsnca8i0f1ijt14g81ficvhj6#.X--QzlUzapo)
 
 ## Notepad++ Tips
 Some tips:
