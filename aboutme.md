@@ -113,9 +113,10 @@ function draw() {
   //	ellipse(mouseX, mouseY, level * 500, level * 500);
   // }
   
+  noStroke();
   fill(0,255,0);
-  rect(40, 40, 52, 55);
-  fill(0,0,255);
+  rect(40, 40, 72, 35);
+  fill(0,30,155);
   text(loop_i + ": " + moving, 50,52);
 }
 // ....................................................................
