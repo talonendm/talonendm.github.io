@@ -10,6 +10,15 @@ During this dark & rainy seasoned with COVID-19 period there has been plenty of 
 My objective isn't very clear, but it's just fun to create some code experiments and "silly" games as it was in back 90s.
 
 
+<!-- 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.2/addons/p5.dom.min.js"></script> 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/addons/p5.sound.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.4/addons/p5.sound.min.js"></script>
+
+-->
+
+
+
 *Generally*
 
 - [Opinions Are My Own](https://www.insidehighered.com/blogs/technology-and-learning/do-we-still-need-opinions-are-my-own-social-media-disclaimer) (or cloned / forked somewhere) at talonen.dm github pages!
@@ -25,9 +34,7 @@ What else do you need?
 
 <script>
 
-//<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.2/addons/p5.dom.min.js"></script> 
-//<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/addons/p5.sound.js"></script>
-//<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.4/addons/p5.sound.min.js"></script>
+
 
 // -------------------------------------------------------------------------------
 //  no place holder: background: <div id="sketch-holder-jt-karate"></div>
@@ -37,7 +44,7 @@ var loop_i=0;
 var moving = 0; // mouseX movement
 // var mic;
 let img;
-var micstart = false;
+// var micstart = false;
 
 var imgs = [];
 // ....................................................................
@@ -85,7 +92,7 @@ function draw() {
 	
 	
 	
-	//if (getAudioContext().state !== 'running') {
+	//  if (getAudioContext().state !== 'running') {
 	//	getAudioContext().resume();
 	//	mic = new p5.AudioIn();
 	//	mic.start();
@@ -94,17 +101,17 @@ function draw() {
 	    
 	//	micstart = true;
 		
-	//}
+	// }
 	
 	
   }
   
-  //if (getAudioContext().state == 'running') {
+  // if (getAudioContext().state == 'running') {
   //	fill(100,100,100,30);
-	// and if it running then ellipses
+  // and if it running then ellipses
   //	var level = mic.getLevel();
   //	ellipse(mouseX, mouseY, level * 500, level * 500);
-  //}
+  // }
   
   fill(0,255,0);
   rect(40, 40, 52, 55);
@@ -115,13 +122,13 @@ function draw() {
 // Errors messages (CTRL SHIFT i) Chrome Developer Tools:
 // The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu
 // DevTools failed to load SourceMap: Could not load content for https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/addons/p5.sound.min.js.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
-function touchStarted() {
-  //if (getAudioContext().state !== 'running') {
+// function touchStarted() {
+  // if (getAudioContext().state !== 'running') {
   //  getAudioContext().resume();
   //	mic = new p5.AudioIn();
   //  mic.start();
   // }
-}
+//}
 // ....................................................................
 
 </script> 
