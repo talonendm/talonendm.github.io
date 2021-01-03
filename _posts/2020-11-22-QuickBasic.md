@@ -234,9 +234,11 @@ GOTO ihanalku
 
 
 ## TEXAHO21.bas
-Texas Hold'em simulator. It seems that I had creative coding skills already more than 19 years ago, see filename where results are saved and the extension based on my nick name. 
+Texas Hold'em simulator. It seems that I had "creative coding" &#128169; skills already more than 19 years ago, see filename where results are saved and the extension based on my nick name. 
 ![TEXAHO21.bas](/assets/pics/page/screenshot/10pari_v1.JPG){: .mx-auto.d-block :}
 ![TEXAHO21v2.bas](/assets/pics/page/screenshot/10pari_v2.JPG){: .mx-auto.d-block :}
+
+<!--  https://www.w3schools.com/charsets/ref_emoji.asp -->
 Output: pair of tens, 6 players: 
 ~~~
 "pelaajia",6
@@ -297,6 +299,8 @@ Output: pair of tens, 6 players:
 "varisuora",2
 ~~~
 It seems that in case of even e.g. with 3 players, all these players get 0.3333 victory points.
+
+![Texas Hold'em with 4 players in the beginning of 21st century](/assets/pics/page/photo/texasholdemX4.PNG){: .mx-auto.d-block :}
 
 
 Code:
