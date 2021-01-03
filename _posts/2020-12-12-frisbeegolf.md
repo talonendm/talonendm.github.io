@@ -8,11 +8,14 @@ tags:
   - video
   - Frisbeegolf
 comments: false
+cover-img: /assets/pics/page/screenshot/frisbeegolfMeikku200x.PNG
 thumbnail-img: /assets/pics/thumbnail/instagram/IMG_20160717_112037.jpg
 published: true
 ---
 
 <div id="sketch-holder-jt-video"></div>
+
+
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/p5.js"></script>
