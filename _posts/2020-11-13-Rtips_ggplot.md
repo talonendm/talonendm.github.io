@@ -129,6 +129,13 @@ ggsave(filename = paste0(here("/"), "square_", gg1$labels$title, ".png"), plot =
 
 ~~~
 
+## stringr
+
+- [Extracting the last n characters from a string in R](https://stackoverflow.com/questions/7963898/extracting-the-last-n-characters-from-a-string-in-r)
+~~~
+str_sub(data, -4, -1) 
+~~~
+
 ### References
 
 1. ["random numbers"](https://stackoverflow.com/questions/19352267/create-a-dataframe-with-random-numbers-in-each-column)
