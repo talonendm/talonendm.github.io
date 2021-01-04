@@ -136,25 +136,18 @@ ggsave(filename = paste0(here("/"), "square_", gg1$labels$title, ".png"), plot =
 str_sub(data, -4, -1) 
 ~~~
 
-# Rjs test - write R inside html
 
-[]() 
+## Experiments
 
-How to [write html into md-file](https://stackoverflow.com/questions/16350545/html-code-into-readme-md-on-github).
+### Rjs test - write R inside html
 
-```html
-<script src='https://cdn.jsdelivr.net/gh/kdpsingh/rjs/r.js'></script>
-<h2>Example of code</h2>
+[rjs: R in JavaScript](https://github.com/kdpsingh/rjs) quick test in additional html-page: However, I got this message [4.1.2021]:
+~~~
+Mixed Content: The page at 'https://talonendm.github.io/introR' was loaded over HTTPS, but requested an insecure XMLHttpRequest endpoint 'http://kdpsingh.ocpu.io/RendereR/R/renderer'. This request has been blocked; the content must be served over HTTPS.
+~~~
+In addition, _posts are md-files, so I should do something like this: How to [write html into md-file](https://stackoverflow.com/questions/16350545/html-code-into-readme-md-on-github)?
 
-<div class = 'r-code'>
 
-{r echo=FALSE, message = FALSE} 
-library(ggplot2)
-head(mtcars)
-
-</div>
-
-```
 
 
 ### References
