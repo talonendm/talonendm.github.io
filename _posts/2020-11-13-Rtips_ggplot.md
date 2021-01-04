@@ -136,6 +136,27 @@ ggsave(filename = paste0(here("/"), "square_", gg1$labels$title, ".png"), plot =
 str_sub(data, -4, -1) 
 ~~~
 
+# Rjs test - write R inside html
+
+[]() 
+
+How to [write html into md-file](https://stackoverflow.com/questions/16350545/html-code-into-readme-md-on-github).
+
+```html
+<script src='https://cdn.jsdelivr.net/gh/kdpsingh/rjs/r.js'></script>
+<h2>Example of code</h2>
+
+<div class = 'r-code'>
+
+{r echo=FALSE, message = FALSE} 
+library(ggplot2)
+head(mtcars)
+
+</div>
+
+```
+
+
 ### References
 
 1. ["random numbers"](https://stackoverflow.com/questions/19352267/create-a-dataframe-with-random-numbers-in-each-column)
