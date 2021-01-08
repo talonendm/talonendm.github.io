@@ -81,9 +81,9 @@ function preload() {
   //my table is comma separated value "csv" and has a header specifying the columns labels
   table = loadTable('p5/nappistaituri/pokemon.txt', 'csv', 'header');
   character_points = loadTable('p5/nappistaituri/character_points.txt', 'csv', 'header');
-  // myFont = loadFont('fonts/broken15/BROKEN15.TTF'); // location pokenappis/
+   myFont = loadFont('fonts/broken15/BROKEN15.TTF'); // location pokenappis/
   // source: https://www.dafont.com/pokemon.font
-  myFont = loadFont('fonts/pokemon/Pokemon Solid.ttf');
+  // myFont = loadFont('fonts/pokemon/Pokemon Solid.ttf');
 
   // testing in local not working ;:
   // https://stackoverflow.com/questions/20035101/why-does-my-javascript-code-receive-a-no-access-control-allow-origin-header-i
