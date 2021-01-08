@@ -5,7 +5,6 @@ subtitle: World is made for learning new stuff
 published: true
 ---
 
-My name is Jaakko Talonen and I am living data driven life. 
 During this dark & rainy seasoned with COVID-19 period there has been plenty of time for free time coding. 
 My objective isn't very clear, but it's just fun to create some code experiments and "silly" games as it was in back 90s.
 
