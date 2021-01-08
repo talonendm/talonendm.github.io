@@ -36,7 +36,7 @@ var sourceText = "life is pete and art is cool";
 let pokeword = [];
 // let pokeletter = [];
 
-
+var yourData;
 var words = sourceText.split(" ");
 var sana = "jaakko";
 
@@ -60,7 +60,7 @@ var numberOfWords;
 
 var totalvaikeus = 0;
 
-
+var pokepoints = [];
 var fireworks = []; // https://codepen.io/elbori77/pen/zZLerM
 var gravity;
 
@@ -84,6 +84,9 @@ function preload() {
   // myFont = loadFont('fonts/broken15/BROKEN15.TTF'); // location pokenappis/
   // source: https://www.dafont.com/pokemon.font
   myFont = loadFont('fonts/pokemon/Pokemon.TTF');
+
+
+  // updateHighscores();
 
   // testing in local not working ;:
   // https://stackoverflow.com/questions/20035101/why-does-my-javascript-code-receive-a-no-access-control-allow-origin-header-i
@@ -162,6 +165,15 @@ function setup() {
     getReadyForGame();
   });
   // -----------------------------------------------------------------------------------
+  let button2 = createButton("Highscores");
+  button2.parent("instructions");
+  // Trigger automatically playing
+  button2.mousePressed(function () {
+    updateHighscores();
+    print(yourData);
+  });
+
+
 
   // ----------------------------------------------------------------------------------- Song
   // https://editor.p5js.org/p5/sketches/Hello_P5:_song
@@ -183,6 +195,42 @@ function setup() {
   }
 }
 // -----------------------------------------------------------------------------------
+
+function updateHighscores() {
+  fetch("https://api.apispreadsheets.com/data/3630/").then(res => {
+    if (res.status === 200) {
+      // SUCCESS
+      res.json().then(data => {
+        yourData = data
+      }).catch(err => console.log(err))
+    }
+    else {
+      // ERROR
+    }
+  })
+  //print(yourData.data.length);
+  //yourData = sort(yourData.data.points);
+  // sorttaaminen hankalaa...
+
+  pokepoints.splice(0); // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice
+  for (let i = 0; i < yourData.data.length; i++) {
+    pokepoints.push(new Pokepoint(yourData.data[i].player, yourData.data[i].points));
+  }
+
+
+}
+
+class Pokepoint {
+  constructor(name_, points_) {
+    this.name = name_;
+    this.points = points_;
+  }
+
+  getHighscore() {
+    // not implemented..
+  }
+
+}
 
 
 // -----------------------------------------------------------------------------------
@@ -291,7 +339,7 @@ class Pokeletter {
       if (this.kirjain == " ")
         text("_", this.x - 2, this.y - 2);
       else
-        text( this.kirjain.toUpperCase(), this.x - 2, this.y - 2);
+        text(this.kirjain.toUpperCase(), this.x - 2, this.y - 2);
 
       fill(this.maincolor);
 
@@ -342,12 +390,12 @@ function draw() {
 
   if (waitingstart) {
     time = millis();
-    if (starttime>time) {
+    if (starttime > time) {
       stroke(255);
-      fill(0,244,3);
+      fill(0, 244, 3);
       textSize(194);
-      textAlign(CENTER,CENTER);
-      text(nfc((starttime - time)/1000 + 1,0), width/2, height/2)
+      textAlign(CENTER, CENTER);
+      text(nfc((starttime - time) / 1000 + 1, 0), width / 2, height / 2)
     } else {
       waitingstart = false;
       starttime = time;
@@ -412,17 +460,17 @@ function draw() {
 
 
       colorMode(RGB);
-
-      textAlign(LEFT, BOTTOM);
+      textSize(42);
+      textAlign(CENTER, BOTTOM);
       // totalvaikeus
       // -----------------------------------------------------------------------------------
       strokeWeight(1);
       stroke(149 + random(2, 100));
-      text("totalvaikeus = " + totalvaikeus, 200, 100);
-      text(`Total game time:${nfc(totalgametime / 1000, 2)} seconds.`, 200, 150);
-      text("Points = " + nfc(points, 0) + ". Total letters:" + totalletters + ".", 200, 200); // milliseconds, no decimals needed. 
-      text("Errors = " + errors, 200, 250);
-      text("Press (ESC) and start new game", 200, 300);
+      text("totalvaikeus = " + totalvaikeus, width / 2, 100);
+      text(`Time / character:${nfc(totalgametime / 1 / totalletters, 0)} milliseconds.`, width / 2, 150);
+      text("Points = " + nfc(points, 0) + ". Total letters:" + totalletters + ".", width / 2, 200); // milliseconds, no decimals needed. 
+      text("Errors = " + errors, width / 2, 250);
+      text("Press (ESC) and start new game", width / 2, 300);
       // -----------------------------------------------------------------------------------
     }
   }
@@ -482,7 +530,7 @@ class Particle {
       strokeWeight(2);
       stroke(this.hu, 255, 255, this.lifespan);
 
-      fill(0,255,0);
+      fill(0, 255, 0);
       //push();
       //translate(this.pos.x * 0.8, this.pos.y * 0.5);
       //rotate(frameCount / -100.0);
@@ -499,7 +547,7 @@ class Particle {
   };
 
 
-  
+
 }
 
 // -----------------------------------------------------------------------------------
@@ -591,6 +639,9 @@ function keyPressed() {
       //restartGame();
       getReadyForGame();
     }
+
+
+
   }
 }
 // -----------------------------------------------------------------------------------
@@ -612,29 +663,29 @@ function getReadyForGame() {
 
 function postRequest_bak() {  // https://www.geeksforgeeks.org/p5-js-httpdo-function/
   //clear(); 
-  
+
   // Do a POST request to the test API 
-  let api_url = 'https://api.apispreadsheets.com/data/3630/'; 
-  
+  let api_url = 'https://api.apispreadsheets.com/data/3630/';
+
   // Example POST data 
-  let postData = { player: "pokepete", points: 10, timestamp: "2021-01-01T18:25:43.511Z" }; 
-  
-  httpDo(api_url, "POST", "json", postData, function (response) { 
-    print("Data returned from API"); 
-  
-    print("The ID in the data is: " + response.player); 
-    print("The Name in the data is: " + response.points); 
-    print("The Email in the data is: " + response.timestamp); 
-  }); 
- 
-} 
+  let postData = { player: "pokepete", points: 10, timestamp: "2021-01-01T18:25:43.511Z" };
+
+  httpDo(api_url, "POST", "json", postData, function (response) {
+    print("Data returned from API");
+
+    print("The ID in the data is: " + response.player);
+    print("The Name in the data is: " + response.points);
+    print("The Email in the data is: " + response.timestamp);
+  });
+
+}
 function postRequest_bak2() {
   var data = {
-    player: 'pokepete', 
-    points: 10, 
+    player: 'pokepete',
+    points: 10,
     timestamp: '2021-01-01T18:25:43.511Z'
   }
-  let api_url = 'https://api.apispreadsheets.com/data/3630/'; 
+  let api_url = 'https://api.apispreadsheets.com/data/3630/';
   httpPost(api_url, data, finished);
 
 
@@ -642,24 +693,24 @@ function postRequest_bak2() {
 
 
 }
-  
+
 
 function postRequest(pointsit, stamppi) {
 
   fetch("https://api.apispreadsheets.com/data/3630/", {
-  method: "POST",
-  //body: JSON.stringify({"data": [{"player":"pokenappis","points":pointsit,"timestamp":"2019-12-23T18:25:43.511Z"}]}),
-	body: JSON.stringify({"data": [{"player":"pokenappis","points":pointsit,"timestamp":stamppi}]}),
-}).then(res =>{
-	if (res.status === 201){
-    // SUCCESS
-    print("OK")
-	}
-	else{
-    // ERROR
-    print("ei tooim")
-	}
-})
+    method: "POST",
+    //body: JSON.stringify({"data": [{"player":"pokenappis","points":pointsit,"timestamp":"2019-12-23T18:25:43.511Z"}]}),
+    body: JSON.stringify({ "data": [{ "player": "pokenappis", "points": pointsit, "timestamp": stamppi }] }),
+  }).then(res => {
+    if (res.status === 201) {
+      // SUCCESS
+      print("OK")
+    }
+    else {
+      // ERROR
+      print("ei tooim")
+    }
+  })
 
 
 }
