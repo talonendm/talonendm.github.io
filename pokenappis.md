@@ -28,4 +28,4 @@ Game:
 ```
 
 see last [comment](https://stackoverflow.com/questions/53267193/p5js-with-jekyll)
-Firework class code source: [md example](https://raw.githubusercontent.com/KevinWorkman/HappyCoding/gh-pages/examples/p5js/_posts/2018-07-04-fireworks.md)
+Firework class source: [md example](https://raw.githubusercontent.com/KevinWorkman/HappyCoding/gh-pages/examples/p5js/_posts/2018-07-04-fireworks.md)

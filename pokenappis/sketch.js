@@ -81,9 +81,9 @@ function preload() {
   //my table is comma separated value "csv" and has a header specifying the columns labels
   table = loadTable('p5/nappistaituri/pokemon.txt', 'csv', 'header');
   character_points = loadTable('p5/nappistaituri/character_points.txt', 'csv', 'header');
-   myFont = loadFont('fonts/broken15/BROKEN15.TTF'); // location pokenappis/
+  // myFont = loadFont('fonts/broken15/BROKEN15.TTF'); // location pokenappis/
   // source: https://www.dafont.com/pokemon.font
-  // myFont = loadFont('fonts/pokemon/Pokemon Solid.ttf');
+  myFont = loadFont('fonts/pokemon/Pokemon.TTF');
 
   // testing in local not working ;:
   // https://stackoverflow.com/questions/20035101/why-does-my-javascript-code-receive-a-no-access-control-allow-origin-header-i
@@ -558,10 +558,13 @@ function keyPressed() {
 
           if (selected_word == numberOfWords) {
             game_running = false;
-            points = max(0, numberOfWords * 2000 + totalvaikeus * 500 - totalgametime - errorMinus * errors);
+            points = round(max(0, numberOfWords * 2000 + totalvaikeus * 500 - totalgametime - errorMinus * errors));
 
             // peli päättyy
-            postRequest();
+
+            const stamppi = Date.now();
+            const stamppi2 = Date().toLocaleString(); // https://stackoverflow.com/questions/10211145/getting-current-date-and-time-in-javascript
+            postRequest(pointsit = points, stamppi2);
 
 
           }
@@ -625,7 +628,7 @@ function postRequest_bak() {  // https://www.geeksforgeeks.org/p5-js-httpdo-func
   }); 
  
 } 
-function postRequest() {
+function postRequest_bak2() {
   var data = {
     player: 'pokepete', 
     points: 10, 
@@ -633,8 +636,33 @@ function postRequest() {
   }
   let api_url = 'https://api.apispreadsheets.com/data/3630/'; 
   httpPost(api_url, data, finished);
+
+
+
+
+
 }
   
+
+function postRequest(pointsit, stamppi) {
+
+  fetch("https://api.apispreadsheets.com/data/3630/", {
+  method: "POST",
+  //body: JSON.stringify({"data": [{"player":"pokenappis","points":pointsit,"timestamp":"2019-12-23T18:25:43.511Z"}]}),
+	body: JSON.stringify({"data": [{"player":"pokenappis","points":pointsit,"timestamp":stamppi}]}),
+}).then(res =>{
+	if (res.status === 201){
+    // SUCCESS
+    print("OK")
+	}
+	else{
+    // ERROR
+    print("ei tooim")
+	}
+})
+
+
+}
 
 
 
