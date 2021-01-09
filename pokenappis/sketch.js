@@ -904,7 +904,7 @@ function restartGame() {
   time_letter = 0;
 
   print("restartgame()")
-  numberOfWords = 3; // words.length
+  numberOfWords = 10; // words.length // sanoja
 
 
 
