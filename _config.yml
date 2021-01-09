@@ -17,6 +17,7 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - tags: "https://talonendm.github.io/tags/"
+    - Pokenappis: "https://talonendm.github.io/pokenappis/"
     - Re:Teatteri: "https://talonendm.github.io/reteatteri/"
     # - Beautiful Jekyll: "https://beautifuljekyll.com"
     # - Learn markdown: "https://www.markdowntutorial.com/"
