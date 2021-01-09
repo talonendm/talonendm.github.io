@@ -8,14 +8,19 @@ share-img: /assets/pics/thumbnail/photo/characters.JPG
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/p5.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/addons/p5.sound.min.js"></script>
-
-
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
+<!-- 
 Game:
 ![Touch_typing](/assets/pics/page/www/Touch_typing.png){: .mx-auto.d-block :}
+[Keyboard source](https://upload.wikimedia.org/wikipedia/commons/4/40/Touch_typing.png)
+
+-->
+
 <div id="sketch-holder-jt"></div>
+<canvas id="myChart"></canvas>
 <script src="sketch.js"></script>
 
-[Keyboard source](https://upload.wikimedia.org/wikipedia/commons/4/40/Touch_typing.png)
+
 
 ## Old stuff
 

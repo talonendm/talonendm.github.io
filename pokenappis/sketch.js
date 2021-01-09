@@ -160,7 +160,7 @@ function setup() {
   i_loop = -1;
   while (i_loop < character_points.getRowCount() - 1) {
     i_loop = i_loop + 1;
-    nappaimisto[i_loop] = new Nappaimisto(character_points.getString(i_loop, 0), int(character_points.getString(i_loop, 1)), int(character_points.getString(i_loop, 2)), int(character_points.getString(i_loop, 3)));
+    nappaimisto[i_loop] = new Nappaimisto(character_points.getString(i_loop, 0), int(character_points.getString(i_loop, 1)), int(character_points.getString(i_loop, 2)), int(character_points.getString(i_loop, 3)), int(character_points.getString(i_loop, 4)));
   }
 
 
@@ -199,8 +199,7 @@ function setup() {
     print(yourData);
   });
 
-
-
+  
   // ----------------------------------------------------------------------------------- Song
   // https://editor.p5js.org/p5/sketches/Hello_P5:_song
   // A triangle oscillator
@@ -242,17 +241,53 @@ function updateHighscores() {
 
   pokepoints.splice(0); // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice
   for (let i = 0; i < yourData.data.length; i++) {
-    pokepoints.push(new Pokepoint(yourData.data[i].player, yourData.data[i].points));
+    pokepoints.push(new Pokepoint(yourData.data[i].player, yourData.data[i].points, yourData.data[i].timestamp));
   }
+
+
+  print(pokepoints.points);
+  print(yourData.data.points);
+
+
+  var pogot = [];
+  var paiva = [];
+  for (var i = 0; i<pokepoints.length; i++) {
+    pogot[i] = pokepoints[i].points;
+    paiva[i] = pokepoints[i].timestamp;
+  }
+
+  // https://editor.p5js.org/zahrak/sketches/HJZi_iInz
+  var ctx = document.getElementById('myChart').getContext('2d');
+  var chart = new Chart(ctx, {
+      // The type of chart we want to create
+      type: 'line',
+  
+      // The data for our dataset
+      data: {
+          labels: paiva,
+          datasets: [{
+              label: "Points",
+              backgroundColor: 'rgb(255, 99, 132)',
+              borderColor: 'rgb(255, 99, 132)',
+              data: pogot,
+          }]
+      },
+  
+      // Configuration options go here
+      options: {}
+  });
+
 
 
 }
 
 class Pokepoint {
-  constructor(name_, points_) {
+  constructor(name_, points_, timestamp_) {
     this.name = name_;
-    this.points = points_;
+    this.timestamp = timestamp_;
+    this.points = int(points_);
   }
+  
 
   getHighscore() {
     // not implemented..
@@ -270,9 +305,9 @@ class Nappaimisto {
 
 
 
-  constructor(merkki_, points_, x_, y_) {
-    this.perusfonttikoko = 32;
-    this.vjust = 60;
+  constructor(merkki_, points_, x_, y_, finger_) {
+    this.perusfonttikoko = 28;
+    this.vjust = 55;
     this.hjust = 70;
     this.xlev = 1.6;
     this.ylev = 1.6;
@@ -288,14 +323,17 @@ class Nappaimisto {
     this.points = points_;
     this.x = x_;
     this.y = y_;
-    this.nappis_size = 30;
+    this.nappis_size = 27;
+
+    this.fingercolor = color(finger_*20, finger_* 120 % 250, 240 - finger_*20);
+
   }
 
   show(target_, isPressed = false) {
 
     rectMode(CORNER); // https://p5js.org/reference/#/p5/rectMode
-    strokeWeight(1);
-    stroke(200);
+    strokeWeight(2);
+    stroke(this.fingercolor);
     noFill();
     rect(this.x * this.nappis_size + this.hjust - this.nappis_size / 2,
       this.y * this.nappis_size + this.vjust - this.nappis_size / 2,
@@ -990,3 +1028,4 @@ class Firework {
   };
 
 }
+
