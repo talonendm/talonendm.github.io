@@ -105,7 +105,7 @@ function preload() {
 // -----------------------------------------------------------------------------------
 function setup() {
   // createCanvas(700, 400); //, WEBGL);
-  const canvas = createCanvas(720, 800);
+  const canvas = createCanvas(720, 650);
   canvas.parent('sketch-holder-jt')
 
   frameRate(30); // no need to have 60.
