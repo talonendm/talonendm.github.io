@@ -33,7 +33,11 @@ var sourceText = "life is pete and art is cool";
 // reference: pokemon.txt = https://gist.githubusercontent.com/simsketch/1a029a8d7fca1e4c142cbfd043a68f19/raw/84d6850cfb36fb8b1f3eaee7468a605fe85ed30e/pokemon.csv
 
 
+
+let nappaimisto = [];
+
 let pokeword = [];
+let pokeword_all = [];
 // let pokeletter = [];
 
 var yourData;
@@ -42,6 +46,8 @@ var sana = "jaakko";
 
 var time_letter = 0;
 var pokemonpeli = true;
+
+var level_selected = 10;
 
 var vari = 'red';
 var i_loop;
@@ -63,7 +69,7 @@ var totalvaikeus = 0;
 var pokepoints = [];
 var fireworks = []; // https://codepen.io/elbori77/pen/zZLerM
 var gravity;
-
+var levellei = 15;
 var waitingstart = false;
 
 // https://p5js.org/reference/#/p5/text
@@ -99,7 +105,7 @@ function preload() {
 // -----------------------------------------------------------------------------------
 function setup() {
   // createCanvas(700, 400); //, WEBGL);
-  const canvas = createCanvas(720, 400);
+  const canvas = createCanvas(720, 800);
   canvas.parent('sketch-holder-jt')
 
   frameRate(30); // no need to have 60.
@@ -139,6 +145,26 @@ function setup() {
     }
   }
   // -----------------------------------------------------------------------------------
+
+
+  // shuffle(words, true); // https://editor.p5js.org/L05/sketches/e1yqoWxrk
+
+  // ALL WORDS: this is created for later filtering..
+  pokeword_all.splice(0); // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice
+  for (let i = 0; i < words.length; i++) {
+    pokeword_all.push(new Pokeword(i, words[i]));
+  }
+
+
+
+  i_loop = -1;
+  while (i_loop < character_points.getRowCount() - 1) {
+    i_loop = i_loop + 1;
+    nappaimisto[i_loop] = new Nappaimisto(character_points.getString(i_loop, 0), int(character_points.getString(i_loop, 1)), int(character_points.getString(i_loop, 2)), int(character_points.getString(i_loop, 3)));
+  }
+
+
+
 
   //numberOfWords = 2; // words.length
   //shuffle(words, true); // https://editor.p5js.org/L05/sketches/e1yqoWxrk
@@ -196,6 +222,8 @@ function setup() {
 }
 // -----------------------------------------------------------------------------------
 
+
+
 function updateHighscores() {
   fetch("https://api.apispreadsheets.com/data/3630/").then(res => {
     if (res.status === 200) {
@@ -233,12 +261,77 @@ class Pokepoint {
 }
 
 
+
+
+// -----------------------------------------------------------------------------------
+// keyboard
+// -----------------------------------------------------------------------------------
+class Nappaimisto {
+
+
+
+  constructor(merkki_, points_, x_, y_) {
+    this.perusfonttikoko = 32;
+    this.vjust = 60;
+    this.hjust = 70;
+    this.xlev = 1.6;
+    this.ylev = 1.6;
+    if (merkki_ == 'pilkku') {
+      this.character = ',';
+    } else if (merkki_ == 'space') {
+      this.character = ' ';
+      this.xlev = 11.5;
+    } else {
+      this.character = merkki_;
+    }
+
+    this.points = points_;
+    this.x = x_;
+    this.y = y_;
+    this.nappis_size = 30;
+  }
+
+  show(target_, isPressed = false) {
+
+    rectMode(CORNER); // https://p5js.org/reference/#/p5/rectMode
+    strokeWeight(1);
+    stroke(200);
+    noFill();
+    rect(this.x * this.nappis_size + this.hjust - this.nappis_size / 2,
+      this.y * this.nappis_size + this.vjust - this.nappis_size / 2,
+      this.xlev * this.nappis_size, this.ylev * this.nappis_size);
+
+
+    var isTarget = target_ == this.character;
+    if (isTarget | isPressed) {
+      fill(0, 200, 0);
+      textSize(this.perusfonttikoko) * (1 + random(0, 10) / 100);
+
+    } else {
+      fill(200);
+      stroke(120);
+      textSize(this.perusfonttikoko);
+    }
+
+
+    textAlign(CENTER, CENTER);
+
+    text(this.character.toUpperCase(), this.x * this.nappis_size + this.hjust, this.y * this.nappis_size + this.vjust);
+
+  }
+}
+// -----------------------------------------------------------------------------------
+
+
+
+
 // -----------------------------------------------------------------------------------
 class Pokeword {
   constructor(id_, name_) {
     this.id = id_;
     this.name = name_;
     this.vaikeus = 0;
+    this.vaikeuslevel = 0;
     this.pokeletter = [];
     this.kirjainvali = 37;
 
@@ -260,6 +353,7 @@ class Pokeword {
         var lisapiste = 20;
       }
       this.vaikeus = this.vaikeus + int(lisapiste);
+      this.vaikeuslevel = max(this.vaikeuslevel, int(lisapiste));
 
       this.pokeletter.push(new Pokeletter(this.name, this.name.charAt(r2), (r2 + 1) * this.kirjainvali + width / 2 - (this.name.length / 2 * this.kirjainvali), height / 2));
 
@@ -273,6 +367,9 @@ class Pokeword {
     for (let r2 = 0; r2 < this.name.length; r2++) {
       this.pokeletter[r2].showLetter(r2 == letter_selected);
     }
+    textSize(24);
+    fill(60, 60, 0);
+    text(this.vaikeuslevel, width - 50, 30);
   }
   wrongKey() {
     this.pokeletter[letter_selected].changeLetterColor();
@@ -297,10 +394,16 @@ class Pokeword {
     return kirjainpalauta;
   }
 
-
+  getPokename() {
+    return this.name;
+  }
 
   getVaikeus() {
     return this.vaikeus;
+  }
+
+  getVaikeusMax() {
+    return this.vaikeuslevel;
   }
 
 }
@@ -330,8 +433,8 @@ class Pokeletter {
     if (selectedpokeletter) {
 
       tekstikoko = tekstikoko + min(this.max_fonttikoko, time_letter * 5); // abs(sin(time_letter / 20) * 60);
-      if (this.y > 100) {
-        this.y = this.y - 2;
+      if (this.y > height / 2 - 30) {
+        this.y = this.y - 0.5;
       }
 
       textSize(tekstikoko);
@@ -381,7 +484,7 @@ class Pokeletter {
 
 
 // -----------------------------------------------------------------------------------
-// LOOP
+// LOOP: game
 // -----------------------------------------------------------------------------------
 function draw() {
   background(255); // white
@@ -419,6 +522,14 @@ function draw() {
     if (game_running) {
       time_letter = time_letter + 1;
       time = millis();
+
+
+      for (var i = nappaimisto.length - 1; i >= 0; i--) {
+
+
+        nappaimisto[i].show(target_ = pokeword[selected_word].getLetter(), false);
+
+      }
 
 
 
@@ -460,7 +571,7 @@ function draw() {
 
 
       colorMode(RGB);
-      textSize(42);
+      textSize(32);
       textAlign(CENTER, BOTTOM);
       // totalvaikeus
       // -----------------------------------------------------------------------------------
@@ -470,7 +581,14 @@ function draw() {
       text(`Time / character:${nfc(totalgametime / 1 / totalletters, 0)} milliseconds.`, width / 2, 150);
       text("Points = " + nfc(points, 0) + ". Total letters:" + totalletters + ".", width / 2, 200); // milliseconds, no decimals needed. 
       text("Errors = " + errors, width / 2, 250);
-      text("Press (ESC) and start new game", width / 2, 300);
+      text("Press (ESC) and start new game: " + level_selected, width / 2, 300);
+
+
+
+      for (let i = 0; i < levellei; i++) {
+        fill((i * 10), 40, 255 - i * 10)
+        rect(width - 30, i * height / levellei, 30, (i + 1) * height / levellei);
+      }
       // -----------------------------------------------------------------------------------
     }
   }
@@ -556,7 +674,7 @@ function keyPressed() {
   let keyIndex = -1;
   //print(key.charCodeAt(0));
   // scandinavian letters, just ensuring that characters are not messed up and thus using keycodes --------------
-  if ((key >= 'a' && key <= 'z') | (key.charCodeAt(0) == 69) | (key.charCodeAt(0) == 32) | (key.charCodeAt(0) == 45) | (key.charCodeAt(0) >= 48) & (key.charCodeAt(0) <= 57) | (key.charCodeAt(0) == 228) | (key.charCodeAt(0) == 229) | (key.charCodeAt(0) == 246)) {
+  if ((key >= 'a' && key <= 'z') | (key.charCodeAt(0) in [13, 69, 190]) | (key.charCodeAt(0) == 32) | (key.charCodeAt(0) == 45) | (key.charCodeAt(0) >= 48) & (key.charCodeAt(0) <= 57) | (key.charCodeAt(0) == 228) | (key.charCodeAt(0) == 229) | (key.charCodeAt(0) == 246)) {
     keyIndex = key.charCodeAt(0) - 'a'.charCodeAt(0);
   }
   if (game_running) {
@@ -571,6 +689,8 @@ function keyPressed() {
       // If it's not a letter key, clear the screen
       background(230);
       vari = 'brown';
+      print(key);
+      print(keyIndex);
     } else {
       // print(key)
       nappis = key;
@@ -597,17 +717,18 @@ function keyPressed() {
           totalvaikeus = totalvaikeus + pokeword[i].getVaikeus();
 
         }
-
-
+        print("totalvaikeus" + totalvaikeus);
+        print("pokeword[selected_word].length = " + pokeword[selected_word].getLength());
         // collect character statistics: avg. time to press a,b,c, ....
-        if (words[selected_word].length == letter_selected) {
+        if (pokeword[selected_word].getLength() == letter_selected) {
+          print("new word");
           selected_word = selected_word + 1;
           letter_selected = 0;
-
+          print("selected_word" + selected_word);
           if (selected_word == numberOfWords) {
             game_running = false;
             points = round(max(0, numberOfWords * 2000 + totalvaikeus * 500 - totalgametime - errorMinus * errors));
-
+            print("game over");
             // peli päättyy
 
             const stamppi = Date.now();
@@ -656,11 +777,18 @@ function getReadyForGame() {
   time = millis();
   starttime = waitforstart + time;
 }
-
-
 // -----------------------------------------------------------------------------------
 
+// -----------------------------------------------------------------------------------
+function mousePressed() {
+  if (!game_running) {
+    level_selected = round(map(mouseY, 0, height, 6, 20));
+  }
+}
+// -----------------------------------------------------------------------------------
+// Swanna: https://bulbapedia.bulbagarden.net/wiki/Swanna_(Pok%C3%A9mon)
 
+// -----------------------------------------------------------------------------------
 function postRequest_bak() {  // https://www.geeksforgeeks.org/p5-js-httpdo-function/
   //clear(); 
 
@@ -739,13 +867,37 @@ function restartGame() {
 
   print("restartgame()")
   numberOfWords = 3; // words.length
-  shuffle(words, true); // https://editor.p5js.org/L05/sketches/e1yqoWxrk
 
+
+
+
+  // shuffle(words_filtered, true);
+  //shuffle(words, true); // https://editor.p5js.org/L05/sketches/e1yqoWxrk
+  shuffle(pokeword_all, true);
 
   pokeword.splice(0); // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice
-  for (let i = 0; i < numberOfWords; i++) {
-    pokeword.push(new Pokeword(i, words[i]));
+  //var ii = - 1;
+  //for (let i = 0; i < numberOfWords; i++) {
+  //pokeword.push(new Pokeword(i, words[i]));
+  //if (pokeword_all[i].getVaikeusMax() < 10) {
+  //  ii = ii + 1;
+  // pokeword.push(new Pokeword(ii, pokeword_all[i].getPokename() ));
+  //}
+  //}
+
+  var i_loop2 = -1; // dangerous: i_loop global and used in pokeword...
+  var ii = -1;
+  while (ii < numberOfWords) {
+    i_loop2 = i_loop2 + 1;
+    print(i_loop2 + pokeword_all[i_loop2].getPokename() + ": " + pokeword_all[i_loop2].getVaikeusMax() + "..." + ii);
+    if (pokeword_all[i_loop2].getVaikeusMax() <= level_selected) { // > 16
+      ii = ii + 1;
+      pokeword.push(new Pokeword(ii, pokeword_all[i_loop2].getPokename()));
+    }
+
   }
+
+
 }
 // -----------------------------------------------------------------------------------
 
