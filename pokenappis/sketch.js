@@ -1,3 +1,7 @@
+// todo:
+// numerical input: https://editor.p5js.org/kll/sketches/6ggb0_7uY
+// number of games
+
 
 window.addEventListener('keydown', function (e) {
   if (e.keyCode == 32 && e.target == document.body) {
@@ -33,6 +37,19 @@ var sourceText = "life is pete and art is cool";
 // reference: pokemon.txt = https://gist.githubusercontent.com/simsketch/1a029a8d7fca1e4c142cbfd043a68f19/raw/84d6850cfb36fb8b1f3eaee7468a605fe85ed30e/pokemon.csv
 
 
+// Date format -------------------------------------------------
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleDateString
+// and options for time:
+//https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleTimeString
+
+const date_options = {
+  weekday: 'long',
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric',
+  hour: '2-digit',
+  minute: '2-digit'
+};
 
 let nappaimisto = [];
 
@@ -80,6 +97,7 @@ var waitingstart = false;
 let table;
 let character_points;
 
+let inp_playername; // global
 
 // -----------------------------------------------------------------------------------
 function preload() {
@@ -199,6 +217,10 @@ function setup() {
     print(yourData);
   });
 
+
+  inp_playername = createInput('pokenappis2'); // https://p5js.org/reference/#/p5/createInput
+ // inp_playername.input(myInputEvent); // functio tarvitaessa
+  inp_playername.parent("instructions");
   
   // ----------------------------------------------------------------------------------- Song
   // https://editor.p5js.org/p5/sketches/Hello_P5:_song
@@ -245,8 +267,8 @@ function updateHighscores() {
   }
 
 
-  print(pokepoints.points);
-  print(yourData.data.points);
+  // print(pokepoints.points);
+  // print(yourData.data.points);
 
 
   var pogot = [];
@@ -256,6 +278,8 @@ function updateHighscores() {
     paiva[i] = pokepoints[i].timestamp;
   }
 
+  // ---------------------------------------------------------------------
+  // chart.js
   // https://editor.p5js.org/zahrak/sketches/HJZi_iInz
   var ctx = document.getElementById('myChart').getContext('2d');
   var chart = new Chart(ctx, {
@@ -643,12 +667,18 @@ class Particle {
   constructor(x, y, hu, firework, letterfire) {
     this.pos = createVector(x, y);
     this.firework = firework;
-    this.lifespan = 95;
+    
+    //if (this.firework) {
+      this.lifespan = 50;
+    //} else {
+     // this.lifespan = 20;
+    //}
+    
     this.hu = hu;
 
     if (this.firework) {
-      if (letterfire) {
-        this.vel = createVector(random(-2, 2), random(0, -2));
+      if (letterfire) { // onko raketti lopussa vai pelissä
+        this.vel = createVector(random(-4, 4), random(1, -4));
       } else {
         this.vel = createVector(0, random(-14, -8));
       }
@@ -667,7 +697,7 @@ class Particle {
   update = function () {
     if (!this.firework) {
       this.vel.mult(0.9);
-      this.lifespan -= 4;
+      this.lifespan -= 5;
     }
     this.vel.add(this.acc);
     this.pos.add(this.vel);
@@ -748,15 +778,15 @@ function keyPressed() {
 
 
 
-        totalgametime = time - starttime;
+        totalgametime = round(time - starttime);
 
         totalvaikeus = 0;
         for (let i = 0; i < numberOfWords; i++) {
           totalvaikeus = totalvaikeus + pokeword[i].getVaikeus();
 
         }
-        print("totalvaikeus" + totalvaikeus);
-        print("pokeword[selected_word].length = " + pokeword[selected_word].getLength());
+        //print("totalvaikeus" + totalvaikeus);
+        //print("pokeword[selected_word].length = " + pokeword[selected_word].getLength());
         // collect character statistics: avg. time to press a,b,c, ....
         if (pokeword[selected_word].getLength() == letter_selected) {
           print("new word");
@@ -769,9 +799,15 @@ function keyPressed() {
             print("game over");
             // peli päättyy
 
-            const stamppi = Date.now();
-            const stamppi2 = Date().toLocaleString(); // https://stackoverflow.com/questions/10211145/getting-current-date-and-time-in-javascript
-            postRequest(pointsit = points, stamppi2);
+            //const stamppi = Date.now();
+            //const stamppi2 = Date().toLocaleString(); // https://stackoverflow.com/questions/10211145/getting-current-date-and-time-in-javascript
+            
+            var stamppi2 = new Date(Date.now()).toLocaleString('en-GB', date_options);
+            var pelaajanimi = inp_playername.value(); // "pokenappis2";
+            var lettertime = nfc(totalgametime / 1 / totalletters, 0);
+            
+            postRequest(pelaajanimi, pointsit = points, 
+              stamppi2, totalgametime,	totalvaikeus,	numberOfWords, level_selected, lettertime    );
 
 
           }
@@ -861,12 +897,21 @@ function postRequest_bak2() {
 }
 
 
-function postRequest(pointsit, stamppi) {
+function postRequest(player_, pointsit, stamppi,  totalgametime_,	totalvaikeus_,	numberOfWords_, level_selected_, lettertime_ ) {
 
   fetch("https://api.apispreadsheets.com/data/3630/", {
     method: "POST",
     //body: JSON.stringify({"data": [{"player":"pokenappis","points":pointsit,"timestamp":"2019-12-23T18:25:43.511Z"}]}),
-    body: JSON.stringify({ "data": [{ "player": "pokenappis", "points": pointsit, "timestamp": stamppi }] }),
+    body: JSON.stringify({ "data": [{ 
+      "player": player_, 
+    "points": pointsit, 
+    "timestamp": stamppi ,
+    "totalgametime": totalgametime_,	
+    "totalvaikeus": totalvaikeus_,	
+    "numberOfWords": numberOfWords_,
+    "level_selected": level_selected_,
+    "lettertime": lettertime_
+  }] }),
   }).then(res => {
     if (res.status === 201) {
       // SUCCESS
@@ -904,7 +949,7 @@ function restartGame() {
   time_letter = 0;
 
   print("restartgame()")
-  numberOfWords = 10; // words.length // sanoja
+  numberOfWords = 7; // words.length
 
 
 
@@ -1012,7 +1057,7 @@ class Firework {
   };
 
   explode = function () {
-    let particlesN = 200;
+    let particlesN = 80;
     for (var i = 0; i < particlesN; i++) {
       var p = new Particle(this.firework.pos.x, this.firework.pos.y, this.hu, false); // last is particle not firework = flase
       this.particles.push(p);

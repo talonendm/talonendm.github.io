@@ -19,15 +19,12 @@ Game:
 <script src="https://github.com/talonendm/p5js-page/tree/gh-pages/objects/libraries/p5.dom.js" type="text/javascript"></script>
 <script src="https://github.com/talonendm/p5js-page/tree/gh-pages/objects/libraries/p5.sound.js" type="text/javascript"></script>
 <script src="https://github.com/talonendm/p5js-page/tree/gh-pages/objects/sketch.js" type="text/javascript"></script>
-
 -->
 
 <div id="sketch-holder-jt"></div>
 <canvas id="myChart"></canvas>
 <script src="sketch.js"></script>
 
-
 ## References
-
-see last [comment](https://stackoverflow.com/questions/53267193/p5js-with-jekyll)
+See last [comment](https://stackoverflow.com/questions/53267193/p5js-with-jekyll)
 Firework class source : [md example](https://raw.githubusercontent.com/KevinWorkman/HappyCoding/gh-pages/examples/p5js/_posts/2018-07-04-fireworks.md)
