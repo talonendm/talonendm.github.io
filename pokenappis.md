@@ -19,12 +19,20 @@ Game:
 <script src="https://github.com/talonendm/p5js-page/tree/gh-pages/objects/libraries/p5.dom.js" type="text/javascript"></script>
 <script src="https://github.com/talonendm/p5js-page/tree/gh-pages/objects/libraries/p5.sound.js" type="text/javascript"></script>
 <script src="https://github.com/talonendm/p5js-page/tree/gh-pages/objects/sketch.js" type="text/javascript"></script>
+
+html code md file: https://stackoverflow.com/questions/16350545/html-code-into-readme-md-on-github
+
 -->
 
+
 <div id="place_start"></div>
+```html
+<br>
+```
 <div id="place_highscore"></div>
-Player name:<div id="place_playername"></div>
+<div id="place_playername"></div>
 <div id="sketch-holder-jt"></div>
+
 <canvas id="myChart"></canvas>
 <script src="sketch.js"></script>
 
