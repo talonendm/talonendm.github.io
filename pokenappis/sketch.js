@@ -82,14 +82,18 @@ var totalgametime = 0;
 var numberOfWords;
 
 var totalvaikeus = 0;
-
+var avg_number_of_letters = 10;
 var pokepoints = [];
 var fireworks = []; // https://codepen.io/elbori77/pen/zZLerM
+var buttonspeeds = [];
+var edaika; // = millis();
 var gravity;
 var levellei = 15;
 var waitingstart = false;
 
 var letter_y_location = 490;
+
+var enkka_yhtaika = 99999;
 
 // https://p5js.org/reference/#/p5/text
 //function preload() {
@@ -323,6 +327,30 @@ class Pokepoint {
 
 }
 
+// -----------------------------------------------------------------------------------
+// liukuvadata kerays
+// -----------------------------------------------------------------------------------
+class Buttonspeed {
+  constructor(millitime_) {
+    this.millitime = millitime_;
+  }
+  getAvgSpeed() {
+    var yhtaika = 0;
+    for (let r2 = 0; r2 < buttonspeeds.length; r2++) {
+      yhtaika = yhtaika + buttonspeeds[r2].millitime;
+    }
+    yhtaika = yhtaika /  buttonspeeds.length;
+    return(yhtaika);
+  }
+  getTime() {
+    return this.millitime;
+  }
+}
+// -----------------------------------------------------------------------------------
+
+
+
+// -----------------------------------------------------------------------------------
 
 
 
@@ -655,13 +683,17 @@ function draw() {
 
 
       colorMode(RGB);
-      textSize(32);
+      textSize(24);
       textAlign(CENTER, BOTTOM);
       // totalvaikeus
       // -----------------------------------------------------------------------------------
       strokeWeight(1);
       stroke(149 + random(2, 100));
-      text("totalvaikeus = " + totalvaikeus, width / 2, 100);
+
+
+      
+      text("totalvaikeus = " + totalvaikeus, width / 2, 50);
+      text(`Flow speed:${enkka_yhtaika} ms for ` + avg_number_of_letters + " letters.", width / 2, 100);
       text(`Time / character:${nfc(totalgametime / 1 / totalletters, 0)} milliseconds.`, width / 2, 150);
       text("Points = " + nfc(points, 0) + ". Total letters:" + totalletters + ".", width / 2, 200); // milliseconds, no decimals needed. 
       text("Errors = " + errors, width / 2, 250);
@@ -793,6 +825,26 @@ function keyPressed() {
 
       if (nappis == pokeword[selected_word].getLetter()) {
 
+        var aika = millis() - edaika;
+        buttonspeeds.push(new Buttonspeed(aika) );
+        edaika = millis();
+        if (totalletters >= avg_number_of_letters) {
+          buttonspeeds.shift(); // https://editor.p5js.org/haques/sketches/I7MR6MjUT
+        }
+
+        // ERROR: print(buttonspeeds.getAvgSpeed() );
+        // 
+          var yhtaika = 0;
+          for (let r2 = 0; r2 < buttonspeeds.length; r2++) {
+            yhtaika = yhtaika + buttonspeeds[r2].millitime;
+          }
+          yhtaika = round(yhtaika /  buttonspeeds.length);
+          // print(yhtaika);
+        
+          if (yhtaika < enkka_yhtaika & buttonspeeds.length == avg_number_of_letters) {
+            enkka_yhtaika = yhtaika;
+            print("avg time for " + buttonspeeds.length + " letters is " + enkka_yhtaika + "milliseconds.");
+          }
 
         fireworks.push(new Firework(pokeword[selected_word].getLetterX(), pokeword[selected_word].getLetterY(), true));
         // next:
@@ -883,6 +935,8 @@ function mousePressed() {
   if (!game_running) {
     level_selected = round(map(mouseY, 0, height, 6, 20));
   }
+  if (level_selected<6) level_selected = 6;
+  if (level_selected>20) level_selected = 20;
 }
 // -----------------------------------------------------------------------------------
 // Swanna: https://bulbapedia.bulbagarden.net/wiki/Swanna_(Pok%C3%A9mon)
@@ -960,8 +1014,8 @@ function finished(response) {
 
 
 
-
-
+// -----------------------------------------------------------------------------------
+// NEW GAME -----------
 // -----------------------------------------------------------------------------------
 // call after pressing
 function restartGame() {
@@ -972,9 +1026,10 @@ function restartGame() {
   errors = 0;
   starttime = time;
   time_letter = 0;
+  edaika = millis();
 
   print("restartgame()")
-  numberOfWords = 3; // words.length
+  numberOfWords = 7; // words.length // pelinpituus
 
 
 

@@ -23,7 +23,7 @@ Game:
 
 <div id="place_start"></div>
 <div id="place_highscore"></div>
-<div id="place_playername"></div>
+Player name:<div id="place_playername"></div>
 <div id="sketch-holder-jt"></div>
 <canvas id="myChart"></canvas>
 <script src="sketch.js"></script>
