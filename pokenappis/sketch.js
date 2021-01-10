@@ -89,6 +89,8 @@ var gravity;
 var levellei = 15;
 var waitingstart = false;
 
+var letter_y_location = 490;
+
 // https://p5js.org/reference/#/p5/text
 //function preload() {
 //  inconsolata = loadFont('assets/inconsolata.otf');
@@ -202,7 +204,7 @@ function setup() {
   let div = createDiv("Write words:")
   div.id("instructions");
   let button = createButton("Start again");
-  button.parent("instructions");
+  button.parent("place_start");
   // Trigger automatically playing
   button.mousePressed(function () {
     // restartGame();
@@ -210,7 +212,7 @@ function setup() {
   });
   // -----------------------------------------------------------------------------------
   let button2 = createButton("Highscores");
-  button2.parent("instructions");
+  button2.parent("place_highscore");
   // Trigger automatically playing
   button2.mousePressed(function () {
     updateHighscores();
@@ -218,9 +220,9 @@ function setup() {
   });
 
 
-  inp_playername = createInput('pokenappis2'); // https://p5js.org/reference/#/p5/createInput
+  inp_playername = createInput('pokenappis'); // https://p5js.org/reference/#/p5/createInput
  // inp_playername.input(myInputEvent); // functio tarvitaessa
-  inp_playername.parent("instructions");
+  inp_playername.parent("place_playername");
   
   // ----------------------------------------------------------------------------------- Song
   // https://editor.p5js.org/p5/sketches/Hello_P5:_song
@@ -281,6 +283,8 @@ function updateHighscores() {
   // ---------------------------------------------------------------------
   // chart.js
   // https://editor.p5js.org/zahrak/sketches/HJZi_iInz
+  // more data to chart, see: view-source:https://www.chartjs.org/samples/latest/scales/time/line.html
+  // https://www.chartjs.org/samples/latest/scales/time/line.html
   var ctx = document.getElementById('myChart').getContext('2d');
   var chart = new Chart(ctx, {
       // The type of chart we want to create
@@ -365,9 +369,28 @@ class Nappaimisto {
 
 
     var isTarget = target_ == this.character;
+
+
+    textAlign(CENTER, CENTER);
+
     if (isTarget | isPressed) {
-      fill(0, 200, 0);
-      textSize(this.perusfonttikoko) * (1 + random(0, 10) / 100);
+
+
+      fill(this.fingercolor);
+
+      rect(this.x * this.nappis_size + this.hjust - this.nappis_size / 2,
+        this.y * this.nappis_size + this.vjust - this.nappis_size / 2,
+        this.xlev * this.nappis_size, this.ylev * this.nappis_size);
+
+      stroke(40);
+      fill(0);
+      textSize(this.perusfonttikoko * (1 + random(46, 60) / 100) );
+      fill(255);
+      textSize(this.perusfonttikoko * (1 + random(46, 60) / 100) );
+      stroke(255);
+      text(this.character.toUpperCase(), this.x * this.nappis_size + this.hjust, this.y * this.nappis_size + this.vjust);
+      stroke(0);
+      fill(0);
 
     } else {
       fill(200);
@@ -375,11 +398,10 @@ class Nappaimisto {
       textSize(this.perusfonttikoko);
     }
 
+    text(this.character.toUpperCase(), 4+this.x * this.nappis_size + this.hjust, 4+this.y * this.nappis_size + this.vjust);
 
-    textAlign(CENTER, CENTER);
-
-    text(this.character.toUpperCase(), this.x * this.nappis_size + this.hjust, this.y * this.nappis_size + this.vjust);
-
+   
+   
   }
 }
 // -----------------------------------------------------------------------------------
@@ -417,7 +439,7 @@ class Pokeword {
       this.vaikeus = this.vaikeus + int(lisapiste);
       this.vaikeuslevel = max(this.vaikeuslevel, int(lisapiste));
 
-      this.pokeletter.push(new Pokeletter(this.name, this.name.charAt(r2), (r2 + 1) * this.kirjainvali + width / 2 - (this.name.length / 2 * this.kirjainvali), height / 2));
+      this.pokeletter.push(new Pokeletter(this.name, this.name.charAt(r2), (r2 + 1) * this.kirjainvali + width / 2 - (this.name.length / 2 * this.kirjainvali), letter_y_location));
 
 
 
@@ -495,7 +517,7 @@ class Pokeletter {
     if (selectedpokeletter) {
 
       tekstikoko = tekstikoko + min(this.max_fonttikoko, time_letter * 5); // abs(sin(time_letter / 20) * 60);
-      if (this.y > height / 2 - 30) {
+      if (this.y > letter_y_location - 60) {
         this.y = this.y - 0.5;
       }
 
@@ -663,6 +685,9 @@ function draw() {
 // -----------------------------------------------------------------------------------
 
 // -----------------------------------------------------------------------------------
+// ref: (https://raw.githubusercontent.com/KevinWorkman/HappyCoding/gh-pages/examples/p5js/_posts/2018-07-04-fireworks.md)
+// https://happycoding.io/
+// https://KevinWorkman.github.io/happycoding.io/
 class Particle {
   constructor(x, y, hu, firework, letterfire) {
     this.pos = createVector(x, y);
@@ -949,7 +974,7 @@ function restartGame() {
   time_letter = 0;
 
   print("restartgame()")
-  numberOfWords = 7; // words.length
+  numberOfWords = 3; // words.length
 
 
 
