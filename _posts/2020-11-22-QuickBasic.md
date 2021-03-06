@@ -233,7 +233,7 @@ GOTO ihanalku
 ~~~
 
 Multiple worm games were coded. Most of the games had possibility for multiplayer game and possibility to edit levels (walls etc.). One start menu was based on this plan: 
-![worm game start menu planning](/assets/pics/page/screenshot/matopeliplan.JPG){: .mx-auto.d-block :}
+![worm game start menu planning](/assets/pics/page/screenshot/matopeliplan.jpg){: .mx-auto.d-block :}
 
 
 

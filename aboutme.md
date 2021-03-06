@@ -78,7 +78,8 @@ function draw() {
 
   moving = round(abs(pmouseX - mouseX));
   
-  if (moving>=1 & mouseIsPressed) {
+  if (moving>=1 ) {
+	// & mouseIsPressed
      loop_i = (loop_i + 1) % (120 - 1); // https://editor.p5js.org/kjhollentoo/sketches/Syf-33fJg
 	 image(imgs[loop_i], 0, 0); 
   }
