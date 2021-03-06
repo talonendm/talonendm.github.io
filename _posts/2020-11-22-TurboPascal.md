@@ -115,11 +115,13 @@ and I think HELI2 game was a bit faster. However, I think I should have better c
 Yellow copter attacs to White's base.
 
 # Code
-Helicopter game has three versions
+The Helicopter Game has three "published" versions:
 
 - HELI.pas
 - HELI2.pas (and map generator)
 - HELI3.pas (select control keys and generate new maps)
+
+
 
 ## Setup and generate random map ALOITUS.PAS
 
@@ -401,6 +403,10 @@ end.
 ~~~
 
 ## HELI2.PAS
+
+Collision is detected by observing following points:
+![Helicopter calculations on paper](/assets/pics/page/screenshot/heliplans.JPG){: .mx-auto.d-block :}
+
 
 
 ~~~

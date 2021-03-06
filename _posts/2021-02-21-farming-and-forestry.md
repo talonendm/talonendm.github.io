@@ -3,7 +3,7 @@ layout: post
 title: Agriculture, Farming and Forestry 
 subtitle: test
 cover-img: /assets/pics/cover/photo/bird.JPG
-thumbnail-img: /assets/pics/thumbnail/instagram/IMG_20160911_121943.jpg
+thumbnail-img: /assets/pics/thumbnail/photo/seeds.jpg
 tags:
   - farming
   - Forestry

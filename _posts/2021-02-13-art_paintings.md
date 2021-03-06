@@ -3,7 +3,7 @@ layout: post
 title: Art - Paintings
 subtitle: test
 cover-img: /assets/pics/cover/photo/lizard.JPG
-thumbnail-img: /assets/pics/thumbnail/photo/hevonen.JPG
+thumbnail-img: /assets/pics/thumbnail/photo/piet_mondrian_vap.JPG
 tags:
   - links
   - painting
