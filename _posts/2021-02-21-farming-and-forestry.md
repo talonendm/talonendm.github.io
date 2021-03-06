@@ -16,3 +16,10 @@ published: true
 - [Taimikonhoidon omavalvontaohje pdf](https://www.metsakeskus.fi/sites/default/files/lomake-omavalvonta-taimikonhoito-ohje.pdf)
 - Drive (vero - kansio)
 - [Metsäkeskus verovinkit](https://www.metsakeskus.fi/verovinkit)
+
+# Vero
+
+
+# Metsäyhtymä
+
+- "Ostettuanne yhteisen palstan menette ”yritys- ja yhteisötietojärjestemään”  ja täytätte Y2 lomakkeen (www.ytj.fi)." [Metsäyhtymän perustaminen](https://www.metsalehti.fi/keskustelut/aihe/metsayhtyman-perustaminen/)
