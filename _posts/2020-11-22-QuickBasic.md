@@ -232,6 +232,10 @@ GOTO ihanalku
 '*****************************************************************************
 ~~~
 
+Multiple worm games were coded. Most of the games had possibility for multiplayer game and possibility to edit levels (walls etc.). One start menu was based on this plan: 
+![worm game start menu planning](/assets/pics/page/screenshot/matopeliplan.JPG){: .mx-auto.d-block :}
+
+
 
 ## TEXAHO21.bas
 Texas Hold'em simulator. It seems that I had "creative coding" &#128169; skills already more than 19 years ago, see filename where results are saved and the extension based on my nick name. 
