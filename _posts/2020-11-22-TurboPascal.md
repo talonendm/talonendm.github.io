@@ -6,6 +6,8 @@ tags:
   - Turbo Pascal
   - pas
   - antique code
+  - 90s
+  - Helicopter game
 comments: true
 cover-img: /assets/pics/cover/screenshot/pascal.JPG
 thumbnail-img: /assets/pics/thumbnail/www/TP.JPG

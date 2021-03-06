@@ -28,6 +28,13 @@ What else do you need?
 
 - Don't hesitate to contact me via email, twitter or what ever..
 
+ToDo
+
+- [ ] Publish more processing code
+- [ ] Find one more worm game and take at least screenshots. Save [here](https://talonendm.github.io/2020-11-22-QuickBasic/), if Quick Basic game. Stored to some [3 1⁄2-inch floppy disks](https://en.wikipedia.org/wiki/History_of_the_floppy_disk).
+
+
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/p5.js"></script>
 
 

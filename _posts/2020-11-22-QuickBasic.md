@@ -6,7 +6,8 @@ tags:
   - Quick Basic
   - bas
   - antique code
-  - 1994
+  - 90s
+  - Texas Hold'em
 comments: true
 cover-img: /assets/pics/cover/screenshot/qb.JPG
 thumbnail-img: /assets/pics/thumbnail/screenshot/qb.JPG
@@ -235,7 +236,8 @@ GOTO ihanalku
 Multiple worm games were coded. Most of the games had possibility for multiplayer game and possibility to edit levels (walls etc.). One start menu was based on this plan: 
 ![worm game start menu planning](/assets/pics/page/screenshot/matopeliplan.jpg){: .mx-auto.d-block :}
 
-
+It is actually interesting observation that it took long time for me to understand that in games and nowadays in developed dashboards it isn't good idea to make it possible to edit and change all the parameters.
+Does it really matter how rectangles are separated (ruuduväli) and how many points players get by eating apples. Ok, if 0 points are given, then last worm moving wins.
 
 ## TEXAHO21.bas
 Texas Hold'em simulator. It seems that I had "creative coding" &#128169; skills already more than 19 years ago, see filename where results are saved and the extension based on my nick name. 
