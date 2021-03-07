@@ -2407,10 +2407,10 @@ A worm game using Turbo Pascal was (naturally) also coded. Most of the snake gam
 It is actually interesting observation that it took long time for me to understand that in games and nowadays in developed dashboards it isn't good idea to make it possible to edit and change all the parameters.
 Does it really matter how rectangles are separated (ruuduväli) and how many points players get by eating "fruits"? Ok, if 0 points are given, then last worm moving wins.
 
-![worm game start menu planning1](/assets/pics/page/screenshot/matopeli_pascal.jpg){: .mx-auto.d-block :}
-![worm game start game 1](/assets/pics/page/screenshot/matopeli_pascal_v2.jpg){: .mx-auto.d-block :}
-![worm game start game 2](/assets/pics/page/screenshot/matopeli_pascal_v3.jpg){: .mx-auto.d-block :}
-![worm game even game](/assets/pics/page/screenshot/matopeli_pascal_v4.jpg){: .mx-auto.d-block :}
+![worm game start menu planning1](/assets/pics/page/screenshot/matopeli_pascal.JPG){: .mx-auto.d-block :}
+![worm game start game 1](/assets/pics/page/screenshot/matopeli_pascal_v2.JPG){: .mx-auto.d-block :}
+![worm game start game 2](/assets/pics/page/screenshot/matopeli_pascal_v3.JPG){: .mx-auto.d-block :}
+![worm game even game](/assets/pics/page/screenshot/matopeli_pascal_v4.JPG){: .mx-auto.d-block :}
 
 Installation files available here: [MATO.zip](https://www.dropbox.com/s/xc9t4u2g3wcf70p/MATO.zip?dl=0). Download file, unzip it and run SIIRRA.BAT. It will create folder "mato" to c-disk and copy files there. 
 Note that worm game level paths are hard coded and thus game works only if it is in location C:/mato/. &#128531; Play game using the DOSBox and start it by PELAA.bat as
