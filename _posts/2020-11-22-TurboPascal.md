@@ -2398,6 +2398,13 @@ end.
 
 ~~~
 
+
+# Worm game
+
+Installation files available here: [MATO.zip](https://www.dropbox.com/s/xc9t4u2g3wcf70p/MATO.zip?dl=0). Download file, unzip it and run SIIRRA.BAT. It will create folder "mato" to c-disk and copy files there.
+
+
+
 # References
 - Thumbnail picture [Antique Software: Turbo Pascal v5.5](https://edn.embarcadero.com/article/20803)
 - [Turbo Pascal (With DOSBox)](https://sourceforge.net/projects/turbopascal-wdb/)
