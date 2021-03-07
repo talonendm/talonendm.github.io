@@ -5,27 +5,42 @@ subtitle: World is made for learning new stuff
 published: true
 ---
 
-My name is Jaakko Talonen and I am living data driven life. During this dark, rainy and COVID-19 end of the year there has been plenty of time for free time coding. 
-My objective is to do something that could "wake up" my children interest on coding. That's why I am mostly creating some "silly" games and publishing some old stuff.. 
+During this dark & rainy seasoned with COVID-19 period there has been plenty of time for free time coding. 
+My objective isn't very clear, but it's just fun to create some code experiments and "silly" games as it was in back 90s.
 
-[Opinions Are My Own](https://www.insidehighered.com/blogs/technology-and-learning/do-we-still-need-opinions-are-my-own-social-media-disclaimer) (or cloned / forked somewhere) at talonen.dm github pages!
+
+<!-- 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.2/addons/p5.dom.min.js"></script> 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/addons/p5.sound.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.4/addons/p5.sound.min.js"></script>
+
+-->
+
+
 
 *Generally*
 
-- I rock data
+- [Opinions Are My Own](https://www.insidehighered.com/blogs/technology-and-learning/do-we-still-need-opinions-are-my-own-social-media-disclaimer) (or cloned / forked somewhere) at talonen.dm github pages!
+- I rock data ("I rock a great mustache" was in template Jekyll aboutme page, so I just edited it)
 - I'm passionated and extremely loyal to everything that is based on data but having critical mindset
 
 What else do you need?
 
 - Don't hesitate to contact me via email, twitter or what ever..
 
+ToDo
+
+- [ ] Publish more processing code
+- [ ] Find one more worm game and take at least screenshots. Save [here](https://talonendm.github.io/2020-11-22-QuickBasic/), if Quick Basic game. Stored to some [3 1⁄2-inch floppy disks](https://en.wikipedia.org/wiki/History_of_the_floppy_disk).
+
+
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/p5.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.2/addons/p5.dom.min.js"></script> 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/addons/p5.sound.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.4/addons/p5.sound.min.js"></script>
 
 
 <script>
+
+
 
 // -------------------------------------------------------------------------------
 //  no place holder: background: <div id="sketch-holder-jt-karate"></div>
@@ -33,9 +48,9 @@ What else do you need?
 var canvas;
 var loop_i=0;
 var moving = 0; // mouseX movement
-var mic;
+// var mic;
 let img;
-var micstart = false;
+// var micstart = false;
 
 var imgs = [];
 // ....................................................................
@@ -68,9 +83,10 @@ function draw() {
   // image(img, 10, 10);
   // ellipse(300,200,vol* 40 + 20,30);
 
-  moving = abs(pmouseX - mouseX);
+  moving = round(abs(pmouseX - mouseX));
   
-  if (moving>2 | mouseIsPressed) {
+  if (moving>=1 ) {
+	// & mouseIsPressed
      loop_i = (loop_i + 1) % (120 - 1); // https://editor.p5js.org/kjhollentoo/sketches/Syf-33fJg
 	 image(imgs[loop_i], 0, 0); 
   }
@@ -83,43 +99,44 @@ function draw() {
 	
 	
 	
-	if (getAudioContext().state !== 'running') {
-		getAudioContext().resume();
-		mic = new p5.AudioIn();
-		mic.start();
+	//  if (getAudioContext().state !== 'running') {
+	//	getAudioContext().resume();
+	//	mic = new p5.AudioIn();
+	//	mic.start();
 	
-		console.log("resumed sound");
+	//	console.log("resumed sound");
 	    
-		micstart = true;
+	//	micstart = true;
 		
-	}
+	// }
 	
 	
   }
   
-  if (getAudioContext().state == 'running') {
-	fill(100,100,100,30);
-	// and if it running then ellipses
-	var level = mic.getLevel();
-	ellipse(mouseX, mouseY, level * 500, level * 500);
-  }
+  // if (getAudioContext().state == 'running') {
+  //	fill(100,100,100,30);
+  // and if it running then ellipses
+  //	var level = mic.getLevel();
+  //	ellipse(mouseX, mouseY, level * 500, level * 500);
+  // }
   
+  noStroke();
   fill(0,255,0);
-  rect(40, 40, 52, 55);
-  fill(0,0,255);
+  rect(40, 40, 72, 35);
+  fill(0,30,155);
   text(loop_i + ": " + moving, 50,52);
 }
 // ....................................................................
 // Errors messages (CTRL SHIFT i) Chrome Developer Tools:
 // The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu
 // DevTools failed to load SourceMap: Could not load content for https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/addons/p5.sound.min.js.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
-function touchStarted() {
-  if (getAudioContext().state !== 'running') {
-    getAudioContext().resume();
-	mic = new p5.AudioIn();
-    mic.start();
-  }
-}
+// function touchStarted() {
+  // if (getAudioContext().state !== 'running') {
+  //  getAudioContext().resume();
+  //	mic = new p5.AudioIn();
+  //  mic.start();
+  // }
+//}
 // ....................................................................
 
 </script> 

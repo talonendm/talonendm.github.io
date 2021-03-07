@@ -6,6 +6,8 @@ tags:
   - Turbo Pascal
   - pas
   - antique code
+  - 90s
+  - Helicopter game
 comments: true
 cover-img: /assets/pics/cover/screenshot/pascal.JPG
 thumbnail-img: /assets/pics/thumbnail/www/TP.JPG
@@ -115,11 +117,13 @@ and I think HELI2 game was a bit faster. However, I think I should have better c
 Yellow copter attacs to White's base.
 
 # Code
-Helicopter game has three versions
+The Helicopter Game has three "published" versions:
 
 - HELI.pas
 - HELI2.pas (and map generator)
 - HELI3.pas (select control keys and generate new maps)
+
+
 
 ## Setup and generate random map ALOITUS.PAS
 
@@ -401,6 +405,10 @@ end.
 ~~~
 
 ## HELI2.PAS
+
+Collision is detected by observing following points:
+![Helicopter calculations on paper](/assets/pics/page/screenshot/heliplans.JPG){: .mx-auto.d-block :}
+
 
 
 ~~~
@@ -2389,6 +2397,13 @@ end.
 		 
 
 ~~~
+
+
+# Worm game
+
+Installation files available here: [MATO.zip](https://www.dropbox.com/s/xc9t4u2g3wcf70p/MATO.zip?dl=0). Download file, unzip it and run SIIRRA.BAT. It will create folder "mato" to c-disk and copy files there.
+
+
 
 # References
 - Thumbnail picture [Antique Software: Turbo Pascal v5.5](https://edn.embarcadero.com/article/20803)

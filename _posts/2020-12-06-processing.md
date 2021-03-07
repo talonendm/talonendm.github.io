@@ -3,10 +3,11 @@ layout: post
 title: Processing
 subtitle: Video and image processing with Processing.org
 tags:
-  - processing 
+  - Processing 
   - video
   - image
   - mask
+  - chess
 comments: false
 cover-img: /assets/pics/cover/photo/deers2.JPG
 thumbnail-img: /assets/pics/thumbnail/instagram/IMG_20160610_161421.jpg
@@ -119,3 +120,93 @@ void movieEvent(Movie m) {
 // https://forum.processing.org/one/topic/how-can-i-save-a-frame-of-video-without-drawing-it-on-the-screen.html
 
 ~~~
+
+
+<!-- smile faces
+https://www.w3schools.com/charsets/ref_emoji_smileys.asp 
+https://www.w3schools.com/charsets/tryit.asp?deci=128512 -->
+
+# Computer Graphics
+In the end of 80s and on 90s it was recommendable to sketch on paper before implementing Simon's Basic code or use some editor. 
+However, drawing straight lines was easy with joystic and keyboard &#128512;. 
+![snoopy](/assets/pics/page/screenshot/snoopy_computergraphics.jpg){: .mx-auto.d-block :}
+
+## Chess - Create image and store it to a local drive
+
+![chess](/assets/cutter/shakki3p.jpg){: .mx-auto.d-block :}
+
+Processing code "shakki.pde":
+
+~~~
+final int lisa  = 16;
+final int lisareuna = 10;
+final int WIDTH = 600+1+lisa*2;
+final int HEIGHT = 600+1+lisa*2;
+final int BLOCKX = (WIDTH-1-lisa*2) / 8;
+final int BLOCKY = (HEIGHT-1-lisa*2) / 8;
+final int pyoreys = 3;
+final int lisasiirto = 3;
+int lauta = 1;
+
+
+// processing size provided here nowadays! [2021]
+// output here: git\talonendm.github.io\assets\cutter
+public void settings() {
+  size(602, 602);
+}
+
+void setup() {
+  //  if (lauta == 1) {
+  //   size(602, 602);
+  //  } else {
+  //    size(WIDTH, HEIGHT);
+  //  }
+  noLoop();
+}
+
+void draw() {
+  background(0, 0, 0);
+
+  if (lauta == 1) {
+
+    for (int i = 0; i < 8; i ++) {
+      for (int j = 0; j < 8; j ++) {
+        if ((i + j + 1) % 2 == 0) {
+          fill(255, 255, 255); // white
+          rect(i * BLOCKX+lisasiirto, j * BLOCKY+lisasiirto, BLOCKX-lisasiirto*2, BLOCKY-lisasiirto*2, pyoreys);  
+          fill(0, 0, 0); // black
+          rect(i * BLOCKX+pyoreys+lisasiirto, j * BLOCKY+pyoreys+lisasiirto, BLOCKX-pyoreys*2-lisasiirto*2, BLOCKY-pyoreys*2-lisasiirto*2, pyoreys);
+        } else {
+          fill(0, 0, 0); // black
+          rect(i * BLOCKX, j * BLOCKY, BLOCKX, BLOCKY, pyoreys); 
+          fill(255, 255, 255); // black
+          rect(i * BLOCKX+pyoreys, j * BLOCKY+pyoreys, BLOCKX-pyoreys*2, BLOCKY-pyoreys*2, pyoreys);
+        }
+      }
+    }
+  }
+  if (lauta == 2) {
+    fill(0);
+    rect(1, 1, WIDTH-2, HEIGHT-2, 5);
+    rect(1+lisareuna, 1+lisareuna, WIDTH-2-lisareuna*2, HEIGHT-2-lisareuna*2, 3);
+    for (int i = 0; i <= 8; i ++) {
+      for (int j = 0; j <= 8; j ++) {
+        fill(255, 55, 255);
+        stroke(255);
+        line(i * BLOCKX+lisa, lisa, i * BLOCKX+lisa, HEIGHT-lisa-1);
+        line(lisa, j * BLOCKX+lisa, WIDTH-lisa-1, j * BLOCKX+lisa);
+      }
+    }
+  }
+  println("READY");
+}
+void mousePressed() {
+  save("shakki3.jpg");
+  exit();
+  println("SAVED");
+}
+
+
+~~~
+
+

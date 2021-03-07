@@ -129,6 +129,27 @@ ggsave(filename = paste0(here("/"), "square_", gg1$labels$title, ".png"), plot =
 
 ~~~
 
+## stringr
+
+- [Extracting the last n characters from a string in R](https://stackoverflow.com/questions/7963898/extracting-the-last-n-characters-from-a-string-in-r)
+~~~
+str_sub(data, -4, -1) 
+~~~
+
+
+## Experiments
+
+### Rjs test - write R inside html
+
+[rjs: R in JavaScript](https://github.com/kdpsingh/rjs) quick test in additional html-page: However, I got this message [4.1.2021]:
+~~~
+Mixed Content: The page at 'https://talonendm.github.io/introR' was loaded over HTTPS, but requested an insecure XMLHttpRequest endpoint 'http://kdpsingh.ocpu.io/RendereR/R/renderer'. This request has been blocked; the content must be served over HTTPS.
+~~~
+In addition, _posts are md-files, so I should do something like this: How to [write html into md-file](https://stackoverflow.com/questions/16350545/html-code-into-readme-md-on-github)?
+
+
+
+
 ### References
 
 1. ["random numbers"](https://stackoverflow.com/questions/19352267/create-a-dataframe-with-random-numbers-in-each-column)
