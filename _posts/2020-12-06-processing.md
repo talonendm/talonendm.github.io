@@ -3,10 +3,11 @@ layout: post
 title: Processing
 subtitle: Video and image processing with Processing.org
 tags:
-  - processing 
+  - Processing 
   - video
   - image
   - mask
+  - chess
 comments: false
 cover-img: /assets/pics/cover/photo/deers2.JPG
 thumbnail-img: /assets/pics/thumbnail/instagram/IMG_20160610_161421.jpg
@@ -121,6 +122,12 @@ void movieEvent(Movie m) {
 ~~~
 
 
+<!-- smile faces https://www.w3schools.com/charsets/ref_emoji_smileys.asp -->
+
+# Computer Graphics
+In the end of 80s and on 90s it was recommendable to sketch on paper before implementing Simon's Basic code or use some editor. However, drawing straight lines was easy with joystic and keyboard &#128540. 
+![snoopy](/assets/pics/page/snoopy_computergraphics.jpg){: .mx-auto.d-block :}
+
 ## Chess - Create image and store it to a local drive
 
 ![chess](/assets/cutter/shakki3p.jpg){: .mx-auto.d-block :}
@@ -198,3 +205,5 @@ void mousePressed() {
 
 
 ~~~
+
+
