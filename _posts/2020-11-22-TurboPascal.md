@@ -2401,7 +2401,9 @@ end.
 
 # Worm game
 
-Installation files available here: [MATO.zip](https://www.dropbox.com/s/xc9t4u2g3wcf70p/MATO.zip?dl=0). Download file, unzip it and run SIIRRA.BAT. It will create folder "mato" to c-disk and copy files there.
+Installation files available here: [MATO.zip](https://www.dropbox.com/s/xc9t4u2g3wcf70p/MATO.zip?dl=0). Download file, unzip it and run SIIRRA.BAT. It will create folder "mato" to c-disk and copy files there. Note that worm game level paths are hard coded and thus game works only if it is in location C:/mato/.
+
+PICS HERE: push from another laptop!
 
 
 
