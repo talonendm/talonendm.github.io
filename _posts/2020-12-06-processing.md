@@ -122,11 +122,14 @@ void movieEvent(Movie m) {
 ~~~
 
 
-<!-- smile faces https://www.w3schools.com/charsets/ref_emoji_smileys.asp -->
+<!-- smile faces
+https://www.w3schools.com/charsets/ref_emoji_smileys.asp 
+https://www.w3schools.com/charsets/tryit.asp?deci=128512 -->
 
 # Computer Graphics
-In the end of 80s and on 90s it was recommendable to sketch on paper before implementing Simon's Basic code or use some editor. However, drawing straight lines was easy with joystic and keyboard &#128540. 
-![snoopy](/assets/pics/page/snoopy_computergraphics.jpg){: .mx-auto.d-block :}
+In the end of 80s and on 90s it was recommendable to sketch on paper before implementing Simon's Basic code or use some editor. 
+However, drawing straight lines was easy with joystic and keyboard &#128512;. 
+![snoopy](/assets/pics/page/screenshot/snoopy_computergraphics.jpg){: .mx-auto.d-block :}
 
 ## Chess - Create image and store it to a local drive
 
