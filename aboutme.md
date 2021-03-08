@@ -31,7 +31,7 @@ What else do you need?
 ToDo
 
 - [ ] Publish more processing code
-- [ ] Find one more worm game and take at least screenshots. Save [here](https://talonendm.github.io/2020-11-22-QuickBasic/), if Quick Basic game. Stored to some [3 1⁄2-inch floppy disks](https://en.wikipedia.org/wiki/History_of_the_floppy_disk).
+- [x] Find one more worm game and take at least screenshots. Save [here](https://talonendm.github.io/2020-11-22-QuickBasic/), if Quick Basic game. Stored to some [3 1⁄2-inch floppy disks](https://en.wikipedia.org/wiki/History_of_the_floppy_disk).
 
 
 
