@@ -39,6 +39,10 @@ Toiminimi:
 - Jos verotusyhtymän tarkoituksena on maatalouden tai maa- ja metsätalouden harjoittaminen, nimen alkuun tulee “Maatalousyhtymä“ kokonaisena sanana. Jos yhtymä omistaa ainoastaan metsää ja harjoittaa vain metsätaloutta, nimen alkuun tulee ”Metsäyhtymä”. Yhtymä-sanan jälkeen kirjataan osakkaiden nimet aakkosjärjestyksessä.
 - YRITYS ILMOITTAUTUU PRH:N REKISTEREIHIN [ ] ei
 
+> KOTIPAIKKA
+>> Ilmoita yrityksen kotipaikka. Kotipaikan on oltava Suomessa sijaitseva kunta tai ulkomaisen yrityksen kotivaltio.
+- Eli missä kiinteistö sijaitsee
+
 > c/o kenttä
 >> Mikäli yrityksen posti- tai käyntiosoitteeksi halutaan ilmoittaa toisen yrityksen tai henkilön postin tiedossa
 oleva osoite, laita kyseisen yrityksen tai henkilön nimi c/o kenttään. Tällöin posti toimitetaan ilmoitettuun
@@ -83,6 +87,15 @@ yhtiömiesten tiedot eivät mahdu lomakkeen sivulle 3, voit tulostaa useampia lo
 > Edustaja kaupparekisteriä varten
 >> Jos kenelläkään yritystä edustavista henkilöistä ei ole kotipaikkaa Euroopan talousalueeseen kuuluvassa valtiossa, yrityksellä on oltava edustaja, jonka kotipaikka on Suomessa (laki elinkeinon harjoittamisen oikeudesta 6 § 3 mom).
 
+
+- puhelu: "päivämäärä" milloin verotusvuosi alkaa: 1.1.2021
+>Vastuunalainen tai äänetön yhtiömies
+Ilmoita, onko kommandiittiyhtiön yhtiömies vastuunalainen vai äänetön yhtiömies. Valitse vaihtoehdoista
+toinen. Ilmoita osakkuuden alkupäivä. Ilmoita murtolukuna tai prosentteina, mikä on avoimen yhtiön tai
+kommandiittiyhtiön vastuunalaisen yhtiömiehen tai verotusyhtymän osakkaan osuus yhtiön varallisuudesta
+ja yhtiön tulosta. 
+
+
 VEROHALLINTOON ILMOITETTAVA POSTIOSOITE [ ] Ei: Vaihtoehtoisesti voit ilmoittaa tässä kohdassa erillisen postiosoitteen vain Verohallintoa varten.
 
 ARVONLISÄVEROVELVOLLISUUS
@@ -97,6 +110,16 @@ näistä liiketoiminnoista ylittää vähäisen toiminnan rajan, yritys ilmoitta
 
 > Y-lomakkeelle merkitään kohtaan "Yritys hakeutuu arvonlisäverovelvolliseksi" se päivämäärä, josta verovelvollisuus alkaa. Hakeutumisen peruste ilmoitetaan sivulla 6 kohdassa lisätietoja. Ilmoita kohdassa lisätietoja
 "hakeudun esiintymispalkkioista arvonlisäverovelvolliseksi." Verovelvollisuus voi alkaa aikaisintaan hakemuksen saapumisesta tai myöhemmästä ajankohdasta. 
+
+- Kyseessä hakeminen, ei ilmottautuminen jos tuloja alle 15000e. Ruksin siirto siis "ilmottautumisesta" "hakeutumiseen". Lisätietoa, esim. [täällä](https://puustapuuhun.fi/metsanomistajan-arvonlisaverovelvollisuus/).
+>ARVONLISÄVEROVELVOLLISEKSI HAKEUTUMINEN
+>>Yritys voi joissain tapauksissa hakeutua oma-aloitteisesti arvonlisäverovelvolliseksi, vaikkei yritys olisi lain
+mukaan arvonlisäverovelvollinen. Arvonlisäverovelvolliseksi hakeutunut yritys merkitään yleensä arvonlisäverovelvolliseksi ilmoituksen saapumispäivästä alkaen. Yritys voi hakeutua arvonlisäverovelvolliseksi 1)
+kiinteistön käyttöoikeuden luovuttamisesta, 2) vähäisestä liiketoiminnasta, 3) yhteisöhankinnasta, 4) alkutuotannosta tai 5) yleishyödyllisenä yhteisönä tai uskonnollisena yhdyskuntana.
+Jos yritys, joka harjoittaa liiketoimintaa ja alkutuotantoa, haluaa hakeutua arvonlisäverovelvolliseksi, vaikka
+sen tilikauden liikevaihto jää alle vähäisen toiminnan rajan, yrityksen tulee hakeutua arvonlisäverovelvollisten rekisteriin molemmista toiminnoista.
+
+
 
 > Alkutuottaja hakeutuu arvonlisäverovelvolliseksi
 
@@ -177,15 +200,25 @@ Sukupolvenvaihdoksen jälkeen tarkistuslista
 Veroasiat
 - Lahjaveroilmoitus 3 kk. kuluessa, jos tilakauppa lahjanluonteinen
 (kauppahinta enintään 75 % tilan käyvästä arvosta)
-- Luopujan Y 6 (alv-velvollisuuden päättäminen)
+- Luopujan Y 6 (alv-velvollisuuden päättäminen) 
+
+> Y6 vai Y4a? Katso, [ytj](https://www.ytj.fi/index/ilmoittaminen/lopettamisilmoitus/yhdistys.html).
+
 - Ilmoitus alv- verovelvollisuuden alkamisesta
 - Imoitus ennakkoperintärekisteriin ja ennakkoverolipun hankkiminen
 - Kirjanpidon järjestäminen
 - Tilan kauppahinnan jako eri omaisuusosiin ensimmäisessä veroilmoituksessa 
 
+- Soitin ja neuvottiin että Y5-lomake pitää täyttää.
 
+[x] Lähetä lomake osoitteeseen Patentti- ja rekisterihallitus (PRH) - Verohallinto, Yritystietojärjestelmä, PL 2000, 00231 HELSINKI
 
+# Metsä
 
+## Puunkaato
+
+- [Ajankohta:](https://www.bioenergianeuvoja.fi/faktaa/puunkaadon-paras-ajankohta/#:~:text=Puunkaadon%20paras%20ajankohta%20riippuu%20l%C3%A4ht%C3%B6kohtaisesti,kosteus%20on%20loppukes%C3%A4ll%C3%A4%20luontaisesti%20alhaisimmillaan.) 
+Lehtipuut = Elokuussa, pidä kolme viikko maassa = rasiinkaataminen. Havupuut = talvella, mielellään Helmikuussa. Maaliskuussa virtaa jo vesi. 
 
 
 
