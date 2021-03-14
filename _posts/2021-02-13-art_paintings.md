@@ -38,11 +38,16 @@ published: true
 ## Vincent Van Gogh
 - [Katu, Auvers-sur-Oise 1890](https://lh3.googleusercontent.com/agFO64oQ0qtt7uwHKGeVvaovv5pdlPalAlvu3IV7AEzy6Mo1GIgcOz8tTcJ6hUc=w640-h566). Original painting at Ateneum, more information [here](https://www.martanmatkassa.fi/2020/10/didrichsen-kotigalleriasta-taidemuseoksi.html).
 
+## Sami Rinne
+- [Elämäntaito](https://www.taiko.art/samirinne) Signeerattu Grafiikkateos vuodelta 1999, 20/20. Kuvan koko: leveys 64x44 cm. 170€ v2020, 100€ oli myynnissä.
+
+## Kirsi Jokelainen
+- [Lusikassa](http://www.taidelainaamo.fi/public/go.php?action=work&work_id=17629), 2007 öljymaalaus / öljy kankaalle, 35x30cm. 460€. Muut [teokset](http://www.taidelainaamo.fi/public/go.php?action=artist&artist_id=105661).
+
 # muut
 - Suihku: grafiikka
 - Marjatta Kalijoki?
 - Koivukehto - Heikki ?
-- Lusikka
 - Space Junk 1/1
 
 # Generative Adversarial Nets
