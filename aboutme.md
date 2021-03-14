@@ -6,7 +6,7 @@ published: true
 ---
 
 During this dark & rainy seasoned with COVID-19 period there has been plenty of time for free time coding. 
-My objective isn't very clear, but it's just fun to create some code experiments and "silly" games as it was in back 90s.
+Our objective isn't very clear, but it's just fun to create some code experiments and "silly" games as it was in back 90s.
 
 
 <!-- 
@@ -21,12 +21,11 @@ My objective isn't very clear, but it's just fun to create some code experiments
 *Generally*
 
 - [Opinions Are My Own](https://www.insidehighered.com/blogs/technology-and-learning/do-we-still-need-opinions-are-my-own-social-media-disclaimer) (or cloned / forked somewhere) at talonen.dm github pages!
-- I rock data ("I rock a great mustache" was in template Jekyll aboutme page, so I just edited it)
-- I'm passionated and extremely loyal to everything that is based on data but having critical mindset
+- The main author rock data ("I rock a great mustache" was in template Jekyll aboutme page, so I just edited it) & Be passionated and extremely loyal to everything that is based on data but remember ro have critical mindset.
 
 What else do you need?
 
-- Don't hesitate to contact me via email, twitter or what ever..
+- Don't hesitate to contact me via email, Twitter or what ever..
 
 ToDo
 
