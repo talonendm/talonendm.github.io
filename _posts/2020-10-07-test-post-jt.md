@@ -19,7 +19,7 @@ published: true
 
 ## Why?
 
-I had LinkedIn training organized by my employer. It was again encouraged to write blog posts etc., so here we go. I am passionated about data science and languages like R and Python. So those topics will be covered by this blog. In addition, I have created a lot of different projects in my past and being quite active again. My kids start to cope their selves and thus I am having more time. Now I can piece out data related stuff together. Let's see, if some projects / solutions help me to solve future challeges / goals e.g. at work. Being honest, time to time I need to use Google and find out the same simple solutions how to make simple models / plots. Probably in future I can just check it from my github pages.
+Sometime ago, it was encouraged (again) to write blog posts etc., so here we go. I am passionated about data science and languages like R and Python. So those topics will be covered by this blog. In addition, I have created a lot of different projects in my past and being quite active again. My kids start to cope their selves and thus I am having more time. Now I can piece out data related stuff together. Let's see, if some projects / solutions help me to solve future challeges / goals e.g. at work. Being honest, time to time I need to use Google and find out the same simple solutions how to make simple models / plots. Probably in future I can just check it from my github pages.
 
 In addition:
 - Time to time I need to give "free" IT advice to my loved ones. One way to make this more efficient is provide link to my own blog.

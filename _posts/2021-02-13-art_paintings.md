@@ -54,11 +54,20 @@ published: true
 - [Edmond de Belamy - minGmaxD x (...)](https://en.wikipedia.org/wiki/Edmond_de_Belamy): 
 [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661.pdf%3Enh%C6%B0ng%C3%A2%E2%82%AC%20%20k%20qu%20kh%20nh%3E%20h%C3%83%C2%ACnh%20%C3%A1%C2%BA%C2%A3nh%20th%C3%A1%C2%BB%C2%B1c%20t%C3%A1%C2%BA%C2%BF.%20%20C%C3%83%C2%B3%20th%C3%A1%C2%BB%C6%92%20m%C3%A1%C2%BB%E2%84%A2t%20ng%C3%83%C2%A0y%20n%C3%83%C2%A0o%20%C3%84%E2%80%98%C3%83%C2%B3%20c%C3%83%C2%B4ng%20ngh%C3%A1%C2%BB%E2%80%A1%20nh%C3%86%C2%B0%20th%C3%A1%C2%BA%C2%BF%20n%C3%83%C2%A0y%20c%C3%83%C2%B3%20th%C3%A1%C2%BB%C6%92%20%C3%84%E2%80%98%C3%86%C2%B0%C3%A1%C2%BB%C2%A3c%20cung%20c%C3%A1%C2%BA%C2%A5p%20d%C3%86%C2%B0%C3%A1%C2%BB%E2%80%BAi%20d%C3%A1%C2%BA%C2%A1ng%20s%C3%A1%C2%BA%C2%A3n%20ph%C3%A1%C2%BA%C2%A9m%20ti%C3%83%C2%AAu%20d%C3%83%C2%B9ng%20ho%C3%A1%C2%BA%C2%B7c%20doanh%20nghi%C3%A1%C2%BB%E2%80%A1p%20%C3%84%E2%80%98%C3%A1%C2%BB%C6%92%20t%C3%A1%C2%BA%C2%A1o%20ra%20h%C3%83%C2%ACnh%20%C3%A1%C2%BA%C2%A3nh%20gi%C3%A1%C2%BB%E2%80%98ng%20nh%C3%86%C2%B0%20cu%C3%A1%C2%BB%E2%84%A2c%20s%C3%A1%C2%BB%E2%80%98ng%20theo%20y%C3%83%C2%AAu%20c%C3%A1%C2%BA%C2%A7u.%20%3C/a%3E%3C/p%3E%3C/div%3E%20%20%20%20%20%20%20%20%3C/div%3E%20%20%20%20%20%20%20%20%3Cfooter%3E%20%20%20%20%20%20%20%20%20%20%20%20%3C!--%20post%20pagination%20--%3E%20%20%20%20%20%20%20%20%20%20%20%20%3C!--%20review%20--%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cdiv%20class=).
 
-# Glass
+# Glass etc.
 
 ## Tapio Wirkkala
 - Ultima Thule, the volume of glass is exactly 1dl while glass is set on two "foots".
 
+## Arabia
+- [Storybirds - Kati Tuominen-Niittylä](https://www.laatutavara.com/koriste/storybirds-en/?lang=en)
+
+# More Artists
+
+- Pollock, [[1]] (#1)
+
+## How to measure similarity 
+Paintings of van Gogh and Picasso in two dimensional space. What metrics should be used? Simple example introduced in [[1]] (#1) ~44%: the amount of blue and yellow color. Van Gogh master pieces in top right corner.
 
 # Links
 
@@ -66,3 +75,13 @@ published: true
 - [Hagelstam](https://hagelstam.fi/)
 - [Helander](https://www.helander.com/fi)
 - [Bukowskis](https://www.bukowskis.com/fi?from_language=fi)
+
+# References
+
+<a id="1">[1]</a> 
+Marcus du Sautoy (xxxx). 
+The Creativity Code. 
+
+
+
+

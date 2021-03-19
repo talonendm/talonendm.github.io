@@ -210,3 +210,111 @@ void mousePressed() {
 ~~~
 
 
+# Libraries
+
+- path: 
+
+## Processing
+- Processing 2.2.1: Sketch -> import library -> add library -> find "jpen" not found -> "tablet" -> you are using build ... (too old for the library)
+- Processing 3.5.4: Sketch -> import library -> add library -> Find "Tablet" (Tablet 2.0-alpha3) 3/2021. Install. Select: File -> Examples -> Cantributed Libraries -> Tablet -> BasicDrawing. This worked!
+
+## Manually add folder
+- Location: - later
+- see discussion [How to add external libraries in processing](https://stackoverflow.com/questions/43004770/how-to-add-external-libraries-in-processing).
+
+# Pen tablet experiments
+Experiments performed with Huion [H430P](https://store.huion.com/products/inspiroy-h430p) and Processing 3.5.1 Tablet library. The origanal code examples by by Andres Colubri.
+- Working Area:	4.8 x 3 Inch
+- Tilt Function:	No
+- Pen Model:	PW201
+- Pen Pressure:	8192 Levels
+
+## Pressure
+
+
+## Tilt
+H430P doesn't have Tilt function. However, it is expected that [tilt](https://essentialpicks.com/tilt-sensitivity-and-rotation-in-stylus/#:~:text=What%20is%20Tilt%20sensitivity%3F&text=Tilt%20sensitivity%20was%20introduced%20to,a%20lot%20of%20shading%20work.) values could be used quite easily in Processing code
+
+~~~
+import codeanticode.tablet.*;
+Tablet tablet;
+void setup() {
+	tablet = new Tablet(this); 
+}
+void draw() {
+  if (tablet.getPressure() > 0) {
+    float x = tablet.getTiltX();
+    float y = tablet.getTiltY();
+	print(x +", " + y);
+  }
+}
+~~~
+
+## Tailored drawing application
+- Free ones are full of ads AND
+- paint is just crap  + (no pressure detection etc.)
+- Gimp is too complicated for newcomers. I have years of experience (Gimp, Photoshop) but still new things to learn (all the time). Being honest, I think it easier to code tailored software for certain purpose than use Youtube to find how to something X or Y in very sophisticated software.
+
+
+### Brush experiments
+
+
+Line with opacity doesn't look nice.. 
+~~~
+	
+	color vari; 
+	int opaci;
+	
+	...
+	
+	vari = color(255,255,255, opaci);
+	
+	...
+	
+	stroke(vari);
+    strokeWeight(20 * tablet.getPressure());
+    line(pmouseX, pmouseY, mouseX, mouseY); 
+    
+    strokeWeight(16 * tablet.getPressure());
+    line(pmouseX, pmouseY, mouseX, mouseY); 
+    
+    stroke(vari);
+    strokeWeight(12 * tablet.getPressure());
+    line(pmouseX, pmouseY, mouseX, mouseY); 
+    
+    stroke(vari);
+    strokeWeight(4 * tablet.getPressure());
+    line(pmouseX, pmouseY, mouseX, mouseY);
+~~~
+
+### ArrayList 
+
+Use [ArrayList](https://processing.org/reference/ArrayList.html) to have "created" objects as arrays.
+
+e.g.
+~~~
+import java.util.Collections; // https://forum.processing.org/two/discussion/626/cannot-find-anything-named-collections-arraylist
+...
+ArrayList<Viiva> viivat = new ArrayList<Viiva>();
+...
+for (Viiva viiva : viivat) {
+    viiva.displayViiva();
+}
+...
+class Viiva {
+
+  int x0, y0, x1, y1;
+  float w0, w1;
+  color c;
+
+  Viiva(int x0_, int y0_, int x1_, int y1_, float w0_, color c_) {
+    x0 = x0_;
+    y0 = y0_;
+    x1 = x1_;
+    y1 = y1_;
+    w0 = w0_;
+    c = c_;
+  }
+  ...
+}
+~~~
