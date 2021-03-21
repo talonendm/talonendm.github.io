@@ -215,8 +215,8 @@ void mousePressed() {
 - path: 
 
 ## Processing
-- Processing 2.2.1: Sketch -> import library -> add library -> find "jpen" not found -> "tablet" -> you are using build ... (too old for the library)
-- Processing 3.5.4: Sketch -> import library -> add library -> Find "Tablet" (Tablet 2.0-alpha3) 3/2021. Install. Select: File -> Examples -> Cantributed Libraries -> Tablet -> BasicDrawing. This worked!
+- Processing 2.2.1: Sketch &#8594; import library &#8594; add library &#8594; find "jpen" not found &#8594; "tablet" &#8594; you are using build ... (too old for the library)
+- Processing 3.5.4: Sketch &#8594; import library &#8594; add library &#8594; Find "Tablet" (Tablet 2.0-alpha3) 3/2021. Install. Select: File &#8594; Examples &#8594; Cantributed Libraries &#8594; Tablet &#8594; BasicDrawing. This worked!
 
 ## Manually add folder
 - Location: - later
