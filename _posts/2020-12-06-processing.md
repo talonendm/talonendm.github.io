@@ -319,3 +319,76 @@ class Viiva {
 
 - clear arraylist viivat as [viivat.clear()](https://beginnersbook.com/2013/12/how-to-empty-an-arraylist-in-java/)
 
+
+# Drawing application
+Full screen Java app for tablet pen. (TabletJavaTest_jt.pde)
+
+- t) redraw background image with tint. 
+- n) new drawing
+- r) refresh canvas (e.g. after undo)
+- c) select color, activate and deactivate palette.
+- o) set line vector to center of the canvas
+- -) smaller brush for pressure
+- +) larger brush for pressure pen
+- b) smaller minimum brush size
+- B) larger minimum brush size
+- a) animate drawing from the beginning to the end
+- 8) decrease size by 5%
+- 9) increase size by 5%
+- u) undo last line
+- v) undo first line of the drawing
+- s) save png file to "savedpics" folder.
+
+TODO: save as vector csv file.
+
+
+## code snippets
+
+### re-center lines
+Move objects to center of the canvas.
+~~~
+// -------------------------------------------------------------
+// Re-center vector drawing: -----------------------------------
+// -------------------------------------------------------------
+void centerObject() {
+  int min_x = width;
+  int max_x = 0;
+  int min_y = height;
+  int max_y = 0;
+
+  for (int i = 0; i < viivat.size(); i++) {
+    Viiva viiva = viivat.get(i);
+
+    // x:
+    if (viiva.x0 < min_x) min_x = viiva.x0;
+    if (viiva.x1 < min_x) min_x = viiva.x1;
+
+    if (viiva.x0 > max_x) max_x = viiva.x0;
+    if (viiva.x1 > max_x) max_x = viiva.x1;
+
+    // y:
+    if (viiva.y0 < min_y) min_y = viiva.y0;
+    if (viiva.y1 < min_y) min_y = viiva.y1;
+
+    if (viiva.y0 > max_y) max_y = viiva.y0;
+    if (viiva.y1 > max_y) max_y = viiva.y1;
+  }
+
+  background(taustavari);
+  taustakuva_redraw(true);
+
+  // update line coordinates:
+  for (int i = 0; i < viivat.size(); i++) {
+    Viiva viiva = viivat.get(i);
+    viiva.centerlines(min_x, max_x, min_y, max_y);
+  }
+
+  // Area of the selection:
+  strokeWeight(1);
+  stroke(0, 255, 0, 20);
+  noFill();
+  rect(min_x, min_y, max_x - min_x, max_y - min_y);  // 3rd and 4th parameter are defining the size of the rect
+  keskitaPiirustus = false;
+}
+// -------------------------------------------------------------
+~~~
