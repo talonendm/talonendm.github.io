@@ -7,6 +7,16 @@ tags:
   - Kahala
 ---
 
-Yhteyshenkilö: Jaakko Talonen
+# Maatalousyhtymä @Kahala
 
-p. 044 594 89 nolla 9
+- Jaakko, Juho ja Mikko Talonen
+- Yhteyshenkilö: Jaakko Talonen
+
+
+# Metsä
+
+## Kuusenkerkkä
+- Keruuaika vuosittain noin 3-4 viikkoa. [Luke: Kuusenkerkässä on potentiaalia](https://www.luke.fi/uutinen/kuusenkerkassa-on-potentiaalia-luonnontuotealan-viennin-kirittajaksi/)
+
+## Pakuri
+

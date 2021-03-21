@@ -289,9 +289,7 @@ Line with opacity doesn't look nice..
 
 ### ArrayList 
 
-Use [ArrayList](https://processing.org/reference/ArrayList.html) to have "created" objects as arrays.
-
-e.g.
+Use [ArrayList](https://processing.org/reference/ArrayList.html) to have "created" objects as arrays. See code example below:
 ~~~
 import java.util.Collections; // https://forum.processing.org/two/discussion/626/cannot-find-anything-named-collections-arraylist
 ...
@@ -318,3 +316,6 @@ class Viiva {
   ...
 }
 ~~~
+
+- clear arraylist viivat as [viivat.clear()](https://beginnersbook.com/2013/12/how-to-empty-an-arraylist-in-java/)
+
