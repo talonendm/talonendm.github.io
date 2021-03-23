@@ -324,6 +324,7 @@ class Viiva {
 Full screen Java app for tablet pen. (TabletJavaTest_jt.pde)
 
 - t) redraw background image with tint. 
+- p) enable / disable backgroud image.
 - n) new drawing
 - r) refresh canvas (e.g. after undo)
 - c) select color, activate and deactivate palette.
@@ -338,6 +339,7 @@ Full screen Java app for tablet pen. (TabletJavaTest_jt.pde)
 - u) undo last line
 - v) undo first line of the drawing
 - s) save png file to "savedpics" folder.
+
 
 TODO: save as vector csv file.
 

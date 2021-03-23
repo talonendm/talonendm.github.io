@@ -26,7 +26,15 @@ published: true
 - Tämä tuli varmistettua myös verottajalta p. 029497016. Hyödyllistä infoa mm. [x] alkutuotanto metsäyhtymälle, jotta saa alv-vähennykset. Mahdollisuus sähköiseen palautukseen, jos hakee suomi.fi tunnukset yhtymällä ja oikeuttaa esim. itsensä. Tämän jälkeen metsätalousyhtymän tiedot näkyvät omaverossa.
 
 ## Perustamisilmoituksen Y2 täyttöohje - poimintoja
-[Perustamisilmoituksen Y2 täyttöohje](https://www.ytj.fi/stc/ytjliitteet/y2opas.pdf)
+
+<!-- 
+A collapsible section containing markdown
+https://gist.github.com/pierrejoubert73/902cc94d79424356a8d20be2b382e1ab
+NB: Make sure you have an empty line after the closing </summary> tag, otherwise the markdown/code blocks won't show correctly.
+-->
+
+<details>
+<summary>Perustamisilmoituksen Y2 [täyttöohje](https://www.ytj.fi/stc/ytjliitteet/y2opas.pdf)</summary>
 
 Kun uusi yritys perustetaan, sen on annettava perustamisilmoitus. Ilmoituksen perusteella yritys saa Y-tunnuksen. Valitse lomake yritysmuodon mukaan:
 - lomake Y2: avoimen yhtiön ja kommandiittiyhtiön perustamisilmoitus. Liitä lomakkeen mukaan alkuperäinen yhtiösopimus. Tätä lomaketta käyttävät myös verotusyhtymät.
@@ -67,7 +75,7 @@ Poista yhtiösopimuksesta henkilötunnusten tunnusosat ja henkilöiden kotiosoit
 liitettävä mukaan kopio saantokirjasta, esim. kauppakirjasta tai lahjakirjasta. Jos verotusyhtymä harjoittaa
 maataloutta vuokraviljelijänä, liitä mukaan kopio vuokrasopimuksesta.
 
-[x| Kopio kirjasta, poista yhteystiedot ym.
+[x] Kopio kirjasta, poista yhteystiedot ym.
 
 > YHTIÖMIEHET TAI VEROTUSYHTYMÄN OSAKKAAT
 >> Ilmoita yhtiömiehen tai yhtymän osakkaan täydellinen nimi ja syntymäaika. Jos yhtiömies on oikeushenkilö,
@@ -118,8 +126,6 @@ mukaan arvonlisäverovelvollinen. Arvonlisäverovelvolliseksi hakeutunut yritys 
 kiinteistön käyttöoikeuden luovuttamisesta, 2) vähäisestä liiketoiminnasta, 3) yhteisöhankinnasta, 4) alkutuotannosta tai 5) yleishyödyllisenä yhteisönä tai uskonnollisena yhdyskuntana.
 Jos yritys, joka harjoittaa liiketoimintaa ja alkutuotantoa, haluaa hakeutua arvonlisäverovelvolliseksi, vaikka
 sen tilikauden liikevaihto jää alle vähäisen toiminnan rajan, yrityksen tulee hakeutua arvonlisäverovelvollisten rekisteriin molemmista toiminnoista.
-
-
 
 > Alkutuottaja hakeutuu arvonlisäverovelvolliseksi
 
@@ -184,6 +190,8 @@ etuus, joka on Suomessa tai liittyy Suomessa harjoitettuun toimintaan. Vakuutuks
 vakuutusmaksuveroa silloin, kun hän maksaa vakuutusmaksun ulkomailla toimivalle vakuutuksenantajalle.
 Vakuutusmaksuverovelvolliseksi ei ilmoittauduta lakisääteisten työeläkemaksujen maksamisesta. Jos yritys
 ilmoittautuu vakuutusmaksuverovelvolliseksi, ilmoita toiminnan alkupäivä lisätietoja kohdassa. Liitä ilmoitukseen mukaan myös vapaamuotoinen selvitys, jossa toiminnan luonne on kuvattu.
+
+</details>
 
 # Yhdistyksen lopettamisilmoitus
 
