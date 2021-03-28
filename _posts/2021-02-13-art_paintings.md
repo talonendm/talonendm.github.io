@@ -64,6 +64,7 @@ published: true
 
 # More Artists
 
+- [Teemu Järvi](https://teemujarvi.fi/), Finnish artist.
 - Pollock, [[1]] (#1)
 
 ## How to measure similarity 

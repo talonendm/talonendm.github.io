@@ -15,7 +15,10 @@ author: Jaakko
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Mobile:
+    - Katakana: "https://talonendm.github.io/Katakana/"
+    - Boat: "https://talonendm.github.io/Rmap/"
+  Resources: "https://talonendm.github.io/katakana/"
     - tags: "https://talonendm.github.io/tags/"
     - Pokenappis: "https://talonendm.github.io/pokenappis/"
     - Re:Teatteri: "https://talonendm.github.io/reteatteri/"

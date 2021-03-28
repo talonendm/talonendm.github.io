@@ -10,7 +10,9 @@ tags:
 # Maatalousyhtymä @Kahala
 
 - Jaakko, Juho ja Mikko Talonen
-- Yhteyshenkilö: Jaakko Talonen
+- Yhteyshenkilö: Jaakko Talonen (email: jaakko.talonen (miukumauku) gmail.com)
+
+
 
 
 # Metsä
@@ -20,3 +22,8 @@ tags:
 
 ## Pakuri
 
+# Liitteet ja muistutukset
+
+D: Kahala:
+- Suunnitelmat ja todo/ -> tekstidokumentti
+- vero/2021_brothers/ -> matkapäiväkirja
