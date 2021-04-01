@@ -72,6 +72,9 @@ Paintings of van Gogh and Picasso in two dimensional space. What metrics should 
 
 # Links
 
+- [Frame Contemporary Art Finland – Frame Finland](https://www.frame-finland.fi/)
+- [Master's Programme in Contemporary Design](https://www.aalto.fi/fi/koulutustarjonta/masters-programme-in-contemporary-design)
+
 ## Hammer Auctions
 - [Hagelstam](https://hagelstam.fi/)
 - [Helander](https://www.helander.com/fi)

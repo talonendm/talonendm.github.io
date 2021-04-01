@@ -16,8 +16,11 @@ published: true
 - [Taimikonhoidon omavalvontaohje pdf](https://www.metsakeskus.fi/sites/default/files/lomake-omavalvonta-taimikonhoito-ohje.pdf)
 - Drive (vero - kansio)
 - [Metsäkeskus verovinkit](https://www.metsakeskus.fi/verovinkit)
+- [Ohjeet metsäveroilmoituksen tekemiseksi | Piksu](https://www.piksu.net/artikkeli/ohjeet-mets%C3%A4veroilmoituksen-tekemiseksi)
 
 # Vero
+
+
 
 
 # Metsäyhtymä
@@ -228,9 +231,31 @@ Veroasiat
 - [Ajankohta:](https://www.bioenergianeuvoja.fi/faktaa/puunkaadon-paras-ajankohta/#:~:text=Puunkaadon%20paras%20ajankohta%20riippuu%20l%C3%A4ht%C3%B6kohtaisesti,kosteus%20on%20loppukes%C3%A4ll%C3%A4%20luontaisesti%20alhaisimmillaan.) 
 Lehtipuut = Elokuussa, pidä kolme viikko maassa = rasiinkaataminen. Havupuut = talvella, mielellään Helmikuussa. Maaliskuussa virtaa jo vesi. 
 
+### Moottorisaha
+
+- ["en ole vielä nähnyt Hussen sahaa, minkä öljypumppu ei vuotaisi"](https://www.metsalehti.fi/keskustelut/aihe/moottorisahan-oljypumppu/): todo; tarkista laipan ja koneen liitos.
 
 
+## Kuusenkerkkä
+- Keruuaika vuosittain noin 3-4 viikkoa. [Luke: Kuusenkerkässä on potentiaalia](https://www.luke.fi/uutinen/kuusenkerkassa-on-potentiaalia-luonnontuotealan-viennin-kirittajaksi/)
 
+## Pakuri
+
+## Koivumahla
+[Mahla](https://fi.wikipedia.org/wiki/Mahla)kausi alkaa, kun lumi on vielä maassa, ja loppuu ennen lehtien kasvamista täysikokoisiksi. [Koivunmahla aloittaa luonnontuotteiden satokauden](https://www.maaseuduntulevaisuus.fi/metsa/koivunmahla-aloittaa-luonnontuotteiden-satokauden-1.37831)
+
+31.3.2021: Lämpimät kelit jatkuu.. eiköhän tuota saa jo taas?
+
+
+## Linnunpönttö
+
+- [lentoaukon-suojia-15-kpl](https://www.tampereenluontokauppa.fi/lentoaukon-suojia-15-kpl)
+
+# Liitteet ja muistutukset
+
+D: Kahala:
+- Suunnitelmat ja todo/ -> tekstidokumentti
+- vero/2021_brothers/ -> matkapäiväkirja
 
 
 

@@ -41,7 +41,7 @@ Blog post file name format is:
 - YYYY-MM-DD-<"name of the post">.md
 
 Edit post:
-- Edit posts / files in github or in [Prose](https://prose.io/)
+- Edit posts / files in github or in [Prose](https://prose.io/) - (note easier to edit e.g. with Visual Studio Code)
 - File size limit 100mB / repo limit.
 
 
@@ -232,8 +232,7 @@ print ('Hello, world!')
 
 
 ## Favicon
-
-Another test and this worked for browser, shortcut and Android:
+Favicon is the small icon on internet browser tab and icon e.g. in your mobile phone. Another test and this worked for browser, shortcut on the Windowd desktop and Android:
 
 - Thanks for [Paul C,'s Favicon instructions](https://ptc-it.de/add-favicon-to-mm-jekyll-site/) and check more details from this site.
 - [favicon editor](https://realfavicongenerator.net/favicon_result?file_id=p1eqvsnca8i0f1ijt14g81ficvhj6#.X--QzlUzapo)

@@ -5,25 +5,14 @@ subtitle: Maatalousyhtymä
 use-site-title: true
 tags:
   - Kahala
+  - Maatalousyhtymä
+  - Metsäyhtymä
 ---
 
 # Maatalousyhtymä @Kahala
 
 - Jaakko, Juho ja Mikko Talonen
 - Yhteyshenkilö: Jaakko Talonen (email: jaakko.talonen (miukumauku) gmail.com)
+- [Metsäyhtymä Talonen Jaakko, Talonen Juho ja Talonen Mikko @ Asiakastieto](https://www.asiakastieto.fi/yritykset/fi/metsayhtyma-talonen-jaakko-talonen-juho-ja-talonen-mikko/31972523/yleiskuva)
 
 
-
-
-# Metsä
-
-## Kuusenkerkkä
-- Keruuaika vuosittain noin 3-4 viikkoa. [Luke: Kuusenkerkässä on potentiaalia](https://www.luke.fi/uutinen/kuusenkerkassa-on-potentiaalia-luonnontuotealan-viennin-kirittajaksi/)
-
-## Pakuri
-
-# Liitteet ja muistutukset
-
-D: Kahala:
-- Suunnitelmat ja todo/ -> tekstidokumentti
-- vero/2021_brothers/ -> matkapäiväkirja
