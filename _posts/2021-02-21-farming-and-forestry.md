@@ -198,12 +198,47 @@ ilmoittautuu vakuutusmaksuverovelvolliseksi, ilmoita toiminnan alkupäivä lisä
 
 # Yhdistyksen lopettamisilmoitus
 
+<details>
+<summary>Yhdistyksen lopettamisilmoitus</summary>
+
 - Rekisteröidyn yhdistyksen purkamisesta täytyy ilmoittaa PRH:n yhdistysrekisteriin. [ytj](https://www.ytj.fi/index/ilmoittaminen/lopettamisilmoitus/yhdistys.html)
 - Tee ilmoitus paperilomakkeella: Ilmoita yhdistyksen purkautumisesta PRH:n yhdistysrekisteriin lomakkeella Y4a ja liitelomakkeella 20A.
 - :D Jos yhdistys on rekisteröitynä PRH:n kaupparekisteriin, ilmoita lopettamisesta kaupparekisteriin lomakkeella Y4a ja liitelomakkeella 19A.
 - Jos yhdistys on rekisteröitynä Verohallinnon rekistereihin, ilmoita toiminnan päättymisestä myös Verohallinnolle.
 - Voit tehdä ilmoituksen Verohallinnolle samalla, kun ilmoitat PRH:n yhdistysrekisteriin yhdistyksen purkautumisesta. Täytä Verohallinnon liitelomake 6214 ja liitä se ilmoituksen mukaan.
 
+</details>
+
+# Metsäforest
+
+Metsäyhtymä Talonen Jaakko, Talonen Juho ja Talonen Mikko
+3197252-3
+
+## Jäsenlomake
+
+- A-lisäosuudet: ks [keskustelu metsälehti](https://www.metsalehti.fi/keskustelut/aihe/metsa-group-osuussijoitukset/sivu/17/)
+- PEFC sertifikaatti: 
+
+## Muutoslomake
+
+A- ja B-lisäosuuksien siirto. Mistä näkyy osuuksien määrät?
+
+## Osakasluettelo
+
+Metsäyhtymä Talonen Jaakko, Talonen Juho ja Talonen Mikko
+3197252-3 ja osuudet
+
+
+Kiinteistötunnus on kiinteistön yksilöivä tunnus. Kiinteistötunnus koostuu neljästä määrämittaisesta numerosarjasta, esimerkiksi 123-456-7890-1234. Ensimmäinen osa on kolminumeroinen kuntanumero. Toinen osa on kolminumeroinen sijaintialuenumero, joka voi olla kylän, asemakaava-alueella olevan kunnanosan, tai muun sellaisen alueen numero. Kolmas osa on nelinumeroinen ryhmäosa, joka tarkoittaa talon, asemakaava-alueella olevan korttelin, tai muun sellaisen alueen numeroa. Neljäs osa on nelinumeroinen yksikkönumero, joka tarkoittaa tilan numeroa, asemakaava-alueella olevan tontin numeroa, tai muuta vastaavaa numeroa. Tunnuksen ensimmäisen osan antaa Väestörekisterikeskus, muut osat antaa kiinteistörekisterin pitäjä. Lähde: Wikipedia ja [almatalent](https://www.almatalent.fi/tietopalvelut/palvelut/kiinteisto-ja-huoneistotietopalvelut/kiinteisto-ja-huoneistohaku/kiinteistosanasto#:~:text=Kiinteist%C3%B6tunnus%20koostuu%20nelj%C3%A4st%C3%A4%20m%C3%A4%C3%A4r%C3%A4mittaisesta%20numerosarjasta,tai%20muun%20sellaisen%20alueen%20numero.).
+
+
+
+# Metsänhoitoyhdistys Lounametsä
+
+- [Lounametsä](https://www.mhy.fi/lounametsa) tarjoaa mm. [jäsenetuja](https://www.mhy.fi/jasenedut). Alue Turku-Pori akselilla. 
+
+Metsäyhtymä Talonen Jaakko, Talonen Juho ja Talonen Mikko
+3197252-3
 
 # Proagria
 
@@ -223,6 +258,10 @@ Veroasiat
 - Soitin ja neuvottiin että Y5-lomake pitää täyttää.
 
 [x] Lähetä lomake osoitteeseen Patentti- ja rekisterihallitus (PRH) - Verohallinto, Yritystietojärjestelmä, PL 2000, 00231 HELSINKI
+
+
+
+
 
 # Metsä
 
@@ -250,6 +289,26 @@ Lehtipuut = Elokuussa, pidä kolme viikko maassa = rasiinkaataminen. Havupuut = 
 ## Linnunpönttö
 
 - [lentoaukon-suojia-15-kpl](https://www.tampereenluontokauppa.fi/lentoaukon-suojia-15-kpl)
+
+
+# Puutarha
+
+## Huhtikuu
+
+- Mahlan keruu (20cm halkaisijan koivu lähellä kasvimaata) 11.4.2021- (12.4.2021: 1.0l, 13.4.2021: 1.5l, 14.4.2021: 2l)
+- [Syyshortensia](): Leikkaus [keväällä](https://www.youtube.com/watch?v=EyGAUPROiRI). Lyhennä vain uuden verson kolmannen silmun yläpuolelta.
+- [Pallohortensia - Hydrangea arborescens Annabella](https://www.viherpeukalot.fi/pallohortensia), leikkaus keväällä. "Istutusalue tulee pitää rikkaruohovapaana joten taimen ympäristö on hyvä peittää kuorikatteella tai koristekatteella." [khpuutarhakeskus lisätiedot](https://www.khpuutarhakeskus.fi/tuotteet.html?id=5/137). Kasvupaikka: Puolivarjoinen suositeltavin. Jos istutusalue auringossa, tuoretta turvemultaa on oltava paljon. Hapan eli kalkitsematon maa. Leikkaus: Pensaan voi leikata alas jopa vuosittain tai poistaa siitä vain hangen yläpuolelta paleltuneet osat, jolloin siitä kehittyy metrin korkuinen. [ahosentaimisto. lisätiedot](https://ahosentaimisto.fi/tuote/pallohortensia-astiataimi/).
+- [Kirsikkapuu - Kirsikkapuu Prunus cerasus fanal](https://www.k-rauta.fi/tuote/kirsikkapuu-prunus-cerasus-fanal/6419127651110): luultavasti Fanal. Hankittu 2009 syksyllä muistaakseni. metsäkauriit käyneet napsimassa silmuja. Leikkaus 10.4.2021.
+- [Pinaatti spinacia-oleracea](https://www.puutarhakasvit.fi/pinaatti-nores-spinacia-oleracea-l/p/7312600914179/): 13.4.2021 kylvö kahteen puutarhamulta säkkiin kasvulavalle lähellä pihlajametsää. 
+- [Harmaamalvikki](https://www.seikkutuote.com/tuote/harmaamalvikki-lavatera-thuringiaca-gramalva/): pienet siemenet, kylvö 13.4.2021 tulppaanialueelle lähellä joulukuusimetsää. Hieman puutarhamultaa päälle. "Maa kannattaa kevyesti kalkita, koska malvat pitävät emäksisestä kasvualustasta." [meillä kotona](https://www.meillakotona.fi/artikkelit/nain-onnistut-malvan-kasvatuksessa)
+- Ruohonleikkuriväylän tasoitus 12.4.2021
+- Kompostorin siirto 13.4.2021 ja maansiirto kuusimetsällä. Hake kuivikkeena toimi ihan ok. Ei pahaa hajua.
+- vaijeri kuusesta vex 14.4.2021, risukasan (kiinteistön itälaita) poltto 14.4.2021. [Krookukset](https://www.kekkila.fi/kasvikirjasto/krookus/) eli violetit [sahramit](https://puutarha.net/artikkelit/105/krookus_sahrami_crocus_puutarha_net.htm) kukkivat pingispöydän ja paljun läheisyydessä. "Lehtien annetaan lakastua rauhassa, joten krookuksia ei kannata istuttaa leikattavaan nurmikkoon. Sopivia istutuspaikkoja ovat esimerkiksi pensaiden ja puiden alustat ja puolivarjoisalla paikalla kukinta kestää pisimpään." [Viherpeukalot](https://www.viherpeukalot.fi/krookus)
+- Havaintoja: mustarastas, nokkosperhonen ja tiesitkö että keväällä pörräävät kimalaiset ovat kuningattaria? Sinitiaiset jo maaliskuun lopulla rakentelivat pesiään takametsässä
+- 16.4. Persilja - Moss Curied - Petersell: Monivuotinen kylvöä edellisvuosien penkkiin suoraan maahan puutarhamullan sekaan. Koivukannosta etelään ja itään korokepenkkiin. (ohjeissa: kylvetään ruukkuun helmikuussa tai mahdollisimman aikaisin avomaalle.)
+
+## Toukokuu
+
 
 # Liitteet ja muistutukset
 
