@@ -306,9 +306,21 @@ Lehtipuut = Elokuussa, pidä kolme viikko maassa = rasiinkaataminen. Havupuut = 
 - vaijeri kuusesta vex 14.4.2021, risukasan (kiinteistön itälaita) poltto 14.4.2021. [Krookukset](https://www.kekkila.fi/kasvikirjasto/krookus/) eli violetit [sahramit](https://puutarha.net/artikkelit/105/krookus_sahrami_crocus_puutarha_net.htm) kukkivat pingispöydän ja paljun läheisyydessä. "Lehtien annetaan lakastua rauhassa, joten krookuksia ei kannata istuttaa leikattavaan nurmikkoon. Sopivia istutuspaikkoja ovat esimerkiksi pensaiden ja puiden alustat ja puolivarjoisalla paikalla kukinta kestää pisimpään." [Viherpeukalot](https://www.viherpeukalot.fi/krookus)
 - Havaintoja: mustarastas, nokkosperhonen ja tiesitkö että keväällä pörräävät kimalaiset ovat kuningattaria? Sinitiaiset jo maaliskuun lopulla rakentelivat pesiään takametsässä
 - 16.4. Persilja - Moss Curied - Petersell: Monivuotinen kylvöä edellisvuosien penkkiin suoraan maahan puutarhamullan sekaan. Koivukannosta etelään ja itään korokepenkkiin. (ohjeissa: kylvetään ruukkuun helmikuussa tai mahdollisimman aikaisin avomaalle.)
+- 16.4.2021 Unikko: Tienvarsi (käännetty maa), kompostorin tyhjennysalue lähelle kuusimetsää, vanhametsäkompostoririsukasa-alue. n. 500 kpl. Huom: lisää silloin tällöin, pidempi kukinta. Päälle maata hieman (vaikka ei tarvetta peittää). 
+- 16.4.2021 Vajan takaa maata kompostorimullan päälle. Pihlajoiden ja kuolleiden männynoksien ym. leikkaaminen
+- 17.4.2021 Risuja silpuksi ja kompostoreihin. Kuivatus pingispöydällä. Seppelvarpu [Laceshrub (Seppelvarpu)](https://ahosentaimisto.fi/tuote/seppelvarpu-astiataimi/) maanpeittopensas leikkaus ja siirtoa juurinen rinteestä hallille tien viereen. "Pensasta ei yleensä tarvitse leikata usein, mutta se versoo hyvin alasleikkauksen jälkeen." ja "Menestyy sekä aurinkoisilla että varjoisilla kasvupaikoilla. Kasvualustan tulee olla tuore, keskiravinteinen ja kostea, mutta läpäisevä, jotta pensas talvehtii kunnolla." [] Elo-syyskuussa lannoitetaan Kekkilä Syyslannoite Plussalla mitä löytyy hallilta.
+- 27.4.2021 Toisen suliskentän tasoitusta itäpäädyssä.
+
+17.4.:T: kastele persilja
+
 
 ## Toukokuu
 
+# Aitat:
+
+- [Kontio Lilja](https://www.kontio.com/fi-FI/mallisto/lilja/)
+- [Lupapiste](https://www.kirkkonummi.fi/rakentamisen-lupien-hakeminen)
+- [Mountain Laavu](https://www.honkatalot.fi/mallistot/mountain-collection/)
 
 # Liitteet ja muistutukset
 
