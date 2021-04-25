@@ -293,6 +293,11 @@ Lehtipuut = Elokuussa, pidä kolme viikko maassa = rasiinkaataminen. Havupuut = 
 
 # Puutarha
 
+## Työkalut
+
+- [Bosch ART 23 Combitrim](https://www.k-rauta.fi/tuote/trimmeri-bosch-art-23-combitrim/3165140349512) sähkötrimmeri nurmikon siistimiseen, [Siimaa puuilosta](https://www.puuilo.fi/bosch-art-23-sl-trimmerin-siima?gclid=CjwKCAjwg4-EBhBwEiwAzYAlsiMC8ORKpSoj8aWQBdarQyU4RCw1892aMjGurePbo6CwtmKHQCF7IhoCWswQAvD_BwE).
+
+
 ## Huhtikuu
 
 - Mahlan keruu (20cm halkaisijan koivu lähellä kasvimaata) 11.4.2021- (12.4.2021: 1.0l, 13.4.2021: 1.5l, 14.4.2021: 2l)
@@ -309,9 +314,18 @@ Lehtipuut = Elokuussa, pidä kolme viikko maassa = rasiinkaataminen. Havupuut = 
 - 16.4.2021 Unikko: Tienvarsi (käännetty maa), kompostorin tyhjennysalue lähelle kuusimetsää, vanhametsäkompostoririsukasa-alue. n. 500 kpl. Huom: lisää silloin tällöin, pidempi kukinta. Päälle maata hieman (vaikka ei tarvetta peittää). 
 - 16.4.2021 Vajan takaa maata kompostorimullan päälle. Pihlajoiden ja kuolleiden männynoksien ym. leikkaaminen
 - 17.4.2021 Risuja silpuksi ja kompostoreihin. Kuivatus pingispöydällä. Seppelvarpu [Laceshrub (Seppelvarpu)](https://ahosentaimisto.fi/tuote/seppelvarpu-astiataimi/) maanpeittopensas leikkaus ja siirtoa juurinen rinteestä hallille tien viereen. "Pensasta ei yleensä tarvitse leikata usein, mutta se versoo hyvin alasleikkauksen jälkeen." ja "Menestyy sekä aurinkoisilla että varjoisilla kasvupaikoilla. Kasvualustan tulee olla tuore, keskiravinteinen ja kostea, mutta läpäisevä, jotta pensas talvehtii kunnolla." [] Elo-syyskuussa lannoitetaan Kekkilä Syyslannoite Plussalla mitä löytyy hallilta.
-- 27.4.2021 Toisen suliskentän tasoitusta itäpäädyssä.
+- 17.4.2021 Toisen suliskentän tasoitusta itäpäädyssä.
+- 17.4.2021 :T: kastele persilja
+- Havaintoja: 21.4.2021 neon keltainen sitruunaperhonen. Valkohäntäpeuroja pellolla [video](linkki). 
+- Skilla ja sulkapallokentän läheidyydessä olevat narsissit kukkivat. Krookukset lakastuvat. Kirsikkapuussa silmuja kohta. Mahla tuotanto yhdestä koivusta yli 6 litraa päivässä.
+- [Keisarinpikarililja](https://www.viherpeukalot.fi/keisarinpikarililja) nousee vauhdilla. Viime vuonna 2 vartta, nyt 3. Kevätlannoite sekoitetta viereen tehtyihin reikiin. Karkottaa myyriä.
+- 19.4.2021: basilika ruukkuihin, hallilla kylmät yöt.
+- 22.4.2021: Sammaloituneen nurmikon tuhkausta. Lapiollinen tuhkaa myös pienille omenapuille. Valkoapila toiselle kasvimaalle (eteläinen), tien sivuun ja alueille missä ei nurmikko kasva.
+- 24.4.2021, kaunokainen ei menestynyt. Viime vuonna istutettiin, mutta jokin jyrsijä söi sen kanaverkoista huolimatta aika ajoin maan tasalle. Ei selvinnyt talvesta. 
+- 25.4.2021 kuntta eli [siirtovarvikon](https://www.netrauta.fi/siirtovarvikko-piiraisen-kuntta) siirto itäiseltä sulkpallokentältä kaivon kalliorinteeseen ja tien vierustaan ison kiven yläpuolelle. Samalla alueen tasaamista.
+- [seppelvarpu](https://www.kekkila.fi/kasvikirjasto/seppelvarpu/) pensaan leikkaus terassin luona. Siirto kuusimetseän rinteeseeseen.
+- kevät kauhon kukka
 
-17.4.:T: kastele persilja
 
 
 ## Toukokuu
