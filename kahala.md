@@ -15,8 +15,11 @@ tags:
 - Yhteyshenkilö: Jaakko Talonen (email: jaakko.talonen (miukumauku) gmail.com)
 - [Metsäyhtymä Talonen Jaakko, Talonen Juho ja Talonen Mikko @ Asiakastieto](https://www.asiakastieto.fi/yritykset/fi/metsayhtyma-talonen-jaakko-talonen-juho-ja-talonen-mikko/31972523/yleiskuva)
 
+# Data
+Sopimuksen mukaan voin konsultoida "big data" haasteissa, kuten analysoimalla [metsäkeskuksen](https://www.metsakeskus.fi/fi/avoin-metsa-ja-luontotieto/metsatietoaineistot) aineistoja. 
+
 # Metsä & Hortoilu
-Sopimuksen mukaan:
+Sopimuksen mukaan syö ja juo metsää tai syö jossain [ravintolassa](https://safka.shinyapps.io/restaurants/) missä mekin olemme käyneet.
 
 ## Kuusenkerkkä
 - Kuusenkerkkä. Suoraan kuusesta poimittuna eli tuoreena touko-kesäkuussa.
@@ -25,9 +28,16 @@ Sopimuksen mukaan:
 - Pakurikääpä [Inonotus obliquus](http://www.xn--pakurikp-6zaab.net/pakuritietoa/hinta#:~:text=Paloina%20ja%20jauhettuna%20ostettu%20pakuri,hinta%20noin%20180%20%E2%82%AC%20%2F%20kilo.). Metsästä käsin kirveelle/sahalla poimittuna.
 
 ## Koivunmahla
+Tilapäisesti loppu! Seuraavan kerran saatavilla huhtikuussa 2022. Pakastettuna vielä hieman varastossa.
+
 "Mahlasta on 98,5 prosenttia vettä ja loput kivennäis- ja hivenaineita (kalsium, kalium, magnesium ja mangaani). Mahla on käytettävä tai säilöttävä esimerkiksi pakastamalla vuorokauden sisällä keruusta. Reikä (3-5cm) tehdään mielellään pohjoisen puolelle, jotta letku on varjossa eikä niin lämpene." [Metsään lehti](https://www.metsaan-lehti.fi/uutiset/metsien-kaytto/mahlaa-voi-kerata-omaksi-iloksi-tai-myyntiin.html).
 
 A-taulukko: Ei vaadita elintarvikehuoneistoilmoitusta ja Ei kuulu säännöllisen valvonnan piiriin. [Ruokavirasto](https://www.ruokavirasto.fi/globalassets/yritykset/elintarvikeala/toiminnan-aloittaminen/elintarvikehuoneistot/toiminnasta-ilmoittaminen_taulukko.pdf).
+
+## Pihlaja
+
+- [Silmut](http://keruutuotetarkastaja.blogspot.com/2015/05/pihlajansilmuista-hienoa-aromia.html#:~:text=Pihlaja%20(Sorbus%20aucuparia)%20on%20yleinen,kun%20silmut%20ovat%20v%C3%A4rilt%C3%A4%C3%A4n%20vaaleita.) parhaimillaan toukokuussa.
+
 
 ## Villiyrtit
 

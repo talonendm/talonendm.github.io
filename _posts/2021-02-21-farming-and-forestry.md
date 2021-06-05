@@ -304,7 +304,7 @@ Lehtipuut = Elokuussa, pidä kolme viikko maassa = rasiinkaataminen. Havupuut = 
 - [Syyshortensia](): Leikkaus [keväällä](https://www.youtube.com/watch?v=EyGAUPROiRI). Lyhennä vain uuden verson kolmannen silmun yläpuolelta.
 - [Pallohortensia - Hydrangea arborescens Annabella](https://www.viherpeukalot.fi/pallohortensia), leikkaus keväällä. "Istutusalue tulee pitää rikkaruohovapaana joten taimen ympäristö on hyvä peittää kuorikatteella tai koristekatteella." [khpuutarhakeskus lisätiedot](https://www.khpuutarhakeskus.fi/tuotteet.html?id=5/137). Kasvupaikka: Puolivarjoinen suositeltavin. Jos istutusalue auringossa, tuoretta turvemultaa on oltava paljon. Hapan eli kalkitsematon maa. Leikkaus: Pensaan voi leikata alas jopa vuosittain tai poistaa siitä vain hangen yläpuolelta paleltuneet osat, jolloin siitä kehittyy metrin korkuinen. [ahosentaimisto. lisätiedot](https://ahosentaimisto.fi/tuote/pallohortensia-astiataimi/).
 - [Kirsikkapuu - Kirsikkapuu Prunus cerasus fanal](https://www.k-rauta.fi/tuote/kirsikkapuu-prunus-cerasus-fanal/6419127651110): luultavasti Fanal. Hankittu 2009 syksyllä muistaakseni. metsäkauriit käyneet napsimassa silmuja. Leikkaus 10.4.2021.
-- [Pinaatti spinacia-oleracea](https://www.puutarhakasvit.fi/pinaatti-nores-spinacia-oleracea-l/p/7312600914179/): 13.4.2021 kylvö kahteen puutarhamulta säkkiin kasvulavalle lähellä pihlajametsää. 
+- [Pinaatti spinacia-oleracea](https://www.puutarhakasvit.fi/pinaatti-nores-spinacia-oleracea-l/p/7312600914179/): 13.4.2021 kylvö kahteen puutarhamulta säkkiin kasvulavalle lähellä pihlajametsää. 29.4.2021 yöpakkasia ollut, mutta osa itää jo. Toivottavasti selviää kylmästä.
 - [Harmaamalvikki](https://www.seikkutuote.com/tuote/harmaamalvikki-lavatera-thuringiaca-gramalva/): pienet siemenet, kylvö 13.4.2021 tulppaanialueelle lähellä joulukuusimetsää. Hieman puutarhamultaa päälle. "Maa kannattaa kevyesti kalkita, koska malvat pitävät emäksisestä kasvualustasta." [meillä kotona](https://www.meillakotona.fi/artikkelit/nain-onnistut-malvan-kasvatuksessa)
 - Ruohonleikkuriväylän tasoitus 12.4.2021
 - Kompostorin siirto 13.4.2021 ja maansiirto kuusimetsällä. Hake kuivikkeena toimi ihan ok. Ei pahaa hajua.
@@ -316,19 +316,61 @@ Lehtipuut = Elokuussa, pidä kolme viikko maassa = rasiinkaataminen. Havupuut = 
 - 17.4.2021 Risuja silpuksi ja kompostoreihin. Kuivatus pingispöydällä. Seppelvarpu [Laceshrub (Seppelvarpu)](https://ahosentaimisto.fi/tuote/seppelvarpu-astiataimi/) maanpeittopensas leikkaus ja siirtoa juurinen rinteestä hallille tien viereen. "Pensasta ei yleensä tarvitse leikata usein, mutta se versoo hyvin alasleikkauksen jälkeen." ja "Menestyy sekä aurinkoisilla että varjoisilla kasvupaikoilla. Kasvualustan tulee olla tuore, keskiravinteinen ja kostea, mutta läpäisevä, jotta pensas talvehtii kunnolla." [] Elo-syyskuussa lannoitetaan Kekkilä Syyslannoite Plussalla mitä löytyy hallilta.
 - 17.4.2021 Toisen suliskentän tasoitusta itäpäädyssä.
 - 17.4.2021 :T: kastele persilja
-- Havaintoja: 21.4.2021 neon keltainen sitruunaperhonen. Valkohäntäpeuroja pellolla [video](linkki). 
+- Havaintoja: 21.4.2021 neon keltainen sitruunaperhonen. Valkohäntäpeuroja pellolla [video](linkki). [Kevätkaihonkukka - Omphalodes verna](https://www.luontoportti.com/suomi/fi/kukkakasvit/kevatkaihonkukka) kukkii sinisenä peltona talon itäpäädyssä.
 - Skilla ja sulkapallokentän läheidyydessä olevat narsissit kukkivat. Krookukset lakastuvat. Kirsikkapuussa silmuja kohta. Mahla tuotanto yhdestä koivusta yli 6 litraa päivässä.
 - [Keisarinpikarililja](https://www.viherpeukalot.fi/keisarinpikarililja) nousee vauhdilla. Viime vuonna 2 vartta, nyt 3. Kevätlannoite sekoitetta viereen tehtyihin reikiin. Karkottaa myyriä.
 - 19.4.2021: basilika ruukkuihin, hallilla kylmät yöt.
-- 22.4.2021: Sammaloituneen nurmikon tuhkausta. Lapiollinen tuhkaa myös pienille omenapuille. Valkoapila toiselle kasvimaalle (eteläinen), tien sivuun ja alueille missä ei nurmikko kasva.
+- 22.4.2021: Sammaloituneen nurmikon tuhkausta. Lapiollinen tuhkaa myös pienille omenapuille. Valkoapila (10€/0.5kg) toiselle kasvimaalle (eteläinen), tien sivuun ja alueille missä ei nurmikko kasva.
 - 24.4.2021, kaunokainen ei menestynyt. Viime vuonna istutettiin, mutta jokin jyrsijä söi sen kanaverkoista huolimatta aika ajoin maan tasalle. Ei selvinnyt talvesta. 
-- 25.4.2021 kuntta eli [siirtovarvikon](https://www.netrauta.fi/siirtovarvikko-piiraisen-kuntta) siirto itäiseltä sulkpallokentältä kaivon kalliorinteeseen ja tien vierustaan ison kiven yläpuolelle. Samalla alueen tasaamista.
-- [seppelvarpu](https://www.kekkila.fi/kasvikirjasto/seppelvarpu/) pensaan leikkaus terassin luona. Siirto kuusimetseän rinteeseeseen.
-- kevät kauhon kukka
+- 25.4.2021 Kuntta; [siirtovarvikon](https://www.netrauta.fi/siirtovarvikko-piiraisen-kuntta) siirto itäiseltä sulkpallokentältä kaivon kalliorinteeseen ja tien vierustaan ison kiven yläpuolelle. Samalla alueen tasaamista.
+- [Seppelvarpu](https://www.kekkila.fi/kasvikirjasto/seppelvarpu/) pensaan leikkaus terassin luona. Siirto kuusimetseän rinteeseeseen. Noin 10kpl.
+- 27.4.2021: oliivipuun siirto talvisäilytyksestä tekniseentilaan. Salvia kasvaa ja tuottaa uutta lehteä kasvihuoneessa, vaikka yöpakkasia. Sinivuokot kukkivat ison kiven lähellä mattojen tamppauspaikkaa.
+- 28.4.2021: Oliivipuu kaipaa kalkitun maan (käytä esim. tuhkaa). Salaojitettu typpirikas maa. Keväästä syksyyn pihalla, puu tarvitsee kuitenkin valoa ympäri vuoden (ts. käytä kasvilamppua seuraavana talvena). Siirto uuteen reiälliseen ruukkuun (aiemmin umpinainen mustaruukku).
 
+- 28.4.2021: 
+- kääpiövuorimänty - Pumilio 28e
+- kartiovalkokuusi Conica 40-50cm, 29.9e
+- sinikataja Blue Carpet 30-40cm, 28e
+Rinneangervo 14e
+- vuorimänty 22e. Itäänpäin olevaan rinteeseen lähelle paljua.
+
+
+jaloleinikki (punainen monivuotinen). Istutus kuusimetsän itäpuolelle 8.5.2021, pahimmat yöpakkaset ohi ja taisi selvitä.
+- 29.4.2021: kuoppien kaivaminen, nurmikon leikkuuta etelärinteestä ja itäiseltä sulkapallokentältä. Eteläisen kentän reunavallin tasoitusta. Keisarinpikarililja nuokkuu aamulla pakkasten jälkeen. Pituutta niillä jo lähes 50cm.
+
+- Jorvaspuoti 6*70l * 2 = 40e -> 840l multaa
+- Rusta 25*50l * 2 = 49.75e * 2 -> 2500l multaa. Puutarhurin kuorikate mäntyrinteeseen. 5 * 50l + 4*50l Bauhausista.
 
 
 ## Toukokuu
+
+- 8.5.2021: 50 säkkiä, 1.99e/a puutarhamultaa Rustasta 50l.
+- 5 säkkiä kuorikatetta pohjoiseen kääpiömäntymetsään.
+- 9.5.2021: Korianteri yksilava hallille (alin). Pelttokurjenpolvea pohjoisen rinteelle talon taakse.
+- 10.5.2021: Viime vuonna talteen otetut herneiden liuotus, n. 2-3h. 3 * 3 vakoa hernettä paljun lähellä olevalla pohjoiselle kasvimaalle. + altakastelulavalle 2 riviä toiseen pitkään lavaan itäiselle puolelle.
+- herneen viereen kumppanuuslaji retiisi Raphanus sativus, Saxa ja toinen lajike Raphanus Sativus. Aikainen porkkana (daucus Amsterdam) ja salaatti Lactuva sativa. Päiväykset menneet vuosia sitten, joten hieman tiheämpi kylvöväli + laiskotti. Pinseteillä kait saisi tarkasti esim. 1.5-2cm * 20cm kylvövälin 0.5-1cm syvyyteen?
+- lavojen alajuoksulle [viinirypäle - Zilga](https://www.viherpeukalot.fi/viinikoynnos-zilga-1), mistä saa valuneet ravinteet ja kosteutta. Jos viihtyy siinä niin kasvilavoihin saa tehtyä tuet ym. Samalla vaihdoin avokadolle (4 vuotias?) mullat mutta se taisi jo tehdä kuolemaa. Ei pitänyt alkukevään hallin viileästä pimeästä ilmastosta? Mullat kosteana ja juuret taisi mädäntyä. Muuttui keltaiseksi ja lehdet tippuivat.
+- mustajuuren kumppani sipuli, kokeillaan monivuotista myös iisoppi eli sinne..
+- 18.5.2021: Uudenseelannin pinaattia siirrettävään kasvihuoneeseen (kylväminen myöhemmin kuin peruspinaatilla).
+- 19.5.2021: Humalat nousee hyvin. Alarinteessä 4 taimea, alkuperäiset kaksi lähellä trampolinia.
+- [] TODO: tukikepit Humalalle.
+- 19.5.2021: keltaiset [vuohenjuuret](https://www.kekkila.fi/kasvikirjasto/kevatvuohenjuuri/) kukkivat omenapuun luona sekä uusina tulokkaina lähellä kesäkeittiöaluetta ruusujen juurella.
+- 20.5.2021: Perunamaa (n. 30 Annabellaa) itäiselle kasvimaalle (5 säkkiä multaa), missä monivuotista (juurista lähtee aina uudet) maa-artisokkaa. [Jättisipulisiemeniä - Ailsa Craig](https://hyotykasviyhdistys.fi/shop/ailsa-craig/) ja [ruohosipuli - allium schoenoprasum](https://en.wikipedia.org/wiki/Chives) yhteen kasvilavaan. Punasipuli ja tilli toiseen. Aiemmin istutetut punasipulien viereen kumppanuuslaji tilliä läntisen puutarhan kasvulaatikko. 
+- 20.5.2021: Isosilkkikukkasekoitus lähelle eteläistä auringonkukka peltoa. Saas nähä läheteekö.. yksi säkki multaa tolle.
+- 20.5.2021: Kehäkukan siemiä kevyesti mullalla peitettynä eteläisen sulkapallokentän etelä- ja itäpäätyihin. Lisäksi kuusimetsikköön kohtiin, jossa maata oli käännetty. 
+- 20.5.2021: keräsalaattia 6 ruukkuun ja kasvihuoneeseen. Ohjeissa (kylvä huhtikuun lopussa sisälle ja esikasvatus n. 1kk) Taimet avomaalle toukokuun lopussa. Onnistuukohan?
+- 20.5.2021: mustajuuri isoon ruskeaan ja keskikokoiseen ruukkuun. Sekaan [pillisipuli - Allium fistulosum](). Pillisipulia myös yhteen kasvilavaan ja sinne sekaan [salaattia - Lactuca sativa]().
+- 21.5.2021: Rucola ja Apila itää hyvin. Korianterista ja herneistä vain muutama.  
+- taukoa
+- 27.5.2021: Lipstikkasato hyvä. Päivittäin voi kerätä, leikkaus juuresta, jotta uusille versoille tilaa
+- 29.5.2021: [kuusenkerkkä](https://www.arcticwarriors.fi/raaka-aineet/kuusenkerkka/) jo sopivan kokoista poimittavaksi.
+- 29.5.2021: tummat tulppaanit maistuvat metsäkauriille kiinteistön itäpäädyssä. 
+- 1.6.2021: ketoleinikkaa myös kivetyksen juurella parkkialueen itäpuolella.
+- 2.6.2021: ensimmäiset aikaisen sadon pinaatit ovat ovat jo valmiita käytettäväksi.
+- 4.6.2021: kahvi ja kahviporot: alppiruusu, pallohortensia ja ruusut - hyvä [lannoite](https://www.gardena.com/fi/puutarhaelamaa/puutarhalehti/yksinkertaisuutta-luonnosta-valmista-oma-lannoitteesi/).
+
+# Bongaukset
+- 19.5.2021: [Viinimäkikotelo - Helix pomatia](https://xn--tkktieto-2za0pb.fi/cat?id=46) (Kirkkonummi), on uusi tuttavuus Suomessa, ks. [keskustelu](https://keskustelu.suomi24.fi/t/3197925/viinimakikotilo!!) - [Kari](https://spongebob.fandom.com/wiki/Gary_the_Snail) jättää melkoista limavanaa jälkeensä.
 
 # Aitat:
 

@@ -71,8 +71,9 @@ Symbolismi, naivistinen tyyli taiteessa. Henkilökuvat hyvin realistisia, ks. [t
 - [Teemu Järvi](https://teemujarvi.fi/), Finnish artist.
 - Pollock, [[1]] (#1)
 
+- [Jiri Geller](https://www.jirigeller.com/) tekee lasikuidusta ja polyuretaanista enemmän kuin aidon näköisiä teoksia (jäätelöpallot, ilmapallot, aalto tms.)  (Suomen kuvalehti SK37 - 12.9.2014).
 
-# Stuff
+# Stuff 
 
 ## Tempera - taidekauppa
 - painoväri: Calico Safe Wash, voi pestä saippuavedellä
