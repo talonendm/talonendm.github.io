@@ -133,6 +133,7 @@ Typistä joka vuosi juhannuksen tienoilla vuorimännyn uudesta vuosikasvusta puo
 - 5.6.2021: Härkäpavun istutus: Liutotus muutama tunti, toisin kuin näissä [ohjeissa](https://www.plantagen.fi/harkapapu.html) sanottiin että olisi syytä liuottaa vuorokausi ja istutussyvyys 5cm (painoin varmaan vaan 1-3 cm syvälle multaan). Huom. "Suomen eteläisimmissä osissa voit istuttaa härkäpapua aina toukokuulle asti." eli hieman myöhässä tuli tehtyä tämä.
 - 7.6.2021: yli vuorokauden liuotettuja härkäpapuja muutamaan ruukkuun.
 - 9.6.2021 [Keisarinpikarililja](https://www.viherpeukalot.fi/keisarinpikarililja) kupsahti ennen kukintaa. Neljä pitkää vartta, mutta kuivahti ennen kukintaa.
+- 12.6.2021 Humalan tukeminen ja punaisen langan veto tukipuiden ja oksien välille. Rikkaruohojen kitkeminen. 1 * hernekohopenkki ja kukkapuskat. Omenapuun oksien painojen poistaminen. 
 
 
 # Bongaukset
@@ -141,7 +142,9 @@ Typistä joka vuosi juhannuksen tienoilla vuorimännyn uudesta vuosikasvusta puo
 - 5.6.2021: Tutulta saatu [Jättilaukka - violetti](https://puutarha.net/keskustelut/PrintTopic2337288.aspx) kukkii pääoven terassin läheisyydessä. 
 - 5.6.2021: Valkoinen [Sammalleimu](https://www.viherpeukalot.fi/sammalleimu-scarlet-flame-6) kukkii todella voimakkaasti. Myös marja-aroniapensaassa sekä pihlajissa paljon kukkia. Viime vuonna ei tullut ollenkaan satoa. Vuonna 2019 sato oli todella runsas. Valkoiset syreenit kukkivat, mutta jostain syystä [violetissa pihasyreenissä - Syringa vulgaris](https://www.haikalanpuutarha.com/tuote/pihasyreeni-violetti/) kuvat eivät kehittyneet tänä vuonna.
 - 7.6.2021 Pioni (luonnonmukainen ilman kertaamia) ja alppiruusut kukkivat, joita muuten kannattaa käydä ihmettelemässä [Mustilassa](https://www.mustilapuutarha.fi/VieraileMustilassa/Arboretum) - "yhteen Pohjois-Euroopan merkittävimmistä arboretumeista". 
--8.6.2021 uimavedet lämpimät, lupiinit kukkivat teidenvarsilla ja ensimmäinen idänunikon kukka auennut.
+- 8.6.2021 uimavedet lämpimät, lupiinit kukkivat teidenvarsilla ja ensimmäinen idänunikon kukka auennut.
+- 11.6.2021 Syviksellä lämmin vesi, keskustan puissa harsomaista kudosta [Tuomenkehrääjäkoi - Yponomeuta evonymella](https://fi.wikipedia.org/wiki/Tuomenkehr%C3%A4%C3%A4j%C3%A4koi). Toivottavasti ei tartu pihan omenapuihin, sillä näyttäisi tulevan ihan hyvä sato (ihan pieniä omenanalkuja).
+- 12.6.2021 pieni linnunpoikanen tipahtanut pesästään. Piileskeli pensaassa.
 
 # Aitat:
 
