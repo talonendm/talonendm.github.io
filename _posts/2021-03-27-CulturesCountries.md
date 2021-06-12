@@ -30,7 +30,7 @@ Stuff related on Japan and japanese language; [Katakana](https://en.wikipedia.or
 - Trnava
 - Trenčín
 - Poprad
-- Spišská Nová Ves
+- Spišská Nová Ves: [The ruins of Spiš Castle](https://en.wikipedia.org/wiki/Spi%C5%A1_Castle)
 - Komárno
 
 
@@ -41,10 +41,21 @@ Stuff related on Japan and japanese language; [Katakana](https://en.wikipedia.or
 - Kolomyia - Коломия
 - Kyiv - Київ
 - Chernihiv - Чернігів
+- Bohorodchany - Богородчани
+
+[and](https://en.wikipedia.org/wiki/List_of_cities_in_Ukraine)
+
+- Odesa - Одеса
+- Yalta	- Ялта
+- Simferopol - Сімферополь
 
 # Norway
 
 # Portugal
+
+- Lisbon
+- Charneca de Caparica
+- Porto
 
 ## Travelling
 

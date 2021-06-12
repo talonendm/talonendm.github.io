@@ -13,6 +13,11 @@ thumbnail-img: /assets/pics/thumbnail/instagram/IMG_20160717_112037.jpg
 published: true
 ---
 
+[Kirkkonummen frisbeegolfrata](https://frisbeegolfradat.fi/rata/kirkkonummen_frisbeegolfrata/) 
+- 6.6.2021: +25
+
+
+
 <div id="sketch-holder-jt-video"></div>
 
 

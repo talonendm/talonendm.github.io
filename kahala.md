@@ -15,6 +15,13 @@ tags:
 - Yhteyshenkilö: Jaakko Talonen (email: jaakko.talonen (miukumauku) gmail.com)
 - [Metsäyhtymä Talonen Jaakko, Talonen Juho ja Talonen Mikko @ Asiakastieto](https://www.asiakastieto.fi/yritykset/fi/metsayhtyma-talonen-jaakko-talonen-juho-ja-talonen-mikko/31972523/yleiskuva)
 
+# Metsä
+"Kissanpäivät" toistuu 2-3 vuoden välein:
+- [Kissanpäivät 2021](https://www.maaseuduntulevaisuus.fi/metsa/artikkeli-1.1430815)
+- [Kissanpäivät 2018](https://www.salkunrakentaja.fi/2018/04/metsanomistajan-kissanpaivat-puun-tarve-lisaantyy-ja-kantohinnat-nousee/)
+- [Kissanpäivät 2016](https://www.maaseuduntulevaisuus.fi/metsa/yle-mets%C3%A4nomistajalle-tiedossa-kissanp%C3%A4iv%C3%A4t-1.138565)
+
+
 # Data
 Sopimuksen mukaan voin konsultoida "big data" haasteissa, kuten analysoimalla [metsäkeskuksen](https://www.metsakeskus.fi/fi/avoin-metsa-ja-luontotieto/metsatietoaineistot) aineistoja. 
 
@@ -22,7 +29,7 @@ Sopimuksen mukaan voin konsultoida "big data" haasteissa, kuten analysoimalla [m
 Sopimuksen mukaan syö ja juo metsää tai syö jossain [ravintolassa](https://safka.shinyapps.io/restaurants/) missä mekin olemme käyneet.
 
 ## Kuusenkerkkä
-- Kuusenkerkkä. Suoraan kuusesta poimittuna eli tuoreena touko-kesäkuussa.
+Suomen Terveystuotekauppiaiden Liitto on valinnut vuoden 2021 rohdoskasviksi kuusenkerkän [Maaseuduntulevaisuus - 5.6.2021](https://www.maaseuduntulevaisuus.fi/metsa/artikkeli-1.1428155). Sopimuksen mukaan vihreää kultaa (vitamiinipommia) suoraan kuusesta poimittuna eli tuoreena touko-kesäkuussa. Kirkkonummi / Eura.
 
 ## Pakurikääpä
 - Pakurikääpä [Inonotus obliquus](http://www.xn--pakurikp-6zaab.net/pakuritietoa/hinta#:~:text=Paloina%20ja%20jauhettuna%20ostettu%20pakuri,hinta%20noin%20180%20%E2%82%AC%20%2F%20kilo.). Metsästä käsin kirveelle/sahalla poimittuna.
@@ -41,7 +48,11 @@ A-taulukko: Ei vaadita elintarvikehuoneistoilmoitusta ja Ei kuulu säännöllise
 
 ## Villiyrtit
 
+### Vuohenputki
 - [Luomuvuohenputki](https://www.is.fi/ruokala/uutiset/art-2000000976426.html).
+- [Vuohenputki-gorgonzola­risotto](https://www.maaseuduntulevaisuus.fi/ruoka/resepti/artikkeli-1.1118645) "Kiehauta vuohenputkia vedessä noin 3 minuuttia, huuhtele ja silppua pieneksi. Viimeistele lisäämällä risottoon voi ja parmesaaniraaste sekä silputut vuohenputket."
+
+### muut
 - Luomuvillivadelmanlehdet.
 - [Villipoimulehdet](https://www.mtvuutiset.fi/makuja/artikkeli/rikkaruoholla-ruokakaupassa-330-euron-kilohinta-perusteltua-vai-jarjetonta-nain-vastaa-asiantuntija/5243218#gs.ys2ig4).
 

@@ -53,6 +53,8 @@ Lehtipuut = Elokuussa, pidä kolme viikko maassa = rasiinkaataminen. Havupuut = 
 - [Metsäkeskus verovinkit](https://www.metsakeskus.fi/verovinkit)
 - [Ohjeet metsäveroilmoituksen tekemiseksi | Piksu](https://www.piksu.net/artikkeli/ohjeet-mets%C3%A4veroilmoituksen-tekemiseksi)
 
+# Pelto
+- Kaura - "hot cereal", Suomalainen kaura on käsite vientimarkkinoilla pitkien valoisien kesäöiden ansiosta ja sillä haetaan jopa EU:n nimisuojaa. [SK37 2014 - Suomi-kauraa, olkaa hyvä]. 1ha kaurapeltoa tuottaa n. 5 tonnia jyviä. 
 
 
 
@@ -83,7 +85,7 @@ Lehtipuut = Elokuussa, pidä kolme viikko maassa = rasiinkaataminen. Havupuut = 
 - 17.4.2021 :T: kastele persilja
 - Havaintoja: 21.4.2021 neon keltainen sitruunaperhonen. Valkohäntäpeuroja pellolla [video](linkki). [Kevätkaihonkukka - Omphalodes verna](https://www.luontoportti.com/suomi/fi/kukkakasvit/kevatkaihonkukka) kukkii sinisenä peltona talon itäpäädyssä.
 - Skilla ja sulkapallokentän läheidyydessä olevat narsissit kukkivat. Krookukset lakastuvat. Kirsikkapuussa silmuja kohta. Mahla tuotanto yhdestä koivusta yli 6 litraa päivässä.
-- [Keisarinpikarililja](https://www.viherpeukalot.fi/keisarinpikarililja) nousee vauhdilla. Viime vuonna 2 vartta, nyt 3. Kevätlannoite sekoitetta viereen tehtyihin reikiin. Karkottaa myyriä.
+- [Keisarinpikarililja](https://www.viherpeukalot.fi/keisarinpikarililja) nousee vauhdilla. Viime vuonna 2 vartta, nyt 3. Kevätlannoite sekoitetta viereen tehtyihin reikiin. Lilja karkoittaa myyriä, joten upeuden lisäksi hyödyllinen.
 - 19.4.2021: basilika ruukkuihin, hallilla kylmät yöt.
 - 22.4.2021: Sammaloituneen nurmikon tuhkausta. Lapiollinen tuhkaa myös pienille omenapuille. Valkoapila (10€/0.5kg) toiselle kasvimaalle (eteläinen), tien sivuun ja alueille missä ei nurmikko kasva.
 - 24.4.2021, kaunokainen ei menestynyt. Viime vuonna istutettiin, mutta jokin jyrsijä söi sen kanaverkoista huolimatta aika ajoin maan tasalle. Ei selvinnyt talvesta. 
@@ -127,14 +129,19 @@ Typistä joka vuosi juhannuksen tienoilla vuorimännyn uudesta vuosikasvusta puo
 - 29.5.2021: tummat tulppaanit maistuvat metsäkauriille kiinteistön itäpäädyssä. 
 - 1.6.2021: ketoleinikkaa myös kivetyksen juurella parkkialueen itäpuolella.
 - 2.6.2021: ensimmäiset aikaisen sadon pinaatit ovat ovat jo valmiita käytettäväksi.
-- 4.6.2021: kahvi ja kahviporot: alppiruusu, pallohortensia ja ruusut - hyvä [lannoite](https://www.gardena.com/fi/puutarhaelamaa/puutarhalehti/yksinkertaisuutta-luonnosta-valmista-oma-lannoitteesi/).
+- 4.6.2021: kahvi ja kahviporot: [ainavihannat](https://fi.wikipedia.org/wiki/Ainavihanta) alppiruusu, pallohortensia ja ruusut - hyvä [lannoite](https://www.gardena.com/fi/puutarhaelamaa/puutarhalehti/yksinkertaisuutta-luonnosta-valmista-oma-lannoitteesi/).
+- 5.6.2021: Härkäpavun istutus: Liutotus muutama tunti, toisin kuin näissä [ohjeissa](https://www.plantagen.fi/harkapapu.html) sanottiin että olisi syytä liuottaa vuorokausi ja istutussyvyys 5cm (painoin varmaan vaan 1-3 cm syvälle multaan). Huom. "Suomen eteläisimmissä osissa voit istuttaa härkäpapua aina toukokuulle asti." eli hieman myöhässä tuli tehtyä tämä.
+- 7.6.2021: yli vuorokauden liuotettuja härkäpapuja muutamaan ruukkuun.
+- 9.6.2021 [Keisarinpikarililja](https://www.viherpeukalot.fi/keisarinpikarililja) kupsahti ennen kukintaa. Neljä pitkää vartta, mutta kuivahti ennen kukintaa.
 
 
 # Bongaukset
+- Kettu, valkohäntäpeura, metsäkauris.
 - 19.5.2021: [Viinimäkikotelo - Helix pomatia](https://xn--tkktieto-2za0pb.fi/cat?id=46) (Kirkkonummi), on uusi tuttavuus Suomessa, ks. [keskustelu](https://keskustelu.suomi24.fi/t/3197925/viinimakikotilo!!) - [Kari](https://spongebob.fandom.com/wiki/Gary_the_Snail) jättää melkoista limavanaa jälkeensä.
 - 5.6.2021: Tutulta saatu [Jättilaukka - violetti](https://puutarha.net/keskustelut/PrintTopic2337288.aspx) kukkii pääoven terassin läheisyydessä. 
-- 5.6.2021: Valkoinen [Sammalleimu](https://www.viherpeukalot.fi/sammalleimu-scarlet-flame-6) kukkii todella voimakkaasti. Myös marja-aronia pensaassa paljon kukkia. Viime vuonna ei tullut ollenkaan satoa. Vuonna 2019 sato oli todella runsas.
--5.6.2021: Härkäpavun istutus. Liutotus muutama tunti, toisin kuin näissä [ohjeissa](https://www.plantagen.fi/harkapapu.html) sanottiin että olisi syytä liuottaa vuorokausi ja istutussyvyys 5cm (painoin varmaan vaan 1-3 cm syvälle multaan) 
+- 5.6.2021: Valkoinen [Sammalleimu](https://www.viherpeukalot.fi/sammalleimu-scarlet-flame-6) kukkii todella voimakkaasti. Myös marja-aroniapensaassa sekä pihlajissa paljon kukkia. Viime vuonna ei tullut ollenkaan satoa. Vuonna 2019 sato oli todella runsas. Valkoiset syreenit kukkivat, mutta jostain syystä [violetissa pihasyreenissä - Syringa vulgaris](https://www.haikalanpuutarha.com/tuote/pihasyreeni-violetti/) kuvat eivät kehittyneet tänä vuonna.
+- 7.6.2021 Pioni (luonnonmukainen ilman kertaamia) ja alppiruusut kukkivat, joita muuten kannattaa käydä ihmettelemässä [Mustilassa](https://www.mustilapuutarha.fi/VieraileMustilassa/Arboretum) - "yhteen Pohjois-Euroopan merkittävimmistä arboretumeista". 
+-8.6.2021 uimavedet lämpimät, lupiinit kukkivat teidenvarsilla ja ensimmäinen idänunikon kukka auennut.
 
 # Aitat:
 
