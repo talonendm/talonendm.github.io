@@ -132,8 +132,12 @@ Typistä joka vuosi juhannuksen tienoilla vuorimännyn uudesta vuosikasvusta puo
 - 4.6.2021: kahvi ja kahviporot: [ainavihannat](https://fi.wikipedia.org/wiki/Ainavihanta) alppiruusu, pallohortensia ja ruusut - hyvä [lannoite](https://www.gardena.com/fi/puutarhaelamaa/puutarhalehti/yksinkertaisuutta-luonnosta-valmista-oma-lannoitteesi/).
 - 5.6.2021: Härkäpavun istutus: Liutotus muutama tunti, toisin kuin näissä [ohjeissa](https://www.plantagen.fi/harkapapu.html) sanottiin että olisi syytä liuottaa vuorokausi ja istutussyvyys 5cm (painoin varmaan vaan 1-3 cm syvälle multaan). Huom. "Suomen eteläisimmissä osissa voit istuttaa härkäpapua aina toukokuulle asti." eli hieman myöhässä tuli tehtyä tämä.
 - 7.6.2021: yli vuorokauden liuotettuja härkäpapuja muutamaan ruukkuun.
-- 9.6.2021 [Keisarinpikarililja](https://www.viherpeukalot.fi/keisarinpikarililja) kupsahti ennen kukintaa. Neljä pitkää vartta, mutta kuivahti ennen kukintaa.
-- 12.6.2021 Humalan tukeminen ja punaisen langan veto tukipuiden ja oksien välille. Rikkaruohojen kitkeminen. 1 * hernekohopenkki ja kukkapuskat. Omenapuun oksien painojen poistaminen. 
+- 9.6.2021: [Keisarinpikarililja](https://www.viherpeukalot.fi/keisarinpikarililja) kuivu ja kupsahti ennen kukintaa. Neljä pitkää vartta, mutta kuivahti ennen kukintaa.
+- 12.6.2021: Humalan tukeminen ja punaisen langan veto tukipuiden ja oksien välille. Rikkaruohojen kitkeminen. 1 * hernekohopenkki ja kukkapuskat. Omenapuun oksien painojen poistaminen. 
+- 28.6.2021: keltakurjenmiekan istutus lammelle, yksi paakku lammen viereen, 2 muuta mutaiseen kosteaan kuoppaan n 15cm päähän lammesta. "Paras paikka puutarhassa keltakurjenmiekalle on veden äärellä tai matalassa vedessä, purossa tai puutarhalammikossa. Keltakurjenmiekka ei juuri kaipaa hoitoa. Keltakurjenmiekka on Kymenlaakson maakuntakukka." [Mustila](https://www.mustilapuutarha.fi/Keltakurjenmiekka)
+- 24.6. ja 29.6.2021: retiisisato melkein valmis, mutta ne ovat täynnä tuholaisia. Kaalikärpänen on hyvin yleinen. Retiisi ei taida muutenkaan soveltua säkkikasvatukseen. Liikaa typpeä eli mukulan sijaan kasvattaa naatistoa. Lisäksi taisin istuttaa liian tiheään. Lämmin alkukesä myös haitallinen: "Kasvi vaatii tasaista kosteutta ja viileää säätä kasvaakseen maukkaaksi." - [Martat](https://www.martat.fi/marttakoulu/sesongin-ruoka-aineet/juurekset-ja-mukulat/retiisi/).. Kaikki retiisit kompostoriin. Sato: Yhteensä n. 4 vähän valmiiksi syötyä retiisiä. Loput shaibaa. 
+- 29.6.2021: Herneenpalkoja ja herneiden tukeminen lankojen avulla.
+
 
 
 # Bongaukset
@@ -144,7 +148,9 @@ Typistä joka vuosi juhannuksen tienoilla vuorimännyn uudesta vuosikasvusta puo
 - 7.6.2021 Pioni (luonnonmukainen ilman kertaamia) ja alppiruusut kukkivat, joita muuten kannattaa käydä ihmettelemässä [Mustilassa](https://www.mustilapuutarha.fi/VieraileMustilassa/Arboretum) - "yhteen Pohjois-Euroopan merkittävimmistä arboretumeista". 
 - 8.6.2021 uimavedet lämpimät, lupiinit kukkivat teidenvarsilla ja ensimmäinen idänunikon kukka auennut.
 - 11.6.2021 Syviksellä lämmin vesi, keskustan puissa harsomaista kudosta [Tuomenkehrääjäkoi - Yponomeuta evonymella](https://fi.wikipedia.org/wiki/Tuomenkehr%C3%A4%C3%A4j%C3%A4koi). Toivottavasti ei tartu pihan omenapuihin, sillä näyttäisi tulevan ihan hyvä sato (ihan pieniä omenanalkuja).
-- 12.6.2021 pieni linnunpoikanen tipahtanut pesästään. Piileskeli pensaassa.
+- 12.6.2021: pieni linnunpoikanen tipahtanut pesästään. Piileskeli pensaassa.
+- 30.6.2021: [Piharatamo](https://www.luontoportti.com/suomi/fi/kukkakasvit/piharatamo)a huomattavasti enemmän nurmikoilla ja parkkipaikalla. Maahumala ja [suikeroalpi](https://www.hankkija.fi/Piha_ja_puutarha/kasvit/perennat/suikeroalpi/) kukkivat. Molempia myös paljon nurmikon / apiloiden seassa, kun on ollut kuivaa ja nurmikkoa ei ole leikattu.
+- 30.6.2021: Eteläisissä omenapuissa omenoiden alkuja, mutta valitettavasti myös kirvoja ja käpristyneitä lehtiä. [Kevätruiskutus vuonna 2022](https://puutarha.net/vastauspalvelu/puutarhan_hoitotyot/omenapuiden_lehdet_kapristyvat_44374.htm) suotavaa kirvojen ja [omenakempin](https://fi.wikipedia.org/wiki/Omenakemppi) torjumiseksi. Kyse tällä kertaa luultavasti vain kirvoista.
 
 # Aitat:
 
