@@ -132,25 +132,30 @@ Typistä joka vuosi juhannuksen tienoilla vuorimännyn uudesta vuosikasvusta puo
 - 4.6.2021: kahvi ja kahviporot: [ainavihannat](https://fi.wikipedia.org/wiki/Ainavihanta) alppiruusu, pallohortensia ja ruusut - hyvä [lannoite](https://www.gardena.com/fi/puutarhaelamaa/puutarhalehti/yksinkertaisuutta-luonnosta-valmista-oma-lannoitteesi/).
 - 5.6.2021: Härkäpavun istutus: Liutotus muutama tunti, toisin kuin näissä [ohjeissa](https://www.plantagen.fi/harkapapu.html) sanottiin että olisi syytä liuottaa vuorokausi ja istutussyvyys 5cm (painoin varmaan vaan 1-3 cm syvälle multaan). Huom. "Suomen eteläisimmissä osissa voit istuttaa härkäpapua aina toukokuulle asti." eli hieman myöhässä tuli tehtyä tämä.
 - 7.6.2021: yli vuorokauden liuotettuja härkäpapuja muutamaan ruukkuun.
+- 5.6.2021: Tutulta saatu [Jättilaukka - violetti](https://puutarha.net/keskustelut/PrintTopic2337288.aspx) kukkii pääoven terassin läheisyydessä. 
+- 5.6.2021: Valkoinen [Sammalleimu](https://www.viherpeukalot.fi/sammalleimu-scarlet-flame-6) kukkii todella voimakkaasti. Myös marja-aroniapensaassa sekä pihlajissa paljon kukkia. Viime vuonna ei tullut ollenkaan satoa. Vuonna 2019 sato oli todella runsas. Valkoiset syreenit kukkivat, mutta jostain syystä [violetissa pihasyreenissä - Syringa vulgaris](https://www.haikalanpuutarha.com/tuote/pihasyreeni-violetti/) kuvat eivät kehittyneet tänä vuonna.
+- 7.6.2021: Pioni (luonnonmukainen ilman kertaamia) ja alppiruusut kukkivat, joita muuten kannattaa käydä ihmettelemässä [Mustilassa](https://www.mustilapuutarha.fi/VieraileMustilassa/Arboretum) - "yhteen Pohjois-Euroopan merkittävimmistä arboretumeista". 
+- 8.6.2021: uimavedet lämpimät, lupiinit kukkivat teidenvarsilla ja ensimmäinen idänunikon kukka auennut.
 - 9.6.2021: [Keisarinpikarililja](https://www.viherpeukalot.fi/keisarinpikarililja) kuivu ja kupsahti ennen kukintaa. Neljä pitkää vartta, mutta kuivahti ennen kukintaa.
 - 12.6.2021: Humalan tukeminen ja punaisen langan veto tukipuiden ja oksien välille. Rikkaruohojen kitkeminen. 1 * hernekohopenkki ja kukkapuskat. Omenapuun oksien painojen poistaminen. 
 - 28.6.2021: keltakurjenmiekan istutus lammelle, yksi paakku lammen viereen, 2 muuta mutaiseen kosteaan kuoppaan n 15cm päähän lammesta. "Paras paikka puutarhassa keltakurjenmiekalle on veden äärellä tai matalassa vedessä, purossa tai puutarhalammikossa. Keltakurjenmiekka ei juuri kaipaa hoitoa. Keltakurjenmiekka on Kymenlaakson maakuntakukka." [Mustila](https://www.mustilapuutarha.fi/Keltakurjenmiekka)
 - 24.6. ja 29.6.2021: retiisisato melkein valmis, mutta ne ovat täynnä tuholaisia. Kaalikärpänen on hyvin yleinen. Retiisi ei taida muutenkaan soveltua säkkikasvatukseen. Liikaa typpeä eli mukulan sijaan kasvattaa naatistoa. Lisäksi taisin istuttaa liian tiheään. Lämmin alkukesä myös haitallinen: "Kasvi vaatii tasaista kosteutta ja viileää säätä kasvaakseen maukkaaksi." - [Martat](https://www.martat.fi/marttakoulu/sesongin-ruoka-aineet/juurekset-ja-mukulat/retiisi/).. Kaikki retiisit kompostoriin. Sato: Yhteensä n. 4 vähän valmiiksi syötyä retiisiä. Loput shaibaa. 
 - 29.6.2021: Herneenpalkoja ja herneiden tukeminen lankojen avulla.
-
-
-
-# Bongaukset
-- Kettu, valkohäntäpeura, metsäkauris.
-- 19.5.2021: [Viinimäkikotelo - Helix pomatia](https://xn--tkktieto-2za0pb.fi/cat?id=46) (Kirkkonummi), on uusi tuttavuus Suomessa, ks. [keskustelu](https://keskustelu.suomi24.fi/t/3197925/viinimakikotilo!!) - [Kari](https://spongebob.fandom.com/wiki/Gary_the_Snail) jättää melkoista limavanaa jälkeensä.
-- 5.6.2021: Tutulta saatu [Jättilaukka - violetti](https://puutarha.net/keskustelut/PrintTopic2337288.aspx) kukkii pääoven terassin läheisyydessä. 
-- 5.6.2021: Valkoinen [Sammalleimu](https://www.viherpeukalot.fi/sammalleimu-scarlet-flame-6) kukkii todella voimakkaasti. Myös marja-aroniapensaassa sekä pihlajissa paljon kukkia. Viime vuonna ei tullut ollenkaan satoa. Vuonna 2019 sato oli todella runsas. Valkoiset syreenit kukkivat, mutta jostain syystä [violetissa pihasyreenissä - Syringa vulgaris](https://www.haikalanpuutarha.com/tuote/pihasyreeni-violetti/) kuvat eivät kehittyneet tänä vuonna.
-- 7.6.2021 Pioni (luonnonmukainen ilman kertaamia) ja alppiruusut kukkivat, joita muuten kannattaa käydä ihmettelemässä [Mustilassa](https://www.mustilapuutarha.fi/VieraileMustilassa/Arboretum) - "yhteen Pohjois-Euroopan merkittävimmistä arboretumeista". 
-- 8.6.2021 uimavedet lämpimät, lupiinit kukkivat teidenvarsilla ja ensimmäinen idänunikon kukka auennut.
-- 11.6.2021 Syviksellä lämmin vesi, keskustan puissa harsomaista kudosta [Tuomenkehrääjäkoi - Yponomeuta evonymella](https://fi.wikipedia.org/wiki/Tuomenkehr%C3%A4%C3%A4j%C3%A4koi). Toivottavasti ei tartu pihan omenapuihin, sillä näyttäisi tulevan ihan hyvä sato (ihan pieniä omenanalkuja).
-- 12.6.2021: pieni linnunpoikanen tipahtanut pesästään. Piileskeli pensaassa.
+- 30.6.2021: uutta katetta kirsikkapuulle. Omenapuiden juurelta rikkaruohojen kitkeminen. 
 - 30.6.2021: [Piharatamo](https://www.luontoportti.com/suomi/fi/kukkakasvit/piharatamo)a huomattavasti enemmän nurmikoilla ja parkkipaikalla. Maahumala ja [suikeroalpi](https://www.hankkija.fi/Piha_ja_puutarha/kasvit/perennat/suikeroalpi/) kukkivat. Molempia myös paljon nurmikon / apiloiden seassa, kun on ollut kuivaa ja nurmikkoa ei ole leikattu.
 - 30.6.2021: Eteläisissä omenapuissa omenoiden alkuja, mutta valitettavasti myös kirvoja ja käpristyneitä lehtiä. [Kevätruiskutus vuonna 2022](https://puutarha.net/vastauspalvelu/puutarhan_hoitotyot/omenapuiden_lehdet_kapristyvat_44374.htm) suotavaa kirvojen ja [omenakempin](https://fi.wikipedia.org/wiki/Omenakemppi) torjumiseksi. Kyse tällä kertaa luultavasti vain kirvoista.
+- [Pionit](https://www.meillakotona.fi/artikkelit/vanhan-ajan-pionit) kukkivat nopeasti. Helteet ennen Juhannusta. [Sormustinkukka](https://www.viherpeukalot.fi/sormustinkukka), [kettoneilikka](https://www.viherpeukalot.fi/ketoneilikka-flashing-light), [Spiraea japonica ´Little Princess´](https://www.viherpeukalot.fi/keijuangervo_0?gclid=CjwKCAjwrPCGBhALEiwAUl9X00tB2Z-J3IrBl0sdA-njd8bh42__4bXUrL15YiwWvV-XX4VX0WMXUBoChFwQAvD_BwE), siankärsämö, [rucola](https://www.mtvuutiset.fi/makuja/artikkeli/rucolalla-huikeita-terveysvaikutuksia-lisaa-ruokavalioosi/4356234#gs.4ozb9z), pinaatti, salvia,  kukkivat. Rucola ja pinaatti sato jäi pieneksi helteiden ja siten aikaisen kukinnnan takia pieneksi tänä vuonna. Rucolasta ja salviasta ehdin tehdä vain kerran [salviapestoa](https://www.kulinaari.com/2014/07/salviapesto.html).
+- 1.7.2021: [hevonhierakka](https://www.luontoportti.com/suomi/fi/kukkakasvit/hevonhierakka), peltokorte ym. nyppimistä. Kissankellot kukkivat. Perenna [pihakäenkaali](https://puutarha.net/kasvikortisto/perennat/pihakaenkaali_1297.htm)a normaalia enemmän ja se kukkii lähipäivinä. [Kissanminttu](https://fi.wikipedia.org/wiki/Aitokissanminttu) kukkinut jo jonkin aikaa rappusten juurella.
+- 1.7.2021: Härkäpavun siirto kasvulavalta omiin ruukkuihin. 
+- 2.7.2021: Kirvoja entistä enemmän omenapuissa, kylmällä vedellä ruiskuttelua ja kuolleiden lehtien poistaminen mekaanisesti.
+
+# Bongaukset - eläimet tms
+- Kettu, valkohäntäpeura, metsäkauris.
+- 19.5.2021: [Viinimäkikotelo - Helix pomatia](https://xn--tkktieto-2za0pb.fi/cat?id=46) (Kirkkonummi), on uusi tuttavuus Suomessa, ks. [keskustelu](https://keskustelu.suomi24.fi/t/3197925/viinimakikotilo!!) - [Kari](https://spongebob.fandom.com/wiki/Gary_the_Snail) jättää melkoista limavanaa jälkeensä.
+- 11.6.2021 Syviksellä lämmin vesi, keskustan puissa harsomaista kudosta [Tuomenkehrääjäkoi - Yponomeuta evonymella](https://fi.wikipedia.org/wiki/Tuomenkehr%C3%A4%C3%A4j%C3%A4koi). Toivottavasti ei tartu pihan omenapuihin, sillä näyttäisi tulevan ihan hyvä sato (ihan pieniä omenanalkuja).
+- 12.6.2021: pieni linnunpoikanen tipahtanut pesästään. Piileskeli pensaassa.
+- 30.6.2021: paarmoja todella paljon pihalla, nurmikon leikkuu vaatii asennetta.
+
 
 # Aitat:
 
