@@ -18,6 +18,17 @@ Stuff related on Japan and japanese language; [Katakana](https://en.wikipedia.or
 - [Katakana mobile](https://talonendm.github.io/katakana/)
 - [Katakana keyboard](https://www.lexilogos.com/keyboard/katakana.htm)
 
+## Food
+
+- [Nattō](https://en.wikipedia.org/wiki/Natt%C5%8D) (納豆) is a traditional Japanese food made from soybeans that have been fermented.
+- [Kobe](https://en.wikipedia.org/wiki/Kobe_beef) beef (神戸ビーフ, Kōbe bīfu) is Wagyu beef from the Tajima strain of Japanese Black cattle, raised in Japan's Hyōgo Prefecture according to rules set out by the Kobe Beef Marketing and Distribution Promotion Association.
+
+# Korea
+
+## Food
+
+- [Kimchi](https://en.wikipedia.org/wiki/Kimchi) is one of the most important dishes in Korean cuisine. "Kimchi" is Korean terminology for fermented vegetables, and encompasses salt and seasoned vegetables.
+
 ##  Links
 - Literally translated, [chindōgu](https://en.wikipedia.org/wiki/Chind%C5%8Dgu) means unusual (珍, chin) tool (道具, dōgu). Nice examples [here](https://www.tofugu.com/japan/chindogu-japanese-inventions/).
 - Empress [Jingū](https://en.wikipedia.org/wiki/Empress_Jing%C5%AB) (神功皇后, Jingū-kōgō) was a legendary Japanese empress who ruled as a regent following her husband's death in 200 AD. 
