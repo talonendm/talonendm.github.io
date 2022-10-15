@@ -1,0 +1,19 @@
+---
+layout: page
+title: "re:teatteri"
+use-site-title: true
+---
+
+Seven dudes are members of the culinary clunb called Re:teatteri. In this page some notes related on the restaurants are shown. Visited restaurants are available at [safka shinyapp](https://safka.shinyapps.io/restaurants/). 
+
+# Restaurants
+- [Bistro Omat - take away](https://bistromat.fi/kirkkonummi/menu/#TAKE%20AWAY)
+- [Rioni - Espoo](https://www.rioni.fi/) - Georgialainen ravintola
+
+# safka.me / restaurants
+
+## Insert new restaurant to db
+
+talonen.dm: files: 
+- <i>newRestaurant</i>: insert new location using "New Rating" tab. Validate insertations by having flag "ok" in field "ManualValidate".
+- <i>raflasafkaWithCoordinates</i>: move manually restaurants into this table, if visited by culinary club members (at least 4 members). Note, restaurants can also be added directly from shared re:teatteri MASTER excel sheet, e.g. in case app facilitator was not attending to eating & drinking & grading.

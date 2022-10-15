@@ -1,0 +1,2 @@
+player,points,timestamp
+jake,1000,2012-04-23T18:25:43.511Z

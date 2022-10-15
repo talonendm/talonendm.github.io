@@ -1,0 +1,34 @@
+/* these were added 2022/4: https://fontawesomeicons.com/star-half-full - this was not working fontsize: height: 80px; */ 
+.blue-color {
+  color:blue;
+}
+
+.green-color {
+  color:green;
+}
+
+.teal-color {
+  color:teal;
+}
+
+.yellow-color {
+color:yellow;
+}
+
+.red-color {
+  color:red;
+}
+
+.jaakko {
+  color: rgb(148, 102, 17);
+  font: 35px;
+}
+
+.checked {
+  color: orange;
+}
+
+.unchecked {
+  color: rgb(235, 218, 188);
+}
+
