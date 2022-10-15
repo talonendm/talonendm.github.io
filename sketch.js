@@ -220,3 +220,38 @@ function draw() {
 
 
 }
+
+
+
+function touchStarted() {
+	let fs = fullscreen();
+	if (!fs) {
+		fullscreen(true);
+	}
+
+
+	print("kosketus");
+	// if (getAudioContext().state !== 'running') {
+	// 	getAudioContext().resume();
+	// 	mic = new p5.AudioIn();
+	// 	mic.start();
+	// 	soundrestarted = soundrestarted + 1;
+	// }
+}
+
+function centerCanvas() {
+	// var x = (windowWidth - width) / 2;
+	// var y = (windowHeight - height) / 2;
+	resizeCanvas(windowWidth, windowHeight);
+	// cnv.position(x, y);
+	// cnv.position(0, 0);
+	// cnv.style('z-index', '-1'); // https://www.youtube.com/watch?v=OIfEHD3KqCg
+}
+
+/* full screening will change the size of the canvas */
+function windowResized() {
+	// resizeCanvas(windowWidth, windowHeight);
+	// https://github.com/processing/p5.js/wiki/Positioning-your-canvas
+	centerCanvas();
+}
+
