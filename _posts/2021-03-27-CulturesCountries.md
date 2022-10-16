@@ -22,6 +22,95 @@ Stuff related on Japan and japanese language; [Katakana](https://en.wikipedia.or
 
 - [Nattō](https://en.wikipedia.org/wiki/Natt%C5%8D) (納豆) is a traditional Japanese food made from soybeans that have been fermented.
 - [Kobe](https://en.wikipedia.org/wiki/Kobe_beef) beef (神戸ビーフ, Kōbe bīfu) is Wagyu beef from the Tajima strain of Japanese Black cattle, raised in Japan's Hyōgo Prefecture according to rules set out by the Kobe Beef Marketing and Distribution Promotion Association.
+- [Gyoza](https://www.japan-guide.com/r/e107.html) Gyoza (餃子) is Japanese dumplings. See more information [here](https://foodinjapan.org/japan/gyoza/).
+  - Yaki Gyoza (pan fried)
+  - Sui Gyoza (boiled)
+  - Age Gyoza (deep fried)
+
+## Tokyo
+
+You can get [basic information](https://restaurants-guide.tokyo/column/stay-safe-in-japan-what-to-do-in-the-case-of-a-severe-emergency/) about transportation, tourist attractions, and nearby hospitals. English: 0120-805261
+
+
+### Tokyo to Narita Airport
+
+- [JR train](https://www.jreast.co.jp/multi/en/nex/): The Narita Express "N'EX" is the fastest. See route [sp](https://www.sports-tracker.com/workout/haques/6349390618780d32c983a9a4) and notes in [TikTok](https://www.tiktok.com/@vaakaruode/video/7154915755623075078) and from airport to Tokyo near Chiba [TikTok](https://www.tiktok.com/@vaakaruode/video/7152537699067497734) & [sp](https://www.sports-tracker.com/workout/haques/63427154cc932e74ce6d482d).
+  - price &#165; 3100 with reserved seat. Go to correct wagon number on train platform.
+  - From Tokyo train station, bus to Narita with &#165; 1000.
+  - Use free Wifi at Narita (FreeWiFi-NARITA): Note you need to agree terms (blue button) and cause of security caution (yellow).
+
+### Metro
+
+- Pasmo card is useful and facilitates commuting or moving from place A to B.
+- Ginza line (e.g. between Kyobashi (G10) and Shibuya (G01)).
+
+
+## Travelling to Japan
+
+Flight from Helsinki 13-14 hours. Remember to take comfortable shoes - and such that are easy to wear. In economy class not enough space to use laptop, but remember to take it to cabin, because batteries are prohibited in checked baggage. They must be carried with the passenger in carry-on baggage. 
+
+Electricity: I have been using European (220V) equipments with North American (120V) adapter in Japan (100V). However, some equipment, especially equipment involving heating (e.g. hair dryers), may not work properly or even get damaged. Read more about adapters e.g. [here](https://en-us.wikiconnections.org/power-supplies/continents/asia/what-can-i-connect-to-a-japanese-power-supply).
+
+
+### Notes
+
+#### 1
+
+- So hungry - just finding the closest restaurant.. found this one - a bit expensive. [Grill Teru](https://grill-teru.gorp.jp/)
+- [Tully's coffee](https://www.google.com/maps/place/Tully's+Coffee/@35.6794825,139.7714351,15z/): Large coffee - [Jet lag](https://en.wikipedia.org/wiki/Jet_lag).
+- Walk to Ginza and around the bar area near station Shinbashi, see private [sp](https://www.sports-tracker.com/workout/haques/6342b4ab171aa307ab72730a). Read more about Shinbashi at [here](https://tokyocheapo.com/locations/central-tokyo/shinbashi/).
+
+#### 2
+
+Sports's day. Walk from Tokyo railway station to Shibuya, approximately 20 km. See private [sp](https://www.sports-tracker.com/workout/haques/6345012407c78a79b7fdeb93).
+
+- [Kokyo Gaien National Garden](https://en.wikipedia.org/wiki/Kokyo_Gaien_National_Garden) (or Kōkyogaien 皇居外苑) is located in Chiyoda, Tokyo, just south of Tokyo Imperial Palace.
+
+- [Meiji Memorial Museum](https://en.wikipedia.org/wiki/Meiji_Memorial_Picture_Gallery) 
+- [Batting Practice](https://www.google.com/maps/place/Meiji+Jingu+Gaien+Batting+Practice+Range/@35.6772923,139.7169158,19z)
+- [Tokyo Yakult Swallows Shop](https://www.google.com/maps/place/Tokyo+Yakult+Swallows+Shop/@35.6772923,139.7169158,19z)
+- Akasaka: Center of Tokyo. [Akasaka Palace](https://en.wikipedia.org/wiki/Akasaka_Palace) garden. Next time, check beer garden places - drinks included. Reservation obligatory.
+
+#### 3
+
+- at cafe [sp](https://www.sports-tracker.com/workout/haques/63450125154a38464b47ac43)
+- Dinner at X. [Gyoza](https://www.japan-guide.com/r/e107.html) Gyoza (餃子). [sp](https://www.sports-tracker.com/workout/haques/6345711012a491027c1a2bba)
+- at hotel.
+
+#### 4
+
+- private [sp](https://www.sports-tracker.com/workout/haques/6346d9f367cafa764d64b11f)
+- Kioichi. Lunch. Pay lunch to machine. 
+
+#### 5
+
+- Ginza walk [sp](https://www.sports-tracker.com/workout/haques/6347b6ea8add9f0785e8c622)
+- **Gyu-Kaku** offers the fun of "Shared Plates". [Gyu-Kaku](https://www.gyu-kaku.com/), meaning "Horn of the Bull" in Japanese, provides the authentic Japanese yakiniku (grilled barbecue) with all you can drink package (2500)
+
+#### 6
+
+- [Tsukiji fish market](https://en.wikipedia.org/wiki/Tsukiji_fish_market): (築地市場, Tsukiji shijō). See video clips, e.g. in [Rather Be](https://www.youtube.com/watch?v=m-M1AtrxztU) music video (Clean bandit).
+  - Knifes: see comparison of different steel types [here](https://hidatool.com/tools/aogami-shirogami/). Shirogami (white steel 2) and Aogimi (blue steel) are good selections. Finally, at least I think I bought a bit harder blue steel knofe with 16000 with octagonal handle. 
+- Lunch at 3rd floor restaurant area. Remember to have cash - in many places credit card is not accepted. See image (private [sp](https://www.sports-tracker.com/workout/haques/63490a87f40e357cef6a7f8f)). High quality fish. 
+  - [Shiso](https://www.thespruceeats.com/what-are-shiso-leaves-5112607) leaf: "Shiso leaves are an aromatic herb from the same botanical family as mint that traditionally accompanies sushi and sashimi. They are meant to be eaten along with the main item on the plate." 
+    - "Shisossa yhdistyvät minttu, basilika, kaneli ja sitruuna." [Plantui](https://plantui.com/fi/tuote/shiso/). Katso [täältä](https://hiramenome.wordpress.com/2012/06/08/shison-kasvatus-suomessa/) vinkit Shison kasvattamiseen Suomessa.
+- [Hamarikyu Gardens](https://en.wikipedia.org/wiki/Hama-riky%C5%AB_Gardens): fee 300. Have some nature inside Tokyo. Good place to relax next to pine trees or in tea house.
+- [Artizon museum](https://www.artizon.museum/en/) - shop.
+- Knife and nail clippers professional shop nearby.
+- [Super Hotel](https://www.tripadvisor.com/Hotel_Review-g14129520-d4763667-Reviews-Super_Hotel_Premier_Tokyo_Station_Yaesu_Chuo_guchi-Yaesu_Chuo_Tokyo_Tokyo_Prefecture.html) Premiere (Yaesu)
+- From train - Akasuka and "Tokion taivaspuu" - 634 meters high tower. (Burj Khalifa in Dubai 829m)
+- [The northern route diploma](https://all-things-nordic.com/2022/03/19/finnairs-northern-route-diploma/): "Since Russia closed its airspace on February 28th, Finnair is forced to find alternative routes for Asian flights: if a flight is operated over the North Pole".
+
+
+### need to have
+
+- adapter
+- umbrella
+- good shoes
+
+
+
+
 
 # Korea
 
