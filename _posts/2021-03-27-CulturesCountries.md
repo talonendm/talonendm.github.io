@@ -35,8 +35,8 @@ You can get [basic information](https://restaurants-guide.tokyo/column/stay-safe
 ### Tokyo to Narita Airport
 
 - [JR train](https://www.jreast.co.jp/multi/en/nex/): The Narita Express "N'EX" is the fastest. See route [sp](https://www.sports-tracker.com/workout/haques/6349390618780d32c983a9a4) and notes in [TikTok](https://www.tiktok.com/@vaakaruode/video/7154915755623075078) and from airport to Tokyo near Chiba [TikTok](https://www.tiktok.com/@vaakaruode/video/7152537699067497734) & [sp](https://www.sports-tracker.com/workout/haques/63427154cc932e74ce6d482d).
-  - price &#165; 3100 with reserved seat. Go to correct wagon number on train platform.
-  - From Tokyo train station, bus to Narita with &#165; 1000.
+  - price &#165;3100 with reserved seat. Go to correct wagon number on train platform.
+  - From Tokyo train station, bus to Narita with &#165;1000.
   - Use free Wifi at Narita (FreeWiFi-NARITA): Note you need to agree terms (blue button) and cause of security caution (yellow).
 
 ### Metro
@@ -70,6 +70,7 @@ Sports's day. Walk from Tokyo railway station to Shibuya, approximately 20 km. S
 - [Batting Practice](https://www.google.com/maps/place/Meiji+Jingu+Gaien+Batting+Practice+Range/@35.6772923,139.7169158,19z)
 - [Tokyo Yakult Swallows Shop](https://www.google.com/maps/place/Tokyo+Yakult+Swallows+Shop/@35.6772923,139.7169158,19z)
 - Akasaka: Center of Tokyo. [Akasaka Palace](https://en.wikipedia.org/wiki/Akasaka_Palace) garden. Next time, check beer garden places - drinks included. Reservation obligatory.
+- 
 
 #### 3
 
@@ -84,22 +85,28 @@ Sports's day. Walk from Tokyo railway station to Shibuya, approximately 20 km. S
 
 #### 5
 
+- Internet cafe - Matcha, see location [sp](https://www.sports-tracker.com/workout/haques/6347984faaaeaf582f1f011f).
+- Lunch: (Donburi-äyriäisravintola) - restaurant [Tsujihan](https://www.tsujihan-jp.com/) - Matsu very good &#165;2200. About 1 hour queue outside. Cash only. 
+- Shopping: [GU Ginza](https://www.tripadvisor.com/Attraction_Review-g14129573-d8457884-Reviews-GU_Ginza-Ginza_Chuo_Tokyo_Tokyo_Prefecture_Kanto.html) and [Uniglo](https://map.uniqlo.com/jp/ja/detail/10101701). No hoodie found.
 - Ginza walk [sp](https://www.sports-tracker.com/workout/haques/6347b6ea8add9f0785e8c622)
-- **Gyu-Kaku** offers the fun of "Shared Plates". [Gyu-Kaku](https://www.gyu-kaku.com/), meaning "Horn of the Bull" in Japanese, provides the authentic Japanese yakiniku (grilled barbecue) with all you can drink package (2500)
+- **Gyu-Kaku** offers the fun of "Shared Plates". [Gyu-Kaku](https://www.gyu-kaku.com/), meaning "Horn of the Bull" in Japanese, provides the authentic Japanese yakiniku (grilled barbecue) with all you can drink package (&#165;2500)
 
 #### 6
 
 - [Tsukiji fish market](https://en.wikipedia.org/wiki/Tsukiji_fish_market): (築地市場, Tsukiji shijō). See video clips, e.g. in [Rather Be](https://www.youtube.com/watch?v=m-M1AtrxztU) music video (Clean bandit).
-  - Knifes: see comparison of different steel types [here](https://hidatool.com/tools/aogami-shirogami/). Shirogami (white steel 2) and Aogimi (blue steel) are good selections. Finally, at least I think I bought a bit harder blue steel knofe with 16000 with octagonal handle. 
+  - Knifes: see comparison of different steel types [here](https://hidatool.com/tools/aogami-shirogami/). Shirogami (white steel 2) and Aogimi (blue steel) are good selections. Finally, at least I think I bought a bit harder blue steel knofe with &#165;16000 with octagonal handle. 
+  - I studied a bit tax-free shopping, but it seemed to be a bit complicated. Finally, I bought knife and went to tax-free office at Tsukiki area. It was told to me that particular shop was not providing tax free products. So, I "lost" &#165;1600, or not sure how much service cost and how much more expensive similar knives would cost. Not so big deal - few beers and I got new important kitchen tool.
+  - From the same store I also bought small [Tawashi](https://takadatawashi.com/#kitchen) brush.
 - Lunch at 3rd floor restaurant area. Remember to have cash - in many places credit card is not accepted. See image (private [sp](https://www.sports-tracker.com/workout/haques/63490a87f40e357cef6a7f8f)). High quality fish. 
   - [Shiso](https://www.thespruceeats.com/what-are-shiso-leaves-5112607) leaf: "Shiso leaves are an aromatic herb from the same botanical family as mint that traditionally accompanies sushi and sashimi. They are meant to be eaten along with the main item on the plate." 
     - "Shisossa yhdistyvät minttu, basilika, kaneli ja sitruuna." [Plantui](https://plantui.com/fi/tuote/shiso/). Katso [täältä](https://hiramenome.wordpress.com/2012/06/08/shison-kasvatus-suomessa/) vinkit Shison kasvattamiseen Suomessa.
-- [Hamarikyu Gardens](https://en.wikipedia.org/wiki/Hama-riky%C5%AB_Gardens): fee 300. Have some nature inside Tokyo. Good place to relax next to pine trees or in tea house.
+- [Hamarikyu Gardens](https://en.wikipedia.org/wiki/Hama-riky%C5%AB_Gardens): fee &#165;300. Have some nature inside Tokyo. Good place to relax next to pine trees or in tea house.
 - [Artizon museum](https://www.artizon.museum/en/) - shop.
-- Knife and nail clippers professional shop nearby.
+- Knife and nail clippers professional shop nearby ([Nishikan Honten Building](https://officee.jp/en/catalog/Nishikan+Honten+Building/34355/) (Kyobashi, Tokyo)). 
 - [Super Hotel](https://www.tripadvisor.com/Hotel_Review-g14129520-d4763667-Reviews-Super_Hotel_Premier_Tokyo_Station_Yaesu_Chuo_guchi-Yaesu_Chuo_Tokyo_Tokyo_Prefecture.html) Premiere (Yaesu)
 - From train - Akasuka and "Tokion taivaspuu" - 634 meters high tower. (Burj Khalifa in Dubai 829m)
 - [The northern route diploma](https://all-things-nordic.com/2022/03/19/finnairs-northern-route-diploma/): "Since Russia closed its airspace on February 28th, Finnair is forced to find alternative routes for Asian flights: if a flight is operated over the North Pole".
+  - Other tips: [Finnair Visa Aktia](https://www.aktia.fi/fi/finnair-visa-credit). Hakeminen oli helppoa ja onnistui verkossa. 
 
 
 ### need to have
