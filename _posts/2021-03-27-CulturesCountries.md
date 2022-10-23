@@ -70,7 +70,10 @@ Sports's day. Walk from Tokyo railway station to Shibuya, approximately 20 km. S
 - [Batting Practice](https://www.google.com/maps/place/Meiji+Jingu+Gaien+Batting+Practice+Range/@35.6772923,139.7169158,19z)
 - [Tokyo Yakult Swallows Shop](https://www.google.com/maps/place/Tokyo+Yakult+Swallows+Shop/@35.6772923,139.7169158,19z)
 - Akasaka: Center of Tokyo. [Akasaka Palace](https://en.wikipedia.org/wiki/Akasaka_Palace) garden. Next time, check beer garden places - drinks included. Reservation obligatory.
-- 
+- [Solo pizza](https://solopizza.jp/): [Google Maps](https://www.google.com/maps/place/%E3%82%BD%E3%83%AD%E3%83%94%E3%83%83%E3%83%84%E3%82%A1%E3%83%8A%E3%83%9D%E3%83%AC%E3%82%BF%E3%83%BC%E3%83%8A%E6%9D%B1%E4%BA%AC%E5%9B%BD%E7%AB%8B%E7%AB%B6%E6%8A%80%E5%A0%B4%E5%BA%97/@35.677224,139.7124771,19.25z)
+- [Moosh Squishy](https://i-bloom-squishy.com/stores/mooosh-squishy-harajuku/) [maps](https://www.google.com/maps/place/Mooosh+Squishy/@35.670844,139.7046468,19z)
+- [Meiji Temple](https://www.meijijingu.or.jp/en/): Meiji Shrine (明治神宮, Meiji Jingū) is a shrine dedicated to the deified spirits of Emperor Meiji and his consort, Empress Shoken. [jp guide](https://www.japan-guide.com/e/e3002.html). A Shinto shrine (神社, jinja, archaic: shinsha, meaning: "place of the god(s)") [Wikipedia](https://en.wikipedia.org/wiki/Shinto_shrine).
+- Shibuya, dinner. Ginza line back to Tokyo railway station (Kyobashi metro station)
 
 #### 3
 

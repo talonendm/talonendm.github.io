@@ -141,6 +141,10 @@ Metsätuholaki [1.1.2022 alkaen](https://www.metsakeskus.fi/fi/ajankohtaista/met
 - 13.8.2022: loppujen raparperien hyödyntäminen. Osa mennyt jo huonoksi. Sokeria ja keitin niistä hilloa.  
 - 13.8.2022: polttopuita keväällä kaadetuista rungoista / haloista. 
 - 13.8.2022: [turkkilaiset pavut](https://www.sulamo.fi/resepti/ohje/178335/turkkilaiset-pavut), sadonkorjuu hallin kasvulavalta.
+- 20.10.2022: valkoiset tulppaanit 10kpl. [Tulipa Fosteriana. Purissima](https://www.bulbi.nl/en/purissima?gclid=Cj0KCQjwhsmaBhCvARIsAIbEbH5WdDRmm2VSjq8JoY6TPX03GwzPvrmQ9uqVEo-qI8ed3vRfMUprIPoaAuqDEALw_wcB)
+- 20.10.2022: Pensas leikattiin alas norjanangervon vieressä. Se missä ne pitkät oksat.
+- 20.10.2022: alapihan syreeni alas. Kuolleita oksia tänä kesänä paljon
+- 20.10.2022: Nurmikonleikkuu ja lehtien silppuaminen.
 
 # 2021
 
