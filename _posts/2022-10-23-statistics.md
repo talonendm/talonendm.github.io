@@ -49,7 +49,7 @@ s
 
 ~~~
 
-Perusjoukon (kerättyyn dataan) perustuva keskihajonta ei ole tunnettum käytetään t-testiä. Testisuureen arvoksi saadaan seuraavaa
+Perusjoukon (kerättyyn dataan) perustuva keskihajonta ei ole tunnettu ja siksi käytetään t-testiä. Testisuureen arvoksi saadaan laskettua:
 
 $$T = \frac{\overline{x} - \mu_0}{s/\sqrt{n}}$$
 
