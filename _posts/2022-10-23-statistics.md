@@ -13,12 +13,12 @@ usemathjax: true
 published: true
 ---
 
-Vesikattoon liittyvä tehtävä. Tutustutaan Studentin t-jakaumaan kuvitteellisen aineiston avulla.
+[William Sealy Gosset](https://fi.wikipedia.org/wiki/William_Sealy_Gosset) työskenteli Guinnessin panimolla Dublinissa ja tutki parhaiden ohralajikkeiden valintaa. [Wikipedia]  Tutustutaan Studentin t-jakaumaan kuvitteellisen aineiston avulla. Vuonna 1908 Gosset julkaisi löytönsä brittiläisessä Biometrika -lehdessä, jonka yksi toimittaja oli Karl Pearson. Julkaisu tapahtui nimimerkillä "Student" eli opiskelija, mistä tulee myös testille vakiintunut nimi *Studentin t-testi*. Tutustaan testin käyttämiseen vesikattoon liittyvän tehtävän avulla.
 
 ## Peltikatteen elinikä - Studentin t-jakauma
 
-Peltikatevalmistaja väittää, että heidän valmistamien peltikatteiden elinikä **asennettuna** on vähintään 30 vuotta. 7 omakotitalon satunnaisotoksesta saatiin seuraava aineisto (valmistajan peltikatteet kesti ennen seuraavaa saneerausta): \\
-7, 5, 12, 35, 44, 10, 11.
+Peltikatevalmistaja väittää, että heidän valmistamien peltikatteiden elinikä **asennettuna** on vähintään 30 vuotta. Seitsämän omakotitalon satunnaisotoksesta saatiin seuraava aineisto (valmistajan peltikatteet kestivät tutkimusten mukaan ennen seuraavaa saneerausta): \\
+7, 5, 12, 35, 44, 10, 11 vuotta.
 
 Voidaanko todeta valmistajan väitteen olevan sopusoinnussa aineiston kanssa? Käytä 5% merkitsevyystasoa.
 
@@ -56,6 +56,9 @@ $$T = \frac{\overline{x} - \mu_0}{s/\sqrt{n}}$$
 $$T = \frac{17.71429 - 30}{15.29395 / \sqrt{7}} = 
 -2.125347$$
 
+Studentin t-jakauma ([table](https://www.sjsu.edu/faculty/gerstman/StatPrimer/t-table.pdf)), vapausasteella df = 6: $$T_{df=6, 0.05} = 1.943$$. Jakauman symmetrisyyden perusteella vasemman hännän arvo on -1.943.
+
+
 ~~~
 # R:
 T <- (mu - mu0) / (s / sqrt(n))
@@ -70,7 +73,7 @@ p
 
 ~~~
 
-$$p = 0.0388536048047322 < 0.05$$ eli p-arvo on pienempi kuin merkitsevyystaso ja siten nollahypoteesi hylätään. Vesikatot eivät kestä 30 vuotta tämän aineiston perusteella.
+$$p = 0.0388536048047322 < 0.05$$ eli p-arvo on pienempi kuin merkitsevyystaso ja siten nollahypoteesi hylätään. Vastaavasti T-kriittistä arvoa tarkastelemalla: -2.125 < -1.943 Vesikatot **eivät** kestä 30 vuotta tämän aineiston perusteella.
 
 
 
