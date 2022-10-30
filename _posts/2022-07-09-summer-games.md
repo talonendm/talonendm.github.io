@@ -28,6 +28,9 @@ Talven 2021-2022 ruokatilauspahvilaatikoita oli kertynyt lähes 100 kappaletta. 
 
 60 sekunnin peruutuskilpailu. Kolme porttia. Pisimmälle tai nopeiten maaliin päässyt sai pisteitä seuraavasti: 5 piustettä voittajalle, 3 pistettä toiseksi tulleelle ja 1 piste kolmanneksi parhaalle kilpailijalle.
 
+
+![i.06](/assets/pics/page/ai/dalle_tractor.jpg){: .mx-auto.d-block :}
+
 ### Rynkky parikilpailuna
 
 Kahdella Airsoft-aseella ([Specna Arms](https://www.atom-airsoft.fi/valmistaja/specna-arms/)) parikilpailu. Tölkeistä ja sotilaista 1 piste. Neljän sotilaan rivin ensin ampuneelle bonuksena 2 pistettä. Ammuksia n. 30-40 kpl. Kisasuoritettiin kahdessa vaiheessa. Latausaikaa 90 sekuntia. Ammunnassa ei erillistä aikarajaa, mutta ammunta tuli suorittaa "reipaasti".
