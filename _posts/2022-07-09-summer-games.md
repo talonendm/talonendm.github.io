@@ -6,8 +6,8 @@ tags:
   - games
   - garden stuff 
 comments: false
-cover-img: /assets/pics/cover/photo/sunflower.JPG
-thumbnail-img: /assets/pics/thumbnail/photo/tennispallo.jpg
+cover-img: /assets/pics/cover/ai/tractor.jpg
+thumbnail-img: /assets/pics/thumbnail/ai/summerfest.jpg
 published: true
 ---
 
