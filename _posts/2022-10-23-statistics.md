@@ -13,11 +13,11 @@ usemathjax: true
 published: true
 ---
 
-[William Sealy Gosset](https://fi.wikipedia.org/wiki/William_Sealy_Gosset) työskenteli Guinnessin panimolla Dublinissa ja tutki parhaiden ohralajikkeiden valintaa. [Wikipedia]  Tutustutaan Studentin t-jakaumaan kuvitteellisen aineiston avulla. Vuonna 1908 Gosset julkaisi löytönsä brittiläisessä Biometrika -lehdessä, jonka yksi toimittaja oli Karl Pearson. Julkaisu tapahtui nimimerkillä "Student" eli opiskelija, mistä tulee myös testille vakiintunut nimi *Studentin t-testi*. Tutustaan testin käyttämiseen vesikattoon liittyvän tehtävän avulla.
+[William Sealy Gosset](https://fi.wikipedia.org/wiki/William_Sealy_Gosset) työskenteli [Guinnessin](https://talonendm.github.io/2020-12-17-beers/) panimolla Dublinissa ja tutki parhaiden ohralajikkeiden valintaa. "Vuonna 1908 Gosset julkaisi löytönsä brittiläisessä Biometrika -lehdessä, jonka yksi toimittaja oli Karl Pearson. Julkaisu tapahtui nimimerkillä "Student" eli opiskelija, mistä tulee myös testille vakiintunut nimi *Studentin t-testi*." [Wikipedia]
 
 ## Peltikatteen elinikä - Studentin t-jakauma
 
-Peltikatevalmistaja väittää, että heidän valmistamien peltikatteiden elinikä **asennettuna** on vähintään 30 vuotta. Seitsämän omakotitalon satunnaisotoksesta saatiin seuraava aineisto (valmistajan peltikatteet kestivät tutkimusten mukaan ennen seuraavaa saneerausta): \\
+Tutustutaan Studentin t-jakaumaan kuvitteellisen aineiston avulla. Peltikatevalmistaja väittää, että heidän valmistamien peltikatteiden elinikä **asennettuna** on vähintään 30 vuotta. Seitsämän omakotitalon satunnaisotoksesta saatiin seuraava aineisto (valmistajan peltikatteet kestivät tutkimusten mukaan ennen seuraavaa saneerausta): \\
 7, 5, 12, 35, 44, 10, 11 vuotta.
 
 Voidaanko todeta valmistajan väitteen olevan sopusoinnussa aineiston kanssa? Käytä 5% merkitsevyystasoa.
