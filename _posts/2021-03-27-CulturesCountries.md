@@ -103,7 +103,7 @@ Sports's day. Walk from Tokyo railway station to Shibuya, approximately 20 km. S
 - Lunch at 3rd floor restaurant area. Remember to have cash - in many places credit card is not accepted. See image (private [sp](https://www.sports-tracker.com/workout/haques/63490a87f40e357cef6a7f8f)). High quality fish. 
   - [Shiso](https://www.thespruceeats.com/what-are-shiso-leaves-5112607) leaf: "Shiso leaves are an aromatic herb from the same botanical family as mint that traditionally accompanies sushi and sashimi. They are meant to be eaten along with the main item on the plate." 
     - "Shisossa yhdistyvät minttu, basilika, kaneli ja sitruuna." [Plantui](https://plantui.com/fi/tuote/shiso/). Katso [täältä](https://hiramenome.wordpress.com/2012/06/08/shison-kasvatus-suomessa/) vinkit Shison kasvattamiseen Suomessa.
-- [Hamarikyu Gardens](https://en.wikipedia.org/wiki/Hama-riky%C5%AB_Gardens): fee &#165;300. Have some nature inside Tokyo. Good place to relax next to pine trees or in tea house.
+- [Hama-rikyu Gardens](https://en.wikipedia.org/wiki/Hama-riky%C5%AB_Gardens): fee &#165;300. Have some nature inside Tokyo. Good place to relax next to pine trees or in tea house. Edo-period park. 
 - [Artizon museum](https://www.artizon.museum/en/) - shop.
 - Knife and nail clippers professional shop nearby ([Nishikan Honten Building](https://officee.jp/en/catalog/Nishikan+Honten+Building/34355/) (Kyobashi, Tokyo)). 
 - [Super Hotel](https://www.tripadvisor.com/Hotel_Review-g14129520-d4763667-Reviews-Super_Hotel_Premier_Tokyo_Station_Yaesu_Chuo_guchi-Yaesu_Chuo_Tokyo_Tokyo_Prefecture.html) Premiere (Yaesu)
@@ -209,7 +209,11 @@ Instructions to create interactive maps using [leaflet](https://leafletjs.com/Sl
   - [Paola](https://en.wikipedia.org/wiki/Paola,_Calabria)
   - [Lamezia](https://www.sacal.it/lamezia/) arrival and departure
 
+### Romania
 
+- Țuică, spelled tuica, tzuika, tsuika, tsuica, or tzuica is a traditional Romanian spirit that contains ~ 24–86%. "Țuică is prepared using traditional methods both for private consumption. Normally, țuica is only consumed before the meal (traditionally every meal). In most cases, only a shot-sized amount is served, and it is generally sipped.", "Romania is the largest plum producer in the European Union" [Wikipedia](https://en.wikipedia.org/wiki/%C8%9Auic%C4%83). 
+- "In Bram Stoker's novel, Dracula, Galați is the port where Count Dracula arrives, fleeing to Transylvania. Galati has long history because it is situated on the banks of the Danube, the most important European fluvial commercial route, the Danube-Main-Rhine navigation channel." [ugal.ro](https://www.en.ugal.ro/cercetare/galati/about-galati)
+- near Galati: Castelul de Apă din orașul Brăila, județul [Brăila](https://locuridinromania.ro/judetul-braila/orasul-braila/castelul-de-apa-braila.html).
 
 ## Links
 
