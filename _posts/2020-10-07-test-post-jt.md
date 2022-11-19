@@ -347,6 +347,46 @@ Comment multiple rows:
 ](https://superuser.com/questions/790353/how-to-comment-out-multiple-lines-at-once-in-notepad)
 
 
+
+# Jekyll
+
+Error 19.11.2022:
+
+~~~
+
+name: Beautiful Jekyll CI
+on: [push, pull_request]
+jobs:
+  build:
+    name: Build Jekyll
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Build the site in the jekyll/builder container
+        run: |
+          export JEKYLL_VERSION=3.8
+          docker run \
+          -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
+          -e PAGES_REPO_NWO=${{ github.repository }} \
+          jekyll/builder:$JEKYLL_VERSION /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
+
+~~~
+
+Error: Process completed with exit code 1. [mathjax](https://stackoverflow.com/questions/68728720/jekyll-compilation-process-completed-with-exit-code-1-on-github) ? 
+
+~~~
+Configuration file: /srv/jekyll/_config.yml
+            Source: /srv/jekyll
+       Destination: /srv/jekyll/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+/usr/local/bundle/gems/gemoji-4.0.0/lib/emoji.rb:4:in `require': /usr/local/bundle/gems/gemoji-4.0.0/lib/emoji/character.rb:54: syntax error, unexpected ..., expecting ']' (SyntaxError)
+          raw_normalized[...idx] + modifier + raw_normali...
+                         ^~~
+
+~~~
+
+
 ### References 
 
 1. [How to edit and add new posts in Jekyll blog online - Tutorial 8](https://www.youtube.com/watch?v=E0RbrYSMw3g "youtube")
