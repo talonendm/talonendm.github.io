@@ -111,9 +111,25 @@ Epäonnisen kattosaneerauksen takia vesikatto kestääkin vain 5 vuotta (**T1=5*
 
 Näillä esimerkin luvuilla urakoitsijan tulisi korvata 27 000 euroa virheellisestä asennuksesta. W = (V+K-H)/T1 = (30000+2000-27000)/5 = 5000/5 euroa = 1000 euroa.
 
+
+<!--
+
+not working anymore
+
 ![\Large W=\frac{V+K-H}{T_1}](https://latex.codecogs.com/svg.latex?\Large&space;W=\frac{V+K-H}{T_1}) 
 
 ![\Large 1000€=\frac{30000€+2000€-27000€}{5}](https://latex.codecogs.com/svg.latex?\Large&space;1000€=\frac{30000€+2000€-27000€}{5}) 
+
+-->
+
+~~~
+$$ W=\frac{V+K-H}{T_1} $$
+~~~
+
+~~~
+$$ 1000€ = \frac{30000€+2000€-27000€}{5} $$
+~~~
+
 
 
 ## Linkkejä
