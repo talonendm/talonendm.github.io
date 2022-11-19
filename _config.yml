@@ -239,7 +239,11 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jemoji
+
+
+
+# 19.11.2022 - build failed:
+# plugins:   - jemoji
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
