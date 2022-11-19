@@ -11,6 +11,7 @@ tags:
 comments: false
 cover-img: /assets/pics/cover/photo/lakikirjat.jpg
 thumbnail-img: /assets/pics/thumbnail/photo/lakikirjat.jpg
+usemathjax: true
 published: true
 ---
 
