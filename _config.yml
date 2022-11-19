@@ -239,8 +239,8 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jemoji
 
+# testing local gem file 19.11.2022
 emoji:
   - src: "/assets/emoji/gemoji-3.0.1.gem"
 
