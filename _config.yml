@@ -236,9 +236,6 @@ exclude:
   - screenshot.png
   - docs/
 
-include:
-  - node_modules
-
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
