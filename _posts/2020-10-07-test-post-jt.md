@@ -284,6 +284,8 @@ In addition, Chrome app link (favicon) in my One plus is working neither. Anyway
 ### Jekyll and Emojies
 
 - [Emoji plugin for Jekyll](https://github.com/jekyll/jemoji): Add the **gem 'jemoji'** to your site's Gemfile as
+- [rubygems](https://rubygems.org/)
+- This was disabled (movies.md) 19.11.2022: [gemoji](https://github.com/wooorm/gemoji/blob/main/support.md)
 
 ```
 # frozen_string_literal: true

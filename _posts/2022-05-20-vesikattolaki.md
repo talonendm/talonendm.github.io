@@ -10,6 +10,7 @@ tags:
 comments: false
 cover-img: /assets/pics/cover/photo/lakikirjat.jpg
 thumbnail-img: /assets/pics/thumbnail/photo/lakikirjat.jpg
+usemathjax: true
 published: true
 ---
 
@@ -123,9 +124,9 @@ not working anymore
 
 
 
-<!--
 
-usemathjax: true
+
+
 
 $$W=\frac{V+K-H}{T_1}$$
 
@@ -133,7 +134,6 @@ ja
 
 $$1000€ = \frac{30000€+2000€-27000€}{5}$$
 
--->
 
 
 ## Linkkejä
