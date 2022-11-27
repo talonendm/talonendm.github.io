@@ -158,6 +158,23 @@ Mixed Content: The page at 'https://talonendm.github.io/introR' was loaded over 
 In addition, _posts are md-files, so I should do something like this: How to [write html into md-file](https://stackoverflow.com/questions/16350545/html-code-into-readme-md-on-github)?
 
 
+# Shinybulma
+
+This was originally used in safka.me re:teatteri app in mid 2010. See [shinybulma](https://github.com/RinteRface/shinybulma) github pages: "Bulma: the modern
+CSS framework that just works."
+
+
+Installation, e.g. in ui.R file as
+~~~
+
+install.packages('devtools')
+library(devtools)
+devtools::install_github("RinteRface/shinybulma")
+library(shinybulma)
+
+~~~
+
+
 
 
 ### References
