@@ -215,6 +215,11 @@ Instructions to create interactive maps using [leaflet](https://leafletjs.com/Sl
 - "In Bram Stoker's novel, Dracula, Galați is the port where Count Dracula arrives, fleeing to Transylvania. Galati has long history because it is situated on the banks of the Danube, the most important European fluvial commercial route, the Danube-Main-Rhine navigation channel." [ugal.ro](https://www.en.ugal.ro/cercetare/galati/about-galati)
 - near Galati: Castelul de Apă din orașul Brăila, județul [Brăila](https://locuridinromania.ro/judetul-braila/orasul-braila/castelul-de-apa-braila.html).
 
+
+### Estonia
+
+- [Sillamäe](https://fi.wikipedia.org/wiki/Sillam%C3%A4e): "Sillamäe oli suljettu vuoteen 1991 asti. Sotateollisuuden työvoimana käytettiin venäläisiä siirtolaisia, sotavankeja ja jopa leningradilaisia kodittomia nuoria."
+
 ## Links
 
 - import leaflet js [integrity](https://iqcode.com/code/javascript/import-leaflet-js)
