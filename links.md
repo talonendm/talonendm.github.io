@@ -33,6 +33,7 @@ tags:
 
 - [DRIVE - oma](https://drive.google.com/drive/u/0/my-drive)
 - [Hs - oma notes](https://docs.google.com/document/d/1NXiD0G9zo-lA1EG55y1xyt9KKr8jY8-yBwOP0ykL24o/edit?usp=sharing)
+- Talviurheilu - kamat ja koot [(private)](https://docs.google.com/spreadsheets/d/1wVZ0nORN11OwwguXcEv6zwl4aHwJYxDbeVlo4DfMErY/edit?usp=sharing)
 
 # APPS
 
@@ -45,10 +46,13 @@ tags:
 
 
 
-
 # Material - move
 
 - [Urakoitsijan lisä- ja muutostyöprosessin kehittäminen, Merelä Sami](https://www.theseus.fi/bitstream/handle/10024/106743/Merela_Sami.pdf?sequence=1)
   - Metropolia Ammattikorkeakoulu, Insinööri (AMK), Rakennustekniikka, Insinöörityö, 8.4.2016
   - 2.3.2 Urakoitsijan pääsuoritusvelvollisuus ja hyvä rakennustapa
-  - https://www.rakennusteollisuus.fi/globalassets/infra/jasenpalvelu/sopimusoikeus-turku-6.11.-huhtamaki.pdf
+- https://www.rakennusteollisuus.fi/globalassets/infra/jasenpalvelu/sopimusoikeus-turku-6.11.-huhtamaki.pdf
+  - HUOM! Tilaajan valvonta ei siirrä urakoitsijan sopimuksenmukaista vastuuta tilaajalle (62 §) 
+  - KKO 2016:79 (takuuajan jälkeinen vastuu)
+    - Urakoitsija vastuussa katon korjauskuluista
+  - [RYS-9 1998 yli 10000e remontit](https://www.idearemontit.fi/rakennusalan-toita-koskevat-yleiset-kuluttajasopimusehdot-rys-9-1998)
