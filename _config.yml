@@ -240,7 +240,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-# testing local gem file 19.11.2022
+# testing local gem file 19.11.2022 https://github.com/jekyll/jemoji
 emoji:
   - src: "/assets/emoji/gemoji-3.0.1.gem"
 

@@ -146,6 +146,8 @@ Metsätuholaki [1.1.2022 alkaen](https://www.metsakeskus.fi/fi/ajankohtaista/met
 - 20.10.2022: alapihan syreeni alas. Kuolleita oksia tänä kesänä paljon
 - 20.10.2022: Nurmikonleikkuu ja lehtien silppuaminen.
 - 27.11.2022: kompostoinnista: [Biolan](https://www.biolan.fi/artikkelit/kompostointiin-liittyvat-maaraykset.html), [HSY](https://www.hsy.fi/jatteet-ja-kierratys/kompostointi-kiinteistoilla/)
+- 30.11.2022: [ruisrääkkä - rukiin tarina](https://fi.wikipedia.org/wiki/Ruisr%C3%A4%C3%A4kk%C3%A4)
+  - [Nocturne - Eino Leino](http://runosto.net/eino-leino/talvi-yo/nocturne/)
 
 # 2021
 
