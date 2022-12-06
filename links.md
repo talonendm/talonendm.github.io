@@ -56,3 +56,8 @@ tags:
   - KKO 2016:79 (takuuajan jälkeinen vastuu)
     - Urakoitsija vastuussa katon korjauskuluista
   - [RYS-9 1998 yli 10000e remontit](https://www.idearemontit.fi/rakennusalan-toita-koskevat-yleiset-kuluttajasopimusehdot-rys-9-1998)
+
+
+# Kestävä kehitys
+
+- HSY: [asiakaspalvelu](https://www.hsy.fi/hsy/asiakaspalvelu/)

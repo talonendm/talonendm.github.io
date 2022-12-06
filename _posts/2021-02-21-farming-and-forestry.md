@@ -130,6 +130,7 @@ Metsätuholaki [1.1.2022 alkaen](https://www.metsakeskus.fi/fi/ajankohtaista/met
 
 ## June - Kesäkuu 2022
 
+- Kurtturuusun kasvattaminen kielletään 1.6. alkaen – [näin rikoksesta rangaistaan (IL 5.5.2022)](https://www.iltalehti.fi/asumisartikkelit/a/9b8f0795-f0d7-4865-8311-fa636b1093a6)
 - 16.6.2022: näyttää siltä, että porkkana ei lähteny. 
 - [x] Pionit pitäisi tukea tolppanaruaidalla
 - 16.6.2022: Mankkaalta tomaatin taimia. Vinkkinä, että jos istuttaa pensastomaatin kasvatusruukusta vinoon, niin kasvattaa toisen päähaaran. Pistin testaukseen isoon ruukkuun. Oliivipuu ja salvia näyttää kuolleen. Ei onnistunut talvehtiminen.
