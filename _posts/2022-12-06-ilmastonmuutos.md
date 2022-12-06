@@ -16,7 +16,7 @@ published: true
 ---
 
 
-Hyvää itsenäisyyspäivää 2022! [Viime vuonna](https://talonendm.github.io/2021-12-06-finland/) tutkin lakeja ja eettisyyttä ja [vuonna 2020](https://talonendm.github.io/2020-12-06-3dprint/) 3d-printtaus. Vesikattorakenteiden lisäksi olen opiskellut vapaa-ajallani kestävää kehitystä ja erityisesti olen pyrkinyt tutustumaan mitä toimia voitaisiin tehdä ilmastonmuutoksen hidastamamiseksi.
+Hyvää itsenäisyyspäivää 2022! [Viime vuonna](https://talonendm.github.io/2021-12-06-finland/) itsenäisyyspäivänä tutkin lakeja, määräyksiä ja niiden tulkintaa. Pari vuotta sitten, [vuonna 2020](https://talonendm.github.io/2020-12-06-3dprint/), otin rennommin ja tutkin vanhoja 3d-printtimalleja. Kuluvana vuonna olen vesikattorakenteiden lisäksi opiskellut vapaa-ajallani mm. oikiksen pääsykoekirjat sekä kestävää kehitystä (verkkokurssi). Kurssilla pohdittiin mm. mitä toimia voitaisiin tehdä ilmastonmuutoksen hidastamiseksi.
 
 Viime vuosina ilmastonmuutokseen liittyvät keskustelut ovat olleet aiempaa uhkaavampia. Ilmastoliike ja ilmastonmuutoksen epäilijät pyrkivät tuomaan esille omat kantansa. Selvää kuitenkin on, että ilmasto lämpenee (tai vaikka näin ei olisi) niin jokaisen kannattaa toimia ja miettiä omia tapojansa.   
 
@@ -40,8 +40,23 @@ Uusiutuva energia on sääriippuvaista ja siksi energian varastointiin ja siirt�
 
 Vetytalous voisi olla yksi ratkaisu epäsäännöllisesti tuotetun energian varastoinnille ja siirrolle. Haasteita ratkottavaksi: vedyn tuottaminen (hyötysuhde), räjähdysherkän aineen varastointi ja siirto. [How the hydrogen revolution can help save the planet — and how it can't](https://www.nature.com/articles/d41586-022-03699-0). Vuonna 2021 lähes kaikki tuotettu vety oli ns. harmaata eli fossiilisilla tuotettua. Tällä hetkellä tämä teknologia ei vähennä päästöjä vaan pikemminkin lisää niitä - ainakin lyhyellä tähtäimellä. Vuoden 2030 tavoitteena olisi, että noin puolet vedystä tuotettaisiin uusiutuvalla energialla (green hydrogen). Vetyä tosin voidaan käyttää myös teollisissa prosesseissa, kuten teräksen tuotannossa ([SSAB HYBRIT](https://www.ssab.com/fi-fi/fossiilivapaa/hybrit-a-new-revolutionary-steelmaking-technology)). Toivotaan, että vuoden 2050 ennuste vedyn suuremmasta vihreästä tuotannosta ja hiilidioksidivapaasta teräksen tuotannosta toteutuu.
 
+## LNG
 
-# Linkkejä
+Suomi korvaa Venäjän maakaasun investoinnilla lng-terminaali­laivaan [Exemplar](https://www.marinetraffic.com/fi/ais/details/ships/shipid:118046/mmsi:205553000/imo:9444649/vessel:EXEMPLAR) - vuokra 46 miljoonaa euroa vuodessa. [(HS)](https://www.hs.fi/talous/art-2000008832734.html) Exemplarin pituus on 291 metriä ja leveys 43 metriä - "It's carrying capacity is 150900 cubic meters Liquid Gas and her current draught is reported to be 9.1 meters. Her length overall (LOA) is 291 meters and her width is 43.4 meters." [Marine Traffic](https://www.marinetraffic.com/fi/ais/details/ships/shipid:118046/mmsi:205553000/imo:9444649/vessel:EXEMPLAR). 
 
-- oma 
+"Sitä (LNG) on tänä vuonna tuotu EU:hun ennen kaikkea Yhdysvalloista ja Qatarista. Kun maakaasu jäähdytetään 162 miinusasteeseen, se muuttuu nestemäiseksi ja tiivistyy noin 600 kertaa tiheämmäksi, mikä tekee laivakuljetuksista taloudellisesti kannattavia." [(HS)](https://www.hs.fi/talous/art-2000009184915.html)
+
+Exemplar sijoitetaan Inkooseen ja se liitetään [Baltic Connector](https://en.wikipedia.org/wiki/Balticconnector) -kaasuputkeen.
+
+
+
+# Muuta
+
 - TODO: Lämpöpumppu, aurinkopaneelit, sähköauto
+- [Global Fishing Watch](https://globalfishingwatch.org/)
+
+
+### Vastuuvapauslauseke
+
+Tämä julkaisu on tehty parhaan oman tietämyksemme ja ymmärtämyksemme pohjalta. Olemme tehneet kaiken voitavamme tietojen täsmällisyyden ja oikeellisuuden takaamiseksi, [talonendm](https://talonendm.github.io/) ei ole vastuussa mistään virheistä tai puutteista tai mistään suorasta, epäsuorasta tai välillisestä
+vahingosta, joka on aiheutunut tietojen virheellisestä soveltamisesta. Pidätämme oikeuden muutoksiin.
