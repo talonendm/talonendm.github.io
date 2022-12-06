@@ -16,7 +16,9 @@ published: true
 ---
 
 
-Hyvää itsenäisyyspäivää 2022! [Viime vuonna](https://talonendm.github.io/2021-12-06-finland/) itsenäisyyspäivänä tutkin lakeja, määräyksiä ja niiden tulkintaa. Pari vuotta sitten, [vuonna 2020](https://talonendm.github.io/2020-12-06-3dprint/), otin rennommin ja tutkin vanhoja 3d-printtimalleja. Kuluvana vuonna olen vesikattorakenteiden lisäksi opiskellut vapaa-ajallani mm. oikiksen pääsykoekirjat sekä kestävää kehitystä (verkkokurssi). Kurssilla pohdittiin mm. mitä toimia voitaisiin tehdä ilmastonmuutoksen hidastamiseksi.
+Hyvää itsenäisyyspäivää 2022! Kiitos veteraaneille rohkeudesta - siitä että voimme viettää 105:ttä vapaata itsenäisyyspäivää. Tätä vuotta järkytti Venäjän aloittama hyökkäysota 24.2.2022 Ukrainaa vastaan. Slava Ukraini - [Herojam Slava](https://fi.wikipedia.org/wiki/Kunnia_Ukrainalle!). 
+
+Perinteisesti itsenäisyyspäivänä on ollut aikaa mietiskelyyn ja ajatuksien jakamiseen. [Viime vuonna](https://talonendm.github.io/2021-12-06-finland/) itsenäisyyspäivänä tutkin lakeja, määräyksiä ja niiden tulkintaa. Pari vuotta sitten, [vuonna 2020](https://talonendm.github.io/2020-12-06-3dprint/), otin rennommin ja tutkin vanhoja 3d-printtimalleja. Kuluvana vuonna olen vesikattorakenteiden lisäksi opiskellut vapaa-ajallani mm. oikiksen pääsykoekirjat sekä kestävää kehitystä (verkkokurssi). Kurssilla pohdittiin mm. mitä toimia voitaisiin tehdä ilmastonmuutoksen hidastamiseksi.
 
 Viime vuosina ilmastonmuutokseen liittyvät keskustelut ovat olleet aiempaa uhkaavampia. Ilmastoliike ja ilmastonmuutoksen epäilijät pyrkivät tuomaan esille omat kantansa. Selvää kuitenkin on, että ilmasto lämpenee (tai vaikka näin ei olisi) niin jokaisen kannattaa toimia ja miettiä omia tapojansa.   
 
