@@ -28,7 +28,8 @@ Lisäksi: [MUUTTUVA LUONNONVARAOIKEUS - Jukka Similä](https://oikeustieteet.fi/
 
 # Linkkejä
 
-- Kurtturuusun kasvattaminen kielletään 1.6. alkaen – [näin rikoksesta rangaistaan (IL 5.5.2022)](https://www.iltalehti.fi/asumisartikkelit/a/9b8f0795-f0d7-4865-8311-fa636b1093a6)
+- [Pykälän valmennuskurssit](https://pykalanvalmennuskurssit.fi/)
+
 
 
 
