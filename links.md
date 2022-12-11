@@ -37,14 +37,19 @@ tags:
 
 # APPS
 
+## TiTo AI
+
+- [Pictory - Video Marketing Made EASY](https://pictory.ai/)
+- There's a new way to make video. A good way. [Descript](https://www.descript.com/)
+- 2,678,032 low-res generated photos for free [generated.photos](https://generated.photos/)
+- [Title Generator: create 700 headlines](https://www.title-generator.com/)
+
 ## dm
 
 - [olut](https://talonen.shinyapps.io/olut/)
 - [app-fungi-insta](https://talonen.shinyapps.io/app-fungi-insta/)
 
 ## safka.me
-
-
 
 # Material - move
 

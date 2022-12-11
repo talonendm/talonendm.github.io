@@ -96,7 +96,7 @@ Sports's day. Walk from Tokyo railway station to Shibuya, approximately 20 km. S
 
 #### 6
 
-- [Tsukiji fish market](https://en.wikipedia.org/wiki/Tsukiji_fish_market): (築地市場, Tsukiji shijō). See video clips, e.g. in [Rather Be](https://www.youtube.com/watch?v=m-M1AtrxztU) music video (Clean bandit).
+- [Tsukiji fish market](https://en.wikipedia.org/wiki/Tsukiji_fish_market) Tsukiji fish market was for decades the largest fish market in Tokyo and one of the largest fish markets in the world. The market was closed in 2018 and moved to new premises in the Toyosu district: (築地市場, Tsukiji shijō). See video clips, e.g. in [Rather Be](https://www.youtube.com/watch?v=m-M1AtrxztU) music video (Clean bandit).
   - Knifes: see comparison of different steel types [here](https://hidatool.com/tools/aogami-shirogami/). Shirogami (white steel 2) and Aogimi (blue steel) are good selections. Finally, at least I think I bought a bit harder blue steel knofe with &#165;16000 with octagonal handle. 
   - I studied a bit tax-free shopping, but it seemed to be a bit complicated. Finally, I bought knife and went to tax-free office at Tsukiki area. It was told to me that particular shop was not providing tax free products. So, I "lost" &#165;1600, or not sure how much service cost and how much more expensive similar knives would cost. Not so big deal - few beers and I got new important kitchen tool.
   - From the same store I also bought small [Tawashi](https://takadatawashi.com/#kitchen) brush.
@@ -112,19 +112,27 @@ Sports's day. Walk from Tokyo railway station to Shibuya, approximately 20 km. S
   - Other tips: [Finnair Visa Aktia](https://www.aktia.fi/fi/finnair-visa-credit). Hakeminen oli helppoa ja onnistui verkossa. 
 
 
-### need to have
+### Travelling - remember:
 
-- adapter
-- umbrella
-- good shoes
-
-
-
-
+| Check   |      FI      |  EN |  Importancy |
+|:----------:|-------------|------|-----:|  
+| <input type = "checkbox" name = "adapter"> | adapter | adapter | 5 | 
+| <input type = "checkbox" name = "umbrella"> | umbrella | umbrella | 3 | 
+| <input type = "checkbox" name = "good shoes"> | good shoes | good shoes | 4 | 
 
 # Korea
 
+South Korea is one of the most technologically advanced and prosperous countries in the world. It has many national sports, such as [tae kwon do](https://fi.wikipedia.org/wiki/Taekwondo).
+
+- one of the largest consumer countries in the world
+- Clothing [hanbok 한복](https://en.wikipedia.org/wiki/Hanbok)
+- music: K-pop
+
 ## Food
+
+Koreans are known for their delicious and colorful food, which often contains a lot of spices and spicy sauces. One well-known Korean dish is bibimbap, which is a mixture of rice, various vegetables, and often fried meat or egg. Another popular food is kimchi, which is fermented vegetables and spices.
+
+Korean hot pot is often made with meat, such as beef or chicken, and various vegetables, such as carrots, cabbage, and onions. Hot pot is generally a dish where food is simmered in a small pot, and it can be made in many different ways with different spices and ingredients. Korean hot pot commonly uses spicy sauces such as gochujang or doenjang, and the dish is often eaten with rice or noodles.
 
 - [Kimchi](https://en.wikipedia.org/wiki/Kimchi) is one of the most important dishes in Korean cuisine. "Kimchi" is Korean terminology for fermented vegetables, and encompasses salt and seasoned vegetables.
 
