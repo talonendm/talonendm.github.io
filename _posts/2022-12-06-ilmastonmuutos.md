@@ -50,7 +50,11 @@ Suomi korvaa Venäjän maakaasun investoinnilla lng-terminaali­laivaan [Exempla
 
 Exemplar sijoitetaan Inkooseen ja se liitetään [Baltic Connector](https://en.wikipedia.org/wiki/Balticconnector) -kaasuputkeen.
 
+# Luontokato
 
+YK:n luontokokouksen toivotaan tekevän luonnolle sen mitä Pariisi teki ilmastolle. Tämä tarkoittaa sitä, että luontokokous pyrkii löytämään ratkaisuja moniin luonnon ja ympäristön suojeluun liittyviin haasteisiin, kuten ilmastonmuutokseen ja lajien häviämiseen - vain 4 prosenttia nisäkkäistä (elopaino) elää vapaasti. [HS - Luonnolta loppuu tila 11.10.2021](https://www.hs.fi/ulkomaat/art-2000008292625.html). 
+
+Ihmisen toiminnan seurauksena, kuten esimerkiksi elinympäristöjen häviämisen ja saalistamisen vuoksi. "Ympäristöjärjestö WWF:n raportin mukaan maapallon selkärankaisten villieläinten kannat ovat kutistuneet keskimäärin 69 prosenttia vuosina 1970–2018.", "Ikimetsiä, joihin ihminen ei olisi koskaan merkittävästi vaikuttanut, on enää neljäsosa maailman metsistä. Niitä löytyy esimerkiksi Amazonin sademetsästä.", ja Suomessa vain 6 prosenttia (1.2 miljoonaa hehtaaria) on luonnollista ikimetsää [HS 11.12.2022](https://www.hs.fi/politiikka/art-2000009234234.html) Luontokokouksessa päätetään myös tavoitteista ja toimenpiteistä, joita eri maiden tulee toteuttaa luonnon suojelun edistämiseksi. 
 
 # Muuta
 

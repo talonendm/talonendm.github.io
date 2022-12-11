@@ -11,6 +11,11 @@ tags:
 
 - [HS](https://www.hs.fi/)
 
+# Maps
+
+- openstreetmap compass - [re:teatteri experiments](https://talonendm.github.io/compass/openstreetmap/)
+
+
 # Library
 
 - [Helmet - lehdet](https://helmet.emagz.fi/catalog?utm_source=helmet&utm_medium=remote&utm_campaign=helmet)
