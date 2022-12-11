@@ -46,44 +46,40 @@ Vetytalous voisi olla yksi ratkaisu epäsäännöllisesti tuotetun energian vara
 
 Suomi korvaa Venäjän maakaasun investoinnilla lng-terminaali­laivaan [Exemplar](https://www.marinetraffic.com/fi/ais/details/ships/shipid:118046/mmsi:205553000/imo:9444649/vessel:EXEMPLAR) - vuokra 46 miljoonaa euroa vuodessa. [(HS)](https://www.hs.fi/talous/art-2000008832734.html) Exemplarin pituus on 291 metriä ja leveys 43 metriä [HS - 8.12.2022](https://www.hs.fi/talous/art-2000009253298.html) - "It's carrying capacity is 150900 cubic meters Liquid Gas and her current draught is reported to be 9.1 meters. Her length overall (LOA) is 291 meters and her width is 43.4 meters." [Marine Traffic](https://www.marinetraffic.com/fi/ais/details/ships/shipid:118046/mmsi:205553000/imo:9444649/vessel:EXEMPLAR). 
 
-"Sitä (LNG) on tänä vuonna tuotu EU:hun ennen kaikkea Yhdysvalloista ja Qatarista. Kun maakaasu jäähdytetään 162 miinusasteeseen, se muuttuu nestemäiseksi ja tiivistyy noin 600 kertaa tiheämmäksi, mikä tekee laivakuljetuksista taloudellisesti kannattavia." [(HS)](https://www.hs.fi/talous/art-2000009184915.html)
+LNG:tä tuodaan EU:hun ennen kaikkea Yhdysvalloista ja Qatarista. 
+
+> "Kun maakaasu jäähdytetään 162 miinusasteeseen, se muuttuu nestemäiseksi ja tiivistyy noin 600 kertaa tiheämmäksi, mikä tekee laivakuljetuksista taloudellisesti kannattavia." [(HS)](https://www.hs.fi/talous/art-2000009184915.html)
 
 Exemplar sijoitetaan Inkooseen ja se liitetään [Baltic Connector](https://en.wikipedia.org/wiki/Balticconnector) -kaasuputkeen. Halpaa tämä lysti ei ole - hankinnan kokonaiskustannukseksi on arvioitu 460 miljoonaa euroa [HS - 11.12.2022](https://www.hs.fi/talous/art-2000009253671.html).  Exemplar LNG-terminaali on maakaasun pakkaus- ja jakeluasema, joka on suunniteltu käsittelemään ja jakamaan nesteytettyä maakaasua (LNG) laivojen ja muiden kuljetusvälineiden käyttöön. Yleisesti voidaan todeta, jos terminaali on satama-alueella ja se on varustettu tarvittavilla kuljetus- ja jakelujärjestelmillä, se voi toimia maakaasun jakelupisteenä kotitalouksille. Tämä vaatii kuitenkin huomattavia investointeja ja rakentamista, ja terminaali on yleensä suunniteltu käsittelemään suuria määriä LNG:tä teollisuuden ja muiden suurten käyttäjien tarpeisiin. Ennen kuin terminaali voitaisiin muuntaa kotitalouksien maakaasun jakelupisteeksi. Tällöin tulisi tehdä huolellinen selvitys liiketoiminnallisesta kannattavuudesta ja teknisestä toteuttamiskelpoisuudesta.
 
 Tässä on lyhyt tekoälyn tuottama rap-laulu Exemplar LNG-laivasta:
 
-(Verse 1)
-Exemplar LNG-laiva on täällä,
+> Exemplar LNG-laiva on täällä,
 Se tuo kaasua kauas vieraisiin maihin.
 Se on suuri ja vahva, kestää meren rannan,
 Ja tuo lämmön ja valon ihmisten koteihin.
 
-(Chorus)
-Exemplar, Exemplar,
+> Exemplar, Exemplar,
 LNG-laiva meren takaa.
 Se tuo energian kauas kotoa,
 Ja auttaa ihmisiä päivästä toiseen.
 
-(Verse 2)
-Exemplar LNG-laiva on tehokas ja nopea,
+> Exemplar LNG-laiva on tehokas ja nopea,
 Se kuljettaa kaasua maailman ympäri.
 Se on turvallinen ja luotettava,
 Ja auttaa ihmisiä elämään paremmin.
 
-(Chorus)
-Exemplar, Exemplar,
+> Exemplar, Exemplar,
 LNG-laiva meren takaa.
 Se tuo energian kauas kotoa,
 Ja auttaa ihmisiä päivästä toiseen.
 
-(Bridge)
-Exemplar LNG-laiva on tärkeä tekijä,
+> Exemplar LNG-laiva on tärkeä tekijä,
 Se tuo kaasua ihmisille, jotka sitä tarvitsevat.
 Se on tulevaisuuden energiamuoto,
 Ja auttaa ihmisiä elämään vihreämmin.
 
-(Chorus)
-Exemplar, Exemplar,
+> Exemplar, Exemplar,
 LNG-laiva meren takaa.
 Se tuo energian kauas kotoa,
 Ja auttaa ihmisiä päivästä toiseen.

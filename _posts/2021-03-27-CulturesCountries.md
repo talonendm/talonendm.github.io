@@ -18,6 +18,11 @@ Stuff related on Japan and japanese language; [Katakana](https://en.wikipedia.or
 - [Katakana mobile](https://talonendm.github.io/katakana/)
 - [Katakana keyboard](https://www.lexilogos.com/keyboard/katakana.htm)
 
+
+## Culture
+
+> Haiku 俳句 is a type of short form poetry originally from Japan. Traditional Japanese haiku consist of three phrases that contain a kireji, or "cutting word" in a 5, 7, 5 pattern, and a kigo, or seasonal reference. Similar poems that do not adhere to these rules are generally classified as senryū. [Wikipedia](https://en.wikipedia.org/wiki/Haiku)
+
 ## Food
 
 - [Nattō](https://en.wikipedia.org/wiki/Natt%C5%8D) (納豆) is a traditional Japanese food made from soybeans that have been fermented.
