@@ -52,7 +52,7 @@ LNG:tä tuodaan EU:hun ennen kaikkea Yhdysvalloista ja Qatarista.
 
 Exemplar sijoitetaan Inkooseen ja se liitetään [Baltic Connector](https://en.wikipedia.org/wiki/Balticconnector) -kaasuputkeen. Halpaa tämä lysti ei ole - hankinnan kokonaiskustannukseksi on arvioitu 460 miljoonaa euroa [HS - 11.12.2022](https://www.hs.fi/talous/art-2000009253671.html).  Exemplar LNG-terminaali on maakaasun pakkaus- ja jakeluasema, joka on suunniteltu käsittelemään ja jakamaan nesteytettyä maakaasua (LNG) laivojen ja muiden kuljetusvälineiden käyttöön. Yleisesti voidaan todeta, jos terminaali on satama-alueella ja se on varustettu tarvittavilla kuljetus- ja jakelujärjestelmillä, se voi toimia maakaasun jakelupisteenä kotitalouksille. Tämä vaatii kuitenkin huomattavia investointeja ja rakentamista, ja terminaali on yleensä suunniteltu käsittelemään suuria määriä LNG:tä teollisuuden ja muiden suurten käyttäjien tarpeisiin. Ennen kuin terminaali voitaisiin muuntaa kotitalouksien maakaasun jakelupisteeksi. Tällöin tulisi tehdä huolellinen selvitys liiketoiminnallisesta kannattavuudesta ja teknisestä toteuttamiskelpoisuudesta.
 
-Tässä on lyhyt tekoälyn tuottama rap-laulu Exemplar LNG-laivasta:
+Vakaviakin aiheita on syytä tutkia eri tavoin. Tässä on tekoälyn avustuksella luotu rap-laulu Exemplar LNG-laivasta:
 
 > Exemplar LNG-laiva on täällä,
 Se tuo kaasua kauas vieraisiin maihin.
@@ -61,7 +61,7 @@ Ja tuo lämmön ja valon ihmisten koteihin.
 
 > Exemplar, Exemplar,
 LNG-laiva meren takaa.
-Se tuo energian kauas kotoa,
+Se tuo energian kauas koteihin,
 Ja auttaa ihmisiä päivästä toiseen.
 
 > Exemplar LNG-laiva on tehokas ja nopea,
@@ -71,7 +71,7 @@ Ja auttaa ihmisiä elämään paremmin.
 
 > Exemplar, Exemplar,
 LNG-laiva meren takaa.
-Se tuo energian kauas kotoa,
+Se tuo energian kauas koteihin,
 Ja auttaa ihmisiä päivästä toiseen.
 
 > Exemplar LNG-laiva on tärkeä tekijä,
@@ -81,7 +81,7 @@ Ja auttaa ihmisiä elämään vihreämmin.
 
 > Exemplar, Exemplar,
 LNG-laiva meren takaa.
-Se tuo energian kauas kotoa,
+Se tuo energian kauas koteihin,
 Ja auttaa ihmisiä päivästä toiseen.
 
 # Luontokato
