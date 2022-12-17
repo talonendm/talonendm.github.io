@@ -16,7 +16,7 @@ published: true
 ---
 
 
-Hyvää itsenäisyyspäivää 2022! Kiitos veteraaneille rohkeudesta - siitä että voimme viettää 105:ttä vapaata itsenäisyyspäivää. Tätä vuotta järkytti Venäjän aloittama hyökkäysota 24.2.2022 Ukrainaa vastaan. Slava Ukraini - [Herojam Slava](https://fi.wikipedia.org/wiki/Kunnia_Ukrainalle!). 
+Hyvää itsenäisyyspäivää 2022! Vuoden aikana COVID-19 pandemia jäi taka-alalle ja tilalle tuli keskustelut sotilaallisesta turvallisuudesta. Sen lisäksi turvallisuus tarkoittaa yhteisöllisyyttä ja luottamusta. Kiitos veteraaneille rohkeudesta - siitä että voimme viettää 105:ttä vapaata itsenäisyyspäivää. Tätä vuotta järkytti Venäjän aloittama hyökkäysota 24.2.2022 Ukrainaa vastaan. Slava Ukraini - [Herojam Slava](https://fi.wikipedia.org/wiki/Kunnia_Ukrainalle!). 
 
 Perinteisesti itsenäisyyspäivänä on ollut aikaa mietiskelyyn ja ajatuksien jakamiseen. [Viime vuonna](https://talonendm.github.io/2021-12-06-finland/) itsenäisyyspäivänä tutkin lakeja, määräyksiä ja niiden tulkintaa. Pari vuotta sitten, [vuonna 2020](https://talonendm.github.io/2020-12-06-3dprint/), otin rennommin ja tutkin vanhoja 3d-printtimalleja. Kuluvana vuonna olen vesikattorakenteiden lisäksi opiskellut vapaa-ajallani mm. oikiksen pääsykoekirjat sekä kestävää kehitystä (verkkokurssi). Kurssilla pohdittiin mm. mitä toimia voitaisiin tehdä ilmastonmuutoksen hidastamiseksi.
 
@@ -90,10 +90,20 @@ YK:n luontokokouksen toivotaan tekevän luonnolle sen mitä Pariisi teki ilmasto
 
 Ihmisen toiminnan seurauksena, kuten esimerkiksi elinympäristöjen häviämisen ja saalistamisen vuoksi. "Ympäristöjärjestö WWF:n raportin mukaan maapallon selkärankaisten villieläinten kannat ovat kutistuneet keskimäärin 69 prosenttia vuosina 1970–2018.", "Ikimetsiä, joihin ihminen ei olisi koskaan merkittävästi vaikuttanut, on enää neljäsosa maailman metsistä. Niitä löytyy esimerkiksi Amazonin sademetsästä.", ja Suomessa vain 6 prosenttia (1.2 miljoonaa hehtaaria) on luonnollista ikimetsää [HS 11.12.2022](https://www.hs.fi/politiikka/art-2000009234234.html) Luontokokouksessa päätetään myös tavoitteista ja toimenpiteistä, joita eri maiden tulee toteuttaa luonnon suojelun edistämiseksi. 
 
+## Joulu 17.12.-
+
+Joulukuusesta. "Kännykän hiilijalanjälki on noin 50–100 kiloa ja kannettavan tietokoneen noin 300–500 kiloa." [HS - Tiede 17.12.2022](https://www.hs.fi/tiede/art-2000009206235.html). Googlella: "Joulupuuseuran mukaan aidon kotimaisen joulukuusen hiilijalanjälki on vain noin kaksi kiloa eli pienempi kuin pussillisen puuroriisiä. Tällainen kuusi tulee läheltä ja se kierrätetään tavallisesti joko polttamalla energiaksi tai hakettamalla tukiaineeksi biojätteen kompostointiin [23.12.2021]."
+
+- Keskimäärin suomalainen tuotaa 30 kiloa kasvihuonekaasupäästöjä.
+- Muovikuusi 10 - 20 kg.
+- Viljeltykuusi 1 - 2 kg.. toisin sanoen, jos käytän yhtä läppäriä vuoden pidempään niin teoriassa se vastaisi noin 100 joulukuusta.
+
+
 # Muuta
 
 - TODO: Lämpöpumppu, aurinkopaneelit, sähköauto
 - [Global Fishing Watch](https://globalfishingwatch.org/)
+- ESG - viittaus ekologiseen, sosiaaliseen ja hallinnolliseen kestävyyteen. [HS - viherpesu](https://www.hs.fi/visio/art-2000009215727.html)
 
 
 ### Vastuuvapauslauseke

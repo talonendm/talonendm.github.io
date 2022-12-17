@@ -66,7 +66,8 @@ tags:
   - KKO 2016:79 (takuuajan jälkeinen vastuu)
     - Urakoitsija vastuussa katon korjauskuluista
   - [RYS-9 1998 yli 10000e remontit](https://www.idearemontit.fi/rakennusalan-toita-koskevat-yleiset-kuluttajasopimusehdot-rys-9-1998)
-
+- Rakentaminen
+  - "Rakennusalalle ja muuhunkin yritystoimintaan on viime vuosina vakiintunut oman siivunsa ottava välikäsi: laskurahoituspalvelut." ja "Käytännössä palvelu toimii niin, että yritys myy laskun laskurahoituspalvelijalle, jolloin se saa maksun heti tililleen. Laskun ostava yritys laskuttaa sitten summan tilaajalta." [Helsingin uutiset - Minna Harmaala 14.11.2022 8:27](https://www.helsinginuutiset.fi/paikalliset/5498950)
 
 # Kestävä kehitys
 
