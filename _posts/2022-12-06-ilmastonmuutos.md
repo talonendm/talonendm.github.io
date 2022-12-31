@@ -30,17 +30,26 @@ Suomen tavoitteena on olla hiilineutraali vuoteen 2035 mennessä ([ilmastoneutra
 
 Yhdeksi tärkeimmäksi energian lähteeksi on tulossa maatuulivoimalat (tyypillisesti n. 10 voimalaa) ja niitä rakennetaan Euroopaan verrattuna varsin paljon. [[Helen 2/2022]](https://www.helen.fi/asiakaspalvelu/ajankohtaista/helen-lehti) Suomen tuulivoimalat tuottivat vuonna 2021 sähköä n.8 TWh vastaten Suomen sähkönkulutuksesta vajaata 10 prosenttia. [www.motiva.fi](https://www.motiva.fi/ratkaisut/uusiutuva_energia/tuulivoima/tuulivoima_suomessa) Tuulivoiman lisäksi energiaa tulisi tuottaa aurinkovoimaloilla, bioenergialla, ydinvoimalla ja mahdollisesti jopa pienydinvoimaloilla (SMR). Näiden avulla voitaisiin tuottaa päästötöntä energiaa tasaisesti ja luotettavasti vuoden- ja vuorokaudenajasta riippumatta. OL3-ydinreaktorin käyttöönoton ongelmista riippumatta Suomi on tulevaisuudessa sähkön nettiviejä.
 
-## Vähähiiliset tai CO2 vapaat energian tuotantotavat
+## Vähähiiliset tai CO2-vapaat energiatuotantotavat
 
 Noin kolmannes Suomen energiantarpeesta tuotettiin öljyllä, hiilellä ja maakaasulla. [[Helen 2/2022]](https://www.helen.fi/asiakaspalvelu/ajankohtaista/helen-lehti) Uusiutuvalla energialla, eli vesivoimalla ja puunpoltolla, tuotettiin noin 40 prosenttia kulutuksesta. Eurooppalaisiin verrattuna tämä osuus on melko suuri, toisaalta aika luonnollista, sillä täällä on koskia ja metsää muihin maihin verrattuna enemmän. 
 
+Pelkästään vuonna 2022 Suomeen on asennettu huikeat 1500 Megawattia tuulivoimaa. Asennetun tuulivoiman kokonaiskapasiteetti on lähes 5000 Megawattia, mutta tähän nimellistehoon verrattuna ne ovat keskimäärin tuottaneet vain hieman yli 30 prosenttia.  [HS - Tuulivoima on tänä talvena sähkömarkkinoiden kohtalonkysymys](https://www.hs.fi/talous/art-2000009234138.html)
+
+Norja ja tuulivoimaan liittyviä uutisia:
+
+- [Korkein oikeus päätti Norjassa: tuulivoimalat rikkovat saamelaisten oikeuksia - IL 11.10.2021](https://www.iltalehti.fi/ulkomaat/a/671f7f7f-8939-4048-a2e3-f1b43bf728da): "Roanin ja Storheian alueella on noin 150 tuulivoimayksikköä."
+- [1,3 miljardin upouudet tuulipuistot odottavat purkupäätöstä Norjassa – Ongelmat uhkaavat kaatua myös suomalaisten syliin](https://www.tekniikkatalous.fi/uutiset/1-3-miljardin-upouudet-tuulipuistot-odottavat-purkupaatosta-norjassa-ongelmat-uhkaavat-kaatua-myos-suomalaisten-syliin/f0ddc0c6-ce8a-48d2-a2af-09320ee4900b): paperilehdestä 6.5.2022: "Puistoista oli tehty tarkat selvitykset ja lupien piti olla kunnossa." Tämä voi tuottaa haasteita myös esimerkiksi SSAB:n Raahen tehtaalle. Se pyrkii olemaan tulevaisuudessa hiilidioksidivapaa vetypelkistysprosessinsa ansiosta.
+ 
 ## Haasteet
 
 Uusiutuva energia on sääriippuvaista ja siksi energian varastointiin ja siirtämiseen tulisi löytää ratkaisu. Käytännössä tämä tarkoittaa politittista ja taloudellista päätöksentekoa. Luultavasti kannattavin ja järkevin tapa on toteuttaa varastointi usealla eri tavalla. Varastoinnin ja siirtämisen lisäksi on hyvä etsiä tapoja tasata kysyntää. Perinteisesti yösähkö on ollut päiväsähköä edullisempaa. Erilaiset ohjaimet esimerkiksi omakotitaloasujien lämmönvesivaraajan olisi myö toimiva ratkaisu - kulutuspiikin aikaan vettä ei tarvitse lämmittää, sillä sitä tyypillisesti on ihan riittävästi jokatapauksessa tarpeeseen. Omaa kulutusta ja Nord Pool -sähköpörssi (esim. Helenin asiakkaat) [Helen](https://www.helen.fi/kirjautuminen) kannattanee seurata ja tutkia voiko omaa kulutusta jotenkin vähentää. 
 
+Tuulivoiman vaikutus luontoon (luontokato) tulisi selvittää entistä tarkemmin. HS:n [artikkelissa](https://www.hs.fi/talous/art-2000009234138.html) mainittiin, että tuulisella säällä 75 metriä pitkä lapa pyörii kovassa tuulessa hieman yli kymmenen kierrosta minuutissa. Ei kuulosta kovinkaan suurelta nopeudelta. Kuitenkin [ympyränpiirin laskukaavalla](https://en.wikipedia.org/wiki/Circle) saadaan lavan pään matkaavan yli 5 kilometriä minuutissa ja tällöin nopeudeksi saadaan useita satoja kilometrejä tunnissa! 
+
 ## Vety
 
-Vetytalous voisi olla yksi ratkaisu epäsäännöllisesti tuotetun energian varastoinnille ja siirrolle. Haasteita ratkottavaksi: vedyn tuottaminen (hyötysuhde), räjähdysherkän aineen varastointi ja siirto. [How the hydrogen revolution can help save the planet — and how it can't](https://www.nature.com/articles/d41586-022-03699-0). Vuonna 2021 lähes kaikki tuotettu vety oli ns. harmaata eli fossiilisilla tuotettua. Tällä hetkellä tämä teknologia ei vähennä päästöjä vaan pikemminkin lisää niitä - ainakin lyhyellä tähtäimellä. Vuoden 2030 tavoitteena olisi, että noin puolet vedystä tuotettaisiin uusiutuvalla energialla (green hydrogen). Vetyä tosin voidaan käyttää myös teollisissa prosesseissa, kuten teräksen tuotannossa ([SSAB HYBRIT](https://www.ssab.com/fi-fi/fossiilivapaa/hybrit-a-new-revolutionary-steelmaking-technology)). Toivotaan, että vuoden 2050 ennuste vedyn suuremmasta vihreästä tuotannosta ja hiilidioksidivapaasta teräksen tuotannosta toteutuu.
+Vetytalous voisi olla yksi ratkaisu erittäin vaihtelevaan tuotantoon eli epäsäännöllisesti tuotetun energian varastoinnille ja siirrolle. Haasteita ratkottavaksi: vedyn tuottaminen (hyötysuhde), räjähdysherkän aineen varastointi ja siirto. [How the hydrogen revolution can help save the planet — and how it can't](https://www.nature.com/articles/d41586-022-03699-0). Vuonna 2021 lähes kaikki tuotettu vety oli ns. harmaata eli fossiilisilla tuotettua. Tällä hetkellä tämä teknologia ei vähennä päästöjä vaan pikemminkin lisää niitä - ainakin lyhyellä tähtäimellä. Vuoden 2030 tavoitteena olisi, että noin puolet vedystä tuotettaisiin uusiutuvalla energialla (green hydrogen). Vetyä tosin voidaan käyttää myös teollisissa prosesseissa, kuten teräksen tuotannossa ([SSAB HYBRIT](https://www.ssab.com/fi-fi/fossiilivapaa/hybrit-a-new-revolutionary-steelmaking-technology)). Toivotaan, että vuoden 2050 ennuste vedyn suuremmasta vihreästä tuotannosta ja hiilidioksidivapaasta teräksen tuotannosta toteutuu.
 
 ## LNG
 
@@ -98,6 +107,28 @@ Joulukuusesta. "Kännykän hiilijalanjälki on noin 50–100 kiloa ja kannettava
 - Muovikuusi 10 - 20 kg.
 - Viljeltykuusi 1 - 2 kg.. toisin sanoen, jos käytän yhtä läppäriä vuoden pidempään niin teoriassa se vastaisi noin 100 joulukuusta.
 
+## Metsä ja päästöt
+
+- [Hs 17.12.2022 - Hiilinielujen romahdus voi maksaa Suomelle miljardeja euroja jo kolmen vuoden kuluttua](https://www.hs.fi/politiikka/art-2000009272342.html): Graafin mukaan Suomen nettopäästöt hieman yli 40000 tuhatta tonnia CO2-ekv. EU:n Lulucf-asetus määrittelee EU:n hiilinielut, jossa tilannetta verrataan 2000-luvun alun lähtötilanteeseen. Uusien laskelmien perusteella Suomi ei ole enää hiilinielu vaan päästölähde. Lasku tapoja on tarkennettu, mutta miten, sitä en tiedä. Lisäksi hakkuiden määrä ja metsien kasvun hidastuminen on vaikuttanut asiaan. Näyttää melko varmalta, että Suomi ei tule saavuttamaan lupamaansa nielutasoa vuonna 2025. 
+- "Tilastokeskuksen pikaennakkotietojen mukaan vuoden 2020 kasvihuonekaasujen kokonaispäästöt olivat 48,3 miljoonaa hiilidioksidiekvivalenttitonnia (milj. t CO2-ekv.)." [stat.fi](https://www.stat.fi/til/khki/2020/khki_2020_2021-05-21_kat_001_fi.html)
+
+# Terästeollisuus
+
+- "Raahen terästehdas on tuottanut todella isot hiilidioksipäästöt, mutta se lähti matkalle kohti täyskäännöstä – 7% pois koko Suomen päästöistä?" [Taloussanomat - IS 4.2.2020](https://www.is.fi/taloussanomat/art-2000006395235.html)
+- "Sanna Marinin hallitus aikoo laittaa SSAB:n terästehtaan päästöt kuriin" [US - 23.9.2021](https://www.uusisuomi.fi/uutiset/sanna-marinin-hallitus-aikoo-laittaa-ssabn-terastehtaan-paastot-kuriin-nama-10-teollisuuslaitosta-ovat-seuraavana-listalla/)
+- Energiaviraston sivuilta [laitoskohtaiset tiedot](https://energiavirasto.fi/documents/11120570/115455006/Laitoskohtaiset+tiedot+vuosien+2013-2021+p%C3%A4%C3%A4st%C3%B6ist%C3%A4.pdf/3467319f-49bd-6170-2225-bb31a6f51a64/Laitoskohtaiset+tiedot+vuosien+2013-2021+p%C3%A4%C3%A4st%C3%B6ist%C3%A4.pdf?t=1648813929223) päästöistä (Laitoskohtaiset todennetut päästöt [t CO2] vuosilta 2013-2021):
+  - 3670006 
+  - 3774032 
+  - 3936555 
+  - 4134819 
+  - 3792053 
+  - 4025353 
+  - 3313833 
+  - 3349868 
+  - 4244717 (2021 uusi ennätys)
+  - SSAB:n Raahen terätehtaan hiilidioksidipäästöt ovat omassa luokassaan. Vuonna 2021 tehtaan päästöt olivat yli 4 miljoonaa tonnia eli noin 15 prosenttia kaikista päästökaupan piiriin kuuluvien laitosten päästöistä Suomessa (~27,6 milj. tonnia).
+
+Päästöoikeudet ovat nousseet uuteen ennätykseen vuonna 2022. Kalleimmillaan se oli helmikuussa - lähes 100 euroa hiilidioksiditonnilta ja keskimäärin se on ollut noin 80 e/CO2ton. [HS 21.12.2022 - A21, Päästökauppa toi jättitilin Suomelle](https://www.hs.fi/talous/art-2000009278965.html).
 
 # Muuta
 
