@@ -136,6 +136,8 @@ Päästöoikeudet ovat nousseet uuteen ennätykseen vuonna 2022. Kalleimmillaan 
 - [Global Fishing Watch](https://globalfishingwatch.org/)
 - ESG - viittaus ekologiseen, sosiaaliseen ja hallinnolliseen kestävyyteen. [HS - viherpesu](https://www.hs.fi/visio/art-2000009215727.html)
 - [Hömötiainen - HS 29.12.2022](https://www.hs.fi/kotimaa/art-2000009293280.html) ja yliopistotutkimus [tiaisista](https://www.oulu.fi/fi/uutiset/tiaiset-avuksi-metsalintujen-laskentaan): Lahot pökkelöt ovat tiaisille elinehto. Talvi menee sinnitellessä, esim. puun kaarnan kolojen alla.
+- Metsä
+  - Ensiharvennus: [Metsien ensiharvennukset eivät ole suositusten mukaisia UUTINEN - 19.12.2022 12:52](https://www.metsakeskus.fi/fi/ajankohtaista/metsien-ensiharvennukset-eivat-ole-suositusten-mukaisia)
 
 
 ### Vastuuvapauslauseke
