@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Ilmastonmuutos
-subtitle: Climate Change
+title: Uusi vuosi 2023
+subtitle: uudenvuodenpuhe
 tags:
   - uusi vuosi 2023
   - suomi
   - luottamus
 comments: false
-cover-img: /assets/pics/cover/photo/silkkiuikku.jpg
-thumbnail-img: /assets/pics/thumbnail/photo/talven_toro.jpg
+cover-img: /assets/pics/cover/photo/newyear2020v2.JPG
+thumbnail-img: /assets/pics/thumbnail/photo/varjo.JPG
 published: true
 ---
 
