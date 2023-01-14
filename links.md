@@ -72,3 +72,7 @@ tags:
 # Kestävä kehitys
 
 - HSY: [asiakaspalvelu](https://www.hsy.fi/hsy/asiakaspalvelu/)
+
+# Rakentaminen
+
+- [vesikattolaskuri](https://talonendm.github.io/vesikattolaskuri/)
