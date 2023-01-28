@@ -23,5 +23,6 @@ Surprise, the most common word is "data" and thus having the largest font size.
 
 1. [Shinyapps](https://shiny.rstudio.com/articles/shinyapps.html)
 2. [Advances in Methods of Anomaly Detection and Visualization of Multivariate Data](https://aaltodoc.aalto.fi/handle/123456789/15255 "Thesis")
+3. personal notes, [private - talonendm - preparing document 2013](https://docs.google.com/document/d/1yv4GzWYLCpTXdsxfmcCFFDkP0BOPBKDTk7Njo-OVpdY/edit?usp=sharing): (Thesis-2013-2015-printeista)
 
 
