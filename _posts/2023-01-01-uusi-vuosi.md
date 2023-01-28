@@ -36,6 +36,14 @@ Puhe katsottavissa kokonaisuudessaan [Areenassa](https://areena.yle.fi/1-6422813
 
 - LNG terminaali: [16.1.2023 Länsiväylä](https://www.lansi-uusimaa.fi/uutissuomalainen/5658141): 68000 tonnia nesteytettyä maakaasua (LNG) vastaa noin 1 TWh energiaa. Kaasu höyrystetään laivassa. Laiva kykenisi höyrystämään jopa 40 TWh vuodessa! Jatkossa kaasu toimitetaan kansainvälisiltä markkinoilta, aiemmissa uutisissa on mainittu muun muassa Qatar. 
 
+## Ilmasto
+
+- "Kalliiksi tulee se, jos asialle ei tehdä mitään." [HS Mielipide 24.1.2023](https://www.hs.fi/mielipide/art-2000009338289.html)
+
+## Muut
+
+- "Toisen taivutteleminen *tosiasioilla* johtaa umpikujaan ja uupumukseen" [HS 2.1.2023](https://www.hs.fi/tiede/art-2000009236025.html)
+
 ### Vastuuvapauslauseke
 
 Tämä julkaisu on tehty parhaan oman tietämyksemme ja ymmärtämyksemme pohjalta. Olemme tehneet kaiken voitavamme tietojen täsmällisyyden ja oikeellisuuden takaamiseksi, [talonendm](https://talonendm.github.io/) ei ole vastuussa mistään virheistä tai puutteista tai mistään suorasta, epäsuorasta tai välillisestä

@@ -63,7 +63,7 @@ Some words from this dictionary: [pkky.fi RAKENNUSALAN PERUSSANASTO SUOMI-ENGLAN
   - eriste insulation
 - H
   - harja (talon) ridge
-  - harjakatto ridged roo
+  - harjakatto ridged roof
   - harjannostajaiset [topping-out party](https://en.wikipedia.org/wiki/Topping_out)
   - home mould
   - höyrynsulku vapour barrier
@@ -122,5 +122,63 @@ Some words from this dictionary: [pkky.fi RAKENNUSALAN PERUSSANASTO SUOMI-ENGLAN
   - puulajit timber species
   - puuliitos/liitokset wood joint(s)
 - R
+  - raaka-aineet (runkoaineet) frame material
+  - rahtikirja consignment note; bill of freight
+  - rakenne structure
+  - rakennuspiirustus construction drawing
+  - rakennustyömaa site
+  - rima batten
+  - ruuvi screw
+- S
+  - sadevesikaivo rain-water well
+  - sallittu kuormitus maximum load allowed
+  - sauma seam
+  - savupiippu chimney
+  - sinkki zinc
+  - suoja shelter
+  - suojaavat rakenteet protecting structure
+  - suojata protect
+  - suoristaa straighten
+  - suorittaa perform
+  - suositus recommendation
+  - suunnitelma plan
+  - syöksyputki downspout
+  - säätää adjust
+- T
+  - taipuisuus flexibility
+  - taittaa fold
+  - taloudellinen economic
+  - tarkka exact
+  - tiili brick
+  - tilaaja orderer; customer
+  - toimintahäiriö failure of operation
+  - toimitusehdot terms of delivery 
+  - toteutusasiakirja implementation document
+  - työsuunnitelma working plan
+  - työturvallisuus safety at work
+- U
+  - ulkoseinä external wall
+  - ulkoverhous weatherboard
+- V
+  - vaakasuora komponentti horizontal component
+  - [vaarna](https://fi.wikipedia.org/wiki/Vaarna) dowel
+  - vahinko / vauriot damage
+  - vajaa laatu of inferior quality
+  - vakuutus insurance
+  - valvonta supervision
+  - vaneri plywood
+  - vastaanottaa receive
+  - vedenpitävä (vesitiivis) waterproof; watertight
+  - vedenpoistoaukko water discharge outlet
+  - vesitiivis watertight
+  - vesivaaka, vatupassi spirit level
+  - viemärikaivo gully(hole)
+  - vino, kalteva inclined
+  - vuorivilla mineral wool
+  - välipohja intermediate floor
+- Y
+  - yläpaarre upper frame beam ([ridge beam](https://cdnassets.hw.net/dims4/GG/acc5598/2147483647/resize/876x%3E/quality/90/?url=https%3A%2F%2Fcdnassets.hw.net%2F92%2F3c%2F3d3215a94be5bb0c162f73504962%2F1020-jlc-q-a-ridge-beam-web-01.jpg))
+  - yläpohja attic floor
+
 
 
