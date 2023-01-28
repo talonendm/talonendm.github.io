@@ -6,6 +6,7 @@ tags:
   - uusi vuosi 2023
   - suomi
   - luottamus
+  - links
 comments: false
 cover-img: /assets/pics/cover/photo/newyear2020v2.JPG
 thumbnail-img: /assets/pics/thumbnail/photo/varjo.JPG
@@ -22,8 +23,18 @@ Hyvää uutta vuotta 2023! Tasavallan presidentti piti perinteisen [puheen](http
 
 Ulkopoliittisen instituutin johtaja Mika Aaltola katsoo Niinistön muistuttaneen meitä siitä, että ei saa naiivisti suhtautua asioihin. Emme aina voi vastata pelkällä rauhantahtoisuudella, vaan pitää pitää jämäkästi kiinni kansallisista ja yksilöllisistä turvallisuuteen liittyvistä periaatteista. Turun yliopiston Jokisipilän mielestä puheessa tuotiin esiin luottamusta siihen, että tästäkin selvitään, vaikka meillä on monenlaisia ongelmia ratkaistavana. [[https://www.is.fi/politiikka/art-2000009300946.html](https://www.is.fi/politiikka/art-2000009300946.html)]
 
-
 Puhe katsottavissa kokonaisuudessaan [Areenassa](https://areena.yle.fi/1-64228131).
+
+
+# Links - stuff
+
+## Oikeus
+
+- [Lasse Kerkelä HS 18.1.2023 13:33](https://www.hs.fi/kotimaa/art-2000009332729.html), "Uber vältti syyttäjän miljoona­vaatimuksen: Haaste toimitettiin kolme päivää myöhässä": "SYYTTÄJÄ jätti toukokuussa 2022 Uberia koskevan rikoshyödyn menettämisvaatimuksen Helsingin käräjäoikeuteen." ja "Asian oikeuskäsittely raukesi viime marraskuussa, koska syyttäjä peruutti vaatimuksen rikoshyödyn menettämisestä valtiolle. Syynä oli se, ettei haastehakemusta saatu toimitettua ajoissa Uberille Hollannissa." ja "Hollannista saapuneen tiedoksiantotodistuksen mukaan haastehakemus annettiin siellä tiedoksi yhtiölle 17. elokuuta viime vuonna."
+
+## Energia
+
+- LNG terminaali: [16.1.2023 Länsiväylä](https://www.lansi-uusimaa.fi/uutissuomalainen/5658141): 68000 tonnia nesteytettyä maakaasua (LNG) vastaa noin 1 TWh energiaa. Kaasu höyrystetään laivassa. Laiva kykenisi höyrystämään jopa 40 TWh vuodessa! Jatkossa kaasu toimitetaan kansainvälisiltä markkinoilta, aiemmissa uutisissa on mainittu muun muassa Qatar. 
 
 ### Vastuuvapauslauseke
 
