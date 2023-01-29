@@ -13,6 +13,9 @@ tags:
   - git
   - Disqus
   - emoji
+  - Google Analytics
+  - Privacy policy
+  - Jekyll
   
 comments: true
 published: true
@@ -191,6 +194,13 @@ to
 # Google Tag Manager ID
 #gtm: ""
 ```
+
+
+### Tietosuojaseloste
+
+- [Euroopan tietosuojaviranomaiset ovat todenneet Google Analyticsin käytön verkkosivuilla tietosuojalainsäädännön vastaiseksi](https://tietosuoja.fi/-/euroopan-tietosuojaviranomaiset-ovat-todenneet-google-analyticsin-kayton-verkkosivuilla-tietosuojalainsaadannon-vastaiseksi)
+- Add privacy policy popup to webpage, instructions available [here](https://www.codexworld.com/cookie-consent-popup-with-javascript/). 
+
 
 ## Disqus
 
