@@ -7,7 +7,7 @@ tags:
   - laser
 comments: false
 cover-img: /assets/pics/cover/ai/constructioneye.jpg
-thumbnail-img: /assets/pics/thumbnail/ai/construction.jpg
+thumbnail-img: /assets/pics/thumbnail/photo/epilog-aluskate-2.jpg
 published: true
 ---
 
