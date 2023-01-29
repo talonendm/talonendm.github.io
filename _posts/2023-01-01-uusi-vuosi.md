@@ -40,9 +40,20 @@ Puhe katsottavissa kokonaisuudessaan [Areenassa](https://areena.yle.fi/1-6422813
 
 - "Kalliiksi tulee se, jos asialle ei tehdä mitään." [HS Mielipide 24.1.2023](https://www.hs.fi/mielipide/art-2000009338289.html)
 
+
+## Computer
+
+- HEVC: High-Efficiency Video Coding, more commonly called HEVC, is a specialized video compression standard. [howtogeek](https://www.howtogeek.com/680690/how-to-install-free-hevc-codecs-on-windows-10-for-h.265-video/)
+
+
 ## Muut
 
 - "Toisen taivutteleminen *tosiasioilla* johtaa umpikujaan ja uupumukseen" [HS 2.1.2023](https://www.hs.fi/tiede/art-2000009236025.html)
+- EZVIZ [PDF ohjeet](https://m-support.ezviz.com/download/viewer?file=%2F%2Fmfs.ezvizlife.com%2FBC1W2H_User%20Manual_FI(V1.0.5).pdf%3Fver%3D94569)
+- Ezviz studio requires restart ([download](https://support.ezviz.com/download))
+
+![i.01.roof](/assets/pics/page/roof/ezviz.jpg){: .mx-auto.d-block :}
+
 
 ### Vastuuvapauslauseke
 
