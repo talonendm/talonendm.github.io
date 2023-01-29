@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Pihabongaus
-subtitle: tips and notes
+subtitle: Tiainen
 tags:
   - Tiainen
+  - Pihabongaus
 comments: false
 cover-img: /assets/pics/cover/photo/silkkiuikku.jpg
 thumbnail-img: /assets/pics/thumbnail/photo/yellowbird.JPG

@@ -6,7 +6,7 @@ tags:
   - roof
   - laser
 comments: false
-cover-img: /assets/pics/cover/photo/ai/constructioneye.jpg
+cover-img: /assets/pics/cover/ai/constructioneye.jpg
 thumbnail-img: /assets/pics/thumbnail/ai/construction.jpg
 published: true
 ---
@@ -17,12 +17,21 @@ A miniature model of the house roof using plywood. Size 12.5:1 or 10:1. Earlier 
 
 ## Actual Model
 
-later
+- later
+- p5-box scale parameter: s = 2.83474164873, coefficent. 1mm, e.g. 283px corresponds 100mm in reality.
+
+
+# Reality
+
+![i.01.roof](/assets/pics/page/roof/mankans.jpg){: .mx-auto.d-block :}
+
+![i.01.roof](/assets/pics/page/roof/nodrumtight.jpg){: .mx-auto.d-block :}
 
 ## First Experiments
 
 ![i.01.roof](/assets/pics/page/roof/laser-roof-example-22.png){: .mx-auto.d-block :}
 
+![i.01.roof](/assets/pics/page/roof/horizontal21rod.jpg){: .mx-auto.d-block :}
 
 
 # Laser
