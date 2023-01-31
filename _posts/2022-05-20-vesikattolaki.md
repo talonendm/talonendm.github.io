@@ -46,6 +46,8 @@ Kohta 6.1.1 soveltaen laajennetuilla määritelmillä: Pintarakenteen on suojatt
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xDOq_ljn1Yc?start=18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Aluskate voi päästää läpi vettä, kun naulan reikä avartuu: [Aluskatemainosvideo](https://youtu.be/Ac5Yu1IgAhU?t=67)
+
 ### Ympäristöministeriön muistiosta
 
 Lakien valmisteluaineistoista. Lakien esitöissä perustellaan, miksi tietty säädös **laki** ja säännös eli **pykälä/momentti** tulisi säätää. Siinä myös kuvataan miten pykäliä ja momentteja tulisi soveltaa. [Tapio Määttä & Mirjami Paso: Johdatus oikeudellisen ratkaisun teoriaan]
