@@ -23,7 +23,7 @@ Seven dudes are members of the culinary clunb called Re:teatteri. In this page s
   - [Chef (2014)](https://www.imdb.com/title/tt2883512/)
     - [Andouille](https://www.manclusive.fi/2019/tunnetko-maailman-makkarat/ )
     - [Beignet](https://blogit.meillakotona.fi/drsugar/beignet-munkit/)
-    - "If you buy Jagger ticker and you don't get satisfaction - are you happy?"
+    - "If you buy a Jagger ticket and you don't get Satisfaction - are you happy?"
     - [Carne asada](https://yrttipaja.fi/paaruuat/carne-asada-torillat/)
     - [Gojhujang](https://fi.wikipedia.org/wiki/Gochujang)
     - [Parsakaalia rabe l'anchois](https://www.marthastewart.com/351433/broccoli-rabe-anchovies-and-breadcrumbs)
