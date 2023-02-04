@@ -11,7 +11,18 @@ thumbnail-img: /assets/pics/thumbnail/photo/epilog-aluskate-2.jpg
 published: true
 ---
 
-A miniature model of the house roof using plywood. Size 12.5:1 or 10:1. Earlier experiments: [2022-03-19-lasercut](https://talonendm.github.io/2022-03-19-lasercut/).
+A miniature model of the house roof using plywood. Size 12.5:1 or 10:1. Earlier experiments: [2022-03-19-lasercut](https://talonendm.github.io/2022-03-19-lasercut/). Laser instructions: 
+
+- make a model (p5.js)
+- email/drive (incognito)
+- save
+- Corel Draw 2017
+  - [ ] check if scale is correct (width and height mm)
+- Drag the model to top left corner
+- File -> Print -> Preferences
+
+![i.01.laser](/assets/pics/page/laser/epilog-engraver-color-coding.jpg){: .mx-auto.d-block :}
+Fig) 3mm plywood
 
 # Roof structures - laser
 
@@ -25,13 +36,13 @@ A miniature model of the house roof using plywood. Size 12.5:1 or 10:1. Earlier 
 
 ![i.01.roof](/assets/pics/page/roof/mankans.jpg){: .mx-auto.d-block :}
 
-![i.01.roof](/assets/pics/page/roof/nodrumtight.jpg){: .mx-auto.d-block :}
+![i.02.roof](/assets/pics/page/roof/nodrumtight.jpg){: .mx-auto.d-block :}
 
 ## First Experiments
 
-![i.01.roof](/assets/pics/page/roof/laser-roof-example-22.png){: .mx-auto.d-block :}
+![i.03.roof](/assets/pics/page/roof/laser-roof-example-22.png){: .mx-auto.d-block :}
 
-![i.01.roof](/assets/pics/page/roof/horizontal21rod.jpg){: .mx-auto.d-block :}
+![i.04.roof](/assets/pics/page/roof/horizontal21rod.jpg){: .mx-auto.d-block :}
 
 
 # Laser

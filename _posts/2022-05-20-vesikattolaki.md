@@ -88,9 +88,7 @@ Lakien valmisteluaineistoista. Lakien esitöissä perustellaan, miksi tietty sä
 
 **Faktapremissi**: Aluskatteen asennus on tehty kireäksi ja siten lävistykset ovat avartuneet. Reitti mitä pitkin vesi valuisi ulkoseinälinjan ulkopuolelle on tukittu vaakaruotein 35cm välein, sillä pystylaudoitusta ei ole asennettu aluskatteen ja vaakaruoteiden väliin. 
 
-**Johtopäätös**: Kiristynyt aluskate vaatii tuuletusrimat, jotta vedet valuvat ulkoseinälinjan ulkopuolelle. Vesikatto on asennettava uudelleen käyttäen myös tuuletusrimoja.
-
-
+**Johtopäätös**: Kiristynyt aluskate vaatii tuuletusrimat, jotta vedet valuvat ulkoseinälinjan ulkopuolelle. Vesikatto on asennettava uudelleen. Aluskate tulee kiinnittää tuuletusrimoilla (Näin ohjeistetaan myös aluskatevalmistajan ohjeissakin).
 
 
 #### Kattorakenteesta (30 §)

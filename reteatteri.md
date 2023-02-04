@@ -12,6 +12,25 @@ Seven dudes are members of the culinary clunb called Re:teatteri. In this page s
 - [Rioni - Espoo](https://www.rioni.fi/) - Georgialainen ravintola
 
 
+# Stories
+
+- [LEIVÄTÖN leipälautanen 29.1.2023 HS - The menu](https://www.hs.fi/kulttuuri/art-2000009340591.html)
+  - "valikoima erilaisia levitteitä ilman leipää"
+  - [The Bear](https://www.disneyplus.com/fi-fi/series/the-bear/52m6nx7HoP5F): sarja Disney+
+  - [the menu](https://www.imdb.com/title/tt9764362/): Netflix
+  - [pig 2021](https://www.imdb.com/title/tt11003218/)
+  - [Boiling Point (2021)](https://www.imdb.com/title/tt11127680/)
+  - [Chef (2014)](https://www.imdb.com/title/tt2883512/)
+    - [Andouille](https://www.manclusive.fi/2019/tunnetko-maailman-makkarat/ )
+    - [Beignet](https://blogit.meillakotona.fi/drsugar/beignet-munkit/)
+    - "If you buy Jagger ticker and you don't get satisfaction - are you happy?"
+    - [Carne asada](https://yrttipaja.fi/paaruuat/carne-asada-torillat/)
+    - [Gojhujang](https://fi.wikipedia.org/wiki/Gochujang)
+    - [Parsakaalia rabe l'anchois](https://www.marthastewart.com/351433/broccoli-rabe-anchovies-and-breadcrumbs)
+  - [Le Chef - Rakkaudesta ruokaan (2012)](https://www.imdb.com/title/tt1911553/)
+  - [Gourmet Club (2004)](https://fi.wikipedia.org/wiki/Gourmet_Club)
+
+
 # safka.me / restaurants
 
 - [Restaurant cards - shiny](https://safka.shinyapps.io/reteatteri/)
