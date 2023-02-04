@@ -7,6 +7,17 @@ tags:
   - links
 ---
 
+- [2020-12-16-books](https://talonendm.github.io/2020-12-16-books/)
+- [2020-12-17-wines](https://talonendm.github.io/2020-12-17-wines/)
+
+
+# Roof
+
+- [2021-05-17-roof](https://talonendm.github.io/2021-05-17-roof/)
+- [2021-12-05-contract-trust](https://talonendm.github.io/2021-12-05-contract-trust/)
+- [2022-05-15-aluskate](https://talonendm.github.io/2022-05-15-aluskate/)
+- [2022-05-20-vesikattolaki](https://talonendm.github.io/2022-05-20-vesikattolaki/)
+
 # NEWS
 
 - [HS](https://www.hs.fi/)
@@ -40,6 +51,7 @@ tags:
 - [DRIVE - oma](https://drive.google.com/drive/u/0/my-drive)
 - [Hs - oma notes](https://docs.google.com/document/d/1NXiD0G9zo-lA1EG55y1xyt9KKr8jY8-yBwOP0ykL24o/edit?usp=sharing)
 - Talviurheilu - kamat ja koot [(private)](https://docs.google.com/spreadsheets/d/1wVZ0nORN11OwwguXcEv6zwl4aHwJYxDbeVlo4DfMErY/edit?usp=sharing)
+- [kartta.museoverkko.fi](https://kartta.museoverkko.fi/)
 
 # APPS
 
