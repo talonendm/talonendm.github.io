@@ -74,7 +74,7 @@ tags:
 - [Urakoitsijan lisä- ja muutostyöprosessin kehittäminen, Merelä Sami](https://www.theseus.fi/bitstream/handle/10024/106743/Merela_Sami.pdf?sequence=1)
   - Metropolia Ammattikorkeakoulu, Insinööri (AMK), Rakennustekniikka, Insinöörityö, 8.4.2016
   - 2.3.2 Urakoitsijan pääsuoritusvelvollisuus ja hyvä rakennustapa
-- https://www.rakennusteollisuus.fi/globalassets/infra/jasenpalvelu/sopimusoikeus-turku-6.11.-huhtamaki.pdf
+- [sopimusoikeus-turku-6.11 -pdf](https://www.rakennusteollisuus.fi/globalassets/infra/jasenpalvelu/sopimusoikeus-turku-6.11.-huhtamaki.pdf)
   - HUOM! Tilaajan valvonta ei siirrä urakoitsijan sopimuksenmukaista vastuuta tilaajalle (62 §) 
   - KKO 2016:79 (takuuajan jälkeinen vastuu)
     - Urakoitsija vastuussa katon korjauskuluista

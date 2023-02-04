@@ -123,18 +123,15 @@ not working anymore
 -->
 
 
-
-
-
-
-
 $$W=\frac{V+K-H}{T_1}$$
 
-ja
+&#129030;
 
-$$1000€ = \frac{30000€+2000€-27000€}{5}$$
+$$H = V + K - W \times T_1 = 30000 + 2000 - 1000 \times 5 = 27000 $$ 
 
+&#129030;
 
+Hinnanalennus tämän esimerkin arvojen perusteella 27 000 euroa.
 
 ## Linkkejä
 
