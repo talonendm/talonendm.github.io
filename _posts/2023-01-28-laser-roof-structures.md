@@ -17,9 +17,11 @@ A miniature model of the house roof using plywood. Size 12.5:1 or 10:1. Earlier 
 - email/drive (incognito)
 - save
 - Corel Draw 2017
-  [ ] check if scale is correct (width and height mm)
+  - check if scale is correct (width and height mm)
 - Drag the model to top left corner
 - File 	&#129030; Print &#129026; Preferences
+
+<!-- https://www.htmlsymbols.xyz/arrow-symbols -->
 
 ![i.01.laser](/assets/pics/page/laser/epilog-engraver-color-coding.jpg){: .mx-auto.d-block :}
 Fig) Settings for 3mm plywood.
