@@ -44,8 +44,21 @@ Fig) Settings for 3mm plywood.
 
 ![i.03.roof](/assets/pics/page/roof/laser-roof-example-22.png){: .mx-auto.d-block :}
 
+
+The issue of compliance with (law) regulations takes on new aspects when the drawings provided by the client do not meet the requirements of the authorities. Despite the fact that the drawings may not comply with public law regulations, the contractor is obligated to carry out the construction work in accordance with official regulations.
+
 ![i.04.roof](/assets/pics/page/roof/horizontal21rod.jpg){: .mx-auto.d-block :}
 
+
+## Construction
+
+The contractor must perform their contractual duties with professional competence and in compliance with applicable construction regulations and industry standards.
+
+It is generally not possible to list all the obligations of the contractor in the contract. Therefore, it is the responsibility of the contractor to produce and deliver the agreed work (e.g. water roofing) result to the client.
+
+The contractor responsible for overseeing the construction site must have a responsible construction manager in charge of leading the construction work and ensuring compliance with construction laws and regulations, as well as building codes. According to the Land Use and Building Act (132/1999), the responsible construction manager is responsible for leading the construction work and ensuring its proper execution and quality.
+
+[RAKENNUSSOPIMUKSET, Liuksiala Aaro, Stoor Pia]
 
 # Laser
 

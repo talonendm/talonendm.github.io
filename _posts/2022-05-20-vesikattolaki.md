@@ -120,6 +120,10 @@ not working anymore
 
 ![\Large 1000€=\frac{30000€+2000€-27000€}{5}](https://latex.codecogs.com/svg.latex?\Large&space;1000€=\frac{30000€+2000€-27000€}{5}) 
 
+
+cdot vs. times
+see: https://tex.stackexchange.com/questions/40794/when-should-cdot-be-used-to-indicate-multiplication
+
 -->
 
 
@@ -127,7 +131,7 @@ $$W=\frac{V+K-H}{T_1}$$
 
 &#129030;
 
-$$H = V + K - W \times T_1 = 30000 + 2000 - 1000 \times 5 = 27000 $$ 
+$$H = V + K - W \cdot T_1 = 30000 + 2000 - 1000 \cdot 5 = 27000 $$ 
 
 &#129030;
 
