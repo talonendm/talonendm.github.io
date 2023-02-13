@@ -17,6 +17,8 @@ tags:
 - [2021-12-05-contract-trust](https://talonendm.github.io/2021-12-05-contract-trust/)
 - [2022-05-15-aluskate](https://talonendm.github.io/2022-05-15-aluskate/)
 - [2022-05-20-vesikattolaki](https://talonendm.github.io/2022-05-20-vesikattolaki/)
+- [DOCS - Rakennussopimukset - Aaro Liuksiala, Pia Stoor](https://docs.google.com/document/d/1MJ7HExHeWMKrVM1FMO78PO_U8gHkS9Z9QmXtHRgw5rg/edit?usp=sharing)
+- [DOCS - Sopimusten ja häiriötilanteiden hallinta rakennusprojekteissa](https://docs.google.com/document/d/1oIuHnj8p59LSQn52hpR89CjKX3etU7eKp4ZR8ssd1VQ/edit?usp=sharing)
 
 # NEWS
 
