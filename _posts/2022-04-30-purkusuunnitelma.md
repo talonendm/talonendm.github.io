@@ -126,13 +126,23 @@ Lisäksi puutteellinen purkutyö: Vanha aluskate on jätetty edellisen kattorake
 - Rannilan vesikattojärjestelmät – käsikirja. 2001b. Tanhuanpää, J., Kivinen, T., Hautala, M., Sipilä, R., Ahola, J., Matilainen, J. & Haapasaari, A. Vimpeli: Rannila Steel Oy.
 - "Korjaus- ja muutostyössä tulee ottaa huomioon rakennuksen ominaisuudet ja erityispiirteet sekä rakennuksen soveltuvuus aiottuun käyttöön." [117 § Rakentamiselle asetettavat vaatimukset](https://www.finlex.fi/fi/laki/ajantasa/1999/19990132#a132-1999)
 - "Aluskatteen tulee olla vedenpitävä ja kosteutta kestävä, eikä se saa repeytyä tai vaurioitua rakenteiden muodonmuutosten seurauksena." [[pdf - kosteudenhallinta]](http://www.kosteudenhallinta.fi/attachments/article/204/Kosteudenhallinta_RAKENTEET_30092015.pdf)
+- Aluskatteen virheitä (s.80): "Aluskate tutkitaan valokuvaamalla" [Hometalkoot](https://www.hometalkoot.fi/file/15814.pdf)
+- Puuttuvat tuuletusrimat on identifioitu jo 1990-luvulla virheelliseksi rakenteeksi: "Aluskatteen virheellinen asennus (limityspuutteet, aluskate päätetty seinälinjalle, korotusrimat puuttuvat, piippujen ja tuuletusputkien läpivientien puutteet)" [hometalo.fi](https://www.hometalo.fi/hometalon-tunnistaminen/riskirakenteet/)
 
 
 <!-- 
 Aluskatteen kondenssi ruodelautojen kohdalla
 https://www.rakentaja.fi/vastauspalvelu/yla_ala_ja_valipohjat/aluskatteen_kondenssi_ruodelautojen_kohdalla_58227.htm -->
 
-## Videot - Aluskate
+# Videot
+
+## Korotusrimat
+
+Vaskisepät: "Nyt on menossa kakkoskakkoset korotusrimoiksi tuuletuksen varmistamiseksi":
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s02zbDxAWjY?start=366" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Aluskate
 
 - Kondenssivesi - jätä aluskate hieman löysälle. Pitää muistaa: aluskatetta [ei ikinä](https://youtu.be/iHvn9iiuMO8?t=81) saa asentaa pingotuskireälle.
 

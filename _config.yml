@@ -142,7 +142,7 @@ footer-img: "/assets/img/bgimage.png"
 # gtag: ""
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
-google_analytics: UA-47136284-1
+# google_analytics: UA-47136284-1
 
 # Google Tag Manager ID
 #gtm: ""
