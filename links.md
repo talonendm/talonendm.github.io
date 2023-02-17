@@ -10,6 +10,21 @@ tags:
 - [2020-12-16-books](https://talonendm.github.io/2020-12-16-books/)
 - [2020-12-17-wines](https://talonendm.github.io/2020-12-17-wines/)
 
+# Studies
+
+## 2023
+
+- [MyDigicampus](https://digicampus.fi/my/)
+- [UEF/MOOC:Johdanto metsätieteisiin ja metsätalouteen 1, 2022-2023](https://digicampus.fi/mod/page/view.php?id=184265)
+  - Kurssin suoritettuaan opiskelija: "ymmärtää metsien ominaispiirteet monipuolisena uusiutuvana luonnonvarana sekä hallitsee perustiedot Suomen metsätaloudesta ja metsätieteistä."
+  - sulkeutuu **28.2.2023**. Varaa noin 20h aikaa. [Kurssiohjeet](https://digicampus.fi/mod/page/view.php?id=184265)
+- [HY/MOOC: Johdatus oikeustieteeseen ja oikeudelliseen ajatteluun 1, 2 op, kevät 2023](https://digicampus.fi/course/view.php?id=3904): Kurssin suoritusaika päättyy **5.3.2023**. 
+  - [Kurssisivu](https://studies.helsinki.fi/opintotarjonta/cur/otm-994417b6-88a5-4b57-910b-cc774d72461e): "Kaikille avoin ja maksuton MOOC-verkkokurssi Johdatus oikeustieteeseen ja oikeudelliseen ajatteluun alkaa taas! Voit opiskella ja suorittaa kurssin omassa aikataulussasi 6.1.-5.3.2023 välisenä aikana.". [Kurssin sisältö ja tavoitteet](https://digicampus.fi/mod/page/view.php?id=204308)  
+- [HY/MOOC Rikosoikeus 2 op, kevät 2023](https://digicampus.fi/course/view.php?id=3900#section-0): Tämä kurssi sulkeutuu  **31.7.2023**. 
+- [Sustainability and the Arts, MOOC 1 op](https://studies.helsinki.fi/opintotarjonta/cur/otm-8a5b6af3-bba6-4eed-bb81-07d460a9b346/ATM388/Sustainability_and_the_Arts): ilmo ok.
+- [UEF/Mooc: Oikeustieteen perusteet (1 op) 2022-2023](https://digicampus.fi/course/view.php?id=3618)
+- [HY/MOOC: Eriarvoisuuden monet muodot 1 op, 2022-2023](https://digicampus.fi/course/view.php?id=3756)
+
 
 # Roof
 

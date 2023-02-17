@@ -195,6 +195,11 @@ to
 #gtm: ""
 ```
 
+## GA4
+
+- New Google Analytics 1.3.2023: "Ilmoitus käyttäjädatan keräämisestä: Vahvistan, että olen toimittanut loppukäyttäjille tarvittavat tietosuojailmoitukset ja saanut loppukäyttäjiltä luvan datan keräämiseen ja käsittelemiseen sekä kyseisen datan liittämiseen Google Analyticsin sivusto- tai sovellusomaisuudestani keräämiin käyntitietoihin." 
+
+
 
 ### Tietosuojaseloste
 
