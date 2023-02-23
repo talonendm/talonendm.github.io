@@ -221,6 +221,7 @@ Instructions to create interactive maps using [leaflet](https://leafletjs.com/Sl
   - [Cosenza](https://en.wikipedia.org/wiki/Cosenza): The River Crati in Cosenza
   - [Paola](https://en.wikipedia.org/wiki/Paola,_Calabria)
   - [Lamezia](https://www.sacal.it/lamezia/) arrival and departure
+  - [Bergamo](https://talonendm.github.io/2023-02-18-bergamo/) 2/2023
 
 ### Romania
 
