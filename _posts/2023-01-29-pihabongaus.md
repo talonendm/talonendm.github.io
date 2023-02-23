@@ -7,7 +7,7 @@ tags:
   - Pihabongaus
 comments: false
 cover-img: /assets/pics/cover/photo/silkkiuikku.jpg
-thumbnail-img: /assets/pics/thumbnail/photo/yellowbird.JPG
+thumbnail-img: /assets/pics/thumbnail/photo/talitiainen.jpg
 published: true
 ---
 
