@@ -73,6 +73,9 @@ tags:
 
 # APPS
 
+- [RunwayML](https://app.runwayml.com/login)
+  - Generate Transcirpt
+
 ## TiTo AI
 
 - [Pictory - Video Marketing Made EASY](https://pictory.ai/)
