@@ -22,6 +22,7 @@ Omakotitalon ikkunasta itään n. klo 12-13.
 - talitiainen - Parus major: Talitiainen on 13,5–16 cm pitkä. [wikipedia](https://fi.wikipedia.org/wiki/Talitiainen)
 - sinitiainen - Parus caeruleus: "Linnun pituus nokan kärjestä pyrstön kärkeen on 10,5–12,5 cm, ja lintu painaa suurin piirtein 10–11 g. Sen päälaki ja siivet ovat siniset, selkä vihertävä ja alapuoli keltainen." [wikipedia](https://fi.wikipedia.org/wiki/Sinitiainen)
 - kuusitiainen - Parus ater: "Kuusitiaisella on musta pää, ruskehtava vatsa ja harmaat siivet. Vaalea niskalaikku ja pieni koko auttavat erottamaan kuusitiaisen hömötiaisesta" [wikipedia](https://fi.wikipedia.org/wiki/Kuusitiainen)
-- töyhtötiainen - Lophophanes cristatus: "Töyhtötiainen on 11–13 cm pitkä ja noin 11 g painava lintu, jonka tärkein tuntomerkki on päässä oleva raidallinen töyhtö." [wikipedia](https://fi.wikipedia.org/wiki/T%C3%B6yht%C3%B6tiainen)
+- töyhtötiainen - Lophophanes cristatus: "Töyhtötiainen on 11–13 cm pitkä ja noin 11 g painava lintu, jonka tärkein tuntomerkki on päässä oleva raidallinen töyhtö." [wikipedia](https://fi.wikipedia.org/wiki/T%C3%B6yht%C3%B6tiainen). Alla olevassa kuvassa Lophophanes cristatus.
 - korppi - Corvus corax: "Pituus 54–67 cm, siipien kärkiväli 115–130 cm, paino 0,95–1,4 kg.": [Luontoportti](https://luontoportti.com/t/638/korppi)
 
+![i.01](/assets/pics/page/animal/lophophanes-cristatus.jpg){: .mx-auto.d-block :}
