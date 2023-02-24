@@ -14,30 +14,8 @@ tags:
 
 ## 2023
 
+- [UEF/MOOC:Johdanto metsätieteisiin ja metsätalouteen 1, 2022-2023](https://digicampus.fi/mod/page/view.php?id=184265): Kurssin suoritettuaan opiskelija: "ymmärtää metsien ominaispiirteet monipuolisena uusiutuvana luonnonvarana sekä hallitsee perustiedot Suomen metsätaloudesta ja metsätieteistä." sulkeutuu **28.2.2023**. Varaa noin 20h aikaa. [Kurssiohjeet](https://digicampus.fi/mod/page/view.php?id=184265. muistiinpanot (private: [dm](https://docs.google.com/document/d/1No6AWDlN5uoum1pmIl1oI9zzrfAP6awN92qVoK5-scc/edit?usp=sharing))
 - [MyDigicampus](https://digicampus.fi/my/)
-- [UEF/MOOC:Johdanto metsätieteisiin ja metsätalouteen 1, 2022-2023](https://digicampus.fi/mod/page/view.php?id=184265)
-  - Kurssin suoritettuaan opiskelija: "ymmärtää metsien ominaispiirteet monipuolisena uusiutuvana luonnonvarana sekä hallitsee perustiedot Suomen metsätaloudesta ja metsätieteistä."
-  - sulkeutuu **28.2.2023**. Varaa noin 20h aikaa. [Kurssiohjeet](https://digicampus.fi/mod/page/view.php?id=184265)
-  - muistiinpanot (private: [dm](https://docs.google.com/document/d/1No6AWDlN5uoum1pmIl1oI9zzrfAP6awN92qVoK5-scc/edit?usp=sharing))
-  - [Metsälaki 12.12.1996/1093](https://www.finlex.fi/fi/laki/ajantasa/1996/19961093#L1)
-  - [metsätieteet opetus - videot](https://www.youtube.com/@metsatieteetopetus3858/channels):
-    - Metsäbiotalous
-      - 1.1 [1 Metsien käytön historia](https://www.youtube.com/watch?v=Klg9afXNNPY)
-      - 1.2 [2 Metsien nykykäyttö](https://www.youtube.com/watch?v=_GtI_3B27Ys)
-      - 1.3 [3 Metsäbiotalous](https://youtu.be/Dt_KSf2sdAw)
-    - Metsävarat ja niiden hoito
-      - 2.1 [4 Suomen ja maailman metsävarat, Matti Maltamo](https://www.youtube.com/watch?v=vgoM4Z2-law&t=84s)
-      - 2.2 [5 Metsänhoito](https://www.youtube.com/watch?v=w7WJYbuS4Vg)
-        - [Metsien ekosysteemipalvelut](https://tapio.fi/projektit/ekosysteemipalvelujen-tuotteistaminen/metsien-ekosysteemipalvelut-opas-metsanomistajille-ja-yrityksille/)
-        - [Suomen metsävarat kasvavat jatkuvasti](https://www.metsateollisuus.fi/uutishuone/suomen-metsavarat-kasvavat-jatkuvasti)
-        - [Metsien rooli ilmastonmuutokseen](https://mmm.fi/metsat/metsatalous/metsat-ja-ilmastonmuutos/metsien-hiilinielut)
-        - Hakkuumäärät voivat nousta jopa 80 miljoonaan kuutioon. [Hakkuut vähenivät 75 miljoonaan kuutiometriin vuonna 2022](https://www.luke.fi/fi/uutiset/hakkuut-vahenivat-75-miljoonaan-kuutiometriin-vuonna-2022)
-        - [Metsälaki](https://www.finlex.fi/fi/laki/ajantasa/1996/19961093#L1) määrittelee "minimin" metsänhoidolle.
-        - [Talousmetsien luonnonhoito](https://metsanhoidonsuositukset.fi/fi/toimenpiteet/talousmetsien-luonnonhoito)
-        - [Eri-ikäisrakenteinen metsänkasvatus](https://www.metsaan-lehti.fi/uutiset/metsanhoito/sopiiko-jatkuva-kasvatus-sinun-metsaasi.html)
-      - 2.3 [6 Metsäekologia, Jari Kouki](https://www.youtube.com/watch?v=WoUmOiKM0T0)
-
-
 - [HY/MOOC: Johdatus oikeustieteeseen ja oikeudelliseen ajatteluun 1, 2 op, kevät 2023](https://digicampus.fi/course/view.php?id=3904): Kurssin suoritusaika päättyy **5.3.2023**. 
   - [Kurssisivu](https://studies.helsinki.fi/opintotarjonta/cur/otm-994417b6-88a5-4b57-910b-cc774d72461e): "Kaikille avoin ja maksuton MOOC-verkkokurssi Johdatus oikeustieteeseen ja oikeudelliseen ajatteluun alkaa taas! Voit opiskella ja suorittaa kurssin omassa aikataulussasi 6.1.-5.3.2023 välisenä aikana.". [Kurssin sisältö ja tavoitteet](https://digicampus.fi/mod/page/view.php?id=204308)  
 - [HY/MOOC Rikosoikeus 2 op, kevät 2023](https://digicampus.fi/course/view.php?id=3900#section-0): Tämä kurssi sulkeutuu  **31.7.2023**. 
