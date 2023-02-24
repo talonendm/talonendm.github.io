@@ -10,6 +10,7 @@ Seven dudes are members of the culinary clunb called Re:teatteri. In this page s
 - [Nabi](https://www.nabikoreanbbq.fi/) 12/2022: total 6, out GR, KA
 - [Bistro Omat - take away](https://bistromat.fi/kirkkonummi/menu/#TAKE%20AWAY)
 - [Rioni - Espoo](https://www.rioni.fi/) - Georgialainen ravintola
+- [Murasaki](https://www.facebook.com/murasaki.fi): [HS](https://www.hs.fi/ruoka/art-2000009373944.html)
 
 
 # Stories
