@@ -89,8 +89,47 @@ Kohti parempaa oloa, nyt ollaan oikealla polulla
   - sertifiointi
   - kompensaatio ja maksumekanismit (PES)
   - Boikotit
-  
+- Metsälaki lähes 100 vuotta
+  - luonnon monimuotoisuus 20 vuotta
+  - uudistus 2014. Tarkoitus lisätä metsänomisajan valinnan vapautta
+  - Maankäyttömuodon muuttaminen
+    - tasaikäisrakenteinen kasvatus
+    - eri-ikäisrakenteinen kasvatus
+    - puusto- ja maastovauriot
+  - uudistushakkuut: uudistamisvelvoite on tarkkaan ohjeistettu
+  - suojametsäalueet
+  - metsänkäyttöilmoitus ennen toimenpiteitä
 
+#### Metsäpolitiikan rakenne
+
+- Julkiset
+  - maa- ja metsätalousministeriö
+  - metsäkeskus
+  - metsähallitus
+  - luonnovarakeskus LUKE
+- Metsäteollisuus
+  - sahat
+  - puunjalostus
+- Etujärjestöt
+  - MTK ja metsänhoitoyhdistykset
+  - Luontojärjestöt, 4H-yhdistykset, suomen latu
+- Kansainvälinen metsäpolitiikka
+  - metsäfoorumit
+  - EU
+
+#### Metsäpolitiikan tavoitteet
+
+- Kestävä metsätalous
+- taloudellinen, ekologinen, sosiaalinen
+- Kriteerit ja indikaattorit
+  - 2016 agenda 2030
+
+Politiikan tutkimus kiinnostunut "näkynättömistä" asioista. Mikä on Suomen metsien sopiva hakkuutaso? Mihin julkista rahaa tulisi käyttää?
+
+
+# Metsäekonomia
+
+[11 Metsäekonomia](https://www.youtube.com/watch?v=vR4OzusTXc0)
 
 
 
