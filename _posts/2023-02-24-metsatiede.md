@@ -48,14 +48,18 @@ published: true
        - [Metsäkeskus: Kemera-tuet](https://www.metsakeskus.fi/fi/metsatalouden-tuet/kemera-tuet): "Metsäkeskuksen myöntämä kemera-tuki on tarkoitettu yksityisten maanomistajien metsänhoidon tukemiseen. Tukea on haettava ennen töiden aloittamista. Tehdyistä töistä ilmoitetaan Metsäkeskukselle toteutusilmoituksilla."
        - Metsämaa (väh. 1m3/ha kasvua), kitumaa (Puuston vuotuinen kasvu 0,1-1 kuutiometriä/ hehtaari, kivisiä tai suoperäisiä maita), joutomaa.
        - Kemera (Kestävän metsätalouden rahoitusohjelma) on metsätalouden tukimuoto, joka tukee muun muassa metsien hoitoa ja kehittämistä, metsänkäyttöä, luonnon monimuotoisuutta, metsätalouden investointeja. Taimikonhoito, neuron metsän hoito, pienpuun kerääminen, [metsätiet](https://www.tienhoito.fi/palvelut/eura/), suometsien hoito, terveyslannoitukset, ympäristön hoito, [luonnonhoito](https://www.metsakeskus.fi/fi/metsatalouden-tuet/kemera-tuet/luonnonhoitohankkeet).
-  3. Metsäpolitiikka ja -ennakointi
-    - [8 Metsäsuhde](https://www.youtube.com/watch?v=a_Q12uNDFbA)
-        - Metsäsuhde tarkoittaa henkilön suhdetta metsään ja metsäluontoon yleisesti. Se voi olla emotionaalinen, henkinen, kulttuurinen tai taloudellinen suhde, joka voi muodostua esimerkiksi henkilön elinympäristön, harrastusten, perinteiden, ammatin tai muiden tekijöiden kautta.
-        - GPT: "Eksistentiaalisesti ajatellen metsä on olemassaolon ja merkityksen kokemus. Se voi olla paikka, joka antaa ihmiselle voimaa, rauhaa ja yhteyden luontoon ja omaan sisimpäänsä. Metsä voi tarjota mahdollisuuden henkiseen kasvuun, meditaatioon tai rentoutumiseen. Samalla metsä on myös elinympäristö ja koti monille eläin- ja kasvilajeille, jotka muodostavat monimuotoisia ekosysteemejä." (forest = land produce a mean annual increment of at least 1m3/ha stemwood)
-        - "Elä itke mehtä tulloo!" Metsä tekee onnelliseksi. Metsä on läsnä suomalaisten elämässä.
-        - Useissa kielissä metsä liitetään usein luonnonläheisyyteen, rauhaan ja henkiseen hyvinvointiin. Esimerkiksi suomen kielessä metsä on vahvasti sidoksissa kansalliseen identiteettiin ja suomalaisen kulttuurin ytimeen. Suomalaiset ovat pitkään asuneet ja eläneet metsien keskellä, ja metsät ovat olleet tärkeitä niin ruoan, rakennusmateriaalien kuin energiankin lähteinä.
-        - Myös esimerkiksi japanin kielessä metsä liitetään henkiseen hyvinvointiin. Japanilaisessa kulttuurissa metsiä pidetään pyhinä paikkoina, joissa voi löytää rauhaa ja tasapainoa. Japanilaiset ovat kehittäneet jopa oman terminsä metsäterapialle, shinrin-yoku, joka tarkoittaa "metsäkylvyn ottamista" ja joka viittaa metsässä kävelyyn ja sen terapeuttisiin vaikutuksiin.
-        - [metsasuhdeklubi](https://metsatiede.org/klubit/metsasuhdeklubi/)
+  
+## Metsäpolitiikka ja -ennakointi
+
+### Metsäsuhde
+
+[8 Metsäsuhde](https://www.youtube.com/watch?v=a_Q12uNDFbA)
+  - Metsäsuhde tarkoittaa henkilön suhdetta metsään ja metsäluontoon yleisesti. Se voi olla emotionaalinen, henkinen, kulttuurinen tai taloudellinen suhde, joka voi muodostua esimerkiksi henkilön elinympäristön, harrastusten, perinteiden, ammatin tai muiden tekijöiden kautta.
+  - GPT: "Eksistentiaalisesti ajatellen metsä on olemassaolon ja merkityksen kokemus. Se voi olla paikka, joka antaa ihmiselle voimaa, rauhaa ja yhteyden luontoon ja omaan sisimpäänsä. Metsä voi tarjota mahdollisuuden henkiseen kasvuun, meditaatioon tai rentoutumiseen. Samalla metsä on myös elinympäristö ja koti monille eläin- ja kasvilajeille, jotka muodostavat monimuotoisia ekosysteemejä." (forest = land produce a mean annual increment of at least 1m3/ha stemwood)
+  - "Elä itke mehtä tulloo!" Metsä tekee onnelliseksi. Metsä on läsnä suomalaisten elämässä.
+  - Useissa kielissä metsä liitetään usein luonnonläheisyyteen, rauhaan ja henkiseen hyvinvointiin. Esimerkiksi suomen kielessä metsä on vahvasti sidoksissa kansalliseen identiteettiin ja suomalaisen kulttuurin ytimeen. Suomalaiset ovat pitkään asuneet ja eläneet metsien keskellä, ja metsät ovat olleet tärkeitä niin ruoan, rakennusmateriaalien kuin energiankin lähteinä.
+  - Myös esimerkiksi japanin kielessä metsä liitetään henkiseen hyvinvointiin. Japanilaisessa kulttuurissa metsiä pidetään pyhinä paikkoina, joissa voi löytää rauhaa ja tasapainoa. Japanilaiset ovat kehittäneet jopa oman terminsä metsäterapialle, shinrin-yoku, joka tarkoittaa "metsäkylvyn ottamista" ja joka viittaa metsässä kävelyyn ja sen terapeuttisiin vaikutuksiin.
+  - [metsasuhdeklubi](https://metsatiede.org/klubit/metsasuhdeklubi/)
 
 > Lähdetään yhdessä metsään, shinrin-yoku on meidän tänään homma 
 Kaivataan henkistä rauhaa, elämän stressi painaa kuin tonni  Takana kiireiset päivät, sydämessä vain ahdistus ja murhe
@@ -67,6 +71,26 @@ Shinrin-yoku, anna sen hoitaa
 Kohti parempaa oloa, nyt ollaan oikealla polulla
 
 > Keskellä metsän siimeksessä, sydäntä hellivä rauha meitä ympäröi Korkeiden puiden katveessa, kuinka kaunis luonto voi olla näin Mielikin kevenee, kun luonnon kauneus sydäntä lämmittää Shinrin-yoku on kuin henkistä puhdistusta, olo vapaa kuin taivaan lintu
+
+### Metsäpolitiikka
+
+[9. Metsäpolitiikka, Jukka Tikkanen](https://www.youtube.com/watch?v=EY6ZgmSRWDM):
+  1. Yhteisten asioiden hoitoa
+  2. Erilaisten etujen ajamista, konfliktien ehkäisyä
+  3. Valta on politiikan ytimessä
+
+#### Metsäpolitiikan keinot
+
+- Normit: maankäyttö- ja rakennuslaki, metsälaki ja Soft-law: Metsänhoitosuositukset
+- taloudelliset kannusteet
+- informaatio-ohjaus
+  - esim. [metsävaratieto](https://www.metsakeskus.fi/fi/avoin-metsa-ja-luontotieto/metsatietoaineistot/metsavaratiedot)
+- markkinaperustaiset ohjauskeinot
+  - sertifiointi
+  - kompensaatio ja maksumekanismit (PES)
+  - Boikotit
+  
+
 
 
 
