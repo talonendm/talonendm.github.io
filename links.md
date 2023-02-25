@@ -9,6 +9,7 @@ tags:
 
 - [2020-12-16-books](https://talonendm.github.io/2020-12-16-books/)
 - [2020-12-17-wines](https://talonendm.github.io/2020-12-17-wines/)
+- [2022-10-30-aiart](https://talonendm.github.io/2022-10-30-aiart/): wombo, teachable machine, p5 etc.
 
 # Studies
 
@@ -69,17 +70,6 @@ tags:
 - Talviurheilu - kamat ja koot [(private)](https://docs.google.com/spreadsheets/d/1wVZ0nORN11OwwguXcEv6zwl4aHwJYxDbeVlo4DfMErY/edit?usp=sharing)
 - [kartta.museoverkko.fi](https://kartta.museoverkko.fi/)
 
-# APPS
-
-- [RunwayML](https://app.runwayml.com/login)
-  - Generate Transcirpt
-
-## TiTo AI
-
-- [Pictory - Video Marketing Made EASY](https://pictory.ai/)
-- There's a new way to make video. A good way. [Descript](https://www.descript.com/)
-- 2,678,032 low-res generated photos for free [generated.photos](https://generated.photos/)
-- [Title Generator: create 700 headlines](https://www.title-generator.com/)
 
 ## dm
 
