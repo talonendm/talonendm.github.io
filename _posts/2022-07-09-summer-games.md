@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Random Sport Stuff
-subtitle: outdoor activity
+subtitle: indoor and outdoor activity
 tags:
   - games
-  - garden stuff 
+  - garden stuff
+  - board games
 comments: false
 cover-img: /assets/pics/cover/ai/tractor.jpg
 thumbnail-img: /assets/pics/thumbnail/ai/summerfest.jpg
@@ -155,4 +156,25 @@ Later:
 - 6 pallon tiimikoris kottikärryyn
 - katapultti, ammunta ämpäriin 1 / tyyppi tiimit 3hlö
 
+# Lautapelit
 
+## Articles
+
+- [Generating Interesting Monopoly Boards from Open Data](http://julian.togelius.com/Friberger2012GeneratingInteresting.pdf). Some ideas to generate board games.
+
+
+## Strategy games
+  - Diplomacy: "Diplomacy is a strategic board game created by Allan B. Calhamer in 1954 and released commercially in the United States in 1959." [wikipedia](https://en.wikipedia.org/wiki/Diplomacy_(game)). [Blog](https://www.dicebreaker.com/games/diplomacy/opinion/diplomacy-online-backstabbr)
+    - Rules in [YouTube - many pixels](https://www.youtube.com/playlist?list=PLD7D13068E0AB92A7)
+    - Rules [PDF](https://media.wizards.com/2015/downloads/ah/diplomacy_rules.pdf)
+    - How to play in backstabbr: [Diplomacy Academy 8](https://www.youtube.com/watch?v=XVrSKXN6r40&t=751s)
+    - [https://www.backstabbr.com/](https://www.backstabbr.com/)
+      - ta.dm talonen account
+  - Civilization
+  - Risk
+
+## Kiertoon
+
+- Brio Ludo, [Cirkel - Fia](https://jlm.kulturhotell.se/objects/c60-66262/). Round About Ludo. Peli 1970-luvulta
+- [Safari](https://www.huuto.net/kohteet/safari---vuoden-lastenpeli-v-2002/575736537): Yli 4 vuotiaille, 2-4 pelaajaa. Vuoden 2000 Tactic lautapeli.
+- [Fortnite Monopoly](https://www.puolenkuunpelit.com/kauppa/product_info.php?products_id=118337&gclid=Cj0KCQiAgOefBhDgARIsAMhqXA7VSnbvEuoZJE0vYEjOZOr2g-bAWk-0VTBjeTi9OUHAgTsK7Vz-eXoaAsEnEALw_wcB): Monopoly rahojen sijaan pelaajat ansaitsevat Health Points- pisteitä. [Hasbro, vuosi 2019](https://www.puolenkuunpelit.com/kauppa/product_info.php?products_id=132454&gclid=Cj0KCQiAgOefBhDgARIsAMhqXA6WK6jz6v5qWS_CL64wROueQ9irjVqdiFFpkvxf4xVuxjb-wB3LwhkaAsXdEALw_wcB).
