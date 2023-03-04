@@ -35,6 +35,7 @@ Puhe katsottavissa kokonaisuudessaan [Areenassa](https://areena.yle.fi/1-6422813
 ## Energia
 
 - LNG terminaali: [16.1.2023 Länsiväylä](https://www.lansi-uusimaa.fi/uutissuomalainen/5658141): 68000 tonnia nesteytettyä maakaasua (LNG) vastaa noin 1 TWh energiaa. Kaasu höyrystetään laivassa. Laiva kykenisi höyrystämään jopa 40 TWh vuodessa! Jatkossa kaasu toimitetaan kansainvälisiltä markkinoilta, aiemmissa uutisissa on mainittu muun muassa Qatar. 
+- Suomeen suunnitellaan kuuden ison ydinvoimalan edestä merituulipuistoja – tänne voimaloita kaavaillaan [HS 1.3.2023](https://www.hs.fi/talous/art-2000009422158.html): "MERITUULIPUISTOILLE ei ole luvassa julkista tukea. Puiston rakentaja vastaa myös esimerkiksi liityntäkaapelin vetämisestä Suomen kantaverkkoon."
 
 ## Ilmasto
 
