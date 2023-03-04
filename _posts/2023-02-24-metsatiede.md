@@ -132,12 +132,15 @@ Politiikan tutkimus kiinnostunut "näkynättömistä" asioista. Mikä on Suomen 
 [11 Metsäekonomia](https://www.youtube.com/watch?v=vR4OzusTXc0)
 
 
-
-
 ### Lähde
 
 - Pääasiallinen lähde: UEF/MOOC:Johdanto metsätieteisiin ja metsätalouteen 1, 2022-2023 ([CC 4.0](https://creativecommons.org/licenses/by/4.0/deed.fi))
 - Muihin lähteisiin blogitekstissä linkit.
+
+
+## Metsään meneviä linkkejä
+
+- [Enemmän rahaa vähemmästä puusta - Piia Elonen 26.2.2023 HS](https://www.hs.fi/mielipide/art-2000009394596.html): "Metsäala voidaan jakaa kolmeen haaraan: metsätalouteen (puuston kasvatus ja puunkorjuu), puutuoteteollisuuteen (sahatavara ja puulevyt) ja kuituteollisuuteen (sellu, paperi ja kartonki).", "Luken laskelman mukaan puolet kuusi- ja mäntysahatavarasta pitäisi käyttää [clt](https://fi.wikipedia.org/wiki/CLT)-tuotantoon Suomessa.", "Luken arvion mukaan kyse on noin 20 miljardin euron investointitarpeesta."
 
 ### Vastuuvapauslauseke
 
