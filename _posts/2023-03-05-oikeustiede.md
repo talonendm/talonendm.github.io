@@ -7,7 +7,7 @@ tags:
   - oikeustiede
 comments: false
 cover-img: /assets/pics/cover/photo/lippu.jpg
-thumbnail-img: /assets/pics/thumbnail/phototext-to-3d-texture-italy-runway-ml.jpg
+thumbnail-img: /assets/pics/thumbnail/photo/text-to-3d-texture-italy-runway-ml.jpg
 published: true
 ---
 
@@ -27,6 +27,8 @@ Helsingin yliopiston oikeustieteellisen tiedekunnan koulutusohjelman tutkintorak
 
 - JOOA2023: [HY/MOOC: Johdatus oikeustieteeseen ja oikeudelliseen ajatteluun 1, 2 op, kevät 2023](https://digicampus.fi/course/view.php?id=3904): Kurssin suoritusaika päättyy **5.3.2023**. 
   - [Kurssisivu](https://studies.helsinki.fi/opintotarjonta/cur/otm-994417b6-88a5-4b57-910b-cc774d72461e): "Kaikille avoin ja maksuton MOOC-verkkokurssi Johdatus oikeustieteeseen ja oikeudelliseen ajatteluun alkaa taas! Voit opiskella ja suorittaa kurssin omassa aikataulussasi 6.1.-5.3.2023 välisenä aikana.". [Kurssin sisältö ja tavoitteet](https://digicampus.fi/mod/page/view.php?id=204308)  
+  - Raimo Siltala, Oikeuden aatehistoria. [Artikkeli Tieteen termipankissa](https://tieteentermipankki.fi/wiki/Oikeustiede:oikeuden_aatehistoria/laajempi_kuvaus): Antiikin oikeustieteessä keskeistä oli oikeudenmukaisuuden ja tasavertaisuuden periaatteiden korostaminen. Rooman oikeusjärjestelmä oli yksi maailman vanhimmista ja se vaikutti voimakkaasti Euroopan oikeusjärjestelmien kehittymiseen. Keskiajan oikeusjärjestelmät olivat uskonnollisesti perusteltuja, ja kirkon vaikutus oikeuteen oli merkittävä. Lisäksi keskiajan oikeustieteessä korostettiin aristokraattisten luokkien etuoikeuksia. Jne...
+  - Mitkä metodit? Opas oikeustieteen metodologiaan, Ari Hirvonen ([PDF](https://helda.helsinki.fi/bitstream/handle/10138/225264/hirvonen_mitka_metodit.pdf?sequence=1&isAllowed=y))
 - OIKIS2022: "Kaiken kaikkiaan opiskelupaikkoja oikeustieteelliseen on jaossa vuonna 2023 yhteensä 622. Paikkoja on jaossa 16 vähemmän kuin vuonna 2022, jolloin paikkoja oli 638." ja "Oikeustieteellisten tiedekuntien suomenkielisiin oikeusnotaarin koulutusohjelmiin haki vuonna 2022 päähaun kautta yhteensä 4 098 ensisijaista hakijaa, ja kaikkia hakijoita oli 5277." [oikeustiede.com](https://www.oikeustiede.com/aiheet/oikeustieteellinen-aloituspaikat-ja-hakijamaara/)
 
 ### Vastuuvapauslauseke
