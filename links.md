@@ -43,6 +43,7 @@ tags:
 - openstreetmap compass - [re:teatteri experiments](https://talonendm.github.io/compass/openstreetmap/)
 - [Navionics - Kantvik](https://webapp.navionics.com/#boating@10&key=amrmJcdzsC)
 - [Navionics - Taivallahti](https://webapp.navionics.com/#boating@11&key=u%60hnJ_bcwC)
+- Jerikonmäki - [ladut](https://ladulle.fi/ladut/helsinki/jerikonmaenladutpvvalaistu_66102)
 
 # Library
 

@@ -152,6 +152,7 @@ Vaskisepät: "Nyt on menossa kakkoskakkoset korotusrimoiksi tuuletuksen varmista
 - Kattotuolin väliin jää notko ohjaamaan vettä. [Tectis](https://youtu.be/Xs_DIe2izuc?t=23)
 - Aluskatteen lopullinen kiinnitys tuuletusrimalla (22mm). [Tectis](https://youtu.be/Xs_DIe2izuc?t=44)
 - Lue lisää aluskatteista [uudemmasta blogipostauksestani](https://talonendm.github.io/2022-05-15-aluskate/) tai veden ohjaamisesta [täältä](https://talonendm.github.io/2021-12-05-contract-trust/).
+- "Veden poisjohtamisen katolta ([26 §](https://www.finlex.fi/fi/laki/alkup/2017/20170782#Pidm45053757712096)) on tapahduttava siten, ettei rakennus vahingoitu.", katso myös: "Aluskatteen käyttöiän pitää olla vähintään vesikatteen käyttöiän pituinen", "Varmistetaan, ettei katejärjestelmässä ole sellaisia ratkaisuja, jotka lyhentävät järjestelmän osien käyttöikiä." sekä "Aluskate on tehtävä niin vedenpitäväksi, että se toimisi myös ainoana katteena.", "Varmistetaan, että vesikaton katejärjestelmä on toimiva kokonaisuus." [Rakennusten kosteusteknisten vaatimusten hallinta - Juho-Pekka Jokitalo, HAMK, 2018](https://www.theseus.fi/bitstream/handle/10024/146693/Rakennusten%20kosteusteknisten%20vaatimusten%20hallinta.pdf)
 
 ### Vastuuvapauslauseke
 
