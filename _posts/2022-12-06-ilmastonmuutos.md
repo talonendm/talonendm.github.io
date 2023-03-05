@@ -93,6 +93,9 @@ LNG-laiva meren takaa.
 Se tuo energian kauas koteihin,
 Ja auttaa ihmisiä päivästä toiseen.
 
+- "Koko Euroopassa kaasunkulutus on laskenut 19 prosenttia, Suomessa yli 50 prosenttia." 3/2023, [Maakaasun hinta Alankomaiden TTF-kaasumarkkinalla](https://images.jifo.co/53503771_1677763812290.svg), "Kiireellä ja isolla rahalla Suomeen hankittua LNG-terminaalia ei ole tarvinnut vielä kukaan." [3.3.2023 YLE, KAISA UUSITALO](https://yle.fi/a/74-20020242).
+
+
 # Luontokato
 
 YK:n luontokokouksen toivotaan tekevän luonnolle sen mitä Pariisi teki ilmastolle. Tämä tarkoittaa sitä, että luontokokous pyrkii löytämään ratkaisuja moniin luonnon ja ympäristön suojeluun liittyviin haasteisiin, kuten ilmastonmuutokseen ja lajien häviämiseen - vain 4 prosenttia nisäkkäistä (elopaino) elää vapaasti. [HS - Luonnolta loppuu tila 11.10.2021](https://www.hs.fi/ulkomaat/art-2000008292625.html). 

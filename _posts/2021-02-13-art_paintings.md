@@ -54,6 +54,12 @@ published: true
 - Koivukehto - Heikki ?
 - Space Junk 1/1
 
+# More Artists 
+
+## Wassily Kandinsky
+
+- Wassily Kandinskyn teos [Murnau mit Kirche II](https://www.sothebys.com/en/buy/auction/2023/modern-contemporary-evening-auction/murnau-mit-kirche-ii-murnau-with-church-ii-2) myytiin Sothebyn huutokaupassa Lontoossa 1.3.2023 [HS](https://www.hs.fi/kulttuuri/art-2000009433268.html)
+
 ## Hugo Simberg
 Symbolismi, naivistinen tyyli taiteessa. Henkilökuvat hyvin realistisia, ks. [täti](https://www.finna.fi/Record/muusa.urn:uuid:332A4A79-2CED-4A9F-A87A-C505F219AFCF). [Hugo Simberg](https://fi.wikipedia.org/wiki/Hugo_Simberg) Viinaksien juominen purjeveneen shitloodassa mukava harrastus.
 - [Kevättä kohti](https://www.kansallisgalleria.fi/fi/object/559691): hiihto päättynyt sulalle maalle - kesä tulee.
