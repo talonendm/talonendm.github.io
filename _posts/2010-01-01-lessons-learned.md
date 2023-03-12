@@ -61,7 +61,8 @@ Original source: copies and notes (2003) and finally in garbage (2021).
 - Harjoitustyö: paperinvalmistusprosessi X dataa, Y paperin laatuparametreja. PLS malli. Y = (Rainautuminen eli formaatio, paperin vetolujuus, paperin opasiteetti)
 - painokertoimet: adaptiivisissa systeemeissä yleensä ekspotentiaalien unohduskerroin, $$\lambda \epsilon ]0, 1]$$.
 - Rekursiiviset estimointialgoritmit: 
-  - $$\Theta(N+1) = \Theta(N + g(N)(y(N+1) - y(N+1|N))$$. Mallia parannetaan uuden mittauksen avulla.
+  - $$\Theta(N+1) = \Theta(N + g(N)(y(N+1) - y(N+1 \mid N))$$ 
+  - Mallia parannetaan uuden mittauksen avulla.
 - Rekursiivinen pienimmän neliösumman menetetelmä unohdus kertoimella, ks. [Advances in Methods of Anomaly Detection and Visualization of Multivariate Data](https://aaltodoc.aalto.fi/handle/123456789/15255).
 - [Umetrics - SIMCA](https://www.youtube.com/watch?v=kCisOk8bC5E)
 
