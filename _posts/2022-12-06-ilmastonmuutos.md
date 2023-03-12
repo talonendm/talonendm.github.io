@@ -30,6 +30,9 @@ Suomen tavoitteena on olla hiilineutraali vuoteen 2035 mennessä ([ilmastoneutra
 
 Yhdeksi tärkeimmäksi energian lähteeksi on tulossa maatuulivoimalat (tyypillisesti n. 10 voimalaa) ja niitä rakennetaan Euroopaan verrattuna varsin paljon. [[Helen 2/2022]](https://www.helen.fi/asiakaspalvelu/ajankohtaista/helen-lehti) Suomen tuulivoimalat tuottivat vuonna 2021 sähköä n.8 TWh vastaten Suomen sähkönkulutuksesta vajaata 10 prosenttia. [www.motiva.fi](https://www.motiva.fi/ratkaisut/uusiutuva_energia/tuulivoima/tuulivoima_suomessa) Tuulivoiman lisäksi energiaa tulisi tuottaa aurinkovoimaloilla, bioenergialla, ydinvoimalla ja mahdollisesti jopa pienydinvoimaloilla (SMR). Näiden avulla voitaisiin tuottaa päästötöntä energiaa tasaisesti ja luotettavasti vuoden- ja vuorokaudenajasta riippumatta. OL3-ydinreaktorin käyttöönoton ongelmista riippumatta Suomi on tulevaisuudessa sähkön nettiviejä.
 
+- [Uuden ajan ydinvoima](https://www.hs.fi/visio/art-2000008506092.html) HS 3.1.2022
+- [Ydin­voimaloita tehdään Eurooppaan nyt ”melkein sarja­tuotantona”, Puola haluaa kuusi](https://www.hs.fi/talous/art-2000009349257.html), HS 1.2.2023
+
 ## Vähähiiliset tai CO2-vapaat energiatuotantotavat
 
 Noin kolmannes Suomen energiantarpeesta tuotettiin öljyllä, hiilellä ja maakaasulla. [[Helen 2/2022]](https://www.helen.fi/asiakaspalvelu/ajankohtaista/helen-lehti) Uusiutuvalla energialla, eli vesivoimalla ja puunpoltolla, tuotettiin noin 40 prosenttia kulutuksesta. Eurooppalaisiin verrattuna tämä osuus on melko suuri, toisaalta aika luonnollista, sillä täällä on koskia ja metsää muihin maihin verrattuna enemmän. 
