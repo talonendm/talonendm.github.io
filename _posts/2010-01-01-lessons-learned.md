@@ -22,7 +22,7 @@ Data related on courses (lecturer, year etc. available) for me at [Google sheet 
 
 # P1 ja P2 Matematiikka Mat-1.441 ja 1.442
 
-- muistiinpanot [ta.dm](https://docs.google.com/document/d/12k9p9jWPxdxX6sa5lrkheZIBTdBF1wSFcDSiEXbLst4/edit?usp=sharing)
+Ottaita muistiinpanoista: [ta.dm](https://docs.google.com/document/d/12k9p9jWPxdxX6sa5lrkheZIBTdBF1wSFcDSiEXbLst4/edit?usp=sharing)
 - Matriisit
 - yhteenlasku
 - reaaliluvun ja matriisin kertolasku
@@ -30,7 +30,22 @@ Data related on courses (lecturer, year etc. available) for me at [Google sheet 
 - kulman esitys radiaaneissa
 - matemaattinen induktio, on väline väitöksien todistamiseksi, jotka pätevät jokaiselle $$n \in N$$.
 - [Gaussin eliminaatio](https://fi.wikipedia.org/wiki/Gaussin_algoritmi), [youtube](https://www.youtube.com/watch?v=dvPqTD-Lmgk)
-- Funktion raja-arvo: $$lim_{x\rightarrow 2} x^2 = 4$$, oma muistiinpano Täh? :D http://www.math.jyu.fi/matpo/kirja/rfa/index-54.html
+- Funktion raja-arvo: $$lim_{x\rightarrow 2} x^2 = 4$$, oma muistiinpano Täh? :D [Raja-arvon kuristaminen](http://www.math.jyu.fi/matpo/kirja/rfa/index-54.html)
+
+# P2
+
+- [Tangenttitaso](https://matta.hut.fi/matta2/isom/html/tangnorm2.html)
+- [De Morganin lait](https://fi.wikipedia.org/wiki/De_Morganin_lait) ovat logiikan päättelysääntöjä.
+- Yhdistetty funktio [PDF](http://math.tkk.fi/opetus/sovtoda/luennot/vanhat/JOLIITE1.pdf)
+- [ketjusääntö](https://fi.wikipedia.org/wiki/Ketjus%C3%A4%C3%A4nt%C3%B6): "Differentiaalilaskennassa ketjusääntö antaa keinon derivoida yhdistetty funktio."
+- [Lagrange](https://fi.wikipedia.org/wiki/Lagrangen_kertoimet)
+- [Cobb–Douglas production](https://en.wikipedia.org/wiki/Cobb%E2%80%93Douglas_production_function)
+- [Stokesin](https://fi.wikipedia.org/wiki/Stokesin_lause) lause: "yhdistää suljetun polkuintegraalin sekä polun rajaaman avoimen pinnan pintaintegraalin."
+
+
+
+
+
 
 
 # Monimuuttujamenetelmät prossitekniikassa
@@ -44,8 +59,9 @@ Original source: copies and notes (2003) and finally in garbage (2021).
 - SOM: Kohosen itseorganisoituva kartta. Voi soveltaa esim. [leijukerrosrakeistusprosessi](http://fi.qiangdijetmill.com/wp-wdg-system-apply-to-agrochemical-field-product/)
 - Adaptive resonance theory [ART](https://en.wikipedia.org/wiki/Adaptive_resonance_theory).
 - Harjoitustyö: paperinvalmistusprosessi X dataa, Y paperin laatuparametreja. PLS malli. Y = (Rainautuminen eli formaatio, paperin vetolujuus, paperin opasiteetti)
-- painokertoimet: adaptiivisissa systeemeissä yleensä ekspotentiaalien unohduskerroin, &lambda; &straightepsilon; $$]0, 1]$$.
-- Rekursiiviset estimointialgoritmit: $$&Theta;(N+1) = &Theta;(N + g(N)(y(N+1) - y(N+1|N))$$. Mallia parannetaan uuden mittauksen avulla.
+- painokertoimet: adaptiivisissa systeemeissä yleensä ekspotentiaalien unohduskerroin, $$\lambda \epsilon ]0, 1]$$.
+- Rekursiiviset estimointialgoritmit: 
+  - $$\Theta(N+1) = \Theta(N + g(N)(y(N+1) - y(N+1|N))$$. Mallia parannetaan uuden mittauksen avulla.
 - Rekursiivinen pienimmän neliösumman menetetelmä unohdus kertoimella, ks. [Advances in Methods of Anomaly Detection and Visualization of Multivariate Data](https://aaltodoc.aalto.fi/handle/123456789/15255).
 - [Umetrics - SIMCA](https://www.youtube.com/watch?v=kCisOk8bC5E)
 
