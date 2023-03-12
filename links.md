@@ -34,6 +34,12 @@ tags:
 - [DOCS - Rakennussopimukset - Aaro Liuksiala, Pia Stoor](https://docs.google.com/document/d/1MJ7HExHeWMKrVM1FMO78PO_U8gHkS9Z9QmXtHRgw5rg/edit?usp=sharing)
 - [DOCS - Sopimusten ja häiriötilanteiden hallinta rakennusprojekteissa](https://docs.google.com/document/d/1oIuHnj8p59LSQn52hpR89CjKX3etU7eKp4ZR8ssd1VQ/edit?usp=sharing)
 
+## More about roofs
+
+- [Palkittu kerrostalo osoittautui seulaksi Helsingin Jätkäsaaressa – kukaan ei tiedä, mistä vesi vuotaa ihmisten koteihin - 31.3.2017 HS](https://www.hs.fi/kaupunki/art-2000005149774.html): "Vuotokohtien alkuperää on etsitty muualta kuin asunnosta, ja siksi asukkaat eivät ole olleet tästä tietoisia. Heitä ei ole asiasta ikävä kyllä informoitu. Pakkasella ei haluttu avata rakenteita."
+- [Helsinkiläinen kerros­talo on vuotanut seitsemän vuotta kuin seula – Rakennuttajan mukaan vuodoista ei ole varsinaista haittaa, asukkaat ovat raivoissaan - 11.9.2021 HS Kaisu Moilanen](https://www.hs.fi/kaupunki/art-2000008222844.html): "TALO on alkanut oireilla heikosta rakentamisen laadusta. Talon ulkoseinistä on pudonnut pihalle rakenteita. Elokuun lopussa ikkunan pellitys irtosi ja putosi pihalle."
+- [Asuintaloon vuotaa vettä sisälle Helsingin Jätkäsaaressa – Kattoa on revitty auki ja korjattu monta kertaa - Sami Takala 9.3.3023](https://www.hs.fi/kaupunki/art-2000009422338.html): "Johtaja Kimmo Annala talon rakentaneesta Skanskasta pitää korjaustoimien venymistä harmillisena. Hän perustelee tilannetta sillä, että vuotoja on pitänyt tutkia ja sopivaa korjausmenetelmää suunnitella huolella."
+
 # NEWS
 
 - [HS](https://www.hs.fi/)

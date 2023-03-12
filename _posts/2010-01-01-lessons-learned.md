@@ -11,12 +11,26 @@ tags:
 comments: false
 cover-img: /assets/pics/cover/photo/sunflower.JPG
 thumbnail-img: /assets/pics/thumbnail/photo/sieni2016.JPG
+usemathjax: true
 published: true
 ---
 
 Generally: Lecture notes, data source: blackboard, overhead projector and copies. 
 
 Data related on courses (lecturer, year etc. available) for me at [Google sheet /data/git/](https://docs.google.com/spreadsheets/d/12JFGGhikQjEroUtw-VM7BH_R2bCjIqYJrKMXsMunElc/edit?usp=sharing).
+
+
+# P1 ja P2 Matematiikka Mat-1.441 ja 1.442
+
+- muistiinpanot [ta.dm](https://docs.google.com/document/d/12k9p9jWPxdxX6sa5lrkheZIBTdBF1wSFcDSiEXbLst4/edit?usp=sharing)
+- Matriisit
+- yhteenlasku
+- reaaliluvun ja matriisin kertolasku
+- tangentti yksikköympyrässä
+- kulman esitys radiaaneissa
+- matemaattinen induktio, on väline väitöksien todistamiseksi, jotka pätevät jokaiselle $$n \in N$$.
+- [Gaussin eliminaatio](https://fi.wikipedia.org/wiki/Gaussin_algoritmi), [youtube](https://www.youtube.com/watch?v=dvPqTD-Lmgk)
+- Funktion raja-arvo: $$lim_{x\rightarrow 2} x^2 = 4$$, oma muistiinpano Täh? :D http://www.math.jyu.fi/matpo/kirja/rfa/index-54.html
 
 
 # Monimuuttujamenetelmät prossitekniikassa
@@ -30,7 +44,7 @@ Original source: copies and notes (2003) and finally in garbage (2021).
 - SOM: Kohosen itseorganisoituva kartta. Voi soveltaa esim. [leijukerrosrakeistusprosessi](http://fi.qiangdijetmill.com/wp-wdg-system-apply-to-agrochemical-field-product/)
 - Adaptive resonance theory [ART](https://en.wikipedia.org/wiki/Adaptive_resonance_theory).
 - Harjoitustyö: paperinvalmistusprosessi X dataa, Y paperin laatuparametreja. PLS malli. Y = (Rainautuminen eli formaatio, paperin vetolujuus, paperin opasiteetti)
-- painokertoimet: adaptiivisissa systeemeissä yleensä ekspotentiaalien unohduskerroin, &lambda; &straightepsilon; $$]0,1]$$.
+- painokertoimet: adaptiivisissa systeemeissä yleensä ekspotentiaalien unohduskerroin, &lambda; &straightepsilon; $$]0, 1]$$.
 - Rekursiiviset estimointialgoritmit: $$&Theta;(N+1) = &Theta;(N + g(N)(y(N+1) - y(N+1|N))$$. Mallia parannetaan uuden mittauksen avulla.
 - Rekursiivinen pienimmän neliösumman menetetelmä unohdus kertoimella, ks. [Advances in Methods of Anomaly Detection and Visualization of Multivariate Data](https://aaltodoc.aalto.fi/handle/123456789/15255).
 - [Umetrics - SIMCA](https://www.youtube.com/watch?v=kCisOk8bC5E)

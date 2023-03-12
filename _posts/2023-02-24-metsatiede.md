@@ -8,6 +8,7 @@ tags:
 comments: false
 cover-img: /assets/pics/cover/photo/saha3.jpg
 thumbnail-img: /assets/pics/thumbnail/photo/sammal.JPG
+usemathjax: true
 published: true
 ---
 
@@ -141,6 +142,11 @@ Politiikan tutkimus kiinnostunut "näkynättömistä" asioista. Mikä on Suomen 
 ## Metsään meneviä linkkejä
 
 - [Enemmän rahaa vähemmästä puusta - Piia Elonen 26.2.2023 HS](https://www.hs.fi/mielipide/art-2000009394596.html): "Metsäala voidaan jakaa kolmeen haaraan: metsätalouteen (puuston kasvatus ja puunkorjuu), puutuoteteollisuuteen (sahatavara ja puulevyt) ja kuituteollisuuteen (sellu, paperi ja kartonki).", "Luken laskelman mukaan puolet kuusi- ja mäntysahatavarasta pitäisi käyttää [clt](https://fi.wikipedia.org/wiki/CLT)-tuotantoon Suomessa.", "Luken arvion mukaan kyse on noin 20 miljardin euron investointitarpeesta."
+- Puuston tilavuuden määrittäminen relaskoopin ja kepin avulla: [www.puuntuottaja.com](http://www.puuntuottaja.com/puustontilavuuden-maarittaminen-relaskoopin-ja-kepin-avulla/)
+  - Puuston pohjapinta-ala tässä relaskoopin avulla (360 astetta n. kpl puita jotka täyttävät hahlon) $$m^2/ha$$.
+  - Harvennustarpeen ja puumäärän määrittäminen relaskoopin ja kepin avulla: [video](https://www.youtube.com/watch?v=wQcKCJRS8Zo)
+- Metsänmittauksen perusteet [TKK - Ilkka Korpela, Helsingin Yliopisto, 1997](https://www.mv.helsinki.fi/home/korpela/tkk.html)
+- [Taimikon runkoluvun määrittäminen](http://www.puuntuottaja.com/taimikon-runkoluvun-maarittaminen/)
 
 ### Vastuuvapauslauseke
 
