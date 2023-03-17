@@ -159,6 +159,74 @@ Later:
 
 # Lautapelit
 
+## Port Royal
+
+- [ohjeet suomeksi - YouTube](https://www.youtube.com/watch?v=OlzwX8iwboA): Vauhtia ja vaarallisia tilanteita, lähde mukaan Port Royal -peliin, veljet! Tää peli vie meidät Karibian satamakaupunkiin, joka kuhisee elämää ja vilkasta kaupankäyntiä. Nostetaan kortteja ja yritetään napata mahdollisimman paljon mainetta ja mammonaa! Ei kuitenkaan kannata olla liian rohkee, sillä liika riskinotto voi kostautua ja kaikki rahat voi menettää yhtenä päivänä. Tässä pelissä tarvitaan taitoa ja onnea, jotta voitaisiin kavuta ryysyistä rikkauksiin.
+
+> Port Royal, Port Royal,
+Pelilauta pöydällä hohtaa.
+Pirates, merirosvot,
+Laivat taistelussa kohoaa.
+
+> Rommi virtaa, lasit kilahtaa,
+Pelaajat jännittäviä valintojaan tekee.
+Miehet merillä kultaansa kaipaavat,
+Mutta ensin aarteen etsintään he lähtee.
+
+> Satamaan saavutaan, kauppiaat huutelee,
+Käy kauppa, tavoita menestys.
+Pelissä onnenkin päivä koittaa,
+Ja voittajaksi itsesi osoittaa.
+
+> Port Royal, Port Royal,
+Rommilasi kädessä kilistää.
+Pelilauta kutsuu takaisin,
+Uudestaan seikkailuun lähtemään meidät vie.
+
+ChatGPT:n ideoita lisäosiin: 
+
+Jos puhumme hypoteettisesti Port Royalin päivitetyistä korteista, jotka sopivat nykyaikaan, voisi olla mielenkiintoista lisätä kortteja, jotka kuvastavat nykyaikaista merenkulkua ja kauppaa. Esimerkiksi:
+
+1. Sähköinen navigointijärjestelmä: Tämä kortti voisi auttaa pelaajia saavuttamaan määränpäänsä nopeammin ja tarkemmin. Pelaaja voi lähettää yhden kolikon laivat takaisin kotisatamaan. Electronic Navigation System: This card could help players reach their destination faster and more accurately. The player can send the ships back to the home port for one coin.
+
+![i.01](/assets/pics/page/portroyalextension/01.jpg){: .mx-auto.d-block :}
+
+2. Satelliittipuhelin: Tämä kortti voisi auttaa pelaajia kommunikoimaan muiden pelaajien kanssa pelin aikana, jolloin yhteistyö helpottuisi. Pelaajalla on mahdollisuus pitää strategiapalaveri suljetussa huoneessa. Satellite Phone: This card could help players communicate with other players during the game, making cooperation easier. The player has the opportunity to hold a strategy meeting in a closed room.
+
+![i.02](/assets/pics/page/portroyalextension/02.jpg){: .mx-auto.d-block :}
+
+3. Vedenalainen sukellusvene: Tämä kortti voisi tarjota pelaajille mahdollisuuden sukeltaa syvemmälle merenpohjaan, löytää uusia aarteita ja välttää vaarallisia laivareittejä. Pelaajalla on mahdollisuus saada 10 kolikkoa, jos seuraava kortti on punainen laiva. Underwater Submarine: This card could offer players the ability to dive deeper into the ocean floor, find new treasures and avoid dangerous shipping routes. The player has a chance to get 10 coins if the next card is a red ship.
+
+![i.03](/assets/pics/page/portroyalextension/02.jpg){: .mx-auto.d-block :}
+
+4. Merirosvodrooni: Tämä kortti voisi tarjota pelaajille mahdollisuuden tarkkailla muita pelaajia ylhäältä päin ja varmistaa, etteivät he juonittele pelissä.
+5. Ilmalaiva: Tämä kortti voisi antaa pelaajille mahdollisuuden tarkkailla meren ympärillä olevaa aluetta ja välttää vaarallisia alueita.
+6. Ympäristöystävällinen laiva: Tämä kortti voisi auttaa pelaajia vähentämään päästöjä ja saastumista merellä, mikä puolestaan ​​voisi antaa heille bonuksia tai muita etuja.
+7. Merirosvotarkastaja: Tämä kortti voisi antaa pelaajalle mahdollisuuden tarkastaa toisen pelaajan kääntölaattoja ja valita ne, jotka hän haluaa.
+8. Yksinpurjehtija: Tämä kortti voisi antaa pelaajalle mahdollisuuden purjehtia yksin, mikä voisi antaa hänelle etuja tai haittoja pelin aikana.
+9.  Merirosvotutkija: Tämä kortti voisi antaa pelaajalle mahdollisuuden löytää uusia aarteita ja saada enemmän pisteitä pelin aikana.
+10. Ilmastonmuutospakote: Tämä kortti voisi vaikuttaa pelin kulkuun tekemällä merellä purjehtimisesta hankalampaa, mikä voisi vaikuttaa kaikkien pelaajien strategioihin ja valintoihin.
+11. Meripelastusyksikkö: Tämä kortti voisi antaa pelaajalle mahdollisuuden pelastaa muita pelaajia merihädässä ja saada siitä bonuksia tai muita etuja.
+12. Haikala- tai valassafari: Tämä kortti voisi antaa pelaajalle mahdollisuuden löytää harvinaisia ​​mereneläviä ja saada niistä bonuksia tai muita etuja.
+13. GPS-navigointi: Tämä kortti voisi auttaa pelaajaa tarkkailemaan laivoja ja navigoimaan merellä tehokkaammin.
+14. Kultahippukortti: Tämä kortti antaisi pelaajalle bonuksen jokaisesta kääntölaatasta, joka on arvoltaan vähintään 3.
+15. Hurrikaanikortti: Tämä kortti vaikuttaisi pelin kulkuun luomalla hurrikaanin, joka estäisi purjehtimisen tietyissä kääntölaatoissa ja vaikuttaisi myös kaikkien pelaajien pisteisiin ja strategioihin.
+16. Merirosvolauma-kortti: Tämä kortti voisi antaa pelaajalle mahdollisuuden kerätä yhteen laumaan useita merirosvolaivoja, mikä puolestaan ​​antaisi pelaajalle enemmän mahdollisuuksia hyökkäyksiin ja tulojen keräämiseen.
+17. Vedenalainen kortti: Tämä kortti antaisi pelaajalle mahdollisuuden sukeltaa veden alle ja löytää uusia aarteita, mikä voisi antaa pelaajalle lisää pisteitä.
+18. Tuuliennuste-kortti: Tämä kortti antaisi pelaajalle mahdollisuuden tarkastella tuulen ennustetta ja tehdä strategisia päätöksiä sen perusteella.
+19. Satamamaksukortti: Tämä kortti antaisi pelaajalle mahdollisuuden kerätä ylimääräistä rahaa satamamaksuista.
+20. Merikartta-kortti: Tämä kortti antaisi pelaajalle yksityiskohtaisen kartan pelialueesta, mikä auttaisi pelaajaa navigoimaan ja löytämään helposti haluamansa kohteet.
+21. Vedenalainen tunneli-kortti: Tämä kortti antaisi pelaajalle mahdollisuuden rakentaa vedenalaisen tunnelin kahden kääntölaatan välille, mikä antaisi pelaajalle helpon tavan siirtyä kääntölaatan yli.
+22. Salaiset kaupankäyntikortit: Nämä kortit voisivat antaa pelaajalle mahdollisuuden tehdä salaisia ​​kauppoja muiden pelaajien kanssa, kuten vaihtaa resursseja tai kääntölaattoja.
+23. Miehityskortti: Tämä kortti antaisi pelaajalle mahdollisuuden miehittää laivansa ylimääräisillä miehistön jäsenillä, mikä lisäisi laivan kykyä suojautua hyökkäyksiltä tai hyökätä muita laivoja vastaan.
+24. Kielletty kauppa-kortti: Tämä kortti antaisi pelaajalle mahdollisuuden tehdä kiellettyjä kauppoja, kuten kaupankäyntiä laittomilla tavaroilla, mutta sillä olisi myös riski menettää mainettaan ja joutua maksamaan sakkoja.
+25. Haaksirikkokortti: Tämä kortti vaikuttaisi peliin luomalla satunnaisia ​​haaksirikkoja pelialueelle, joka voi vaikuttaa kaikkien pelaajien strategioihin ja mahdollisuuksiin kerätä resursseja.
+26. Merirosvohyökkäys-kortti: Tämä kortti antaisi pelaajalle mahdollisuuden tehdä merirosvohyökkäyksiä muiden pelaajien laivoja vastaan, mutta sillä olisi myös riski menettää mainettaan ja joutua maksamaan sakkoja.
+27. Väijytyskortti: Tämä kortti antaisi pelaajalle mahdollisuuden väijyä muita laivoja ja varastaa niiden resursseja, mutta se sisältäisi myös riskin jäädä kiinni ja menettää oma maineensa.
+
+Nämä ovat vain muutamia esimerkkejä siitä, minkälaisia kortteja voitaisiin lisätä nykyaikaisempaan Port Royal -peliin. Tärkeintä kuitenkin on, että uudet kortit tasapainottaisivat peliä ja tarjoaisivat pelaajille uusia strategioita ja mahdollisuuksia voittaa.
+
+
 ## Articles
 
 - [Generating Interesting Monopoly Boards from Open Data](http://julian.togelius.com/Friberger2012GeneratingInteresting.pdf). Some ideas to generate board games.
