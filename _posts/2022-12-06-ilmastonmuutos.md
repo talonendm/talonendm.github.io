@@ -134,8 +134,8 @@ Joulukuusesta. "Kännykän hiilijalanjälki on noin 50–100 kiloa ja kannettava
   - 4244717 (2021 uusi ennätys)
   - SSAB:n Raahen terätehtaan hiilidioksidipäästöt ovat omassa luokassaan. Vuonna 2021 tehtaan päästöt olivat yli 4 miljoonaa tonnia eli noin 15 prosenttia kaikista päästökaupan piiriin kuuluvien laitosten päästöistä Suomessa (~27,6 milj. tonnia).
 - [Terästehtaiden johtajat: Vihreän teräksen kysyntä on kovaa - Suomella on yksi valtti Ruotsiin nähden, Teija Sutinen HS, 17.1.2023](https://www.hs.fi/talous/art-2000009329975.html): "H2 Green Steel on samantapainen startup kuin norjalainen Blastr, mutta se on askeleen pidemmällä. H2 Green Steelin tehtaan perustuksia rakennetaan jo Bodeniin Ruotsiin." SSAB:n Raahessa oleva tehdas tuottaa noin 2,5 miljoonaa tonnia terästä vuodessa. "H2 Green Steel ostaa rautamalmin Etelä-Amerikasta, Kanadasta ja jossain määrin myös Pohjois-Ruotsista. SSAB:n kaikki raaka-aine tulee nykyisin Pohjois-Ruotsista, kun tuonti Venäjältä loppui Ukrainan sotaan."
-
-Päästöoikeudet ovat nousseet uuteen ennätykseen vuonna 2022. Kalleimmillaan se oli helmikuussa - lähes 100 euroa hiilidioksiditonnilta ja keskimäärin se on ollut noin 80 e/CO2ton. [HS 21.12.2022 - A21, Päästökauppa toi jättitilin Suomelle](https://www.hs.fi/talous/art-2000009278965.html).
+- Päästöoikeudet ovat nousseet uuteen ennätykseen vuonna 2022. Kalleimmillaan se oli helmikuussa - lähes 100 euroa hiilidioksiditonnilta ja keskimäärin se on ollut noin 80 e/CO2ton. [HS 21.12.2022 - A21, Päästökauppa toi jättitilin Suomelle](https://www.hs.fi/talous/art-2000009278965.html).
+- Raahen terästehdas on ylivoimaisesti Suomen suurin yksittäinen saastuttaja. [HS 15.3.2023 - Marjo Valtavaara](https://www.hs.fi/kotimaa/art-2000009383052.html)
 
 # Muuta
 

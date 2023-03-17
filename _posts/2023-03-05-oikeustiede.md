@@ -38,6 +38,7 @@ Oikeusturvajärjestelmän pääpiirteet."
   - Oikeusnormin käsitteestä, Hannu Tapani Klamin ja Raimo Siltalan [sana-artikkeli][def-sana-artikkeli].
 - OIKIS2022: "Kaiken kaikkiaan opiskelupaikkoja oikeustieteelliseen on jaossa vuonna 2023 yhteensä 622. Paikkoja on jaossa 16 vähemmän kuin vuonna 2022, jolloin paikkoja oli 638." ja "Oikeustieteellisten tiedekuntien suomenkielisiin oikeusnotaarin koulutusohjelmiin haki vuonna 2022 päähaun kautta yhteensä 4 098 ensisijaista hakijaa, ja kaikkia hakijoita oli 5277." [oikeustiede.com][def-oikeustiede]
 - [rakennusriidat, kuluttajansuojalaki luku 9](https://www.rakennusriidat.fi/kuluttajansuojalaki)
+- [Pienpuolueen ehdokkaista joka toisella tuore rikos­syyte – Katso kaikkien ehdokkaiden syytteet, HS 17.3.2023](https://www.hs.fi/politiikka/art-2000009453576.html)
 
 ### Vastuuvapauslauseke
 
