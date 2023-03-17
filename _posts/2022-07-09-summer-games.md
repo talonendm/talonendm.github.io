@@ -188,17 +188,14 @@ ChatGPT:n ideoita lisäosiin:
 Jos puhumme hypoteettisesti Port Royalin päivitetyistä korteista, jotka sopivat nykyaikaan, voisi olla mielenkiintoista lisätä kortteja, jotka kuvastavat nykyaikaista merenkulkua ja kauppaa. Esimerkiksi:
 
 1. Sähköinen navigointijärjestelmä: Tämä kortti voisi auttaa pelaajia saavuttamaan määränpäänsä nopeammin ja tarkemmin. Pelaaja voi lähettää yhden kolikon laivat takaisin kotisatamaan. Electronic Navigation System: This card could help players reach their destination faster and more accurately. The player can send the ships back to the home port for one coin.
-
-![i.01](/assets/pics/page/portroyalextension/01.jpg){: .mx-auto.d-block :}
-
+  ![i.01](/assets/pics/page/portroyalextension/01.jpg){: .mx-auto.d-block :} <!-- indent fig, so numbered list works: https://stackoverflow.com/questions/18525892/markdown-can-you-insert-image-inbetween-ordered-list-items-->
+  **Fig 1** Electronic Navigation System
 2. Satelliittipuhelin: Tämä kortti voisi auttaa pelaajia kommunikoimaan muiden pelaajien kanssa pelin aikana, jolloin yhteistyö helpottuisi. Pelaajalla on mahdollisuus pitää strategiapalaveri suljetussa huoneessa. Satellite Phone: This card could help players communicate with other players during the game, making cooperation easier. The player has the opportunity to hold a strategy meeting in a closed room.
-
-![i.02](/assets/pics/page/portroyalextension/02.jpg){: .mx-auto.d-block :}
-
+  ![i.02](/assets/pics/page/portroyalextension/02.jpg){: .mx-auto.d-block :}
+  **Fig 2** Satellite Phone
 3. Vedenalainen sukellusvene: Tämä kortti voisi tarjota pelaajille mahdollisuuden sukeltaa syvemmälle merenpohjaan, löytää uusia aarteita ja välttää vaarallisia laivareittejä. Pelaajalla on mahdollisuus saada 10 kolikkoa, jos seuraava kortti on punainen laiva. Underwater Submarine: This card could offer players the ability to dive deeper into the ocean floor, find new treasures and avoid dangerous shipping routes. The player has a chance to get 10 coins if the next card is a red ship.
-
-![i.03](/assets/pics/page/portroyalextension/02.jpg){: .mx-auto.d-block :}
-
+  ![i.03](/assets/pics/page/portroyalextension/03.jpg){: .mx-auto.d-block :}
+  **Fig 3** Underwater Submarine
 4. Merirosvodrooni: Tämä kortti voisi tarjota pelaajille mahdollisuuden tarkkailla muita pelaajia ylhäältä päin ja varmistaa, etteivät he juonittele pelissä.
 5. Ilmalaiva: Tämä kortti voisi antaa pelaajille mahdollisuuden tarkkailla meren ympärillä olevaa aluetta ja välttää vaarallisia alueita.
 6. Ympäristöystävällinen laiva: Tämä kortti voisi auttaa pelaajia vähentämään päästöjä ja saastumista merellä, mikä puolestaan ​​voisi antaa heille bonuksia tai muita etuja.
