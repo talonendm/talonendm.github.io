@@ -10,7 +10,7 @@ tags:
 - [2020-12-16-books](https://talonendm.github.io/2020-12-16-books/)
 - [2020-12-17-wines](https://talonendm.github.io/2020-12-17-wines/)
 - [2022-10-30-aiart](https://talonendm.github.io/2022-10-30-aiart/): wombo, teachable machine, p5 etc.
-
+- [DOCS - remontti 2023 - private](https://docs.google.com/document/d/1NhHTMk0GU4PR4X0--GB0hOznUhG2eIfkZpp8H5n3jZ8/edit?usp=sharing)
 # Studies
 
 ## 2023
