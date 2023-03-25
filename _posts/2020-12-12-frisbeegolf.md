@@ -13,6 +13,25 @@ thumbnail-img: /assets/pics/thumbnail/instagram/IMG_20160717_112037.jpg
 published: true
 ---
 
+A group of friends went to play frisbee golf in a forest. One of them was really good at the game and had been practicing for months. He was determined to beat his friends and show off his skills.
+
+As they started playing, the first few holes were easy and the frisbees flew straight into the baskets. But on the fifth hole, the skilled frisbee golfer's frisbee got stuck in a tree branch. He tried to get it down by throwing other frisbees at it, but nothing worked.
+
+His friends teased him, saying, "Looks like the champion isn't so skilled after all!"
+
+Feeling embarrassed, the frisbee golfer climbed up the tree to get his frisbee back. But he got stuck on a branch and couldn't come down. His friends laughed and took pictures of him, joking that he would have to spend the night in the tree.
+
+Finally, a park ranger came by and saw the frisbee golfer stuck in the tree. He asked what happened and the friends explained. The ranger chuckled and said, "Don't worry, I'll get you down. But next time, bring a ladder instead of a frisbee!"
+
+
+- [Kuinka perustaa frisbeegolfrata?](https://www.discgolfpark.com/fi/2020/11/06/kuinka-perustaa-frisbeegolfrata/)
+- opinnäytetyö frisbeeradan suunnittelemisesta [PDF](https://www.theseus.fi/bitstream/handle/10024/136813/Frisbeegolfradan%20suunnitteleminen%20Evijarven%20kuntaan.pdf)
+- Munapirttiin kaavaillaan uutta frisbeegolf-rataa Pyhtäällä, [YLE](https://yle.fi/a/3-11961134)
+- Pelisäännöt ym. [liikuntamestari.fi](https://www.liikuntamestari.fi/tuote-osasto/frisbeegolf/)
+
+
+
+
 # Kirkkonummi - Vols
 
 [Kirkkonummen frisbeegolfrata](https://frisbeegolfradat.fi/rata/kirkkonummen_frisbeegolfrata/) 

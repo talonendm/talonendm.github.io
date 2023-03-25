@@ -7,6 +7,7 @@ tags:
   - vesikatto
   - perustelumuistio
   - aluskate
+  - patentti
 comments: false
 cover-img: /assets/pics/cover/photo/lakikirjat.jpg
 thumbnail-img: /assets/pics/thumbnail/photo/lakikirjat.jpg
@@ -143,6 +144,9 @@ Hinnanalennus tämän esimerkin arvojen perusteella 27 000 euroa.
 - [Sananvapaus ja julkisuus (12 §)](https://www.finlex.fi/fi/laki/ajantasa/1999/19990731#L2P12)
 - [Oikeusturva (21 §)](https://www.finlex.fi/fi/laki/ajantasa/1999/19990731#L2P21) 
 - [Tuomioistuimet (98 §)](https://www.finlex.fi/fi/laki/ajantasa/1999/19990731#L9P98)
+- Patentteja
+  - [Tile roof batten with drainage and ventilation features](https://patents.google.com/patent/US20060150536A1/en): "If water fails to drain, pools on the afore mentioned overlayment and leaks into the underlying decking and roof structure, catastrophic failure of the roof can occur."
+  - [TILE ROOF BATTEN WITH DRAINAGE AND VENTILATION FEATURES - PDF](https://patentimages.storage.googleapis.com/ab/19/a0/b54819a23deb4f/US20060150536A1.pdf): Jokainen parru "vaakaruode" on muotoiltu muovista nelikulmaisena, avoimella sivulla ja sivuilla, jotka ovat parrun pituusakselin suuntaiset ja jotka sisältävät aukkoja, joiden kautta vesi voi valua pois. Parruilla on ylämäkeen ja alamäkeen suunnatut puolipyramidiset muotoiset veden ohjauspinnat, jotka ohjaavat veden vedenpoistoaukoista. Lisäksi parruilla on veden ohjauspinnat sisäpuolella, joiden avulla vesi ohjataan vedenpoistoaukoista. Vakavia kosteusongelmia voi esiintyä, jos vaakaruoteet asennetaan suoraan aluskatteen päälle. Esimerkiksi eräissä markkinoilla olevissa teräsruoteissa ei ole mitään vedenpoistoaukkoja tai kanavia, joiden avulla vesi voisi virrata alas katolta ulkoseinälinjan ulkopuolelle. Tämä puute on korjattu eräissä tapauksissa osittain leikkaamalla uria puisten kattoparrujen alapuolelle. Tämä kuitenkin jätti ongelman veden kerääntymisestä avointen urien vieressä oleville tasaisille parrupinnoille, mikä aiheutti vesivahinkoja. Joissakin kohteissa mittatarkka teräsruote on tiivisti kiinni aluskatteessa. Tällöin vesi voi turmella alapuolisia rakenteita, sillä vesi pääsee naulan avartamista rei'istä alas kattorakenteisiin.
 
 ### Vastuuvapauslauseke
 
