@@ -97,6 +97,14 @@ Metsätuholaki [1.1.2022 alkaen](https://www.metsakeskus.fi/fi/ajankohtaista/met
 - [Bosch ART 23 Combitrim](https://www.k-rauta.fi/tuote/trimmeri-bosch-art-23-combitrim/3165140349512) sähkötrimmeri nurmikon siistimiseen, [Siimaa puuilosta](https://www.puuilo.fi/bosch-art-23-sl-trimmerin-siima?gclid=CjwKCAjwg4-EBhBwEiwAzYAlsiMC8ORKpSoj8aWQBdarQyU4RCw1892aMjGurePbo6CwtmKHQCF7IhoCWswQAvD_BwE).
 
 
+# 2023
+
+- 18.3.2023 Omenapuiden leikkaaminen
+- 21.3.2023 Rhodon suojaaminen aurinkoverkolla
+- 22.3.2023: "Maan etelä- ja keskiosiin kulkeutuu lepän siitepölyä etelämpää Euroopasta. Lepän siitepölymäärät ovat enimmäkseen vähäisiä, mutta määrät voivat nousta maan eteläosissa ajoittain kohtalaisiksi. Sade laskee ilman siitepölymääriä." [Norkko siitepölytiedote](https://www.norkko.fi/)
+  
+
+
 # 2022
 
 - 15.3.2022 Omenapuiden leikkaaminen: Omenapuun taimi (jo muutaman kerran syöty) lähimpänä kiinteistö parkkipaikkaa järsitty kauttaaltaan. Leikkasin suurimman osan oksista pois. [Varttaminen](https://fi.wikipedia.org/wiki/Varttaminen) toisesta puusta saattaisi pelastaa sen. Sillastusta voisi kokeilla [kodinkuvalehti](https://www.kodinkuvalehti.fi/artikkeli/sisusta/puutarha/asiantuntija_vastaa_mita_tehda_janisten_syomille_omenapuille)

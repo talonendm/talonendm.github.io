@@ -10,11 +10,18 @@ tags:
 - [2020-12-16-books](https://talonendm.github.io/2020-12-16-books/)
 - [2020-12-17-wines](https://talonendm.github.io/2020-12-17-wines/)
 - [2022-10-30-aiart](https://talonendm.github.io/2022-10-30-aiart/): wombo, teachable machine, p5 etc.
-- [DOCS - remontti 2023 - private](https://docs.google.com/document/d/1NhHTMk0GU4PR4X0--GB0hOznUhG2eIfkZpp8H5n3jZ8/edit?usp=sharing)
+- [Nimenhuuto](https://nimenhuuto.com/users/sessions)
+
+
+# Remontointi
+
+[DOCS - remontti 2023 - private](https://docs.google.com/document/d/1NhHTMk0GU4PR4X0--GB0hOznUhG2eIfkZpp8H5n3jZ8/edit?usp=sharing): talon maalaus ja sokkeli ([548X](https://tikkurila.fi/varit/548x-548x)). 
+
 # Studies
 
 ## 2023
 
+- Aalto: [sustainable business](https://sustainablebusiness.aalto.fi/en/course/): "Do you often find yourself wondering: “How can we make our company more sustainable? How should our company adapt to today’s sustainability challenges?"
 - [UEF/MOOC:Johdanto metsätieteisiin ja metsätalouteen 1, 2022-2023](https://digicampus.fi/mod/page/view.php?id=184265): Kurssin suoritettuaan opiskelija: "ymmärtää metsien ominaispiirteet monipuolisena uusiutuvana luonnonvarana sekä hallitsee perustiedot Suomen metsätaloudesta ja metsätieteistä." sulkeutuu **28.2.2023**. Varaa noin 20h aikaa. [Kurssiohjeet](https://digicampus.fi/mod/page/view.php?id=184265. muistiinpanot (private: [dm](https://docs.google.com/document/d/1No6AWDlN5uoum1pmIl1oI9zzrfAP6awN92qVoK5-scc/edit?usp=sharing))
 - [MyDigicampus](https://digicampus.fi/my/)
 - [HY/MOOC: Johdatus oikeustieteeseen ja oikeudelliseen ajatteluun 1, 2 op, kevät 2023](https://digicampus.fi/course/view.php?id=3904): Kurssin suoritusaika päättyy **5.3.2023**. 
