@@ -18,7 +18,7 @@ Oikeustieteellisen alan yhteisvalinnan valintakoe maanantaina 23.5.2022 pidet√§√
 ## Materiaalia - Aiemmat kokeet
 
 - Oikeustieteet - [materiaalia](https://oikeustieteet.fi/kokeet-ja-tilastot)
-- oikeat vastaukset [2022](https://oikeustieteet.fi/wp-content/uploads/2022/05/Valintakoe_oikeustiede_2022.pdf): Keskustelua vastauksista [DOCS ta.dm](https://docs.google.com/document/d/11_Fn5pbodcdPMLwyJMxyUdLZhkhdlfnX51Q_RMIum2Q/edit?usp=sharing)
+- oikeat vastaukset [2022](https://oikeustieteet.fi/wp-content/uploads/2022/05/Valintakoe_oikeustiede_2022.pdf): Kysymyksien ja vastauksien pohdiskelua: [DOCS ta.dm](https://docs.google.com/document/d/11_Fn5pbodcdPMLwyJMxyUdLZhkhdlfnX51Q_RMIum2Q/edit?usp=sharing)
 - oikeat vastaukset [2021](https://oikeustieteet.fi/wp-content/uploads/2021/12/Arvosteluperusteet_oikeustiede_2021.pdf)
 - [2020](https://oikeustieteet.fi/wp-content/uploads/2021/12/Oikeat_vastaukset_1vaihe_2020.pdf) [part2](https://oikeustieteet.fi/wp-content/uploads/2021/12/Oikeat_vastaukset_arvosteluperusteet_2vaihe_2020.pdf)
 - [2019](https://oikeustieteet.fi/wp-content/uploads/2021/12/Final_oikeustiede2019_arvosteluperusteineen.pdf)
@@ -49,6 +49,8 @@ Aiempaa kirjallisuutta:
 - [Johdatus rikosoikeuteen](https://docs.google.com/document/d/1w8E0dLXDEV3fzeWtDZtS2npx1Ua5BFY_PsGq3u-WlkY/edit)
 - [Oikeus ja julkisuus](https://docs.google.com/document/d/1LnsksbJ-pdb1-VQcAFIDS0gujoQ98grzTy0bNtYkbog/edit#)
 - [Johdatus oikeuteen ja oikeudelliseen ajatteluun](https://docs.google.com/document/d/1AReCBrXYcac27GudesKZF1pd-f3C0-cZKaFWbv83l1Q/edit)
+- [x] haku 2023: ok (230326)
+- [x] haku 2022: ok (220220 rename)
 
 # Stuff
 
