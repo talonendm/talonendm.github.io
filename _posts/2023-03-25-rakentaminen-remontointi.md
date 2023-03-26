@@ -30,16 +30,17 @@ Fig) quick GIMP experiment with layers
 - [RIL 250-2020 Kosteudenhallinta ja homevaurioiden estäminen](https://www.ril.fi/kirjakauppa/ohjeet-ja-normit/ril-250-2020-kosteudenhallinta-ja-homevaurioiden-estaminen-p-751.html): "Ohjeen tavoitteena on kuvata kosteusasetuksen henkeä ja hyvää rakentamistapaa toteuttava rakentamisen kosteudenhallinnan kokonaisprosessi lähtien rakennuttamisen tavoitteista ja päättyen käyttäjän tehtäviin."  
   - "26 § Veden poisjohtaminen vesikatolta: Veden on poistuttava vesikatolta rakennusta vahingoittamatta. Vesikatolla on rakenteineen ja liitoksineen oltava katteelle sopiva kaltevuus ja tiiviys veden poisjohtamiseksi." [s.123]
   - Esimerkiksi peltiset profiilikatot ovat epäjatkuvia katteita eli vesikattomateriaali ei muodosta vesitiivistä pintaa. Vesikatteen alla vaakaruoteet ja puukoolaus (tuuletus- eli korotusrimat). Vastaavasti nämä aluskatteen yläpuolella ja siten aluskate on myös toimii katon vedeneristeenä. "Aluskatteen pitää viedä mahdollinen vesi esteettömästi räystäällä oleviin vedenpoistojärjestelmiin." [s .124], translated: "The underlayer must allow any possible water to be directed unobstructed towards the water drainage systems located on the roof edge."
-  - Aluskatteen yläpuolisen tuuletusvälin tehtävänä on poistaa esimerkiksi muotopeltikatteen kondenssista mahdollisesti aluskatteen päälle pääsevää kosteutta. [s.125] 
+  - Aluskatteen yläpuolisen tuuletusvälin tehtävänä on poistaa esimerkiksi muotopeltikatteen kondenssista mahdollisesti aluskatteen päälle pääsevää kosteutta. [s.125]
+  - Yläpohjarakenteen puutteellinen tuuletus: peltikatteen alapintaan tiivistyy kosteutta. [s.269] Tämä ei olisi niin vakava asia, jos vesi ohjautuisi rakennuksen ulkopuolelle, ts. puukoolaus eli korotus- eli tuuletusrimat olisi asennettu tuulettuvien ruoteiden alapuolelle.
   - [ta.dm - private](https://docs.google.com/document/d/1V95Pare4M7BB680VezH-E90oz8--FcJ9Y5oabQgYxK4/edit?usp=sharing)
 
 > Kosteus ilmassa,
-Tiivistyy nyt pisaroiksi,
-Kondenssi syntyy.
+> Tiivistyy nyt pisaroiksi,
+> Kondenssi syntyy.
 
 > Vesi katolla,
-Aluskate ohjaa sen pois,
-Turva talolle.
+> Aluskate ohjaa sen pois,
+> Turva talolle.
 
 - [kuivaketju10.fi](http://kuivaketju10.fi/) [PDF - riskitekijät](http://kuivaketju10.fi/wp/wp-content/uploads/2015/11/Kuivaketju10-Riskilista_20161130.pdf?x70712)
   - "Vesikatteen läpäisevä vesi tunkeutuu aluskatteen vuotokohdista yläpohjaan.": 
@@ -52,3 +53,8 @@ alaräystäälle. (Kattoliitto 2013, 77.)" ja "Rakenteisiin kerääntynyt kosteu
 
 ![i.02.underlayment](/assets/pics/page/roof/aluskate.jpg){: .mx-auto.d-block :}
 Fig) Aluskate ei vie vettä esteettömästi räystäällä oleviin vedenpoistojärjestelmiin. Aluskatteen yläpuolella olevat tuulettuvat teräsruoteet ohjaavat veden rakenteisiin. Kireälle asennettu ja vaakaruoteiden taakse patoutunut vesi on oletattevasti haurastuttanut muovisen aluskatekalvon jo muutamassa vuodessa. Ks. RIL 250-2020, s.82.
+
+# linkkejä
+
+- "Peltikaton alapinta kondensoi ja aiheuttaa kosteusrasitusta yläpohjan rakenteille" [Mikrobivaurioiden tunnistaminen ja riskien arviointi peruskorjauskohteissa, Marjut Mõttus, 2022 PDF](https://www.theseus.fi/bitstream/handle/10024/753808/Mottus_Marjut.pdf), s.49.
+- Aluskatteen kiinnitys tuuletusrimalla, kuvia, [www.rakentaja.fi](https://www.rakentaja.fi/tv/tulosta383tulosta.aspx?id=383)
