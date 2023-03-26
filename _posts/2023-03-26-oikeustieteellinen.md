@@ -7,7 +7,7 @@ tags:
   - pääsykoe
 comments: false
 cover-img: /assets/pics/cover/photo/moon.JPG
-thumbnail-img: /assets/pics/thumbnail/instagram/IMG_20160717_171645.jpg
+thumbnail-img: /assets/pics/thumbnail/photo/text-to-3d-texture-italy-runway-ml.jpg
 published: true
 ---
 
