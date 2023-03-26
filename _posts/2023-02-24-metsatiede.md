@@ -139,6 +139,10 @@ Politiikan tutkimus kiinnostunut "näkynättömistä" asioista. Mikä on Suomen 
 - Muihin lähteisiin blogitekstissä linkit.
 
 
+# Suomen sahat
+
+Talouselämässä 5/2023 listattiin Suomen 20 suurinta sahayritystä. Wikipediasta löytyy kattavampi [lista](https://fi.wikipedia.org/wiki/Luettelo_Suomen_sahoista). Google Mapsin päällä [Suomen Sahat ry:n jäsensahat kartalla](https://www.google.com/maps/d/u/0/viewer?mid=1rQ0aQIE_CJAGkNOI2p-PAyKncr0&ll=62.70565086504998%2C27.030723249999987&z=6). Länsi-Suomessa Luvian Saha (Eurajoki, liikevaihto 115.5 milj.€) ja Wesas Group (Koski Tl, liikevaihto 175,2 milj.€ (v.2021)) sekä Isojoen Saha (Isojoki, 60 milj.€). Artikkelissa todetaan, että sahojen kannattavuus perustuu osittain omaan puunhankintaan. Tällä varmistetaan saannin haluttuun mittaan katkottuna. Myös UPM, Metsä Group ja Stora Enso toimittavat raaka-ainetta sahoille. 
+
 ## Metsään meneviä linkkejä
 
 - [Enemmän rahaa vähemmästä puusta - Piia Elonen 26.2.2023 HS](https://www.hs.fi/mielipide/art-2000009394596.html): "Metsäala voidaan jakaa kolmeen haaraan: metsätalouteen (puuston kasvatus ja puunkorjuu), puutuoteteollisuuteen (sahatavara ja puulevyt) ja kuituteollisuuteen (sellu, paperi ja kartonki).", "Luken laskelman mukaan puolet kuusi- ja mäntysahatavarasta pitäisi käyttää [clt](https://fi.wikipedia.org/wiki/CLT)-tuotantoon Suomessa.", "Luken arvion mukaan kyse on noin 20 miljardin euron investointitarpeesta."
@@ -147,6 +151,8 @@ Politiikan tutkimus kiinnostunut "näkynättömistä" asioista. Mikä on Suomen 
   - Harvennustarpeen ja puumäärän määrittäminen relaskoopin ja kepin avulla: [video](https://www.youtube.com/watch?v=wQcKCJRS8Zo)
 - Metsänmittauksen perusteet [TKK - Ilkka Korpela, Helsingin Yliopisto, 1997](https://www.mv.helsinki.fi/home/korpela/tkk.html)
 - [Taimikon runkoluvun määrittäminen](http://www.puuntuottaja.com/taimikon-runkoluvun-maarittaminen/)
+- Metsien monimuotoisuus ja "kuusettuminen" [sahateollisuus.com](https://sahateollisuus.com/2023/02/28/tuoretta-tutkimustietoa-metsien-monimuotoisuudesta-mustikan-lahopuun-ja-isojen-haapojen-maara-kasvussa-kuusettuminen-huolenaiheena/)
+
 
 ### Vastuuvapauslauseke
 

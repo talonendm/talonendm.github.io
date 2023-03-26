@@ -11,11 +11,8 @@ tags:
 - [2020-12-17-wines](https://talonendm.github.io/2020-12-17-wines/)
 - [2022-10-30-aiart](https://talonendm.github.io/2022-10-30-aiart/): wombo, teachable machine, p5 etc.
 - [Nimenhuuto](https://nimenhuuto.com/users/sessions)
+- [DOCS - poimintoja lehdistä - private ta.dm](https://docs.google.com/document/d/1ZEJUtwZs-oa7OkBlFb1pq_87FhP5y90KmF5MfqEn05U/edit?usp=sharing): kirjoittaminen
 
-
-# Remontointi
-
-[DOCS - remontti 2023 - private](https://docs.google.com/document/d/1NhHTMk0GU4PR4X0--GB0hOznUhG2eIfkZpp8H5n3jZ8/edit?usp=sharing): talon maalaus ja sokkeli ([548X](https://tikkurila.fi/varit/548x-548x)). 
 
 # Studies
 
