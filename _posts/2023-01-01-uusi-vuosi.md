@@ -31,6 +31,7 @@ Puhe katsottavissa kokonaisuudessaan [Areenassa](https://areena.yle.fi/1-6422813
 ## Oikeus
 
 - [Lasse Kerkelä HS 18.1.2023 13:33](https://www.hs.fi/kotimaa/art-2000009332729.html), "Uber vältti syyttäjän miljoona­vaatimuksen: Haaste toimitettiin kolme päivää myöhässä": "SYYTTÄJÄ jätti toukokuussa 2022 Uberia koskevan rikoshyödyn menettämisvaatimuksen Helsingin käräjäoikeuteen." ja "Asian oikeuskäsittely raukesi viime marraskuussa, koska syyttäjä peruutti vaatimuksen rikoshyödyn menettämisestä valtiolle. Syynä oli se, ettei haastehakemusta saatu toimitettua ajoissa Uberille Hollannissa." ja "Hollannista saapuneen tiedoksiantotodistuksen mukaan haastehakemus annettiin siellä tiedoksi yhtiölle 17. elokuuta viime vuonna."
+- [Mies laski vuosien ajan kuumaa vettä kodissaan Puna­vuoressa - HS 26.3.2023](https://www.hs.fi/kaupunki/art-2000009472021.html): "Uskoi vesi­höyryn terveys­vaikutuksiin Mies valutti tuntikausia kuumaa vettä hanasta ja aiheutti taloyhtiöön kymmenien tuhansien eurojen korjauslaskut."
 
 ## Energia
 
