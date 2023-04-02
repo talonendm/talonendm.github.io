@@ -189,6 +189,13 @@ Most of my travel diary notes / logbooks are complete mess and even rather "stup
 
 # Norway
 
+## Kieli
+
+- [Opi Norjan kieli | 350 Lausekkeet Norjan ja suomeksi - YouTube](https://www.youtube.com/watch?v=UT-4qVRfSzY)
+- snakker du engelsk?
+  
+
+
 # Portugal
 
 - Lisbon
