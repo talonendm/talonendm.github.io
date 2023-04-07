@@ -5,6 +5,7 @@ subtitle: edit pics
 tags:
   - Thumbnail
   - editor
+  - p5js
 comments: false
 cover-img: /assets/pics/page/lego/dudes.jpg
 thumbnail-img: /assets/pics/thumbnail/photo/e384/e-amigadisk.jpg
@@ -57,7 +58,7 @@ function setup() {
   const canvas = createCanvas(iw, ih);
   canvas.parent('sketch-holder-jt-xml')
   input = createFileInput(handleFile);
-  input.position(0, ih);
+  input.position(0, ih + 200);
 
   // const canvas = createCanvas(windowWidth*0.7, 400);
   // canvas.parent('sketch-holder-jt-xml')
@@ -168,6 +169,31 @@ function mouseDragged() {
 </script>
 
 
-# Services
+# Keys
+
+- z, x: Zoom
+- c, v: Angle
+- s: save
+
+# Links
 
 - test: available in [p5editor](https://editor.p5js.org/haques/sketches/c821CzPas)
+- [Forest Story](https://talonendm.github.io/ballrotation/foreststory/)
+
+
+### Vastuuvapauslauseke
+
+> Tieto ja huolellisuus,
+Virheet silti aiheuttavat tuskaa,
+Muutoksia uskallamme tehdä.
+
+Tämä julkaisu on tehty parhaan oman tietämyksemme ja ymmärtämyksemme pohjalta. Olemme tehneet kaiken voitavamme tietojen täsmällisyyden ja oikeellisuuden takaamiseksi, [talonendm](https://talonendm.github.io/) ei ole vastuussa mistään virheistä tai puutteista tai mistään suorasta, epäsuorasta tai välillisestä
+vahingosta, joka on aiheutunut tietojen virheellisestä soveltamisesta. Pidätämme oikeuden muutoksiin.
+
+### Disclaimer
+
+> Our knowledge and care,
+May errors still cause despair,
+Changes we may dare.
+
+This publication has been made based on our best knowledge and understanding. We have done everything in our power to ensure the accuracy and correctness of the information.[talonendm](https://talonendm.github.io/) is not responsible for any errors or omissions or for any direct, indirect, or consequential damages arising from the incorrect application of the information. We reserve the right to make changes.

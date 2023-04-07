@@ -12,7 +12,7 @@ tags:
 - [2022-10-30-aiart](https://talonendm.github.io/2022-10-30-aiart/): wombo, teachable machine, p5 etc.
 - [Nimenhuuto](https://nimenhuuto.com/users/sessions)
 - [DOCS - poimintoja lehdistä - private ta.dm](https://docs.google.com/document/d/1ZEJUtwZs-oa7OkBlFb1pq_87FhP5y90KmF5MfqEn05U/edit?usp=sharing): kirjoittaminen
-
+- [Forest Story](https://talonendm.github.io/ballrotation/foreststory/)
 
 # Studies
 
