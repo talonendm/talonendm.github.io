@@ -58,3 +58,9 @@ Fig) Aluskate ei vie vettä esteettömästi räystäällä oleviin vedenpoistoj�
 
 - "Peltikaton alapinta kondensoi ja aiheuttaa kosteusrasitusta yläpohjan rakenteille" [Mikrobivaurioiden tunnistaminen ja riskien arviointi peruskorjauskohteissa, Marjut Mõttus, 2022 PDF](https://www.theseus.fi/bitstream/handle/10024/753808/Mottus_Marjut.pdf), s.49.
 - Aluskatteen kiinnitys tuuletusrimalla, kuvia, [www.rakentaja.fi](https://www.rakentaja.fi/tv/tulosta383tulosta.aspx?id=383)
+
+
+### Vastuuvapauslauseke
+
+Tämä julkaisu on tehty parhaan oman tietämyksemme ja ymmärtämyksemme pohjalta. Olemme tehneet kaiken voitavamme tietojen täsmällisyyden ja oikeellisuuden takaamiseksi, [talonendm](https://talonendm.github.io/) ei ole vastuussa mistään virheistä tai puutteista tai mistään suorasta, epäsuorasta tai välillisestä
+vahingosta, joka on aiheutunut tietojen virheellisestä soveltamisesta. Pidätämme oikeuden muutoksiin.

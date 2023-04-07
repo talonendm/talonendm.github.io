@@ -65,3 +65,9 @@ Aiempaa kirjallisuutta:
 - [Amoslaki](https://amoslaki.fi/)
 - [Jurentia](https://www.jurentia.fi/lakitoimisto/)
 - [Uudenmaan Lakimiehet Oy](https://www.uudenmaanlakimiehet.fi/)
+
+
+### Vastuuvapauslauseke
+
+Tämä julkaisu on tehty parhaan oman tietämyksemme ja ymmärtämyksemme pohjalta. Olemme tehneet kaiken voitavamme tietojen täsmällisyyden ja oikeellisuuden takaamiseksi, [talonendm](https://talonendm.github.io/) ei ole vastuussa mistään virheistä tai puutteista tai mistään suorasta, epäsuorasta tai välillisestä
+vahingosta, joka on aiheutunut tietojen virheellisestä soveltamisesta. Pidätämme oikeuden muutoksiin.
