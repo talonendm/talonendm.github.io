@@ -102,7 +102,8 @@ Metsätuholaki [1.1.2022 alkaen](https://www.metsakeskus.fi/fi/ajankohtaista/met
 - 18.3.2023 Omenapuiden leikkaaminen
 - 21.3.2023 Rhodon suojaaminen aurinkoverkolla
 - 22.3.2023: "Maan etelä- ja keskiosiin kulkeutuu lepän siitepölyä etelämpää Euroopasta. Lepän siitepölymäärät ovat enimmäkseen vähäisiä, mutta määrät voivat nousta maan eteläosissa ajoittain kohtalaisiksi. Sade laskee ilman siitepölymääriä." [Norkko siitepölytiedote](https://www.norkko.fi/)
-  
+ - 2.4.2023 ja 4.4.2023: omenapuulla vilinää: punatulkku, [närhi](https://fi.wikipedia.org/wiki/N%C3%A4rhi) (Garrulus glandarius) ja käpytikka. Närhi: "Sen pituus on 32 – 35 cm, ja sen siipien kärkiväli on 54 – 58 cm. Perusväriltään närhi on punertavan beigenruskea." [tiedonportailla.fi](https://www.tiedonportailla.fi/narhi/)
+ - 4.4.2023: pähkinäpensas C ja leppä L. 
 
 
 # 2022
@@ -116,7 +117,7 @@ Metsätuholaki [1.1.2022 alkaen](https://www.metsakeskus.fi/fi/ajankohtaista/met
 - 16.4.2022: Syyshortensian leikkaus, 3. silmuparin yläpuolelta.
 - 26.4.2022: Tumman violetit ja keltaiset [krookukset](https://www.kekkila.fi/kasvikirjasto/krookus/) kukkivat.
 - 26.4.2022: [Scilla](https://fi.wikipedia.org/wiki/Id%C3%A4nsinililja) kukkivat.
-- 27.4.2022: Mahlan valatusta kahdesta koivusta.
+- 27.4.2022: Mahlan valutusta kahdesta koivusta.
 - 28.4.2022: Mahlan tuotanto noin 7 litraa yössä. Maksimissaan jopa 10 litraa vuorokaudessa / koivu.
 
 ## May - Toukokuu 2022

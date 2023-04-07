@@ -43,6 +43,7 @@ Norja ja tuulivoimaan liittyviä uutisia:
 
 - [Korkein oikeus päätti Norjassa: tuulivoimalat rikkovat saamelaisten oikeuksia - IL 11.10.2021](https://www.iltalehti.fi/ulkomaat/a/671f7f7f-8939-4048-a2e3-f1b43bf728da): "Roanin ja Storheian alueella on noin 150 tuulivoimayksikköä."
 - [1,3 miljardin upouudet tuulipuistot odottavat purkupäätöstä Norjassa – Ongelmat uhkaavat kaatua myös suomalaisten syliin](https://www.tekniikkatalous.fi/uutiset/1-3-miljardin-upouudet-tuulipuistot-odottavat-purkupaatosta-norjassa-ongelmat-uhkaavat-kaatua-myos-suomalaisten-syliin/f0ddc0c6-ce8a-48d2-a2af-09320ee4900b): paperilehdestä 6.5.2022: "Puistoista oli tehty tarkat selvitykset ja lupien piti olla kunnossa." Tämä voi tuottaa haasteita myös esimerkiksi SSAB:n Raahen tehtaalle. Se pyrkii olemaan tulevaisuudessa hiilidioksidivapaa vetypelkistysprosessinsa ansiosta.
+- [Taistelu tuulimyllyjä vastaan - HS 29.3.2023 (Paperilehti: Kainuun vaaroilla kytee tuulivoimakapina)](https://www.hs.fi/politiikka/art-2000009451389.html), katso myös: [Kainuun tuulivoimamaakuntakaava PDF](https://kainuunliitto.fi/assets/uploads/2020/09/.kainuu_tuulivoimamaakuntakaava_web.pdf): "Valtioneuvoston asetuksen mukaan tuulivoimasta saa kantautua asutukseen yöaikaan korkeintaan 40 desibelin melu. Se ohjaa hankkeita syrjäseuduille."
  
 ## Haasteet
 
@@ -145,6 +146,7 @@ Joulukuusesta. "Kännykän hiilijalanjälki on noin 50–100 kiloa ja kannettava
 - [Hömötiainen - HS 29.12.2022](https://www.hs.fi/kotimaa/art-2000009293280.html) ja yliopistotutkimus [tiaisista](https://www.oulu.fi/fi/uutiset/tiaiset-avuksi-metsalintujen-laskentaan): Lahot pökkelöt ovat tiaisille elinehto. Talvi menee sinnitellessä, esim. puun kaarnan kolojen alla.
 - Metsä
   - Ensiharvennus: [Metsien ensiharvennukset eivät ole suositusten mukaisia UUTINEN - 19.12.2022 12:52](https://www.metsakeskus.fi/fi/ajankohtaista/metsien-ensiharvennukset-eivat-ole-suositusten-mukaisia)
+- [Forest Story](https://talonendm.github.io/ballrotation/foreststory/)
 
 
 ### Vastuuvapauslauseke

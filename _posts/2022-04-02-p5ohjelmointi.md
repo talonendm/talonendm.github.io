@@ -5,6 +5,9 @@ subtitle: Taidetta koodaamalla - luovaa toimintaa
 tags:
   - p5
   - svg
+  - npm
+  - nodejs
+  - laser template
 comments: true
 cover-img: /assets/pics/cover/photo/lasercutHiveCover.jpg
 thumbnail-img: /assets/pics/thumbnail/photo/app.jpg
@@ -94,6 +97,41 @@ Kuviot seuraavat hiiren liikkeitä, katso ja kokeile: [mouseX ja mouseY](https:/
 
 Nostoauto esimerkki [täällä](https://maol.fi/materiaalit/taidetta-ohjelmoimalla/5-muuttujat/nostoauto/) ja kopio editoitavissa omassa P5-editorissa: <a href="https://editor.p5js.org/haques/sketches/McqXpW-WZ" target="_blank" rel="noopener"><span>Nostoauto - MAOL</span> </a>
 
+
+
+
+# NPM
+
+Olen käyttänyt [p5.svg-pakettia](https://github.com/zenozeng/p5.js-svg). Siitä tehty *build* on ollut jaossa unpkg palvelussa (https://unpkg.com/p5.js-svg). Kirjastosta ei ollut GitHub sivuilla pakettia, jota olisi voinut käyttää suoraan esimerkiksi p5-editorissa. Tästä johtuen oli käytettävä [Nodejs:ää](https://nodejs.org/en). Lataa asennus paketti (4/2023: 18.15.0 LTS) - an open-source, cross-platform JavaScript runtime environment. 
+
+
+"The main goal of [p5.SVG](https://www.npmjs.com/package/p5.js-svg) is to provide a SVG runtime for p5.js, so that we can draw using p5's powerful API in <svg>, save things to svg file and manipulating existing SVG file without rasterization."
+
+Following command was available [here](https://www.npmjs.com/package/p5.js-svg):
+
+~~~
+npm i p5.js-svg
+~~~
+
+To build dist files after cloning repo, you can run:
+
+~~~
+npm install
+npm run build
+~~~
+
+Löytyy täältä: C:\p5svg\node_modules\p5.js-svg\dist ja ladattu mm. [p5editoriin templateen](https://editor.p5js.org/haques/sketches/ezehfc4lr)
+
+Coding train: [Node.js](https://www.youtube.com/watch?v=RF5_MPSNAtU&t=4s), [npm](https://www.youtube.com/watch?v=s70-Vsud9Vk&t=63s)
+
+## NPM muuta
+
+- https://www.npmjs.com/package/p5.capture
+- https://www.npmjs.com/package/p5bezier
+
+## SVG experiments
+
+mask, angle, etc., see p5editor [laser-img-230401](https://editor.p5js.org/haques/sketches/WkRe93gxw)
 
 # Lisämateriaalia
 
