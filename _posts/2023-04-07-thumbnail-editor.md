@@ -41,7 +41,8 @@ window.addEventListener('keydown', function(e) {
 let input;
 let img;
 var tiedostonimi = "";
-var z = 0.7;
+var z0 = 0.7; // 0.7;
+var z;
 var x = 0;
 var y = 0;
 var a = 0;
@@ -50,6 +51,12 @@ let ih = 384;
 var nayta = true;
 var tallenna = false;
 
+// copy
+// var copyteksti = "\u00A9 ta.dm 2023";
+var copyteksti = "\u00A9      2023";
+var copyteksti2 = "talon\nendm" 
+var copysize = 14;
+var infotekstisize = 16;
 
 // called once
 function setup() {
@@ -59,7 +66,7 @@ function setup() {
   canvas.parent('sketch-holder-jt-xml')
   input = createFileInput(handleFile);
   input.position(0, ih + 200);
-
+  z = z0;
   // const canvas = createCanvas(windowWidth*0.7, 400);
   // canvas.parent('sketch-holder-jt-xml')
   
@@ -80,26 +87,36 @@ function draw() {
   pop();
   
   
+  
+  textSize(copysize);
   textAlign(RIGHT,BOTTOM);
   fill(30);
-  text("\u00A9 ta.dm 2023", iw-1-2,ih-1);
+  text(copyteksti, iw-1-2,ih-1);
   fill(150,150);
-  text("\u00A9 ta.dm 2023", iw-2,ih);
+  text(copyteksti, iw-2,ih);
+  
+  textSize(copysize/2+1);
+  textAlign(CENTER,BOTTOM);
+  fill(30);
+  text(copyteksti2, iw-1-2-44,ih-1);
+  fill(150,150);
+  text(copyteksti2, iw-2-44,ih);
   
   if (nayta & tiedostonimi != "" & !tallenna) {
     textAlign(LEFT,TOP);
     fill(50,150);
+    textSize(infotekstisize);
     
     let le = round(img.width*z);
     let ko = round(img.height*z);
-    text(x + "," + y + ":(" + le + "," + ko +")", 0, 0);
+    text(x + "," + y + ":(" + le + "," + ko +") zoom: " + round(z*100) + "%", 0, 0);
     
     if (iw>le+x | ih>ko+y | x>0 | y>0) {
       fill(255,0,0);
     } else {
       fill(0,255,0);
     }
-    text(x + "," + y + ":(" + le + "," + ko +")", 1, 1);
+    text(x + "," + y + ":(" + le + "," + ko +") zoom: " + round(z*100) + "%", 1, 1);
   }
 
   if (tallenna) {
@@ -114,7 +131,7 @@ function handleFile(file) {
   print(tiedostonimi);
   x = 0;
   y = 0;
-  z = 1;
+  z = z0;
   a = 0;
   if (file.type === 'image') {
     img = createImg(file.data, '');
