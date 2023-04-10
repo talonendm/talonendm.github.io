@@ -104,6 +104,7 @@ Metsätuholaki [1.1.2022 alkaen](https://www.metsakeskus.fi/fi/ajankohtaista/met
 - 22.3.2023: "Maan etelä- ja keskiosiin kulkeutuu lepän siitepölyä etelämpää Euroopasta. Lepän siitepölymäärät ovat enimmäkseen vähäisiä, mutta määrät voivat nousta maan eteläosissa ajoittain kohtalaisiksi. Sade laskee ilman siitepölymääriä." [Norkko siitepölytiedote](https://www.norkko.fi/)
  - 2.4.2023 ja 4.4.2023: omenapuulla vilinää: punatulkku, [närhi](https://fi.wikipedia.org/wiki/N%C3%A4rhi) (Garrulus glandarius) ja käpytikka. Närhi: "Sen pituus on 32 – 35 cm, ja sen siipien kärkiväli on 54 – 58 cm. Perusväriltään närhi on punertavan beigenruskea." [tiedonportailla.fi](https://www.tiedonportailla.fi/narhi/)
  - 4.4.2023: pähkinäpensas C ja leppä L. 
+ - 10.4.2023: [pähkinäpensas C ja leppä LLL](https://norkko.fi/).
 
 
 # 2022

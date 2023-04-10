@@ -7,7 +7,7 @@ tags:
   - pääsykoe
 comments: false
 cover-img: /assets/pics/cover/photo/moon.JPG
-thumbnail-img: /assets/pics/thumbnail/photo/text-to-3d-texture-italy-runway-ml.jpg
+thumbnail-img: /assets/pics/thumbnail/photo/e384/e-lawtalo.jpg
 published: true
 ---
 
