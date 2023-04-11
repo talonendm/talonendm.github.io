@@ -39,6 +39,7 @@ Oikeusturvajärjestelmän pääpiirteet."
 - OIKIS2022: "Kaiken kaikkiaan opiskelupaikkoja oikeustieteelliseen on jaossa vuonna 2023 yhteensä 622. Paikkoja on jaossa 16 vähemmän kuin vuonna 2022, jolloin paikkoja oli 638." ja "Oikeustieteellisten tiedekuntien suomenkielisiin oikeusnotaarin koulutusohjelmiin haki vuonna 2022 päähaun kautta yhteensä 4 098 ensisijaista hakijaa, ja kaikkia hakijoita oli 5277." [oikeustiede.com][def-oikeustiede]
 - [rakennusriidat, kuluttajansuojalaki luku 9](https://www.rakennusriidat.fi/kuluttajansuojalaki)
 - [Pienpuolueen ehdokkaista joka toisella tuore rikos­syyte – Katso kaikkien ehdokkaiden syytteet, HS 17.3.2023](https://www.hs.fi/politiikka/art-2000009453576.html)
+- [Putkiyritys teki asennusvirheen ja pesuhuoneen vanha vedeneristys petti – kiista muutaman tonnin vahingosta maksoi kymppitonneja töpeksijöille](https://www.is.fi/taloussanomat/art-2000009512071.html): "Yritykselle kiistasta koituu kaikkiaan noin 31 000 euron ja omistajapariskunnalle noin 11 500 euron kulut. Hovioikeuteen vieminen säästi omistajalta noin 10 000 euroa. Asioista sopiminen, olisi säästänyt vielä enemmän. Voittajina selvisivät asianajajan, joiden laskutus muutaman tonnin riidassa nousi yli 37 000 euron."
 
 ### Vastuuvapauslauseke
 
