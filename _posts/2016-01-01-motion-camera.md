@@ -10,7 +10,7 @@ tags:
   - security
 comments: false
 cover-img: /assets/pics/cover/photo/sunflower.JPG
-thumbnail-img: /assets/pics/thumbnail/photo/sieni2016.JPG
+thumbnail-img: /assets/pics/thumbnail/photo/e384/e2/e-space-bug-0003.jpg
 published: true
 ---
 
