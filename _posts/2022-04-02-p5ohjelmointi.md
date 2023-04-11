@@ -98,8 +98,6 @@ Kuviot seuraavat hiiren liikkeitä, katso ja kokeile: [mouseX ja mouseY](https:/
 Nostoauto esimerkki [täällä](https://maol.fi/materiaalit/taidetta-ohjelmoimalla/5-muuttujat/nostoauto/) ja kopio editoitavissa omassa P5-editorissa: <a href="https://editor.p5js.org/haques/sketches/McqXpW-WZ" target="_blank" rel="noopener"><span>Nostoauto - MAOL</span> </a>
 
 
-
-
 # NPM
 
 Olen käyttänyt [p5.svg-pakettia](https://github.com/zenozeng/p5.js-svg). Siitä tehty *build* on ollut jaossa unpkg palvelussa (https://unpkg.com/p5.js-svg). Kirjastosta ei ollut GitHub sivuilla pakettia, jota olisi voinut käyttää suoraan esimerkiksi p5-editorissa. Tästä johtuen oli käytettävä [Nodejs:ää](https://nodejs.org/en). Lataa asennus paketti (4/2023: 18.15.0 LTS) - an open-source, cross-platform JavaScript runtime environment. 
@@ -137,6 +135,16 @@ mask, angle, etc., see p5editor [laser-img-230401](https://editor.p5js.org/haque
 
 - peliohjelmointiin vinkkejä: [pulustudio.com](https://www.pulustudio.com/asteroids-pelin-ohjelmointi/). 
 - p5-komentoja (reference) englanniksi: [p5js.org/reference](https://p5js.org/reference/).
+
+## p5 references
+
+- [resizeCanvas](https://p5js.org/reference/#/p5/resizeCanvas): muuta piirtoalueen suuruutta
+- [p5editor - thumbnailEditor](https://editor.p5js.org/haques/sketches/c821CzPas)
+- mouseDragged
+
+### Tips
+
+- [zeroPad](https://stackoverflow.com/questions/2998784/how-to-output-numbers-with-leading-zeros-in-javascript): leading zeros
 
 # Auta Ukrainaa
 

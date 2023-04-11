@@ -38,6 +38,11 @@ window.addEventListener('keydown', function(e) {
 // ta.dm 2023 thumbnail editor
 // .........................................................
 
+// tallennus manual
+var enabletallennusnimi = true;
+var tallennusnimi = "kirjanpito";
+var tallennusnumero = 1;
+
 let input;
 let img;
 var tiedostonimi = "";
@@ -109,14 +114,20 @@ function draw() {
     
     let le = round(img.width*z);
     let ko = round(img.height*z);
-    text(x + "," + y + ":(" + le + "," + ko +") zoom: " + round(z*100) + "%", 0, 0);
+    let infonaytateksti = x + "," + y + ":(" + le + "," + ko +") zoom: " + round(z*100) + "%";
+    
+  if (enabletallennusnimi) {
+    infonaytateksti = infonaytateksti + " framesave:" + tallennusnumero
+  }
+
+    text(infonaytateksti, 0, 0);
     
     if (iw>le+x | ih>ko+y | x>0 | y>0) {
       fill(255,0,0);
     } else {
       fill(0,255,0);
     }
-    text(x + "," + y + ":(" + le + "," + ko +") zoom: " + round(z*100) + "%", 1, 1);
+    text(infonaytateksti, 1, 1);
   }
 
   if (tallenna) {
@@ -142,6 +153,11 @@ function handleFile(file) {
 }
 
 function keyPressed() {
+
+ if (key == 'e') {
+    enabletallennusnimi = !enabletallennusnimi;
+  }
+
   if (key == 'z') {
     z = z - 0.05;
   }
@@ -159,6 +175,41 @@ function keyPressed() {
     nayta = !nayta;
   }
   
+  if (key == "r") {
+
+    let maxcanvasmaara = 3;
+
+    canvaskoko = canvaskoko + 1;
+    if (canvaskoko > maxcanvasmaara) canvaskoko = 1;
+
+    if (canvaskoko == 1) {
+      iw = 384;
+      ih = 384;
+      resizeCanvas(iw, ih);
+    } else if (canvaskoko == 2) {
+      iw = 640;
+      ih = 384;
+      resizeCanvas(iw, ih);
+    } else {
+      resizeCanvas(windowWidth, windowHeight);
+    }
+  }
+
+  if (key == "-") {
+    tallennusnumero = tallennusnumero - 1;
+  }
+  if (key == "+") {
+    tallennusnumero = tallennusnumero + 1;
+  }
+
+  if (key == "s") {
+    // saveCanvas('auringonkukka', 'jpg');
+    // saveCanvas("e-" + tiedostonimi, 'jpg');
+    tallenna = true;
+    //saveCanvas("e-" + tiedostonimi, 'jpg');
+  }
+
+
   if (key == 's') {
     // saveCanvas('auringonkukka', 'jpg');
     // saveCanvas("e-" + tiedostonimi, 'jpg');
@@ -189,8 +240,13 @@ function mouseDragged() {
 # Keys
 
 - z, x: Zoom
-- c, v: Angle
+- c, v: Rotate - Angle
 - s: save
+- e: use frame numbering
+- r: resize Canvas
+- -: frame -1
+- +: frame +1
+- i: show info
 
 # Links
 
