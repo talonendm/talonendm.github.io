@@ -62,7 +62,7 @@ social-network-links:
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
-#  youtube: user/deanat78
+  youtube: user/fundingball
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -71,7 +71,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
+  ORCID: 0000-0001-9536-6766
   google-scholar: citations?user=Nyq8O44AAAAJ&hl=en
 
 # If you want to show a link to an RSS in the footer, add the site description here.
