@@ -39,7 +39,8 @@ window.addEventListener('keydown', function(e) {
 // .........................................................
 
 // tallennus manual
-var enabletallennusnimi = true;
+// key: e
+var enabletallennusnimi = false;
 var tallennusnimi = "kirjanpito";
 var tallennusnumero = 1;
 
@@ -132,9 +133,24 @@ function draw() {
 
   if (tallenna) {
     tallenna = false;
-    saveCanvas("e-" + tiedostonimi, 'jpg');
+       if (enabletallennusnimi) {
+      saveCanvas(
+        "e-" + tallennusnimi + "-" + zeroPad(tallennusnumero, 4),
+        "jpg"
+      );
+    } else {
+      saveCanvas("e-" + tiedostonimi, "jpg");
+    }
   }
 }
+
+
+// https://stackoverflow.com/questions/2998784/how-to-output-numbers-with-leading-zeros-in-javascript
+function zeroPad(num, places) {
+  var zero = places - num.toString().length + 1;
+  return Array(+(zero > 0 && zero)).join("0") + num;
+}
+
 
 function handleFile(file) {
   print(file);
