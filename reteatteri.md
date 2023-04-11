@@ -47,3 +47,22 @@ talonen.dm: files:
 - [Fin Carré Milk Chocolate with Salty Liquorice](https://anna.fi/ruoka/ruokajutut/salmiakkisuklaat-makutestissa-voittajasuklaa-sai-useammalta-taydet-pisteet-tassa-ruutia) 
 - Bikarbonat - ruokasoodaa paistettuun sipuliin. (baking soda)
 - Blinit: anna taikinan tekeytyä pidempään kuin 4 tuntia. Käytä reilusti voita. Valkuaisvaahto lopuksi, tee se erittäin varovaisesti, muuten taikina saattaa lässähtää. Katso esim. [HS](https://www.hs.fi/ruoka/art-2000009347173.html). Blineille viini: [La Nantaise](https://viinilehti.fi/viinit/la-nantaise-muscadet-sevre-et-maine-2020/)
+
+
+# Food Art
+
+## Mämmi
+
+> "Mämmi," a Finnish dish unique and strange,
+Eaten only at Easter, a custom to arrange.
+Made from rye, malt and water brewed,
+Baked to black, served with cream or sugar subdued.
+
+> Its taste is odd, but tradition remains,
+Passed down for centuries with no refrains.
+A symbol of Easter, a memory to cherish,
+Mämmi is a dish that Finns simply relish.
+
+### Facts
+
+- [HS 7.4.2023](https://www.hs.fi/ruoka/art-2000009503474.html)
