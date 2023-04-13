@@ -152,6 +152,7 @@ Talouselämässä 5/2023 listattiin Suomen 20 suurinta sahayritystä. Wikipedias
 - Metsänmittauksen perusteet [TKK - Ilkka Korpela, Helsingin Yliopisto, 1997](https://www.mv.helsinki.fi/home/korpela/tkk.html)
 - [Taimikon runkoluvun määrittäminen](http://www.puuntuottaja.com/taimikon-runkoluvun-maarittaminen/)
 - Metsien monimuotoisuus ja "kuusettuminen" [sahateollisuus.com](https://sahateollisuus.com/2023/02/28/tuoretta-tutkimustietoa-metsien-monimuotoisuudesta-mustikan-lahopuun-ja-isojen-haapojen-maara-kasvussa-kuusettuminen-huolenaiheena/)
+- [Riittääkö puu? - HS 11.4.2023](https://www.hs.fi/talous/art-2000009499309.html): Suomessa hakattiin viime vuonna 74,7 miljoonaa kuutiometriä puuta, ja suurin osa siitä käytettiin puunjalostusteollisuuden tarpeisiin. Poistuma yhteensä noin 89 miljoonaa kuutiometriä eli 14 miljoonaa kuutiometriä jää metsään ja kuolee (luonnonpoistuma ja hakkuiden hukkapuu). 
 
 
 ### Vastuuvapauslauseke

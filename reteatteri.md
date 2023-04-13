@@ -66,3 +66,8 @@ Mämmi is a dish that Finns simply relish.
 ### Facts
 
 - [HS 7.4.2023](https://www.hs.fi/ruoka/art-2000009503474.html)
+
+# Extra
+
+- [ohrasuurimot](https://kotiliesi.fi/resepti/ohrasuurimot/)
+
