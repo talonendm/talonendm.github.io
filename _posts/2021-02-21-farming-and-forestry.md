@@ -105,6 +105,7 @@ Metsätuholaki [1.1.2022 alkaen](https://www.metsakeskus.fi/fi/ajankohtaista/met
  - 2.4.2023 ja 4.4.2023: omenapuulla vilinää: punatulkku, [närhi](https://fi.wikipedia.org/wiki/N%C3%A4rhi) (Garrulus glandarius) ja käpytikka. Närhi: "Sen pituus on 32 – 35 cm, ja sen siipien kärkiväli on 54 – 58 cm. Perusväriltään närhi on punertavan beigenruskea." [tiedonportailla.fi](https://www.tiedonportailla.fi/narhi/)
  - 4.4.2023: pähkinäpensas C ja leppä L. 
  - 10.4.2023: [pähkinäpensas C ja leppä LLL](https://norkko.fi/).
+ - 14.4.2023: [pähkinäpensas C ja leppä LLL](https://norkko.fi/). [Suursukeltaja](https://talonendm.github.io/2021-12-25-trace/) bongattu kattokaivosta.
 
 
 # 2022
