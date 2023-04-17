@@ -110,6 +110,7 @@ Metsätuholaki [1.1.2022 alkaen](https://www.metsakeskus.fi/fi/ajankohtaista/met
 - 16.4.2023: Mahlan valutusta koivusta, tiputtaa nopeasti. Yöpakkasia ja lämpimiä aurinkoisia päiviä ollut. Ihan niinkuin koivun tulevat silmut vähän vihertäisivät.
 - 17.4.2022: [Keisarinpikarililja](https://www.viherpeukalot.fi/keisarinpikarililja)t nousevat vauhdilla. Viime vuonna 3 vartta, nyt 4-5. Herkkä myös hallavaurioille.. voi siis olla, että tänä vuonna jää myös kukinta väliin.
 - 17.4.2023: Mahlaa n. 20 litraa vuorokaudessa. 18mm reikä liian suuri muoviputkelle. Elmukelmulla tiivistäminen ok. 
+- 17.4.2023: [Koivu K pähkinäpensas C ja leppä LLL](https://norkko.fi/)
 
 
 # 2022
