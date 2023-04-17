@@ -106,6 +106,10 @@ Metsätuholaki [1.1.2022 alkaen](https://www.metsakeskus.fi/fi/ajankohtaista/met
  - 4.4.2023: pähkinäpensas C ja leppä L. 
  - 10.4.2023: [pähkinäpensas C ja leppä LLL](https://norkko.fi/).
  - 14.4.2023: [pähkinäpensas C ja leppä LLL](https://norkko.fi/). [Suursukeltaja](https://talonendm.github.io/2021-12-25-trace/) bongattu kattokaivosta.
+- 15.4.2023: Tumman violetit ja valkoiset [krookukset](https://www.kekkila.fi/kasvikirjasto/krookus/) kukkivat.
+- 16.4.2023: Mahlan valutusta koivusta, tiputtaa nopeasti. Yöpakkasia ja lämpimiä aurinkoisia päiviä ollut. Ihan niinkuin koivun tulevat silmut vähän vihertäisivät.
+- 17.4.2022: [Keisarinpikarililja](https://www.viherpeukalot.fi/keisarinpikarililja)t nousevat vauhdilla. Viime vuonna 3 vartta, nyt 4-5. Herkkä myös hallavaurioille.. voi siis olla, että tänä vuonna jää myös kukinta väliin.
+- 17.4.2023: Mahlaa n. 20 litraa vuorokaudessa. 18mm reikä liian suuri muoviputkelle. Elmukelmulla tiivistäminen ok. 
 
 
 # 2022
