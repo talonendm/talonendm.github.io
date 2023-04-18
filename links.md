@@ -7,12 +7,19 @@ tags:
   - links
 ---
 
-- [2020-12-16-books](https://talonendm.github.io/2020-12-16-books/)
-- [2020-12-17-wines](https://talonendm.github.io/2020-12-17-wines/)
-- [2022-10-30-aiart](https://talonendm.github.io/2022-10-30-aiart/): wombo, teachable machine, p5 etc.
+
+# 2023
+
+- [Norja - Travelling](https://docs.google.com/document/d/10h1bN0ps1jTwevLAY3xna2aFz1f0oruE2Y_yMWK2xRA/edit?usp=sharing)
 - [Nimenhuuto](https://nimenhuuto.com/users/sessions)
 - [DOCS - poimintoja lehdistä - private ta.dm](https://docs.google.com/document/d/1ZEJUtwZs-oa7OkBlFb1pq_87FhP5y90KmF5MfqEn05U/edit?usp=sharing): kirjoittaminen
 - [Forest Story](https://talonendm.github.io/ballrotation/foreststory/)
+
+# 2022
+
+- [2020-12-16-books](https://talonendm.github.io/2020-12-16-books/)
+- [2020-12-17-wines](https://talonendm.github.io/2020-12-17-wines/)
+- [2022-10-30-aiart](https://talonendm.github.io/2022-10-30-aiart/): wombo, teachable machine, p5 etc.
 
 # Studies
 
