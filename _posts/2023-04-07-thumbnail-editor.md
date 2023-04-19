@@ -61,6 +61,7 @@ let iw = 384;
 let ih = 384;
 var nayta = true;
 var tallenna = false;
+var canvaskoko = 1;
 
 // copy
 // var copyteksti = "\u00A9 ta.dm 2023";
@@ -198,7 +199,7 @@ function keyPressed() {
   
   if (key == "r") {
 
-    let maxcanvasmaara = 3;
+    let maxcanvasmaara = 4;
 
     canvaskoko = canvaskoko + 1;
     if (canvaskoko > maxcanvasmaara) canvaskoko = 1;
@@ -210,6 +211,10 @@ function keyPressed() {
     } else if (canvaskoko == 2) {
       iw = 640;
       ih = 384;
+      resizeCanvas(iw, ih);
+    } else if (canvaskoko == 3) {
+      iw = 484;
+      ih = 640;
       resizeCanvas(iw, ih);
     } else {
       resizeCanvas(windowWidth, windowHeight);
@@ -278,5 +283,9 @@ A thumbnail editor typically allows users to select an image or video file, and 
 
 - test: available in [p5editor](https://editor.p5js.org/haques/sketches/c821CzPas)
 - [Forest Story](https://talonendm.github.io/ballrotation/foreststory/)
-- [Disclaimer](https://talonendm.github.io/disclaimer)
+
+---
+
+[Disclaimer](https://talonendm.github.io/disclaimer)
+
 

@@ -60,7 +60,6 @@ Fig) Aluskate ei vie vettä esteettömästi räystäällä oleviin vedenpoistoj�
 - Aluskatteen kiinnitys tuuletusrimalla, kuvia, [www.rakentaja.fi](https://www.rakentaja.fi/tv/tulosta383tulosta.aspx?id=383)
 
 
-### Vastuuvapauslauseke
+---
 
-Tämä julkaisu on tehty parhaan oman tietämyksemme ja ymmärtämyksemme pohjalta. Olemme tehneet kaiken voitavamme tietojen täsmällisyyden ja oikeellisuuden takaamiseksi, [talonendm](https://talonendm.github.io/) ei ole vastuussa mistään virheistä tai puutteista tai mistään suorasta, epäsuorasta tai välillisestä
-vahingosta, joka on aiheutunut tietojen virheellisestä soveltamisesta. Pidätämme oikeuden muutoksiin.
+[Disclaimer](https://talonendm.github.io/disclaimer)
