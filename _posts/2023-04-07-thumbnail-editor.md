@@ -67,6 +67,7 @@ var canvaskoko = 1;
 // var copyteksti = "\u00A9 ta.dm 2023";
 var copyteksti = "\u00A9      2023";
 var copyteksti2 = "talon\nendm" 
+var copynum = 1;
 var copysize = 14;
 var infotekstisize = 16;
 
@@ -196,10 +197,36 @@ function keyPressed() {
   if (key == 'i') {
     nayta = !nayta;
   }
+
+
+  if (key == "w") {
+    // watermark
+
+    let maxcopynum = 4;
+
+    copynum = copynum + 1;
+    if (copynum > maxcopynum) copynum = 1;
+
+    if (copynum == 1) {
+      copyteksti = "\u00A9      2023";
+      copyteksti2 = "talon\nendm" 
+    } else if (copynum == 2) {
+      copyteksti = "\u00A9      2023";
+      copyteksti2 = "vaaka\nruode" 
+    } else if (copynum == 3) {
+      copyteksti = "\u00A9      2023";
+      copyteksti2 = "rafla\nsafka" 
+    } else {
+      copyteksti = "";
+      copyteksti2 = "" 
+    }
+
+
+  }
   
   if (key == "r") {
 
-    let maxcanvasmaara = 4;
+    let maxcanvasmaara = 5;
 
     canvaskoko = canvaskoko + 1;
     if (canvaskoko > maxcanvasmaara) canvaskoko = 1;
@@ -213,7 +240,11 @@ function keyPressed() {
       ih = 384;
       resizeCanvas(iw, ih);
     } else if (canvaskoko == 3) {
-      iw = 484;
+      iw = 384;
+      ih = 640;
+      resizeCanvas(iw, ih);
+    } else if (canvaskoko == 4) {
+      iw = 640;
       ih = 640;
       resizeCanvas(iw, ih);
     } else {
