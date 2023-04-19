@@ -218,7 +218,7 @@ function keyPressed() {
       copyteksti2 = "rafla\nsafka" 
     } else {
       copyteksti = "";
-      copyteksti2 = "" 
+      copyteksti2 = ""; 
     }
   }
 
@@ -238,8 +238,7 @@ function keyPressed() {
     } else if (niminum == 3) {
       tallennusnimi = "kirjanpito";
     } else {
-      copyteksti = "";
-      copyteksti2 = "" 
+      tallennusnimi = "";
     }
   }
 
@@ -272,7 +271,6 @@ function keyPressed() {
       iw = 1024;
       ih = 384;
       resizeCanvas(iw, ih);
-    } 
     } else {
       resizeCanvas(windowWidth, windowHeight);
     }
