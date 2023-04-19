@@ -46,7 +46,7 @@ window.addEventListener('keydown', function(e) {
 // tallennus manual
 // key: e
 var enabletallennusnimi = false;
-var tallennusnimi = "kirjanpito";
+var tallennusnimi = "pic";
 var tallennusnumero = 1;
 
 let input;
@@ -125,7 +125,7 @@ function draw() {
     let infonaytateksti = x + "," + y + ":(" + le + "," + ko +") zoom: " + round(z*100) + "%";
     
   if (enabletallennusnimi) {
-    infonaytateksti = infonaytateksti + " framesave:" + tallennusnumero
+    infonaytateksti = infonaytateksti + " framesave:" + "e-" + tallennusnimi + zeroPad(tallennusnumero, 4);
   }
 
     text(infonaytateksti, 0, 0);
@@ -220,13 +220,33 @@ function keyPressed() {
       copyteksti = "";
       copyteksti2 = "" 
     }
-
-
   }
+
+
+  if (key == "t") {
+    // tallennusnimi
+
+    let maxniminum = 4;
+
+    niminum = niminum + 1;
+    if (niminum > maxniminum) niminum = 1;
+
+    if (niminum == 1) {
+      tallennusnimi = "pic";
+    } else if (niminum == 2) {
+      tallennusnimi = "art";
+    } else if (niminum == 3) {
+      tallennusnimi = "kirjanpito";
+    } else {
+      copyteksti = "";
+      copyteksti2 = "" 
+    }
+  }
+
   
   if (key == "r") {
 
-    let maxcanvasmaara = 5;
+    let maxcanvasmaara = 6;
 
     canvaskoko = canvaskoko + 1;
     if (canvaskoko > maxcanvasmaara) canvaskoko = 1;
@@ -247,6 +267,12 @@ function keyPressed() {
       iw = 640;
       ih = 640;
       resizeCanvas(iw, ih);
+
+    } else if (canvaskoko == 5) {
+      iw = 1024;
+      ih = 384;
+      resizeCanvas(iw, ih);
+    } 
     } else {
       resizeCanvas(windowWidth, windowHeight);
     }
