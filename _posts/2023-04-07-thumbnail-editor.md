@@ -13,6 +13,11 @@ published: true
 ---
 
 
+> Creating small gems,
+Thumbnails that capture the eye,
+Art in tiny form.
+
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/p5.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/addons/p5.sound.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.2/addons/p5.dom.min.js"></script> 
@@ -253,6 +258,11 @@ function mouseDragged() {
 </script>
 
 
+A thumbnail editor is a software tool that is designed to create, edit, and modify thumbnail images. Thumbnail images are small images that are used to represent larger images or videos. These images are often used on websites, in video sharing platforms, and in social media platforms.
+
+A thumbnail editor typically allows users to select an image or video file, and then create a thumbnail image from that file. The user can then edit and modify the thumbnail image using a variety of tools, such as resizing, cropping, adding text or graphics, adjusting the colors or contrast, and more.
+
+
 # Keys
 
 - z, x: Zoom
@@ -268,21 +278,5 @@ function mouseDragged() {
 
 - test: available in [p5editor](https://editor.p5js.org/haques/sketches/c821CzPas)
 - [Forest Story](https://talonendm.github.io/ballrotation/foreststory/)
+- [Disclaimer](https://talonendm.github.io/disclaimer)
 
-
-### Vastuuvapauslauseke
-
-> Tieto ja huolellisuus,
-Virheet silti aiheuttavat tuskaa,
-Muutoksia uskallamme tehdä.
-
-Tämä julkaisu on tehty parhaan oman tietämyksemme ja ymmärtämyksemme pohjalta. Olemme tehneet kaiken voitavamme tietojen täsmällisyyden ja oikeellisuuden takaamiseksi, [talonendm](https://talonendm.github.io/) ei ole vastuussa mistään virheistä tai puutteista tai mistään suorasta, epäsuorasta tai välillisestä
-vahingosta, joka on aiheutunut tietojen virheellisestä soveltamisesta. Pidätämme oikeuden muutoksiin.
-
-### Disclaimer
-
-> Our knowledge and care,
-May errors still cause despair,
-Changes we may dare.
-
-This publication has been made based on our best knowledge and understanding. We have done everything in our power to ensure the accuracy and correctness of the information.[talonendm](https://talonendm.github.io/) is not responsible for any errors or omissions or for any direct, indirect, or consequential damages arising from the incorrect application of the information. We reserve the right to make changes.
