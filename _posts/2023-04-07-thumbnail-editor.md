@@ -48,6 +48,7 @@ window.addEventListener('keydown', function(e) {
 var enabletallennusnimi = false;
 var tallennusnimi = "pic";
 var tallennusnumero = 1;
+var niminum = 1;
 
 let input;
 let img;
