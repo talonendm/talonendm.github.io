@@ -6,7 +6,7 @@ tags:
   - Tiainen
   - Pihabongaus
 comments: false
-cover-img: /assets/pics/cover/photo/silkkiuikku.jpg
+cover-img: /assets/pics/cover/ai/e-1024-384/e-pic-0002.jpg
 thumbnail-img: /assets/pics/thumbnail/photo/talitiainen.jpg
 published: true
 ---
