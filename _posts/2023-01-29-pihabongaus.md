@@ -26,3 +26,7 @@ Omakotitalon ikkunasta itään n. klo 12-13.
 - korppi - Corvus corax: "Pituus 54–67 cm, siipien kärkiväli 115–130 cm, paino 0,95–1,4 kg.": [Luontoportti](https://luontoportti.com/t/638/korppi)
 
 ![i.01](/assets/pics/page/animal/lophophanes-cristatus.jpg){: .mx-auto.d-block :}
+
+<hr style="border:2px solid gray">
+
+[Disclaimer](https://talonendm.github.io/disclaimer)

@@ -155,7 +155,6 @@ Talouselämässä 5/2023 listattiin Suomen 20 suurinta sahayritystä. Wikipedias
 - [Riittääkö puu? - HS 11.4.2023](https://www.hs.fi/talous/art-2000009499309.html): Suomessa hakattiin viime vuonna 74,7 miljoonaa kuutiometriä puuta, ja suurin osa siitä käytettiin puunjalostusteollisuuden tarpeisiin. Poistuma yhteensä noin 89 miljoonaa kuutiometriä eli 14 miljoonaa kuutiometriä jää metsään ja kuolee (luonnonpoistuma ja hakkuiden hukkapuu). 
 
 
-### Vastuuvapauslauseke
+<hr style="border:2px solid green">
 
-Tämä julkaisu on tehty parhaan oman tietämyksemme ja ymmärtämyksemme pohjalta. Olemme tehneet kaiken voitavamme tietojen täsmällisyyden ja oikeellisuuden takaamiseksi, [talonendm](https://talonendm.github.io/) ei ole vastuussa mistään virheistä tai puutteista tai mistään suorasta, epäsuorasta tai välillisestä
-vahingosta, joka on aiheutunut tietojen virheellisestä soveltamisesta. Pidätämme oikeuden muutoksiin.
+[Disclaimer](https://talonendm.github.io/disclaimer)

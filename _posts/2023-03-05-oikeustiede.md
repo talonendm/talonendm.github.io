@@ -41,10 +41,9 @@ Oikeusturvajärjestelmän pääpiirteet."
 - [Pienpuolueen ehdokkaista joka toisella tuore rikos­syyte – Katso kaikkien ehdokkaiden syytteet, HS 17.3.2023](https://www.hs.fi/politiikka/art-2000009453576.html)
 - [Putkiyritys teki asennusvirheen ja pesuhuoneen vanha vedeneristys petti – kiista muutaman tonnin vahingosta maksoi kymppitonneja töpeksijöille](https://www.is.fi/taloussanomat/art-2000009512071.html): "Yritykselle kiistasta koituu kaikkiaan noin 31 000 euron ja omistajapariskunnalle noin 11 500 euron kulut. Hovioikeuteen vieminen säästi omistajalta noin 10 000 euroa. Asioista sopiminen, olisi säästänyt vielä enemmän. Voittajina selvisivät asianajajan, joiden laskutus muutaman tonnin riidassa nousi yli 37 000 euron."
 
-### Vastuuvapauslauseke
+<hr style="border:2px solid gray">
 
-Tämä julkaisu on tehty parhaan oman tietämyksemme ja ymmärtämyksemme pohjalta. Olemme tehneet kaiken voitavamme tietojen täsmällisyyden ja oikeellisuuden takaamiseksi, [talonendm](https://talonendm.github.io/) ei ole vastuussa mistään virheistä tai puutteista tai mistään suorasta, epäsuorasta tai välillisestä
-vahingosta, joka on aiheutunut tietojen virheellisestä soveltamisesta. Pidätämme oikeuden muutoksiin.
+[Disclaimer](https://talonendm.github.io/disclaimer)
 
 
 
