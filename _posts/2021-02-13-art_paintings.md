@@ -25,6 +25,7 @@ published: true
 
 ## Yrjö Saarinen
 - Kissa 1936
+- [Yrjö Saarinen - Kukka-asetelma](https://www.hagelstam.fi/yrjo-saarinen-1899-1958-d7d5c291e7bf085ff5318f0079327e13): Hagelstam 27.4.2023: öljy, sign. 1948, kaksipuoleinen, 53x73
 
 ## Fernand Léger
 - [Nature morte à la coupe 1948](https://www.discoveringfinland.com/blog/didrichsen-art-museum-one-leading-art-museums-finland/)
@@ -122,8 +123,11 @@ Paintings of van Gogh and Picasso in two dimensional space. What metrics should 
 - [Frame Contemporary Art Finland – Frame Finland](https://www.frame-finland.fi/)
 - [Master's Programme in Contemporary Design](https://www.aalto.fi/fi/koulutustarjonta/masters-programme-in-contemporary-design)
 
+
+
 ## Hammer Auctions
 - [Hagelstam](https://hagelstam.fi/)
+  - [KUUKAUSIHUUTOKAUPPA A288 16.05.2023](https://www.hagelstam.fi/huutokaupat/kuukausihuutokauppa-a288)
 - [Helander](https://www.helander.com/fi)
   - [Helander page view](https://hela.auction2000.online/auk/w.objectlist?inc=hela&ina=20200907_1050)
   - [Helander Auctions list](https://hela.auction2000.online/auk/w.auctionlist?inc=hela)
@@ -134,6 +138,13 @@ Paintings of van Gogh and Picasso in two dimensional space. What metrics should 
 
 - [Kekkosen](https://www.ts.fi/uutiset/4867171) Tamminiemessä. 
 - [Hagelstam](https://www.hagelstam.fi/eero-aarnio-1932), oranssi puhelimella: [pallo](https://www.hagelstam.fi/eero-aarnio-1932-f21cd7c59f5219e178d0b5119870a72e).
+
+# More Artists
+
+## Cartoon and Manga
+
+- [Katsuhiro Otomo](https://en.wikipedia.org/wiki/Katsuhiro_Otomo) (大友 克洋, Ōtomo Katsuhiro, born April 14, 1954) is a Japanese manga artist
+
 
 # References
 
