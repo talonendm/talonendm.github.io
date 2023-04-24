@@ -17,6 +17,7 @@ published: true
 Stuff related on Japan and japanese language; [Katakana](https://en.wikipedia.org/wiki/Katakana). Learn japanese here:
 - [Katakana mobile](https://talonendm.github.io/katakana/)
 - [Katakana keyboard](https://www.lexilogos.com/keyboard/katakana.htm)
+- [Kendema](https://www.boardlife.se/fi/kendamaguiden/?v=11aedd0e4327): [temppuja](https://www.youtube.com/watch?v=uL3fgVVX-i4)
 
 
 ## Culture
