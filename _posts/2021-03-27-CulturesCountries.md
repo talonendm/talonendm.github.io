@@ -32,6 +32,7 @@ Stuff related on Japan and japanese language; [Katakana](https://en.wikipedia.or
   - Yaki Gyoza (pan fried)
   - Sui Gyoza (boiled)
   - Age Gyoza (deep fried)
+- Matsutake, [olut ALE](https://olutposti.fi/olutkoira-the-flying-dutchman-mushroom-picking-ass-kicking-matsutake-ale/)
 
 ## Tokyo
 
