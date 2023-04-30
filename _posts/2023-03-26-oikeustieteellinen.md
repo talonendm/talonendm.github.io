@@ -17,6 +17,14 @@ Oikeustieteellisen alan yhteisvalinnan valintakoe maanantaina 23.5.2022 pidetä�
 
 ## Materiaalia - Aiemmat kokeet
 
+- Vuosi 2023 (25.4.2023) - [Unigrafia](https://www.unicontent.fi/tuote/oikeustieteellisen-valintakoemateriaalipaketti-2023-erillisartikkelit/). Muistiinpanot - private Foxit edits at ta.dm:
+  - Johdatus oikeuteen ja oikeudelliseen ajatteluun, Pia Letto-Vanamo [ta.dm](https://drive.google.com/file/d/1z0tYxO4RNao_7wLoRG0LJNEfJ3d8AXs_/view?usp=share_link)
+  - Johdatus prosessioikeuteen, Mikko Vuorenpää [ta.dm](https://drive.google.com/file/d/13hn9e5zmseO4FAiqTn-xk3ciwBLEyQMj/view?usp=share_link)
+  - Erillisartikkelit:
+    - Onko "oikeus ja sukupuoli" oikeudenala? [ta.dm](https://drive.google.com/file/d/1KvVJIEZlEAnWq5nXrVpSeCZvdKQXbhtK/view?usp=share_link)
+    - Oppimisen tuen sääntely esi- ja perusopetuksessa – yhdenvertaisuutta mutta mitä, miten ja kenelle? [ta.dm](https://drive.google.com/file/d/1Bvw9a8hVHbB5YfpF4-4Qjh49dqAnTfQt/view?usp=share_link)
+    - Yleisesti hyväksyttävää kasvatusta? Kriittinen tutkimus lastensuojelulaitosten huolenpidon käytäntöjen oikeudellisesta hallinnasta [ta.dm](https://drive.google.com/file/d/1b5FLb7CtfO9LZP9WrciR99zQyRtAPYAi/view?usp=share_link)
+  - Sarjakuvia materiaaleista: LATER
 - Oikeustieteet - [materiaalia](https://oikeustieteet.fi/kokeet-ja-tilastot)
 - oikeat vastaukset [2022](https://oikeustieteet.fi/wp-content/uploads/2022/05/Valintakoe_oikeustiede_2022.pdf): Kysymyksien ja vastauksien pohdiskelua: [DOCS ta.dm](https://docs.google.com/document/d/11_Fn5pbodcdPMLwyJMxyUdLZhkhdlfnX51Q_RMIum2Q/edit?usp=sharing)
 - oikeat vastaukset [2021](https://oikeustieteet.fi/wp-content/uploads/2021/12/Arvosteluperusteet_oikeustiede_2021.pdf)
@@ -33,10 +41,8 @@ Valintakoekirjallisuus vuonna 2021 on seuraava [unigrafia](https://shop.unigrafi
 - [Johdatus rikosoikeuteen](https://unicontent.unigrafia.fi/#/reader/3b497802-a334-11eb-8b64-00155d64030a) – Sakari Melander , hinta yksittäin 75 e
 - [Oikeus ja julkisuus](https://unicontent.unigrafia.fi/#/reader/a82e1b94-a334-11eb-9cdf-00155d64030a) – Sampo Mielityinen (toim.) , hinta yksittäin 75 e
 - [Johdatus oikeuteen ja oikeudelliseen ajatteluun](https://unicontent.unigrafia.fi/#/reader/48f59f24-a336-11eb-a3fe-00155d64030a) -Pia Letto-Vanamo  hinta yksittäin 63,35 e
-
-[celia.net](https://www.celianet.fi/)stä löytyy äänikirjat. (vain niille, joille lukeminen hankalaa) ja täällä [tekstinä](https://unicontent.unigrafia.fi/#/)
-
-Hakeminen: [www.oikeustiede.com](https://www.oikeustiede.com/aiheet/oikeustieteellisen-valintakoe/): [omat muistiinpanot - 2022](https://docs.google.com/document/d/1HASroomhItokMPPwJ8CFSi8Th-N1FgHzeX6PYMNA_Zg/edit?usp=sharing)
+- [celia.net](https://www.celianet.fi/)stä löytyy äänikirjat. (vain niille, joille lukeminen hankalaa) ja täällä [tekstinä](https://unicontent.unigrafia.fi/#/)
+- 1. Haku: [www.oikeustiede.com](https://www.oikeustiede.com/aiheet/oikeustieteellisen-valintakoe/): [omat muistiinpanot - 2022](https://docs.google.com/document/d/1HASroomhItokMPPwJ8CFSi8Th-N1FgHzeX6PYMNA_Zg/edit?usp=sharing)
 
 Aiempaa kirjallisuutta:
 

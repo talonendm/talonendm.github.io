@@ -113,6 +113,8 @@ Metsätuholaki [1.1.2022 alkaen](https://www.metsakeskus.fi/fi/ajankohtaista/met
 - 17.4.2023: [Koivu K pähkinäpensas C ja leppä LLL](https://norkko.fi/)
 - 19.4.2023: kompostorin no.4 tyhjennys mali- ja humalapenkereelle, [sheets ta.dm](https://docs.google.com/spreadsheets/d/1KrexxRqigmjHFJtK63wTE1OMzwcuNP3AaVYRwfUuqag/edit?usp=sharing)
 - 24.4.2023: pihatyösuunnittelu [sheets ta.dm](https://docs.google.com/spreadsheets/d/1KrexxRqigmjHFJtK63wTE1OMzwcuNP3AaVYRwfUuqag/edit?usp=sharing)
+- 24.4.2023: mansikka, raparperi, kasvimaa lannoitus ja multaa päälle.
+- 25.4.2023: Lepän siitepölyhuippu ohi. [Koivu KKK ja leppä LL](https://norkko.fi/)
 
 
 # 2022
