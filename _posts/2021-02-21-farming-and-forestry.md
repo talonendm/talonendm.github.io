@@ -113,8 +113,12 @@ Metsätuholaki [1.1.2022 alkaen](https://www.metsakeskus.fi/fi/ajankohtaista/met
 - 17.4.2023: [Koivu K pähkinäpensas C ja leppä LLL](https://norkko.fi/)
 - 19.4.2023: kompostorin no.4 tyhjennys mali- ja humalapenkereelle, [sheets ta.dm](https://docs.google.com/spreadsheets/d/1KrexxRqigmjHFJtK63wTE1OMzwcuNP3AaVYRwfUuqag/edit?usp=sharing)
 - 24.4.2023: pihatyösuunnittelu [sheets ta.dm](https://docs.google.com/spreadsheets/d/1KrexxRqigmjHFJtK63wTE1OMzwcuNP3AaVYRwfUuqag/edit?usp=sharing)
-- 24.4.2023: mansikka, raparperi, kasvimaa lannoitus ja multaa päälle.
+- 24.4.2023: mansikka, raparperi, kasvimaa lannoitus ja multaa päälle. Valkokeltainset narsissit, [Narcissus Large Cupped](https://www.gardenia.net/plant/narcissus-flower-record), kukkivat ison omenapuun lähellä.
 - 25.4.2023: Lepän siitepölyhuippu ohi. [Koivu KKK ja leppä LL](https://norkko.fi/)
+- 1.5.2023: Valkoapila nuotiopaikalle.
+- 2.5.2023: Lepän kukinta on ohi. Koivun siitepölymäärät vaihtelevat kohtalaisista runsaisiin. [Koivu KKK](https://norkko.fi/)
+- 3.5.2023: mahlaa tiputeltu toista sataa litraa jo muutaman viikon ajan.
+- 5.5.2023: pakkasöitä. Mahlaa tulee. "Koivun siitepölymäärät ilmassa vaihtelevat maan eteläosissa runsaista erittäin runsaisiin." [Koivu KKK](https://norkko.fi/)
 
 
 # 2022

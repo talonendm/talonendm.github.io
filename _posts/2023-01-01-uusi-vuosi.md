@@ -42,6 +42,10 @@ Puhe katsottavissa kokonaisuudessaan [Areenassa](https://areena.yle.fi/1-6422813
 
 - "Kalliiksi tulee se, jos asialle ei tehdä mitään." [HS Mielipide 24.1.2023](https://www.hs.fi/mielipide/art-2000009338289.html)
 
+### Ympäristö
+
+- "Jätealtaista uimavesiksi" [Hs 22.2.2023 Heli Saavalainen HS](https://www.hs.fi/kotimaa/art-2000009318404.html): typpi- ja fosforikuormituksista graafit. Metsäteollisuuden vesistöpäästöt, ks. esim. Lohjanjärvi.
+
 
 ## Computer
 
