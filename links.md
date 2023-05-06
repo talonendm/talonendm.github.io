@@ -17,6 +17,11 @@ tags:
 - [DOCS - poimintoja lehdistä - private ta.dm](https://docs.google.com/document/d/1ZEJUtwZs-oa7OkBlFb1pq_87FhP5y90KmF5MfqEn05U/edit?usp=sharing): kirjoittaminen
 - [Forest Story](https://talonendm.github.io/ballrotation/foreststory/)
 
+## AI
+
+- [AI ja työpaikat - IS 30.4.2023](https://www.is.fi/taloussanomat/art-2000009544694.html): "Tekoälyn voi esimerkiksi pyytää tekemään sopimuspohjan ja kommentoimaan sopimuksia, jolloin me emme tarvitsekaan siihen juristia." - Eduhousen neuvonantajana toimiva pitkän linjan teknologiavaikuttaja Risto Linturi
+
+
 # 2022
 
 - [2020-12-16-books](https://talonendm.github.io/2020-12-16-books/)
