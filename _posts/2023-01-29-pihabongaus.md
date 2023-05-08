@@ -11,11 +11,38 @@ thumbnail-img: /assets/pics/thumbnail/photo/talitiainen.jpg
 published: true
 ---
 
-"BirdLifen Pihabongaus on Suomen suurin lintutapahtuma. Kaikille luonnosta kiinnostuneille tarkoitetussa tapahtumassa tarkkaillaan tunnin ajan lintuja omalla pihalla tai muulla paikalla. Pihabongaus järjestetään joka vuosi tammikuun viimeisenä viikonloppuna, seuraavan kerran 28.–29.1.2023." [Birdlife - pihabongaus](https://www.birdlife.fi/tapahtumat/pihabongaus/). Yhteistyökumppanina toimii [Suomen Lintuvaruste Oy](https://www.suomenlintuvaruste.com/index.html) ja suojelijana Jenni Haukio.
+Kaikille luonnosta kiinnostuneille voi suositella lintujen tarkkailemista omalla pihalla tai jossakin muulla paikalla.
 
 # Lintuhavaintoja
 
+## Bongaa päivä pihalla 6.-7.5.2023
+
+7.5.2023 havaitut lintulajit klo9-12
+
+- harakka
+- hippiäinen
+- kirjosieppo
+- korppi
+- kuusitiainen
+- käpytikka
+- metsäkirvinen
+- mustapääkerttu
+- mustarastas
+- pajulintu
+- peippo
+- punarinta
+- punatulkku
+- sepeljyyhky
+- sinitiainen
+- talitiainen
+- varis
+- viherpeippo
+- vihervarpunen
+
 ## 29.1.2023 Tiainen ja korppi
+
+"BirdLifen Pihabongaus on Suomen suurin lintutapahtuma. Kaikille luonnosta kiinnostuneille tarkoitetussa tapahtumassa tarkkaillaan tunnin ajan lintuja omalla pihalla tai muulla paikalla. Pihabongaus järjestetään joka vuosi tammikuun viimeisenä viikonloppuna, seuraavan kerran 28.–29.1.2023." [Birdlife - pihabongaus](https://www.birdlife.fi/tapahtumat/pihabongaus/). Yhteistyökumppanina toimii [Suomen Lintuvaruste Oy](https://www.suomenlintuvaruste.com/index.html) ja suojelijana Jenni Haukio.
+
 
 Omakotitalon ikkunasta itään n. klo 12-13.
 
