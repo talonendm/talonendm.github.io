@@ -119,7 +119,13 @@ Metsätuholaki [1.1.2022 alkaen](https://www.metsakeskus.fi/fi/ajankohtaista/met
 - 2.5.2023: Lepän kukinta on ohi. Koivun siitepölymäärät vaihtelevat kohtalaisista runsaisiin. [Koivu KKK](https://norkko.fi/)
 - 3.5.2023: mahlaa tiputeltu toista sataa litraa jo muutaman viikon ajan.
 - 5.5.2023: pakkasöitä. Mahlaa tulee. "Koivun siitepölymäärät ilmassa vaihtelevat maan eteläosissa runsaista erittäin runsaisiin." [Koivu KKK](https://norkko.fi/)
-
+- 10.5.2023: neidonkurjenpolvi (Geranium sanguinem) ja kevätkaihonkukka (Omphalodes verna) parkkiksen perannalle. (ST)
+- 13.5.2023: Basilika, kolmeen pieneen altakasteluruukkuun
+- 14.5.2023: [Koivu KKK](https://norkko.fi/), [maissin](https://www.suomela.fi/piha-puutarhahyotykasvitmaissi-taimikasvatus-ja-hoito-50187/) kylvö suoraan pellolle, kottikärryyn ruukkuja ja yksi säkki puolikkaalla mullalla. siementen liuotus yön yli.
+  - Sokerimaissi, tieteelliseltä nimeltään Zea mays var. saccharata, on viljelykasvi, joka alkuperäisesti kasvoi Keski-Amerikassa. Eurooppaan se saapui Kolumbuksen retkien myötä noin 1500-luvun alussa. Kasvi kuuluu heinäkasvien heimoon ja sen varsi muodostaa yhden pääverson sekä pieniä sivuversoja. Hedekukat kehittyvät kasvin verson latvaan, kun taas emikukat sijaitsevat lehtihangoissa olevissa tähkissä. [Biolan](https://www.biolan.fi/artikkelit/maissi)
+- 14.5.2023: Äitienpäivä ja Annabella siemenperuna maatilapuodista, 5 kpl, 0.86€. Kasvimaalle istutus. Annabella ei niin altis tuhkalle kasvimaalla. Itä-länsisuunnassa istutus yhteen penkkiin. 
+- 14.5.2023: pensaskrassi. Nuotiopaikan itä- ja pohjoispuolelle kivijalan viereen, n. 15 kpl. Liuotus muutaman tunnin. 
+- 14.5.2023: kevätesikko kukkinut jo n. 1-2 viikkoa talosta itään olevalla rinteellä.
 
 # 2022
 
