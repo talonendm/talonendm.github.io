@@ -88,6 +88,22 @@ Metsätuholaki [1.1.2022 alkaen](https://www.metsakeskus.fi/fi/ajankohtaista/met
 
 
 
+# Sähkö
+
+Esimerkkilaskelma
+
+500 kWh kulutus kuukaudessa
+
+- perusmaksu 3,5 eur/kk
+- 13 snt / kWh
+- yleisähkö 3 * 25 A
+  - 13,9 eur/kk
+  - siirtomaksu 4,33 snt/kWh
+  - energiavero 2,79 snt/kWh
+
+jos saa diilin, 10 snt/kWh, paljon kustannukset laskevat? ks. [private ta.dm](https://docs.google.com/spreadsheets/d/1ECK0Qc7RXCWFrQL-2ajnDa8l4irn-9qrcTTcTrejQa4/edit?usp=sharing) 118€/kk -> 103€/kk
+
+
 
 
 # Puutarha
@@ -121,11 +137,13 @@ Metsätuholaki [1.1.2022 alkaen](https://www.metsakeskus.fi/fi/ajankohtaista/met
 - 5.5.2023: pakkasöitä. Mahlaa tulee. "Koivun siitepölymäärät ilmassa vaihtelevat maan eteläosissa runsaista erittäin runsaisiin." [Koivu KKK](https://norkko.fi/)
 - 10.5.2023: neidonkurjenpolvi (Geranium sanguinem) ja kevätkaihonkukka (Omphalodes verna) parkkiksen perannalle. (ST)
 - 13.5.2023: Basilika, kolmeen pieneen altakasteluruukkuun
+- 13.5.2023: [kirjopikarililja](https://www.viherkauppa.fi/tuote/kirjopikarililja-meleagris-30-kpl/) kukkii pionipenkissä. Ei ehkä paras paikka, koska pionin versot saman värisiä ja peittää violetit liljat.
 - 14.5.2023: [Koivu KKK](https://norkko.fi/), [maissin](https://www.suomela.fi/piha-puutarhahyotykasvitmaissi-taimikasvatus-ja-hoito-50187/) kylvö suoraan pellolle, kottikärryyn ruukkuja ja yksi säkki puolikkaalla mullalla. siementen liuotus yön yli.
   - Sokerimaissi, tieteelliseltä nimeltään Zea mays var. saccharata, on viljelykasvi, joka alkuperäisesti kasvoi Keski-Amerikassa. Eurooppaan se saapui Kolumbuksen retkien myötä noin 1500-luvun alussa. Kasvi kuuluu heinäkasvien heimoon ja sen varsi muodostaa yhden pääverson sekä pieniä sivuversoja. Hedekukat kehittyvät kasvin verson latvaan, kun taas emikukat sijaitsevat lehtihangoissa olevissa tähkissä. [Biolan](https://www.biolan.fi/artikkelit/maissi)
 - 14.5.2023: Äitienpäivä ja Annabella siemenperuna maatilapuodista, 5 kpl, 0.86€. Kasvimaalle istutus. Annabella ei niin altis tuhkalle kasvimaalla. Itä-länsisuunnassa istutus yhteen penkkiin. 
 - 14.5.2023: pensaskrassi. Nuotiopaikan itä- ja pohjoispuolelle kivijalan viereen, n. 15 kpl. Liuotus muutaman tunnin. 
 - 14.5.2023: kevätesikko kukkinut jo n. 1-2 viikkoa talosta itään olevalla rinteellä.
+- 15.5.2023: retiisi (ylä) ja korianteri (ylä alempi) altakastelulavalle hallilla.
 
 # 2022
 
