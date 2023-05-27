@@ -144,6 +144,18 @@ Paintings of van Gogh and Picasso in two dimensional space. What metrics should 
 ## Cartoon and Manga
 
 - [Katsuhiro Otomo](https://en.wikipedia.org/wiki/Katsuhiro_Otomo) (大友 克洋, Ōtomo Katsuhiro, born April 14, 1954) is a Japanese manga artist
+- [Wassily Kandisky](https://fi.wikipedia.org/wiki/Wassily_Kandinsky)
+  - [Squares with Concentric Circles](https://www.puzzlemania.fi/color-study-squares-with-concentric-circles-wassily-kandinsky-1000-pieces-enjoy)
+
+> Square meets circle's round,
+Kandinsky's brush brings them dance,
+Abstract harmony. 
+
+- [Max Ernst](https://fi.wikipedia.org/wiki/Max_Ernst), 27 paintings at [youtube](https://www.youtube.com/watch?v=yudsr21M15M)
+
+> Max Ernst's dreamscape,
+[Surreal visions](https://fahrenheitmagazine.com/en/modern-art/plastics/max-ernst-visions-of-a-surreal-world) come alive,
+Worlds beyond our grasp.
 
 
 # References
