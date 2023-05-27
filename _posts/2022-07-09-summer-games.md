@@ -149,7 +149,7 @@ Later:
 - bottleflip 3 heittoa kaikilla. samaan aikaan heitto
 - onginta tiimeissä. 
 - 3 pelaajan joukkue. Kaikilla 2 heittoa
-- tiimi-petankki
+- tiimi-petankki (varovasti kuulien kanssa: [IL - 19.5.2023](https://www.is.fi/ulkomaat/art-2000009598383.html))
 - hularenkaanheitto tankoon
 - oluttölkkipinon ammunta kuminauhapyssyllä
 - löylynheitto, 3 heittoa ämpäriin. eniten vettä punnitus

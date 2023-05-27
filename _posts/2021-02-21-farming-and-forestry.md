@@ -144,6 +144,9 @@ jos saa diilin, 10 snt/kWh, paljon kustannukset laskevat? ks. [private ta.dm](ht
 - 14.5.2023: pensaskrassi. Nuotiopaikan itä- ja pohjoispuolelle kivijalan viereen, n. 15 kpl. Liuotus muutaman tunnin. 
 - 14.5.2023: kevätesikko kukkinut jo n. 1-2 viikkoa talosta itään olevalla rinteellä.
 - 15.5.2023: retiisi (ylä) ja korianteri (ylä alempi) altakastelulavalle hallilla.
+- 19.5.2023: kolme kurpitsaa biokompostori 310l-astiaan (Big Max?)
+- 20.5.2023: lipstikka ensimmäiset versot. Raparperit noin viikon ja 5-10cm. 
+- 20.5.2023: pussillinen sipuleita kasvimaalle ja muutama krassin taimi
 
 # 2022
 
