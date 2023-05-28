@@ -7,8 +7,8 @@ tags:
   - Kantvik
   - Ingå
 comments: false
-cover-img: /assets/pics/cover/e1024/e-IMG20230511183137.jpg
-thumbnail-img: /assets/pics/thumbnail/e384-direct/e-IMG20230510082614.jpg
+cover-img: /assets/pics/cover/e1024/e-boat.jpg
+thumbnail-img: /assets/pics/thumbnail/e640-direct/2023/bing-gif-ai-resize-boat.gif
 published: true
 ---
 
@@ -23,6 +23,17 @@ Some links
 - Meri Kantvik 2002 - [suunnitelma PDF](https://www.kirkkonummi.fi/library/files/5bd843b0c910584a3e001931/Merikantvik_raportti_03122002__2_.pdf)
 - [ymparisto.fi - vesikartta](https://paikkatieto.ymparisto.fi/vesikarttaviewers/Html5Viewer_4_14_2/Index.html?configBase=https://paikkatieto.ymparisto.fi/Geocortex/Essentials/REST/sites/VesikarttaKansa/viewers/VesikarttaHTML525/virtualdirectory/Resources/Config/Default&locale=fi-FI)
 - [hylyt.fi ja kartta](https://www.hylyt.net/item/stora-angeston-hylky-2748/#)
+- Pikkalajoen [kivi](https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=6666144.378263853&e=349311.8469709495&title=Kivi%20varo&desc=&zoom=12&layers=W3siaWQiOjIsIm9wYWNpdHkiOjEwMH1d-z)
+
+
+## vierasvenesatamat.fi
+
+- [Kopparnäs](https://www.vierassatamat.fi/fi/kohde/kopparnas-inkoo-8083), [lähestymiskartta](http://api.nauticalmedia.fi/vierassatamat/image?user=image&passwd=23rhgudp&id=17762)
+- [Vormö](https://venelehti.fi/?satama=0-stickellandet-vormo-hogholm)
+- [Störsvik, Sandviken](https://www.vierassatamat.fi/fi/kohde/storsvik-sandviken-siuntio-8082), [lähesymiskartta](http://api.nauticalmedia.fi/vierassatamat/image?user=image&passwd=23rhgudp&id=14468)
+- [Stora Fagerö](https://www.vierassatamat.fi/fi/kohde/stora-fagero-inkoo-8085), [lähestymiskartta](http://api.nauticalmedia.fi/vierassatamat/image?user=image&passwd=23rhgudp&id=14471), ks. [Uuvi.fi](https://uuvi.fi/fi/kohde/stora-fagero/)
+
+## to Ingå
 
 1. Björkgrundet
 2. Båtvik islands
@@ -32,7 +43,7 @@ Some links
       2. "Luonnonsuojelualueilla rantautumista voidaan rajoittaa eläinten pesimä- ja lisääntymisaikoina." [suomenlatu](https://www.suomenlatu.fi/vaikuta/jokamiehenoikeudet-2/maihinnousu.html) "Toukokuussa lisääntyminen vilkastuu niin linnuilla kuin nisäkkäilläkin." [hs](https://www.hs.fi/kotimaa/art-2000005661347.html)
 3. Svinö: [Saaristopäiväkokonaisuus](https://saaristopaiva.fi/saaristopaiva-2/). Tontti Svinöstä [250000e 0.7ha](https://www.etuovi.com/kohde/20800475). 
 4. [Klobben](https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=6661054.149879514&e=351124.03868170927&title=Klobben&desc=&zoom=9&layers=W3siaWQiOjIsIm9wYWNpdHkiOjEwMH1d-z)
-5. [Kalvö](https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=6660004.757447206&e=350078.7240865657&title=Kalv%C3%B6&desc=&zoom=9&layers=W3siaWQiOjIsIm9wYWNpdHkiOjEwMH1d-z)
+5. [Kalvö](https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=6660004.757447206&e=350078.7240865657&title=Kalv%C3%B6&desc=&zoom=9&layers=W3siaWQiOjIsIm9wYWNpdHkiOjEwMH1d-z). Varo [karikkoa](https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=6659884.722787708&e=349549.80080883176&title=Kalv%C3%B6%20kari&desc=&zoom=11&layers=W3siaWQiOjIsIm9wYWNpdHkiOjEwMH1d-z)
    1. Kalkgrund
    2. Hönsholmen
 6. [Vårdö](https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=6659294.730411009&e=350223.4608220159&title=V%C3%A5rd%C3%B6&desc=&zoom=10&layers=W3siaWQiOjIsIm9wYWNpdHkiOjEwMH1d-z)
@@ -65,6 +76,12 @@ Some links
 17. Södra Sådö
 18. Stora Ångestö
     1.  etelä rannalla [hylky](https://www.hylyt.net/item/stora-angeston-hylky-2748/#content)
+19. [Lövholm](https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=6655794.891510699&e=336756.1451203377&title=L%C3%B6vholm&desc=&zoom=10&layers=W3siaWQiOjIsIm9wYWNpdHkiOjEwMH1d-z)
+    1.  länsipuolella puuttuvat [merimerkit](https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=6656142.891510701&e=335747.14512033755&title=N%C3%A4m%C3%A4%20meri%20merkit%20puuttuivat%205/2023&desc=&zoom=11&layers=W3siaWQiOjIsIm9wYWNpdHkiOjEwMH1d-z)
+20. Österströmmenin [hiekkaranta](https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=6657718.454596064&e=334887.07206401636&title=hiekkaranta&desc=&zoom=10&layers=W3siaWQiOjIsIm9wYWNpdHkiOjEwMH1d-z)
+21. Algrundet 
+22. Inkoo
+    1.  [mammamia](http://www.mammamiahotelliravintola.fi/ravintola/) pitseria
 
 
 
