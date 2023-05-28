@@ -147,6 +147,8 @@ jos saa diilin, 10 snt/kWh, paljon kustannukset laskevat? ks. [private ta.dm](ht
 - 19.5.2023: kolme kurpitsaa biokompostori 310l-astiaan (Big Max?)
 - 20.5.2023: lipstikka ensimmäiset versot. Raparperit noin viikon ja 5-10cm. 
 - 20.5.2023: pussillinen sipuleita kasvimaalle ja muutama krassin taimi
+- 28.5.2023: hevoskastanja viiden rivistä isoon saviruukkuun
+- 28.5.2023: 15 päivää myöhemmin basilika itää kolmessa altakasteluruukussa.
 
 # 2022
 
