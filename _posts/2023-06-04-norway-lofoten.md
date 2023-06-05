@@ -34,11 +34,14 @@ Places like [Reine](https://en.wikipedia.org/wiki/Reine), [Henningsvær](https:/
 ## Some of the popular beaches:
 -  [Haukland Beach](https://www.hauklandbeach.no/) ([Google Maps](https://goo.gl/maps/ZuN8LVViv1kwMQqq7?coh=178571&entry=tt))
    -  Considered one of the most beautiful beaches in Lofoten, Haukland Beach is located a short drive from Lyngvær ([about one hour](https://www.google.com/maps/dir/Lyngv%C3%A6r,+8313,+Norja/Haukland+Beach,+Uttakleivveien,+Leknes,+Norja/@68.2183837,13.7403417,11z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x45de791b74d2b953:0x1ac2990721573b93!2m2!1d14.2633172!2d68.2403969!1m5!1m1!1s0x45de0da5b5de86e3:0xc16fa329db8b549b!2m2!1d13.5287092!2d68.1986162!3e0?entry=ttu)). It boasts powdery white sands, crystal-clear turquoise waters, and stunning mountain backdrops. It's an ideal spot for a leisurely stroll: "Gentle steps in stride, Nature's beauty by my side, Leisurely stroll's pride."
+      -  [weather](https://www.accuweather.com/fi/no/kleppstad/254669/weather-forecast/254669)
 -  [Uttakleiv Beach](https://visitlofoten.com/en/topic/uttakleiv-beach/) [Google Maps](https://goo.gl/maps/g4dxxjgz6PikrbaeA?coh=178571&entry=tt)
    -  a similar stunning setting as Haukland Beach. It is known for its striking rock formations and panoramic views of the ocean.
+   -  [weather, yr.no](https://www.yr.no/en/forecast/daily-table/1-275424/Norway/Nordland/Vestv%C3%A5g%C3%B8y/Utakleiv)
 -  Kvalvika Beach [Google Maps](https://goo.gl/maps/HhWG1dNMJyNWYKpg7?coh=178571&entry=tt)
    -  Hiking: [68north.com](https://www.68north.com/lofoten-hikes/hiking-kvalvika-beach/): "Located in an isolated bay on the northern side of Moskenesøy and only reached by foot, Kvalvika feels as though it could be at the edge of the world, not an easy hour’s walk."
    -  [marikaworld](https://www.rantapallo.fi/marikaworld/2015/12/14/lofootit-kvalvika/)
+   -  [weather yr.no](https://www.yr.no/en/forecast/daily-table/1-2811192/Norway/Nordland/V%C3%A5gan/Kvalvika)
 
 ## Valberg
 
@@ -69,13 +72,25 @@ The municipality of Valberg was created by an acrimonious split from the municip
   - [Särestöniemi-museo](https://museot.fi/museohaku/index.php?museo_id=21347): 12-18, "Taidemaalari, professori Reidar Särestöniemen (1925- 1981) taiteilijakoti Kittilässä"
   - [Palsa-museo](https://museot.fi/museohaku/index.php?museo_id=9068): 12-18
   - [Samiland](https://museot.fi/museohaku/index.php?museo_id=9066): 10-18
+    - sää, [foreca.fi](https://www.foreca.fi/Finland/Kittila)
 - Kilpisjärvi
   - maps: [Tsahkalputous](https://goo.gl/maps/CyMGtAwzYrMBBSrPA)
   - maps: [K-Market Kilpishalli](https://goo.gl/maps/skhxEMerAkfgv6LR8)
+  - Saana:
+    - Reitti Saanatunturille on 4 kilometriä pitkä. Aikaa huiputukseen on hyvä varata nelisen tuntia. Reitin lähtöpiste sijaitsee Kilpisjärven Retkeilykeskuksen pihassa.
+    - retkipaikka.fi, [blogi](https://retkipaikka.fi/joro-jatti-saanatunturi-kilpisjarvi/)
+    - kohteenamaailma.fi, [blogi](https://kohteenamaailma.fi/kotimaa/saanatunturin-huipulla-kilpisjarven-saanan-vaellus/)
+    - [Saanajärvi](https://www.luontoon.fi/kasivarsi/reitit#saanajarvi)
+    - luontoon.fi, [Saanan polku](https://www.luontoon.fi/kasivarsi/reitit#saananpolku)
+    - Sää:
+      - [ilmatieteenlaitos.fi - Saana](https://www.ilmatieteenlaitos.fi/saa/enonteki%C3%B6/saana)
+      - [is.fi](https://www.is.fi/supersaa/suomi/enonteki%C3%B6/saana/638487/)
 - [Narvik](https://en.wikipedia.org/wiki/Narvik_(town)), Norway: Narvik is a scenic town located on the shores of the [Ofotfjord](https://en.wikipedia.org/wiki/Ofotfjord). It is known for its stunning mountainous surroundings and the [Narvik War Museum](https://warmuseum.no/?xdomain_data=ZX5dgh48W2MiCR73%2BlsKXd%2B4SCUavtURAjzVHfl0zYEhZAzD5oP62QnMVxuWFbtm) (open 10-16), which provides insight into the town's role in World War II.
+  - [weather - foreca - Narvik](https://www.foreca.fi/Norway/Narvik)
 - [Abisko](https://goo.gl/maps/okgV9MthURtSh8FcA?coh=178571&entry=tt), Sweden: As you cross the border into Sweden, you'll find Abisko National Park. This pristine wilderness is renowned for its dramatic landscapes, including towering mountains, deep valleys, and the stunning Lake Torneträsk.
   - [Aurora Sky Station](https://auroraskystation.se/en/summer/chairlift-summer/): Lifts open daily, Evenings: June 17, 2022 –  July 17, 2022 (Every day during the week)
 - Kiruna is a fascinating town in northern Sweden and the northernmost city in the country. It is famous for its iconic Icehotel, where you can spend the night in a room made entirely of ice and snow. The [Kiruna Church](https://en.wikipedia.org/wiki/Kiruna_Church), with its unique architecture, is also worth a visit. Additionally, you can [explore](https://kirunalapland.se/aktiviteter/lkabs-visitor-centre/) the nearby [Kiruna Mine](https://en.wikipedia.org/wiki/Kiruna_mine), one of the largest iron ore mines in the world.
+  - [weather - Kiruna, Norway - Foreca](https://www.foreca.fi/Sweden/Kiruna)
 
 
 # Language tips
@@ -85,6 +100,7 @@ This is a useful question to ask if you need help or directions and are unsure i
 - Kan jeg få en [øl/vann/kaffe]? (Can I have a [beer/water/coffee]?)
 If you're at a restaurant or café, this is a useful phrase to know when you want to order something to drink.
 - "Hvor er nærmeste bensinstasjon?" This translates to "Where is the nearest gas station?"
+- "Jeg har gått meg bort" tai "Jeg har mistet meg" (kirjaimellisesti "Olen kadottanut itseni").
 
 ### Other stuff
 
