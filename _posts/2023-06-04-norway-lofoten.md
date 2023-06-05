@@ -48,6 +48,7 @@ The municipality of Valberg was created by an acrimonious split from the municip
 - Reine: Although it's a bit further away from Borg, Reine is often considered one of the most beautiful villages in Lofoten. Its iconic red and yellow fishing huts, framed by majestic mountains and crystal-clear waters, create a postcard-perfect setting. Make sure to visit the nearby [Reinebringen](https://goo.gl/maps/RtSEsJsNFB5E8r43A?coh=178571&entry=tt) viewpoint for a stunning panoramic view of the village and its surroundings.
 - Eggum: A short drive from Borg, Eggum is a picturesque coastal village with rugged cliffs and sweeping ocean views. [Hvit strand - Eggum - maps](https://goo.gl/maps/8x1H8wXncFhrV2b96?coh=178571&entry=tt)
 - [Unstad beach](https://goo.gl/maps/14WHhFXzWQmhs9CS7?coh=178571&entry=tt): go and watch the surfers catch waves.
+- The [Lofotr Viking Museum](https://www.lofotr.no/en/) in Borg ([maps](https://goo.gl/maps/hwcVVJ4aANBxpw7N7?coh=178571&entry=tt)): explore a reconstructed chieftain's house and learn about the region's Viking heritage.
 
 ### near Lyngvær
 
@@ -56,6 +57,19 @@ The municipality of Valberg was created by an acrimonious split from the municip
 - Nusfjord: Nusfjord is a historic fishing village that has been well-preserved and is now a designated UNESCO World Heritage Site.
 - Lofoten Aquarium: Located in Kabelvåg, which is a short distance from Lyngvær (15 minutes drive, see [maps](https://goo.gl/maps/d2znBGVaaoUdizvWA?coh=178571&entry=tt))
 - Torsfjord is a scenic fjord located close to Lyngvær. It offers beautiful views of steep mountains, cascading waterfalls, and tranquil waters. Exploring the fjord by boat or taking a leisurely hike, see [PDF](http://www.fredvang.info/images/visit_fredvang/lofoten-torsfjord-kvalvika-walk.pdf) and in [Mapcarta](https://mapcarta.com/18614112)
+
+# On the road again
+
+- [Museot kartalla](https://museot.fi/kulttuurikierros-kartta/karttahaku.php)
+- Kittilä
+  - [Särestöniemi-museo](https://museot.fi/museohaku/index.php?museo_id=21347): 12-18, "Taidemaalari, professori Reidar Särestöniemen (1925- 1981) taiteilijakoti Kittilässä"
+  - [Palsa-museo](https://museot.fi/museohaku/index.php?museo_id=9068): 12-18
+  - [Samiland](https://museot.fi/museohaku/index.php?museo_id=9066): 10-18
+- [Narvik](https://en.wikipedia.org/wiki/Narvik_(town)), Norway: Narvik is a scenic town located on the shores of the [Ofotfjord](https://en.wikipedia.org/wiki/Ofotfjord). It is known for its stunning mountainous surroundings and the [Narvik War Museum](https://warmuseum.no/?xdomain_data=ZX5dgh48W2MiCR73%2BlsKXd%2B4SCUavtURAjzVHfl0zYEhZAzD5oP62QnMVxuWFbtm) (open 10-16), which provides insight into the town's role in World War II.
+- [Abisko](https://goo.gl/maps/okgV9MthURtSh8FcA?coh=178571&entry=tt), Sweden: As you cross the border into Sweden, you'll find Abisko National Park. This pristine wilderness is renowned for its dramatic landscapes, including towering mountains, deep valleys, and the stunning Lake Torneträsk.
+  - [Aurora Sky Station](https://auroraskystation.se/en/summer/chairlift-summer/): Lifts open daily, Evenings: June 17, 2022 –  July 17, 2022 (Every day during the week)
+- Kiruna is a fascinating town in northern Sweden and the northernmost city in the country. It is famous for its iconic Icehotel, where you can spend the night in a room made entirely of ice and snow. The [Kiruna Church](https://en.wikipedia.org/wiki/Kiruna_Church), with its unique architecture, is also worth a visit. Additionally, you can [explore](https://kirunalapland.se/aktiviteter/lkabs-visitor-centre/) the nearby [Kiruna Mine](https://en.wikipedia.org/wiki/Kiruna_mine), one of the largest iron ore mines in the world.
+
 
 # Language tips
 
@@ -67,7 +81,6 @@ If you're at a restaurant or café, this is a useful phrase to know when you wan
 
 ### Other stuff
 
-- The [Lofotr Viking Museum](https://www.lofotr.no/en/) in Borg ([maps](https://goo.gl/maps/hwcVVJ4aANBxpw7N7?coh=178571&entry=tt)): explore a reconstructed chieftain's house and learn about the region's Viking heritage.
 - Mapcarta
   - [Klauva](https://mapcarta.com/31289782)
   - [Dalstinden](https://mapcarta.com/30820980)
