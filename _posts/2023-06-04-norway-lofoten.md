@@ -108,6 +108,7 @@ If you're at a restaurant or café, this is a useful phrase to know when you wan
   - [Tenk Lofoten Frisbeegolfbane (Leknes)](https://udisc.com/courses/tenk-lofoten-frisbeegolfbane-leknes-B0Pb)
   - [Discgolf Kiruna](https://udisc.com/courses/kiruna-discgolf-CywV)
   - Frisbeegolfia Norjassa, [youtube](https://www.youtube.com/watch?v=g_ehzJzO9ps)
+  - Hermannsvika Frisbeegolfbane, [udisc](https://udisc.com/courses/hermannsvika-frisbeegolfbane-xoij)
 - Mapcarta
   - [Klauva](https://mapcarta.com/31289782)
   - [Dalstinden](https://mapcarta.com/30820980)
@@ -122,6 +123,8 @@ If you're at a restaurant or café, this is a useful phrase to know when you wan
 - Alkoholi
   - "Norja ei ole EU-maa. Menomatkalla alkoholia saa viedä mukanaan: 1 litra väkeviä + 3 litraa viiniä + 2 litraa olutta. Jos viet Norjaan pelkästään olutta, mukana saa olla korkeintaan 19 tölkkiä (6,5 litraa)." [Autolla Norjaan – vinkit ja kokemukset - Kerran elämässä](https://kerranelamassa.fi/norja-matkailu/vinkit-ja-kokemukset/autoilu-norjassa/)
   - [toll.no](https://www.toll.no/en/goods/alcohol-and-tobacco/quotas/)
+- Kirjat
+  - [Merikirja](https://kirja.elisa.fi/ekirja/merikirja) nostattaa kaipuun Lofooteille
 
 
 # Links
