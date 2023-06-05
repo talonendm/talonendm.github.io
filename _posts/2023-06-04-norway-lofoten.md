@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Norway
-subtitle: From Vikings to Modern Art - A Cultural Hiking Tour of Lofoten
+title: Exploring Lofoten's Hiking Trails with an Artistic Flair
+subtitle: From Brushstrokes to Footsteps - Discovering Lofoten's Hiking Trails and Artistic Inspiration
 tags:
   - Norway
   - Lofoten
@@ -20,6 +20,10 @@ Places like [Reine](https://en.wikipedia.org/wiki/Reine), [Henningsvær](https:/
 ## Some Hiking Routes
 
 - northadviser.com, [hiking routes at Lofoten](https://www.northadviser.com/home/hiking/?_sft_niva=lofoten).
+- Hiking routes on map: [www.outdooractive.com](https://www.outdooractive.com/en/hiking-routes/lofoten/hiking-in-lofoten/199481640/)
+  - [Festvågtind](https://www.outdooractive.com/en/route/hiking-route/lofoten/festvagtind/56037325/)
+  - [Justadtinden](https://www.outdooractive.com/en/route/hiking-route/norway/justadtinden-lofoten/40083210/)
+  - Challenging! [Beware](https://www.outdooractive.com/en/route/hiking-route/lofoten/vagakallen/56037328/#dmdtab=oax-tab1&dmlb=1)! [Vågakallen](https://www.outdooractive.com/en/route/hiking-route/lofoten/vagakallen/56037328/#dmdtab=oax-tab1)
 
 - Offersøykammen
   - [outdooractive](https://www.outdooractive.com/en/route/hiking-route/lofoten/offersoykammen/56037340/): "Offersøykammen is located at 436 meters above sea level", see [getting there](https://www.outdooractive.com/en/route/hiking-route/lofoten/offersoykammen/56037340/#dmdtab=oax-tab4).
@@ -65,6 +69,9 @@ The municipality of Valberg was created by an acrimonious split from the municip
   - [Särestöniemi-museo](https://museot.fi/museohaku/index.php?museo_id=21347): 12-18, "Taidemaalari, professori Reidar Särestöniemen (1925- 1981) taiteilijakoti Kittilässä"
   - [Palsa-museo](https://museot.fi/museohaku/index.php?museo_id=9068): 12-18
   - [Samiland](https://museot.fi/museohaku/index.php?museo_id=9066): 10-18
+- Kilpisjärvi
+  - maps: [Tsahkalputous](https://goo.gl/maps/CyMGtAwzYrMBBSrPA)
+  - maps: [K-Market Kilpishalli](https://goo.gl/maps/skhxEMerAkfgv6LR8)
 - [Narvik](https://en.wikipedia.org/wiki/Narvik_(town)), Norway: Narvik is a scenic town located on the shores of the [Ofotfjord](https://en.wikipedia.org/wiki/Ofotfjord). It is known for its stunning mountainous surroundings and the [Narvik War Museum](https://warmuseum.no/?xdomain_data=ZX5dgh48W2MiCR73%2BlsKXd%2B4SCUavtURAjzVHfl0zYEhZAzD5oP62QnMVxuWFbtm) (open 10-16), which provides insight into the town's role in World War II.
 - [Abisko](https://goo.gl/maps/okgV9MthURtSh8FcA?coh=178571&entry=tt), Sweden: As you cross the border into Sweden, you'll find Abisko National Park. This pristine wilderness is renowned for its dramatic landscapes, including towering mountains, deep valleys, and the stunning Lake Torneträsk.
   - [Aurora Sky Station](https://auroraskystation.se/en/summer/chairlift-summer/): Lifts open daily, Evenings: June 17, 2022 –  July 17, 2022 (Every day during the week)
@@ -81,6 +88,10 @@ If you're at a restaurant or café, this is a useful phrase to know when you wan
 
 ### Other stuff
 
+- Frisbeegolf
+  - [Tenk Lofoten Frisbeegolfbane (Leknes)](https://udisc.com/courses/tenk-lofoten-frisbeegolfbane-leknes-B0Pb)
+  - [Discgolf Kiruna](https://udisc.com/courses/kiruna-discgolf-CywV)
+  - Frisbeegolfia Norjassa, [youtube](https://www.youtube.com/watch?v=g_ehzJzO9ps)
 - Mapcarta
   - [Klauva](https://mapcarta.com/31289782)
   - [Dalstinden](https://mapcarta.com/30820980)
@@ -90,8 +101,8 @@ If you're at a restaurant or café, this is a useful phrase to know when you wan
 
 # Links
 
-- [ta.dm private](https://docs.google.com/spreadsheets/d/19BkGyPCeYUFju6qmrPmDd3s-zcD2MNX5jRguvoorb1c/edit?usp=sharing): mukaan
-- [ta.dm connections - private](https://docs.google.com/document/d/1HAWVXDeNU1e4nwJc5xQNVkbxLoUgeIU85I9PJuDFjf8/edit?usp=sharing)
+- [ta.dm - packing private](https://docs.google.com/spreadsheets/d/19BkGyPCeYUFju6qmrPmDd3s-zcD2MNX5jRguvoorb1c/edit?usp=sharing): mukaan
+- [ta.dm - plans private](https://docs.google.com/document/d/10h1bN0ps1jTwevLAY3xna2aFz1f0oruE2Y_yMWK2xRA/edit?usp=sharing)
 
 ## Norway links
 
