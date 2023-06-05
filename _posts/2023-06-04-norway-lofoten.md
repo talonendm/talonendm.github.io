@@ -114,6 +114,15 @@ If you're at a restaurant or café, this is a useful phrase to know when you wan
   - [Blåheia](https://mapcarta.com/30633834)
   - [Dalstuva](https://mapcarta.com/30820832)
   - [Trolldalstinden](https://mapcarta.com/30820834)
+- Kalastus
+  - [kalastus lofooteilla](https://kerranelamassa.fi/norja-matkailu/pohjois-norja/lofootit/kalastus/)
+  - [turskaa ja seitä](https://www.kalastus.com/keskustelu/kaikkea-kalastuksesta/lofootit-kalapaikkoja)
+  - Turskan kalastus rannalta - Kalassa.net
+  - näin kalastetaan turskaa veneestä - [youtube](https://www.youtube.com/watch?v=lptP3WB1bK0)
+- Alkoholi
+  - "Norja ei ole EU-maa. Menomatkalla alkoholia saa viedä mukanaan: 1 litra väkeviä + 3 litraa viiniä + 2 litraa olutta. Jos viet Norjaan pelkästään olutta, mukana saa olla korkeintaan 19 tölkkiä (6,5 litraa)." [Autolla Norjaan – vinkit ja kokemukset - Kerran elämässä](https://kerranelamassa.fi/norja-matkailu/vinkit-ja-kokemukset/autoilu-norjassa/)
+  - [toll.no](https://www.toll.no/en/goods/alcohol-and-tobacco/quotas/)
+
 
 # Links
 
