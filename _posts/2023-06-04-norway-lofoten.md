@@ -147,6 +147,16 @@ If you're at a restaurant or café, this is a useful phrase to know when you wan
 
 # Driving
 
+![i.06](/assets/pics/page/travelling/norway/2306/06.jpg){: .mx-auto.d-block :}
+
+![i.07](/assets/pics/page/travelling/norway/2306/07.jpg){: .mx-auto.d-block :}
+
+![i.08](/assets/pics/page/travelling/norway/2306/08.jpg){: .mx-auto.d-block :}
+
+![i.09](/assets/pics/page/travelling/norway/2306/09.jpg){: .mx-auto.d-block :}
+
+![i.11](/assets/pics/page/travelling/norway/2306/11.jpg){: .mx-auto.d-block :}
+
 ![i.14](/assets/pics/page/travelling/norway/2306/14.jpg){: .mx-auto.d-block :}
 
 ![i.15](/assets/pics/page/travelling/norway/2306/15.jpg){: .mx-auto.d-block :}
