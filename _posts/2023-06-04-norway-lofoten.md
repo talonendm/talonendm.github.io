@@ -144,6 +144,15 @@ If you're at a restaurant or café, this is a useful phrase to know when you wan
 - [Klubbnasen](https://pohjanportti.wordpress.com/tag/klubbnasen/)
 - Lohta [Annijoelta](http://pojatkalastaa.123kotisivu.fi/281587376)
 
+
+# Driving
+
+![i.14](/assets/pics/page/travelling/norway/2306/14.jpg){: .mx-auto.d-block :}
+
+![i.15](/assets/pics/page/travelling/norway/2306/15.jpg){: .mx-auto.d-block :}
+
+![i.16](/assets/pics/page/travelling/norway/2306/16.jpg){: .mx-auto.d-block :}
+
 ---
 
 [Disclaimer](https://talonendm.github.io/disclaimer)
