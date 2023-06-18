@@ -153,6 +153,14 @@ If you're at a restaurant or café, this is a useful phrase to know when you wan
 
 ![i.08](/assets/pics/page/travelling/norway/2306/08.jpg){: .mx-auto.d-block :}
 
+- [Henningsvær](https://en.wikipedia.org/wiki/Henningsv%C3%A6r) ([lofoottien venetsia](https://matkallalahelletaikauas.wordpress.com/2020/07/02/henningsvaer-lofoottien-venetsia/))
+- [Festvågtind](https://www.outdooractive.com/en/route/hiking-route/lofoten/festvagtind/56037325/)
+  - [private sp](https://www.sports-tracker.com/workout/haques/6481da9c6ad9af548eec43c7)
+
+![i.08sp](/assets/pics/page/travelling/norway/2306/08sp.jpg){: .mx-auto.d-block :}
+
+![i.08hill](/assets/pics/page/travelling/norway/2306/08hill.jpg){: .mx-auto.d-block :}
+
 ![i.09](/assets/pics/page/travelling/norway/2306/09.jpg){: .mx-auto.d-block :}
 
 ![i.11](/assets/pics/page/travelling/norway/2306/11.jpg){: .mx-auto.d-block :}
