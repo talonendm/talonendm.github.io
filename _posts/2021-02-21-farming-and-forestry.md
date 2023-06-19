@@ -149,6 +149,29 @@ jos saa diilin, 10 snt/kWh, paljon kustannukset laskevat? ks. [private ta.dm](ht
 - 20.5.2023: pussillinen sipuleita kasvimaalle ja muutama krassin taimi
 - 28.5.2023: hevoskastanja viiden rivistä isoon saviruukkuun
 - 28.5.2023: 15 päivää myöhemmin basilika itää kolmessa altakasteluruukussa.
+- 16.6.2023: "Koivun kukinta jatkuu Käsivarren Lapissa ja on pääosin päättynyt muualla Pohjois-Lapissa." ja "Ilmassa on runsaasti havupuiden siitepölyä koko maassa. Runsaana esiintyvä havupuiden siitepöly näkyy keltaisena kerroksena pinnoilla, mutta aiheuttaa allergiaoireita vain harvoille." [HH ja K](https://norkko.fi/)
+- 18.6.2023: Basilika ei oikein kasva helteinen takia ja kastelu jäi reissun takia väliin
+- 18.6.2023: Omenapuussa harsoa. Tuomenkehrääjäkoi ([Yponomeuta evonymella](https://fi.wikipedia.org/wiki/Tuomenkehr%C3%A4%C3%A4j%C3%A4koi)) on perhonen, jonka toukat elävät tuomissa. Ne kehräävät tuomeen harsomaisen kudoksen, joka peittää lehtiä, oksia ja joskus koko puun. "Tuomenkehrääjäkoi,
+lehväin kirjailija,
+luonnon taideteos."
+- 18.6.2023: keltakurjenmiekka lammella kukkii. Violetti siperiankurjenmiekka terassin lähellä ei meinaa pysyä pystyssä varren pituuden ja kukinnon suuruden takia. [Päivälilja](https://www.kekkila.fi/kasvikirjasto/keltapaivanlilja/) kukkii monessa paikassa.
+
+> Keltakurjenmiekkä
+lammella loistaa kukin
+suloinen kauneus.
+
+> Violetti taipuu
+terassilla kukkiva
+voimansa uhkuu.
+
+> Yellow iris blooms
+by the tranquil pond's embrace
+sweet beauty unfolds.
+
+> Purple iris sways
+near the terrace, blooms abound
+strength and grace combined.
+
 
 # 2022
 

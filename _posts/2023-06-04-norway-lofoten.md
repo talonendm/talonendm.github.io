@@ -145,6 +145,15 @@ If you're at a restaurant or café, this is a useful phrase to know when you wan
 - Lohta [Annijoelta](http://pojatkalastaa.123kotisivu.fi/281587376)
 
 
+# Abisko
+
+Abisko, Sweden, is a small village located in the northern part of the country, within the Lapland region. It is situated approximately 195 kilometers (121 miles) northwest of Kiruna, one of the major towns in Swedish Lapland. Short hiking at [Abisko](https://www.visitabisko.com/) ([private sp](https://www.sports-tracker.com/workout/haques/648accebcdead939aa0a46b9)). See trails on the [map - www.naturkartan.se](https://www.naturkartan.se/en/norrbottens-lan/kanjonen-abisko-nationalpark).
+
+
+# Frisbeegolf (discgolfparken)
+
+- Gällivaara
+
 # Driving
 
 ![i.06](/assets/pics/page/travelling/norway/2306/06.jpg){: .mx-auto.d-block :}
