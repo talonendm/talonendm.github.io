@@ -32,6 +32,7 @@ Puhe katsottavissa kokonaisuudessaan [Areenassa](https://areena.yle.fi/1-6422813
 
 - [Lasse Kerkelä HS 18.1.2023 13:33](https://www.hs.fi/kotimaa/art-2000009332729.html), "Uber vältti syyttäjän miljoona­vaatimuksen: Haaste toimitettiin kolme päivää myöhässä": "SYYTTÄJÄ jätti toukokuussa 2022 Uberia koskevan rikoshyödyn menettämisvaatimuksen Helsingin käräjäoikeuteen." ja "Asian oikeuskäsittely raukesi viime marraskuussa, koska syyttäjä peruutti vaatimuksen rikoshyödyn menettämisestä valtiolle. Syynä oli se, ettei haastehakemusta saatu toimitettua ajoissa Uberille Hollannissa." ja "Hollannista saapuneen tiedoksiantotodistuksen mukaan haastehakemus annettiin siellä tiedoksi yhtiölle 17. elokuuta viime vuonna."
 - [Mies laski vuosien ajan kuumaa vettä kodissaan Puna­vuoressa - HS 26.3.2023](https://www.hs.fi/kaupunki/art-2000009472021.html): "Uskoi vesi­höyryn terveys­vaikutuksiin Mies valutti tuntikausia kuumaa vettä hanasta ja aiheutti taloyhtiöön kymmenien tuhansien eurojen korjauslaskut."
+- Parkkipatesta tehdyt valitukset paljastavat bisneksen luonteen [HS 19.6.2023](https://www.hs.fi/kotimaa/art-2000009611194.html)
 
 ## Energia
 
@@ -57,6 +58,7 @@ Puhe katsottavissa kokonaisuudessaan [Areenassa](https://areena.yle.fi/1-6422813
 - "Toisen taivutteleminen *tosiasioilla* johtaa umpikujaan ja uupumukseen" [HS 2.1.2023](https://www.hs.fi/tiede/art-2000009236025.html)
 - EZVIZ [PDF ohjeet](https://m-support.ezviz.com/download/viewer?file=%2F%2Fmfs.ezvizlife.com%2FBC1W2H_User%20Manual_FI(V1.0.5).pdf%3Fver%3D94569)
 - Ezviz studio requires restart ([download](https://support.ezviz.com/download))
+- [Toimittaja yrittää jäljittää Uros-kohuyhtiön salaperäistä perustajaa, IL 25.5.2023](https://www.is.fi/tv-ja-elokuvat/art-2000009575331.html)
 
 ![i.01.roof](/assets/pics/page/roof/ezviz.jpg){: .mx-auto.d-block :}
 

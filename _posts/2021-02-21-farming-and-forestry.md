@@ -155,6 +155,7 @@ jos saa diilin, 10 snt/kWh, paljon kustannukset laskevat? ks. [private ta.dm](ht
 lehväin kirjailija,
 luonnon taideteos."
 - 18.6.2023: keltakurjenmiekka lammella kukkii. Violetti siperiankurjenmiekka terassin lähellä ei meinaa pysyä pystyssä varren pituuden ja kukinnon suuruden takia. [Päivälilja](https://www.kekkila.fi/kasvikirjasto/keltapaivanlilja/) kukkii monessa paikassa.
+- 19.6.2023: kuivuutta. Kasvien kastelua. Pelto-ojassa olevissa [tuomissa](https://fi.wikipedia.org/wiki/Tuomi) seittiä. Unikot kukkivat sulkapallokentällä ja rinteessä. 
 
 > Keltakurjenmiekkä
 lammella loistaa kukin
