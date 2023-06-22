@@ -6,7 +6,7 @@ tags:
   - Norway
   - Lofoten
 comments: false
-cover-img: /assets/pics/cover/e1024/e-IMG20230511183137.jpg
+cover-img: /assets/pics/page/travelling/norway/2306/13hiking.jpg
 thumbnail-img: /assets/pics/thumbnail/e640-direct/2023/e-laptop.jpg
 published: true
 ---

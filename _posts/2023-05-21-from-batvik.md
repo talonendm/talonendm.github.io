@@ -85,6 +85,38 @@ Some links
 
 
 
+### to Porsö
+
+1. Kirvele (portside)
+   1. Vesilupahakemus ([Prysmia](https://ylupa.avi.fi/api/v1/documents/attachment/7048933))
+2. Brändholmen (starboardside)
+3. Örnkobben (portside)
+4. Svartholmen (starboardside) or from red to red line (portside)
+   1. [sää](https://www.ilmatieteenlaitos.fi/saa/kirkkonummi/svartholmen), [tuuli](https://www.ilmatieteenlaitos.fi/saa/kirkkonummi/svartholmen?parameter=wind), [kosteus](https://www.ilmatieteenlaitos.fi/saa/kirkkonummi/svartholmen?parameter=humidity)
+5. Handsken (portside): [merimetsosaari](http://www.karivierinen.fi/Lansiuusimaa/Merimetsot.html)
+6. Mullbänken
+7. Flatgruna
+8. Älgsklacken: [aroundus](https://it.aroundus.com/p/10350855-algsklacken#cx=59.999844612181285&cy=24.244334865955864&sx=0.0009090948349310679&sy=0.005965514980687203&id=10350855)
+9. Mellanharuna
+10. Notgrundet
+11. Ryssklobben
+12. Porsö
+
+#### Porsö
+
+> Porsö linnoitettu,
+Historian jäänteitä,
+Tornikanuunot seisoo.
+
+Porsö: [google maps](https://goo.gl/maps/qKr7rsvDvGLq4xzp7), [maanmittauslaitos](https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=6653223.024578765&e=344071.85901936336&title=Pors%C3%B6%20-%20laituri&desc=&zoom=9&layers=W3siaWQiOjIsIm9wYWNpdHkiOjEwMH1d-z), koukkuja [pienveneelle](https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=6653247.516028241&e=344052.6517720032&title=koukkuja,%20keskimm%C3%A4inen%20paras&desc=&zoom=12&layers=W3siaWQiOjIsIm9wYWNpdHkiOjEwMH1d-z)
+    - Lillklobben koukkupaikat, [Google maps](https://www.google.com/maps/@59.9828037,24.1955409,540m)
+- [youtube - kari vierinen](https://www.youtube.com/watch?v=u5vRjFKCKRk)
+- "Porsössä Porkkalanselällä on vanhan puolustusvoimiesn laiturin lisäksi vapaassa käytössä oleva laituri (ankkurikiinnitys) saaren koilliskulmassa, jossa myös puucee." [venelehti](https://venelehti.fi/veneilijan-luontokohde-porso-aseilla-eristetty/)
+- [kipparilehti](https://kipparilehti.fi/porson-linnoitussaari-salainen-tukikohta-porkkalanselalla/)
+- sää: [Porsö](https://www.ilmatieteenlaitos.fi/saa/inkoo/pors%C3%B6)
+
+
+
 # Kalastus
 
 - pyydyslupa-alueet lähellä Porkkalanniemeä [PDF](https://www.eraluvat.fi/media/kartat/pyydyslupakartat2013/etelasuomi/6005-etelainen-rannikkoalue2.pdf)
