@@ -21,6 +21,9 @@ tags:
 
 - [AI ja työpaikat - IS 30.4.2023](https://www.is.fi/taloussanomat/art-2000009544694.html): "Tekoälyn voi esimerkiksi pyytää tekemään sopimuspohjan ja kommentoimaan sopimuksia, jolloin me emme tarvitsekaan siihen juristia." - Eduhousen neuvonantajana toimiva pitkän linjan teknologiavaikuttaja Risto Linturi
 - [ ] [Visual Prompting Livestream With Andrew Ng](https://www.youtube.com/watch?v=FE88OOUBonQ): youtube
+- Google Trends: 
+  - [openAI](https://trends.google.com/trends/explore?geo=FI&q=openAI&hl=fi)
+  - [chatGPT](https://trends.google.com/trends/explore?geo=FI&q=chatGPT&hl=fi)
 
 # 2022
 
