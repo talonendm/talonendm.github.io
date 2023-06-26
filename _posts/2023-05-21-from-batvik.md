@@ -110,6 +110,7 @@ Tornikanuunot seisoo.
 
 Porsö: [google maps](https://goo.gl/maps/qKr7rsvDvGLq4xzp7), [maanmittauslaitos](https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=6653223.024578765&e=344071.85901936336&title=Pors%C3%B6%20-%20laituri&desc=&zoom=9&layers=W3siaWQiOjIsIm9wYWNpdHkiOjEwMH1d-z), koukkuja [pienveneelle](https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=6653247.516028241&e=344052.6517720032&title=koukkuja,%20keskimm%C3%A4inen%20paras&desc=&zoom=12&layers=W3siaWQiOjIsIm9wYWNpdHkiOjEwMH1d-z)
     - Lillklobben koukkupaikat, [Google maps](https://www.google.com/maps/@59.9828037,24.1955409,540m)
+    - [Paikkatieto.vaylapilvi.fi](https://paikkatieto.vaylapilvi.fi/suomen-vaylat/theme/10/344230/6653352/11/?lang=en)
 - [youtube - kari vierinen](https://www.youtube.com/watch?v=u5vRjFKCKRk)
 - "Porsössä Porkkalanselällä on vanhan puolustusvoimiesn laiturin lisäksi vapaassa käytössä oleva laituri (ankkurikiinnitys) saaren koilliskulmassa, jossa myös puucee." [venelehti](https://venelehti.fi/veneilijan-luontokohde-porso-aseilla-eristetty/)
 - [kipparilehti](https://kipparilehti.fi/porson-linnoitussaari-salainen-tukikohta-porkkalanselalla/)
