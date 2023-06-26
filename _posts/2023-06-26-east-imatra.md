@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Luonnon villit voimat Imatralla
-subtitle: Into the Wilderness: Discovering Imatra's Untamed Beauty
+subtitle: Into the Wilderness - Discovering Imatra's Untamed Beauty
 tags:
   - Imatra
   - Travelling
@@ -26,6 +26,13 @@ Culinary bliss.
 # Hiking
 
 Nature activities: Imatra offers a wide range of outdoor and nature activities. The area has an extensive network of hiking trails, cycling routes, and cross-country skiing tracks.
+
+> Balanced on its perch,
+Kummakivi defies logic,
+Nature's mystery.
+Stone rests upon its tip,
+Whispering tales untold.
+
 
 - [Ruokolahden Kummakivi](https://www.suomenlatu.fi/latu-polku/blogi/ruokolahden-kummakivi.html?gclid=Cj0KCQjw7uSkBhDGARIsAMCZNJs2RbIU5hlEUZWnNSUJB_cdDFtzMzyXbxfUyogC6fqhSINHWxwhyU0aAuOcEALw_wcB)
   - Saimaa geopark; [kummakivi](https://saimaageopark.fi/norppapolku-harjumaastossa/#filter=r-fullyTranslatedLangus-,r-onlyOpened-,sb-sortedBy-0&zc=16,28.43112,61.49172)
