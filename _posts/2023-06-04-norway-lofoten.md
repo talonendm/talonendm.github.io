@@ -47,6 +47,9 @@ Places like [Reine](https://en.wikipedia.org/wiki/Reine), [Henningsvær](https:/
 
 The municipality of Valberg was created by an acrimonious split from the municipality of Borge in 1927. The new municipality initially had 625 residents. During the 1960s, there were many municipal mergers across Norway due to the work of the Schei Committee. On 1 January 1963, Valberg municipality (population: 662) was merged with the neighboring municipalities of Borge (population: 4,056), Buksnes (population: 4,416), and Hol (population: 3,154) to create the new Vestvågøy Municipality. Current [weather at Valberg](https://www.yr.no/en/forecast/daily-table/1-276546/Norway/Nordland/Vestv%C3%A5g%C3%B8y/Valberg).
 
+- [Valberg church](https://en.wikipedia.org/wiki/Valberg_Church)
+- Tiltaltti, [Common chiffchaff](https://en.wikipedia.org/wiki/Common_chiffchaff),  (Phylloscopus collybita) [youtube](https://www.youtube.com/watch?v=aU88GZt_xko). Laulu yleisesti tunnettu ”til-talt” -tiputtelu. [Luontoportti](https://luontoportti.com/t/729/tiltaltti) ja siten Tiltaltin nimitys on onomatopoeettinen. Katso myös [tilitaltti](https://www.is.fi/taloussanomat/art-2000008383781.html).
+
 ## must-see attractions and things to do
 
 ### near Borg

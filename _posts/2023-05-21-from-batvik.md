@@ -95,12 +95,13 @@ Some links
    1. [sää](https://www.ilmatieteenlaitos.fi/saa/kirkkonummi/svartholmen), [tuuli](https://www.ilmatieteenlaitos.fi/saa/kirkkonummi/svartholmen?parameter=wind), [kosteus](https://www.ilmatieteenlaitos.fi/saa/kirkkonummi/svartholmen?parameter=humidity)
 5. Handsken (portside): [merimetsosaari](http://www.karivierinen.fi/Lansiuusimaa/Merimetsot.html)
 6. Mullbänken
+   1. erillinen kalastusretki, saaren lähelle ei pääse 6/2023 merimetsojen vuoksi, see [private sp](https://www.sports-tracker.com/workout/haques/6493529ed673b05bb54c421c).
 7. Flatgruna
 8. Älgsklacken: [aroundus](https://it.aroundus.com/p/10350855-algsklacken#cx=59.999844612181285&cy=24.244334865955864&sx=0.0009090948349310679&sy=0.005965514980687203&id=10350855)
-9. Mellanharuna
+9.  Mellanharuna
 10. Notgrundet
 11. Ryssklobben
-12. Porsö
+12. Porsö, see [private sp](https://www.sports-tracker.com/workout/haques/6491ddbe7d1e911111487ef4).
 
 #### Porsö
 
