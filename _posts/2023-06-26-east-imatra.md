@@ -47,6 +47,17 @@ Whispering tales untold.
 - [Syrjäsalmen kalliomaalaus](https://saimaageopark.fi/norppapolku-harjumaastossa/#filter=r-fullyTranslatedLangus-,r-onlyOpened-,sb-sortedBy-0&zc=18,28.31524,61.53212)
 - Syyspohjan [Salpalinjan kiviesteet](https://saimaageopark.fi/norppapolku-harjumaastossa/#filter=r-fullyTranslatedLangus-,r-onlyOpened-,sb-sortedBy-0&ipd=37865640&zc=19,28.63843,61.39213)
 
+
+# Fishing
+
+- Vuoksen kalastusalueet [kartalla](https://www.imatra.fi/sites/default/files/thumbnails/image/kalastuskartta.png). " Jokaisen 18–64-vuotiaan Vuoksen luvalla viehekalastusta harjoittavan henkilön tulee lisäksi suorittaa valtion kalastonhoitomaksu." [imatra.fi](https://www.imatra.fi/asuminen-ja-ymparisto/virkistysalueet/kalastus/vuoksen-kalastusalueet)
+- Lammassaari, [kartta](https://kalastusrajoitus.fi/#/kalastusrajoitus)
+- Sesongit: hauki: toukokuun puoliväli - marraskuu, ahven: kesäkuu - marraskuu. [gosaimaa](https://gosaimaa.com/mita-tehda/aktiviteetit/kalastus/)
+- Saimaalle kalaan ([pdf](https://julkaisut.metsa.fi/assets/pdf/lp/Esitteet/saimaalle-kalaan-fin.pdf)): "LUPA: Jos olet 18–64-vuotias, sinun tulee maksaa
+valtion kalastonhoitomaksu. Sillä saat kalastaa
+yhdellä vavalla ilman vesialueen omistajan lupaa
+kaikkialla Suomessa, lukuun ottamatta vaelluskalavesistöjen koski- ja virta-alueita, kalastuskieltoalueita ja erityiskohteita (ks. kalastusrajoitus.fi)"
+
 # Beaches and activities
 
 - [Ukonlinnan uimaranta](https://www.google.com/maps/place/Ukonlinnan+uimaranta/@61.2064255,28.7154225,15.96z/)
