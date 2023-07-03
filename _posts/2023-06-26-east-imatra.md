@@ -4,7 +4,8 @@ title: Luonnon villit voimat Imatralla
 subtitle: Into the Wilderness - Discovering Imatra's Untamed Beauty
 tags:
   - Imatra
-  - Travelling
+  - travelling
+  - kalastus
 comments: false
 cover-img: /assets/pics/cover/e1024/e-IMG20230506115045.jpg
 thumbnail-img: /assets/pics/thumbnail/e640-direct/2023/e-potkuri2.jpg
@@ -42,21 +43,43 @@ Whispering tales untold.
 
 
 - [Ruokolahden Kummakivi](https://www.suomenlatu.fi/latu-polku/blogi/ruokolahden-kummakivi.html?gclid=Cj0KCQjw7uSkBhDGARIsAMCZNJs2RbIU5hlEUZWnNSUJB_cdDFtzMzyXbxfUyogC6fqhSINHWxwhyU0aAuOcEALw_wcB)
+  - maanmittauslaitos: [kummakivi map](https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=6818558.149512837&e=576252.6607156129&title=kummakivi&desc=&zoom=10&layers=W3siaWQiOjIsIm9wYWNpdHkiOjEwMH1d-z)
   - Saimaa geopark; [kummakivi](https://saimaageopark.fi/norppapolku-harjumaastossa/#filter=r-fullyTranslatedLangus-,r-onlyOpened-,sb-sortedBy-0&zc=16,28.43112,61.49172)
   - From Imatra: [Google Maps](https://www.google.com/maps/dir/Imatra/Kummakivi,+Luukkolansaari/@61.3874373,28.3547365,10.5z/data=!4m14!4m13!1m5!1m1!1s0x4690a63e19b75043:0xde9f9f38261c9e73!2m2!1d28.7645463!2d61.1695977!1m5!1m1!1s0x469a7126f99ff5e1:0x587df1ee94cd566e!2m2!1d28.429186!2d61.493532!3e0?entry=ttu)
 - [Syrjäsalmen kalliomaalaus](https://saimaageopark.fi/norppapolku-harjumaastossa/#filter=r-fullyTranslatedLangus-,r-onlyOpened-,sb-sortedBy-0&zc=18,28.31524,61.53212)
 - Syyspohjan [Salpalinjan kiviesteet](https://saimaageopark.fi/norppapolku-harjumaastossa/#filter=r-fullyTranslatedLangus-,r-onlyOpened-,sb-sortedBy-0&ipd=37865640&zc=19,28.63843,61.39213)
 
 
+## Trip to the odd rock
+
+1. Imatra
+2. There is a roundabout in Honkaharju with a piece of art by Veronika Romanova in the center. She created concrete fish sculptures. [uutisvuoksi](https://www.uutisvuoksi.fi/paikalliset/3658914), [Google maps](https://goo.gl/maps/Dsaujy5n2NCQ1yMT8) before art, 2018.
+3. kolmen ristin kirkko, [Google maps](https://goo.gl/maps/ofnFuVNuhTRjUdJWA)
+4. Pappilanlahti
+5. Syyspohjan salpa-asema, [Google Maps](https://goo.gl/maps/ST8UDsm9B9DPs5zMA)
+
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1688408739817!6m8!1m7!1sCAoSK0FGMVFpcFBjbW04aGVDMlpqS09Nb1RSZVIweVJpNlBNYzRVdUZIODVYV1k.!2m2!1d61.28883456434491!2d28.83797004189751!3f176.98268906628294!4f-1.2903074668213463!5f0.7820865974627469" alt="Pappilanlahti" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+Pappilanlahti
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1688408954195!6m8!1m7!1sCAoSLEFGMVFpcE0wX0QzaHotblk1dW1VTUJKMTVqRzBLSzRSQ3p5TXdPeElrQjBB!2m2!1d61.4935455!2d28.4300194!3f111.04399178437782!4f19.059593493845583!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+Kummakivi
+
+
 # Fishing
 
 - Vuoksen kalastusalueet [kartalla](https://www.imatra.fi/sites/default/files/thumbnails/image/kalastuskartta.png). " Jokaisen 18–64-vuotiaan Vuoksen luvalla viehekalastusta harjoittavan henkilön tulee lisäksi suorittaa valtion kalastonhoitomaksu." [imatra.fi](https://www.imatra.fi/asuminen-ja-ymparisto/virkistysalueet/kalastus/vuoksen-kalastusalueet)
 - Lammassaari, [kartta](https://kalastusrajoitus.fi/#/kalastusrajoitus)
+  - [1. hauki](https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=6787096.978090314&e=592168.2265102938&title=1.hauki&desc=&zoom=12&layers=W3siaWQiOjMsIm9wYWNpdHkiOjEwMH0seyJpZCI6Miwib3BhY2l0eSI6MTAwfV0-z)
+  - [2. hauki](https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=6786999.478090313&e=592090.726510294&title=2.%20hauki%20ahven-lipalla&desc=&zoom=11&layers=W3siaWQiOjIsIm9wYWNpdHkiOjEwMH1d-z)
+  - [3. hauki](https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=6786755.861840606&e=591981.895261807&title=hauki%20230702&desc=sateella%20illalla%209g%20lotolla&zoom=13&layers=W3siaWQiOjIsIm9wYWNpdHkiOjEwMH1d-z)
 - Sesongit: hauki: toukokuun puoliväli - marraskuu, ahven: kesäkuu - marraskuu. [gosaimaa](https://gosaimaa.com/mita-tehda/aktiviteetit/kalastus/)
 - Saimaalle kalaan ([pdf](https://julkaisut.metsa.fi/assets/pdf/lp/Esitteet/saimaalle-kalaan-fin.pdf)): "LUPA: Jos olet 18–64-vuotias, sinun tulee maksaa
 valtion kalastonhoitomaksu. Sillä saat kalastaa
 yhdellä vavalla ilman vesialueen omistajan lupaa
 kaikkialla Suomessa, lukuun ottamatta vaelluskalavesistöjen koski- ja virta-alueita, kalastuskieltoalueita ja erityiskohteita (ks. kalastusrajoitus.fi)"
+  - Harjus: Pyyntimitta sisävesissä vähintään 35 cm
+  - 
 
 # Beaches and activities
 
@@ -101,6 +124,7 @@ Nature's course, disc golf's embrace.
 
 - chatGPT - prompts - [private ta.dm](https://docs.google.com/document/d/1n1Vl_3XI5mYtdwjpzkOmbijMq9S61ba18t5PttlT9xE/edit?usp=sharing)
 - tavarat messiin - private.dm [sheets](https://docs.google.com/spreadsheets/d/19BkGyPCeYUFju6qmrPmDd3s-zcD2MNX5jRguvoorb1c/edit?usp=sharing)
+- paikalliset kalastusrajoitukset kartalla [kalastusrajoitus.fi](https://kalastusrajoitus.fi/#/kalastusrajoitus)
 
 ---
 
