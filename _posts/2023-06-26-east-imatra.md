@@ -50,19 +50,29 @@ Whispering tales untold.
 - Syyspohjan [Salpalinjan kiviesteet](https://saimaageopark.fi/norppapolku-harjumaastossa/#filter=r-fullyTranslatedLangus-,r-onlyOpened-,sb-sortedBy-0&ipd=37865640&zc=19,28.63843,61.39213)
 
 
-## Trip to the odd rock
+## Trip to the odd rock and Lappeenranta
 
 1. Imatra
 2. There is a roundabout in Honkaharju with a piece of art by Veronika Romanova in the center. She created concrete fish sculptures. [uutisvuoksi](https://www.uutisvuoksi.fi/paikalliset/3658914), [Google maps](https://goo.gl/maps/Dsaujy5n2NCQ1yMT8) before art, 2018.
 3. kolmen ristin kirkko, [Google maps](https://goo.gl/maps/ofnFuVNuhTRjUdJWA)
 4. Pappilanlahti
 5. Syyspohjan salpa-asema, [Google Maps](https://goo.gl/maps/ST8UDsm9B9DPs5zMA)
+6. Kirpputori
+7. Kummakivi
+8. [Huuhaanranta](https://www.is.fi/matkat/art-2000009004673.html) is one of the longest sandy beaches in Lake Saimaa. Huuhanranta stretches for 1.5 kilometers and offers an ideal setting for wading due to its shallow sandy bottom.
+9. Lappeenranta
+10. [Hiekkalinna](https://visitlappeenranta.fi/fi/Nae-ja-koe/Hiekkalinna)
 
+> Sandy shores beckon,
+Ruokolahti's art takes form,
+Water molds the sand.
+Sculptures rise, nature's embrace,
+Masterpieces by the lake.
 
-<iframe src="https://www.google.com/maps/embed?pb=!4v1688408739817!6m8!1m7!1sCAoSK0FGMVFpcFBjbW04aGVDMlpqS09Nb1RSZVIweVJpNlBNYzRVdUZIODVYV1k.!2m2!1d61.28883456434491!2d28.83797004189751!3f176.98268906628294!4f-1.2903074668213463!5f0.7820865974627469" alt="Pappilanlahti" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1688408739817!6m8!1m7!1sCAoSK0FGMVFpcFBjbW04aGVDMlpqS09Nb1RSZVIweVJpNlBNYzRVdUZIODVYV1k.!2m2!1d61.28883456434491!2d28.83797004189751!3f176.98268906628294!4f-1.2903074668213463!5f0.7820865974627469" alt="Pappilanlahti" width="300" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 Pappilanlahti
 
-<iframe src="https://www.google.com/maps/embed?pb=!4v1688408954195!6m8!1m7!1sCAoSLEFGMVFpcE0wX0QzaHotblk1dW1VTUJKMTVqRzBLSzRSQ3p5TXdPeElrQjBB!2m2!1d61.4935455!2d28.4300194!3f111.04399178437782!4f19.059593493845583!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1688408954195!6m8!1m7!1sCAoSLEFGMVFpcE0wX0QzaHotblk1dW1VTUJKMTVqRzBLSzRSQ3p5TXdPeElrQjBB!2m2!1d61.4935455!2d28.4300194!3f111.04399178437782!4f19.059593493845583!5f0.7820865974627469" width="300" height="250" style="border:1;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 Kummakivi
 
 
