@@ -7,8 +7,8 @@ tags:
   - travelling
   - kalastus
 comments: false
-cover-img: /assets/pics/cover/e1024/e-IMG20230506115045.jpg
-thumbnail-img: /assets/pics/thumbnail/e640-direct/2023/e-potkuri2.jpg
+cover-img: /assets/pics/cover/e1024/e-salpa-asema.jpg
+thumbnail-img: /assets/pics/thumbnail/e640-direct/2023/e-bird-thinking.jpg
 published: true
 ---
 
@@ -135,6 +135,7 @@ Nature's course, disc golf's embrace.
 - chatGPT - prompts - [private ta.dm](https://docs.google.com/document/d/1n1Vl_3XI5mYtdwjpzkOmbijMq9S61ba18t5PttlT9xE/edit?usp=sharing)
 - tavarat messiin - private.dm [sheets](https://docs.google.com/spreadsheets/d/19BkGyPCeYUFju6qmrPmDd3s-zcD2MNX5jRguvoorb1c/edit?usp=sharing)
 - paikalliset kalastusrajoitukset kartalla [kalastusrajoitus.fi](https://kalastusrajoitus.fi/#/kalastusrajoitus)
+- Vaalimaa: Zsar Outlet - "Kummituskylä": [IS 9.7.2023](https://www.is.fi/kotimaa/art-2000009697425.html)
 
 ---
 
