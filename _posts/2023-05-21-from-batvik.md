@@ -94,6 +94,7 @@ Some links
 4. Svartholmen (starboardside) or from red to red line (portside)
    1. [sää](https://www.ilmatieteenlaitos.fi/saa/kirkkonummi/svartholmen), [tuuli](https://www.ilmatieteenlaitos.fi/saa/kirkkonummi/svartholmen?parameter=wind), [kosteus](https://www.ilmatieteenlaitos.fi/saa/kirkkonummi/svartholmen?parameter=humidity)
 5. Handsken (portside): [merimetsosaari](http://www.karivierinen.fi/Lansiuusimaa/Merimetsot.html)
+   1. kuollut harmaahylje meressä, ks. [iltalehti](https://www.iltalehti.fi/kotimaa/a/af312cc3-3cfa-46d3-90d6-267feb28e5b8) ja [hernesaaren edustalla vastaava](https://www.iltalehti.fi/kotimaa/a/00a437b3-7008-4636-9aa8-d873c1f8c1ca)
 6. Mullbänken
    1. erillinen kalastusretki, saaren lähelle ei pääse 6/2023 merimetsojen vuoksi, see [private sp](https://www.sports-tracker.com/workout/haques/6493529ed673b05bb54c421c).
 7. Flatgruna
@@ -134,6 +135,11 @@ Bärösundin lossin luona ravintola, hotelli, laituripaikat, ks. [openstreetmap.
 
 - [private ta.dm boat diary](https://docs.google.com/spreadsheets/d/121TejW7rCYpjCELHAs-0dCP57Be7yyqrCC-4_j5gwNw/edit?usp=sharing)
 
+### West
+
+- Pyhäjärvi
+  - Aurinkoahven uhkaa Turun (Varsinais-Suomen) järviä [HS 4.7.2023](https://www.hs.fi/kotimaa/turku/art-2000009690838.html)
+- Båtvik lampi, [kalapaikka](https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=6665109.061639625&e=352949.2641633974&title=pikkuhaukia%20ja%20ahvenia%20kuulema%20saa&desc=&zoom=12&layers=W3siaWQiOjIsIm9wYWNpdHkiOjEwMH1d-z)
 ---
 
 [Disclaimer](https://talonendm.github.io/disclaimer)
