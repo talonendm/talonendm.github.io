@@ -89,7 +89,6 @@ valtion kalastonhoitomaksu. Sillä saat kalastaa
 yhdellä vavalla ilman vesialueen omistajan lupaa
 kaikkialla Suomessa, lukuun ottamatta vaelluskalavesistöjen koski- ja virta-alueita, kalastuskieltoalueita ja erityiskohteita (ks. kalastusrajoitus.fi)"
   - Harjus: Pyyntimitta sisävesissä vähintään 35 cm
-  - 
 
 # Beaches and activities
 
