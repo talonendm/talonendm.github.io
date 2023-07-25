@@ -141,6 +141,10 @@ Paintings of van Gogh and Picasso in two dimensional space. What metrics should 
 
 # More Artists
 
+## Kurt Schwitters
+
+Kurt Schwitters´ Merzbau (v230725): [YouTube](https://youtu.be/Dl03ruSzvRs?t=20). KURT SCHWITTERS his life was a [collage](https://www.singulart.com/en/artworks/thomas-dellert-kurt-schwitters-his-life-was-a-collage-264989).
+
 ## Cartoon and Manga
 
 - [Katsuhiro Otomo](https://en.wikipedia.org/wiki/Katsuhiro_Otomo) (大友 克洋, Ōtomo Katsuhiro, born April 14, 1954) is a Japanese manga artist
