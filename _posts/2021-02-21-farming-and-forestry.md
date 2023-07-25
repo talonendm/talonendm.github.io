@@ -173,6 +173,7 @@ sweet beauty unfolds.
 near the terrace, blooms abound
 strength and grace combined.
 
+- 25.7.2023: Kerääjät keräsivät 1.5l punaviinimarjoja (punaherukka), joista pakkaseen 5 pussia.
 
 # 2022
 

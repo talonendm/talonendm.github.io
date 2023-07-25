@@ -13,6 +13,12 @@ thumbnail-img: /assets/pics/thumbnail/ai/summerfest.jpg
 published: true
 ---
 
+# Stadi vastaan Lande (2023/07)
+
+Päivä alkoi lounaalla, soveltaen tätä [Paella-reseptiä](https://kaikkiaitinireseptit.blogspot.com/2014/07/paella-superherkullinen.html?sc=1690311079278#c7729886216712487382). Safka tulikin valmistettua avotulella vesisateessa. Onneksi aurinko tuli esiin, kun vieraat kutsuttiin syömään.
+
+- [plans and games - private: Kesäjuhla 2023](https://docs.google.com/document/d/1TGoSJyzqGnBplMpmlN8DDCId2afGmYCnWnjDPbMB14I/edit?usp=sharing)
+
 # Kirkkonummen suurmestari (2022/07)
 
 Viimeksi järjestettiin "Kirkkonummen olympialaiset". Lajit olivat kuitenkin sen verran "häröjä", joten tänä vuonna teemana suurmestarikisat. Säätä oli syytä tarkkailla, mutta olimme onnekkaita. Lajeja ei tarvinnut suorittaa vesisateessa. [Täsmätutka - Bro](https://www.foreca.fi/Finland/Kirkkonummi/Lindal/kartta/tasmatutka/Helsinki). Ennen kisoja ja illalla satoi vettä. Ukkosen takia oli syytä lopettaa [paljuilu](https://www.iltalehti.fi/uutiset/a/2016080622011260).
