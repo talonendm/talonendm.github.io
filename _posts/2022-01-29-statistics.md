@@ -41,3 +41,13 @@ When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are
 $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 
 ![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}) 
+
+
+$$ \mathbb{X} $$
+
+![\Large \mathbb{X}](https://latex.codecogs.com/svg.latex?\Large&space;\mathbb{X}) 
+
+
+---
+
+[Disclaimer](https://talonendm.github.io/disclaimer)
