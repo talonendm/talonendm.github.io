@@ -41,6 +41,7 @@ Oikeusturvajärjestelmän pääpiirteet."
 - [Pienpuolueen ehdokkaista joka toisella tuore rikos­syyte – Katso kaikkien ehdokkaiden syytteet, HS 17.3.2023](https://www.hs.fi/politiikka/art-2000009453576.html)
 - [Putkiyritys teki asennusvirheen ja pesuhuoneen vanha vedeneristys petti – kiista muutaman tonnin vahingosta maksoi kymppitonneja töpeksijöille](https://www.is.fi/taloussanomat/art-2000009512071.html): "Yritykselle kiistasta koituu kaikkiaan noin 31 000 euron ja omistajapariskunnalle noin 11 500 euron kulut. Hovioikeuteen vieminen säästi omistajalta noin 10 000 euroa. Asioista sopiminen, olisi säästänyt vielä enemmän. Voittajina selvisivät asianajajan, joiden laskutus muutaman tonnin riidassa nousi yli 37 000 euron."
 - Liikenneonnettomuus, kuolonkolari puimurin kanssa [IS 22.4.2023](https://www.is.fi/perhe/art-2000009527295.html): "Liikennevakuutuskeskus sai Itä-Suomen hovioikeudessa tahtonsa läpi. Hovi piti ennallaan puimuria kuljettaneen miehen saaman sakkotuomion, mutta sen mukaan Juliuksen omaisten on maksettava myös Liikennevakuutuskeskuksen oikeudenkäyntikulut."
+- [IS](https://www.is.fi/kotimaa/art-2000009745132.html): "Järkyttävät kuvat: Nuoren miehen päähänpisto tuhosi arvokkaan omakotitalon Kalajoella", Palossa kattorakenteista aluskate, tuuletusrima ja vaakaruoteet selvinneet osittain, ks. [kuva](https://www.is.fi/kotimaa/art-2000009745132.html).
 
 <hr style="border:2px solid gray">
 
