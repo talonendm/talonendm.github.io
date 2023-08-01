@@ -28,10 +28,6 @@ Nauti Viron ruuista: Kokeile perinteisiä virolaisia ruokia ja herkkuja, kuten k
 - Hapankaalikeitto: Keitto, joka valmistetaan hapankaalista, perunoista, porkkanoista, sipulista ja lihasta tai makkaroista.
 - Sült: Kylmänä tarjoiltava lihajälkiruoka, joka on tehty sianlihasta ja hyytelöstä.
 
-# Karting
-
-- outdoor 12-21: [UNIBET GO-KART CENTRE](https://www.hobikart.ee/en/)
-
 # Schedule
 
 - 600 passport
@@ -45,15 +41,26 @@ Nauti Viron ruuista: Kokeile perinteisiä virolaisia ruokia ja herkkuja, kuten k
 - [breakfast: F-hoone](http://www.fhoone.ee/en/breakfast/)
 - Aamuvirkku elämys Spa ([spa21+](https://elamusspa.ee/fi/spa21/)): 1000-1400. [Maps](https://www.google.com/maps/place/Mustam%C3%A4e+Elamus+Spa/@59.3998642,24.6646429,17z)
 - ....
+- 1400-1900 Shuffleboard, [O'Learys](https://ee.olearys.club/kristiine/en/activities/shuffleboard_eng/), see also [BILLIARDS](https://ee.olearys.club/kristiine/en/activities/billiard_snooker/). viihdekeskuksessa [Ülemiste](https://visittallinn.ee/fin/matkailija/n%C3%A4e-koe/tekemist%C3%A4-tallinnassa/urheilu-seikkailu/180933/keilailu-olearysin-viihdekeskuksessa-ulemistessa). [Bowling](https://ee.olearys.club/kristiine/en/activities/bowling-game/).
+- [Hill-Hill Billiard Café](https://hillhill.ee/), Telliskivi.
 - 1900 satama
 - 1920 departure
 - 2130 arrival
+
+## weather
+
+  - Foreca: [Tallinna](https://www.foreca.fi/Estonia/Tallinn)
+  - [Ilmatieteenlaitos](https://en.ilmatieteenlaitos.fi/weather/estonia/tallinn)
+  - [yr.no](https://www.yr.no/en/forecast/graph/2-588409/Estonia/Harju/Tallinna%20linn/Tallinn)
+
+# Next time
+
+- Karting: outdoor 12-21: [UNIBET GO-KART CENTRE](https://www.hobikart.ee/en/)
 
 # Links
 
 - chatGPT - prompts - [private ta.dm](https://docs.google.com/document/d/1n1Vl_3XI5mYtdwjpzkOmbijMq9S61ba18t5PttlT9xE/edit?usp=sharing)
 - tavarat messiin - private.dm [sheets](https://docs.google.com/spreadsheets/d/19BkGyPCeYUFju6qmrPmDd3s-zcD2MNX5jRguvoorb1c/edit?usp=sharing)
-- sää: [Tallinna](https://www.foreca.fi/Estonia/Tallinn)
 - [HS 30.7.2023](https://www.hs.fi/ulkomaat/art-2000009731664.html): "Pikaratayhteys Tallinnasta Eurooppaan etenee nyt vauhdilla" - Rail Baltica
 
 ---

@@ -26,6 +26,10 @@ The municipality is named after the Aura River, which flows through the area, ad
 - [Hypöistenkosken luontopolku](https://aurajoentie.fi/item/hypoisten-luontopolku/)
 - Aurajoki info [pdf](http://aurajoki.net/wp-content/uploads/2017/06/Retkelle-Aurajokilaaksoon2017_pienennetty.pdf)
 
+## Loimaa ja Mellilä
+
+- [Alpo Jaakolan patsaspuisto](https://www.hs.fi/kotimaa/turku/art-2000009738720.html), [google maps](https://goo.gl/maps/P6ZRCYbCCsU4dsJ17)
+
 ## Säkylä
 
 One of the prominent features of Säkylä is Lake Pyhäjärvi, a large and serene lake that enhances the scenic appeal of the area. Nice beach and restaurant [Katismaa](https://www.katismaansaari.fi/).
@@ -61,6 +65,8 @@ Once again, they set forth, guided solely by the compass of their hearts. The ca
 ### Jazz
 
 - [ohjelma 15.7.2023](https://www.porijazz.fi/fi/ohjelma/2023-07-15/)
+  - päälava: Aili Ikonen, Snarky Puppy, Robbie Williams
+  - OP-lava: Arppa - Arppa-yhtyeen [Aaro Airola](https://yle.fi/aihe/artikkeli/2021/08/18/arppa-yhtyeen-aaro-airola-syntyi-kulttuurikotiin-opiskeli-liiketaloutta-ja), Leikkiä sanoilla ([video](https://www.youtube.com/watch?v=h_wCI-LiRys))
 
 # Other
 

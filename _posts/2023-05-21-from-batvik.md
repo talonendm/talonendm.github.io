@@ -14,6 +14,8 @@ published: true
 
 Kirkkonummi is a municipality located in southern Finland, just west of the capital city, Helsinki. It is known for its beautiful natural surroundings, including lakes, forests, and the picturesque archipelago of the Gulf of Finland. Current [weather](https://www.foreca.fi/Finland/Kirkkonummi/Kantvik) at [Kantvik](https://www.kantvikinpurjehtijat.fi/). 
 
+> "En fantastisk båtutflykt med snabba båtar och strandliv... vilken resa!" -- [chatGPT g00001](https://docs.google.com/spreadsheets/d/16swlc1b8XS2SGkQ10dV-Hr24cOIZGCua7wBFoFR9ggU/edit?usp=sharing)
+
 
 Some links
 
