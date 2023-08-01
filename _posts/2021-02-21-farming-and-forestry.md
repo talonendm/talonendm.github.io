@@ -176,7 +176,7 @@ strength and grace combined.
 - 25.7.2023: Kerääjät keräsivät 1.5l punaviinimarjoja (punaherukka), joista pakkaseen 5 pussia.
 - 29.7.2023: Keltakurjenmiekalla isot siemenkodat. Siirto portille syksyllä jakamalla ja siemeniä rantatörmään.
 - 29.7.2023: punaviinimarjapensaassa joku tauti. Noin 5 oksaa leikkasin pois. Lehdetön. Olisiko punapahkasieni tällöin leikkaa pois kaikki sairaat oksat ja polta tai toimita mahdollisimman kauas pihasta. Loppukesästä nämä punaiset pilkut muuttuvat tummiksi ja voivat levittää itiöitä uusiin kasveihin. Vai [Antraknoosi](https://www.jardineriaon.com/fi/tratamiento-y-prevencion-de-la-antracnosis.html)?
-- 29.7.2023: Yksi villi [Akileija](https://sarinpuutarhat.blogspot.com/2018/03/lehtoakileija-helppo-kylvaa-siemenesta.html) (Aquilegia) kukkii mansikkamaan yläpuolella.
+- 29.7.2023: Yksi villi [Akileija ](https://sarinpuutarhat.blogspot.com/2018/03/lehtoakileija-helppo-kylvaa-siemenesta.html) (Aquilegia) kukkii mansikkamaan yläpuolella.
 
 # 2022
 
