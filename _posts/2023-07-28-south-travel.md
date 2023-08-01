@@ -41,8 +41,11 @@ Nauti Viron ruuista: Kokeile perinteisiä virolaisia ruokia ja herkkuja, kuten k
 - [breakfast: F-hoone](http://www.fhoone.ee/en/breakfast/)
 - Aamuvirkku elämys Spa ([spa21+](https://elamusspa.ee/fi/spa21/)): 1000-1400. [Maps](https://www.google.com/maps/place/Mustam%C3%A4e+Elamus+Spa/@59.3998642,24.6646429,17z)
 - ....
-- 1400-1900 Shuffleboard, [O'Learys](https://ee.olearys.club/kristiine/en/activities/shuffleboard_eng/), see also [BILLIARDS](https://ee.olearys.club/kristiine/en/activities/billiard_snooker/). viihdekeskuksessa [Ülemiste](https://visittallinn.ee/fin/matkailija/n%C3%A4e-koe/tekemist%C3%A4-tallinnassa/urheilu-seikkailu/180933/keilailu-olearysin-viihdekeskuksessa-ulemistessa). [Bowling](https://ee.olearys.club/kristiine/en/activities/bowling-game/).
+- 1400-1630 Shuffleboard, [O'Learys](https://ee.olearys.club/kristiine/en/activities/shuffleboard_eng/), see also [BILLIARDS](https://ee.olearys.club/kristiine/en/activities/billiard_snooker/). viihdekeskuksessa [Ülemiste](https://visittallinn.ee/fin/matkailija/n%C3%A4e-koe/tekemist%C3%A4-tallinnassa/urheilu-seikkailu/180933/keilailu-olearysin-viihdekeskuksessa-ulemistessa). [Bowling](https://ee.olearys.club/kristiine/en/activities/bowling-game/).
 - [Hill-Hill Billiard Café](https://hillhill.ee/), Telliskivi.
+- 1630-1845 Dinner
+  - [LORE EXPERIENCE](https://www.lorebistroo.ee/en/food-drinks/) "is served family style as we believe that sharing food is a great way to come together to nourish the relationships around us.", see [drinks PDF](https://www.lorebistroo.ee/wp-content/uploads/2023/07/LORE-joogilist-2023-vol10.pdf).
+  - [Põhjala Brewery](https://pohjalabeer.com/), [menu](https://qr.pohjalabeer.com/index-en.html), [Sauna](https://pohjalabeer.com/taproom.html), Brewery Tours THU-SUN.
 - 1900 satama
 - 1920 departure
 - 2130 arrival
@@ -53,9 +56,10 @@ Nauti Viron ruuista: Kokeile perinteisiä virolaisia ruokia ja herkkuja, kuten k
   - [Ilmatieteenlaitos](https://en.ilmatieteenlaitos.fi/weather/estonia/tallinn)
   - [yr.no](https://www.yr.no/en/forecast/graph/2-588409/Estonia/Harju/Tallinna%20linn/Tallinn)
 
-# Next time
+# Next time and stuff
 
 - Karting: outdoor 12-21: [UNIBET GO-KART CENTRE](https://www.hobikart.ee/en/)
+- Raeköök: [HS 9.4.2001](https://www.hs.fi/talous/art-2000003960762.html), [unohdettu Tallinna](https://todellinentallinna.blogspot.com/2014/06/tallinnan-unohdetut-baarit-yokerhot.html)
 
 # Links
 
