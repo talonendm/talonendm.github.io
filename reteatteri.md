@@ -13,7 +13,9 @@ Seven dudes are members of the culinary clunb called Re:teatteri. In this page s
 - [Bistro Omat - take away](https://bistromat.fi/kirkkonummi/menu/#TAKE%20AWAY)
 - [Rioni - Espoo](https://www.rioni.fi/) - Georgialainen ravintola
 - [Murasaki](https://www.facebook.com/murasaki.fi): [HS](https://www.hs.fi/ruoka/art-2000009373944.html). Melko vaikea saada [varattua pöytää](https://murasaki-fi.resos.com/booking). Check 20.4.2023 (only waitlist)
-
+- Capperi Oulunkylä - hyvä pitsa ja bisse.
+- Vintero Tikkurila
+- [BISTRO BRYK](https://www.bistrobryk.fi/)
 
 # Stories
 

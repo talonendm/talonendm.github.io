@@ -50,17 +50,17 @@ aurinkolasit unohtuu.
 Ystävien kanssa,
 Lore Bistrossa nautitaan,
 ruokaa, juomaa ja iloa.
-
-> Pingis Pohjolassa,
+  > Pingis Pohjolassa,
 pallo lennähtää ilmassa.
 Nauru täyttää ilman,
 tässä hetkessä elämme,
 ystävien kanssa yhdessä.
+
 - 1900 satama
 - 1920 departure
 - 2130 arrival
 
-> Sade tanssii nyt,
+>   Sade tanssii nyt,
 Laivan kannelta katson,
 Ystävien kanssa.
 Humalan lämpö hellii,
@@ -77,7 +77,7 @@ Pylly näkyy, nauru soi.
 - Karting: outdoor 12-21: [UNIBET GO-KART CENTRE](https://www.hobikart.ee/en/)
 - Raeköök: [HS 9.4.2001](https://www.hs.fi/talous/art-2000003960762.html), [unohdettu Tallinna](https://todellinentallinna.blogspot.com/2014/06/tallinnan-unohdetut-baarit-yokerhot.html)
 - Paksun Margareetan tornin katolla toimii kahvila. Reidi tee -rantakatu. [IL 29.7.2021](https://www.iltalehti.fi/viro/a/43b5f144-e3cc-4e5c-aa4a-e8075d1bf3ec)
-- Patarein merilinnoitus
+- [Patarein](https://fi.wikipedia.org/wiki/Patarei) merilinnoitus
 - keksintötehdas [Proto](https://prototehas.ee/fi/kotisivu/)
   - [UKKOSPIANO](https://prototehas.ee/fi/ukkospiano/)
   - [Kai](https://www.visittallinn.ee/fin/matkailija/n%C3%A4e-koe/tekemist%C3%A4-tallinnassa/n%C3%A4ht%C3%A4vyydet-museot/180074/kai-taidekeskus)-taidekeskus
