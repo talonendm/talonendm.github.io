@@ -7,6 +7,8 @@ tags:
   - garden stuff
   - board games
   - Diplomacy
+  - kesäjuhla
+  - Kirkkonummi
 comments: false
 cover-img: /assets/pics/cover/ai/tractor.jpg
 thumbnail-img: /assets/pics/thumbnail/ai/summerfest.jpg
