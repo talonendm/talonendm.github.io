@@ -10,6 +10,7 @@ tags:
 
 # 2023
 
+- [Tennis ta.dm](https://talonendm.github.io/2021-06-12-tennis/)
 - Tennis Lindal: [Varauskalenteri](https://kirte.net/varauskalenteri/Web/schedule.php) for Jaakko.
 - [Siuntio uimahalli ja punttis](https://www.siuntio.fi/siuntion-uimahalli-avataan-maanantaina-174-klo-13): auki 17.4.2023 alkaen
 - Kirkkonummen teitä kunnostetaan [Crowdsorsa](https://www.kirkkonummi.fi/kirkkonummella-kerataan-katujen-kuntotietoa-mobiilipelilla)

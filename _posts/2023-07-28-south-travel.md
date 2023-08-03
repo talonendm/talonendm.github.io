@@ -30,25 +30,41 @@ Nauti Viron ruuista: Kokeile perinteisiä virolaisia ruokia ja herkkuja, kuten k
 
 # Schedule
 
-- 600 passport
-- 630 go
+- 630 tram 7.
 - 700 terminal
 - 720 departure
-- breakfast 1?
+- breakfast 1
 - 930 arrival
 - 1000 Telliskivi?
   - Telliskivi is a popular cultural center and neighborhood in Tallinn, Estonia. It is located near the old railway station, about a 15-minute walk from Tallinn's Old Town. The name "Telliskivi" comes from the Estonian word for "brick," and the area's history is connected to the former brick factories that used to operate here.
 - [breakfast: F-hoone](http://www.fhoone.ee/en/breakfast/)
-- Aamuvirkku elämys Spa ([spa21+](https://elamusspa.ee/fi/spa21/)): 1000-1400. [Maps](https://www.google.com/maps/place/Mustam%C3%A4e+Elamus+Spa/@59.3998642,24.6646429,17z)
-- ....
-- 1400-1630 Shuffleboard, [O'Learys](https://ee.olearys.club/kristiine/en/activities/shuffleboard_eng/), see also [BILLIARDS](https://ee.olearys.club/kristiine/en/activities/billiard_snooker/). viihdekeskuksessa [Ülemiste](https://visittallinn.ee/fin/matkailija/n%C3%A4e-koe/tekemist%C3%A4-tallinnassa/urheilu-seikkailu/180933/keilailu-olearysin-viihdekeskuksessa-ulemistessa). [Bowling](https://ee.olearys.club/kristiine/en/activities/bowling-game/).
+  - All day breakfast (fried egg, lightly salted salmon, smoked ham, cherry tomato salad, roasted potato croquette, grilled bell pepper cream cheese, curry hummus, avocado, arugula and quinoa salad, Bekker Bakery’s sourdough bread) (N) and bottle of Cremant de Bourgogne , Non Dose Methode Traditionelle.
+- 1330-1500 Shuffleboard, [O'Learys](https://ee.olearys.club/kristiine/en/activities/shuffleboard_eng/), see also [BILLIARDS](https://ee.olearys.club/kristiine/en/activities/billiard_snooker/). viihdekeskuksessa [Ülemiste](https://visittallinn.ee/fin/matkailija/n%C3%A4e-koe/tekemist%C3%A4-tallinnassa/urheilu-seikkailu/180933/keilailu-olearysin-viihdekeskuksessa-ulemistessa). [Bowling](https://ee.olearys.club/kristiine/en/activities/bowling-game/).
+  - joukkueet nopalla: [Noppamies](https://www.kirjasampo.fi/fi/kulsa/kauno%253Aateos_11327)
 - [Hill-Hill Billiard Café](https://hillhill.ee/), Telliskivi.
-- 1630-1845 Dinner
+- 1630-1845 Dinner at Historiallinen Noblessner, [IS 18.1.2019](https://www.is.fi/matkat/art-2000005970147.html)
   - [LORE EXPERIENCE](https://www.lorebistroo.ee/en/food-drinks/) "is served family style as we believe that sharing food is a great way to come together to nourish the relationships around us.", see [drinks PDF](https://www.lorebistroo.ee/wp-content/uploads/2023/07/LORE-joogilist-2023-vol10.pdf).
-  - [Põhjala Brewery](https://pohjalabeer.com/), [menu](https://qr.pohjalabeer.com/index-en.html), [Sauna](https://pohjalabeer.com/taproom.html), Brewery Tours THU-SUN.
+  - [Põhjala Brewery](https://pohjalabeer.com/), [menu](https://qr.pohjalabeer.com/index-en.html), [Sauna](https://pohjalabeer.com/taproom.html), Brewery Tours THU-SUN. Table tennis racket rented for outdoor table 0€/hour.
+  > Noblessnerin hukkuu,
+aurinkolasit unohtuu.
+Ystävien kanssa,
+Lore Bistrossa nautitaan,
+ruokaa, juomaa ja iloa.
+
+> Pingis Pohjolassa,
+pallo lennähtää ilmassa.
+Nauru täyttää ilman,
+tässä hetkessä elämme,
+ystävien kanssa yhdessä.
 - 1900 satama
 - 1920 departure
 - 2130 arrival
+
+> Sade tanssii nyt,
+Laivan kannelta katson,
+Ystävien kanssa.
+Humalan lämpö hellii,
+Pylly näkyy, nauru soi.
 
 ## weather
 
@@ -60,6 +76,14 @@ Nauti Viron ruuista: Kokeile perinteisiä virolaisia ruokia ja herkkuja, kuten k
 
 - Karting: outdoor 12-21: [UNIBET GO-KART CENTRE](https://www.hobikart.ee/en/)
 - Raeköök: [HS 9.4.2001](https://www.hs.fi/talous/art-2000003960762.html), [unohdettu Tallinna](https://todellinentallinna.blogspot.com/2014/06/tallinnan-unohdetut-baarit-yokerhot.html)
+- Paksun Margareetan tornin katolla toimii kahvila. Reidi tee -rantakatu. [IL 29.7.2021](https://www.iltalehti.fi/viro/a/43b5f144-e3cc-4e5c-aa4a-e8075d1bf3ec)
+- Patarein merilinnoitus
+- keksintötehdas [Proto](https://prototehas.ee/fi/kotisivu/)
+  - [UKKOSPIANO](https://prototehas.ee/fi/ukkospiano/)
+  - [Kai](https://www.visittallinn.ee/fin/matkailija/n%C3%A4e-koe/tekemist%C3%A4-tallinnassa/n%C3%A4ht%C3%A4vyydet-museot/180074/kai-taidekeskus)-taidekeskus
+  - [Temnikova & Kasela](https://www.visittallinn.ee/fin/matkailija/n%C3%A4e-koe/tekemist%C3%A4-tallinnassa/n%C3%A4ht%C3%A4vyydet-museot/177686/temnikova-kasela-galleria) galleria
+  - [Igluparkin saunat](https://seura.fi/matkailu/tallinna-uudistui-nain-tuttu-kaupunkikohde-hellii-matkailijaa/)
+- Aamuvirkku elämys Spa ([spa21+](https://elamusspa.ee/fi/spa21/)): 1000-1400. [Maps](https://www.google.com/maps/place/Mustam%C3%A4e+Elamus+Spa/@59.3998642,24.6646429,17z)
 
 # Links
 
