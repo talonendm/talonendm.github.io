@@ -19,6 +19,8 @@ Päivä alkoi lounaalla, soveltaen tätä [Paella-reseptiä](https://kaikkiaitin
 
 - [plans and games - private: Kesäjuhla 2023](https://docs.google.com/document/d/1TGoSJyzqGnBplMpmlN8DDCId2afGmYCnWnjDPbMB14I/edit?usp=sharing)
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2o5MwNFbcKzaebzINK6bnl?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 # Kirkkonummen suurmestari (2022/07)
 
 Viimeksi järjestettiin "Kirkkonummen olympialaiset". Lajit olivat kuitenkin sen verran "häröjä", joten tänä vuonna teemana suurmestarikisat. Säätä oli syytä tarkkailla, mutta olimme onnekkaita. Lajeja ei tarvinnut suorittaa vesisateessa. [Täsmätutka - Bro](https://www.foreca.fi/Finland/Kirkkonummi/Lindal/kartta/tasmatutka/Helsinki). Ennen kisoja ja illalla satoi vettä. Ukkosen takia oli syytä lopettaa [paljuilu](https://www.iltalehti.fi/uutiset/a/2016080622011260).
