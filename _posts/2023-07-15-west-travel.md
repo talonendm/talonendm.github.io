@@ -57,6 +57,8 @@ Eura has a history of industrial activity spanning over 300 years. The Kauttua I
 
 - Kiperi
 - Euran urheilukenttä
+- [Koskeljärven luontoreitti](https://www.outdoorssatakunta.fi/kohde/koskeljarven-luontoreitti-eura-45-km/), [sijainti](https://www.luontoon.fi/koskeljarvi/kartatjakulkuyhteydet)
+- Eloranta saunam [Google maps](https://goo.gl/maps/CNLD5zFRkWSBSh3D7)
 
 ## Pori
 

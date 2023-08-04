@@ -11,6 +11,7 @@ Seven dudes are members of the culinary clunb called Re:teatteri. In this page s
 -[ ] [Bistro Makoisa](https://www.bistromakoisa.fi/): testaa lounas / alacarte (Magneettikatu 3, Espoo). Isoon nälkään lähettyvillä [crispypizza](https://www.crispypizza.fi/)
 -[x] [Nabi](https://www.nabikoreanbbq.fi/) 12/2022: total 6, out GR, KA
 - [Bistro Omat - take away](https://bistromat.fi/kirkkonummi/menu/#TAKE%20AWAY)
+  - safkoja: [kummeliturska](https://fi.wikipedia.org/wiki/Kummeliturska)
 - [Rioni - Espoo](https://www.rioni.fi/) - Georgialainen ravintola
 - [Murasaki](https://www.facebook.com/murasaki.fi): [HS](https://www.hs.fi/ruoka/art-2000009373944.html). Melko vaikea saada [varattua pöytää](https://murasaki-fi.resos.com/booking). Check 20.4.2023 (only waitlist)
 - Capperi Oulunkylä - hyvä pitsa ja bisse.

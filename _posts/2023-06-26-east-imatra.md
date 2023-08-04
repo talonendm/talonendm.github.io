@@ -59,9 +59,18 @@ Whispering tales untold.
 5. Syyspohjan salpa-asema, [Google Maps](https://goo.gl/maps/ST8UDsm9B9DPs5zMA)
 6. Kirpputori
 7. Kummakivi
-8. [Huuhaanranta](https://www.is.fi/matkat/art-2000009004673.html) is one of the longest sandy beaches in Lake Saimaa. Huuhanranta stretches for 1.5 kilometers and offers an ideal setting for wading due to its shallow sandy bottom.
-9. Lappeenranta
-10. [Hiekkalinna](https://visitlappeenranta.fi/fi/Nae-ja-koe/Hiekkalinna)
+8. Virmutjoen risteys
+9. Utulan kauppa
+   1.  Next time: fillarilla: Utulankauppa
+   2.  Karonniemi
+   3.  Onnelan lammastila
+   4.  Äitsaari
+   5.  Lempiälän laavu
+   6.  Kontion leivintupa
+   7.  Rasila
+10. [Huuhaanranta](https://www.is.fi/matkat/art-2000009004673.html) is one of the longest sandy beaches in Lake Saimaa. Huuhanranta stretches for 1.5 kilometers and offers an ideal setting for wading due to its shallow sandy bottom.
+11. Lappeenranta
+12. [Hiekkalinna](https://visitlappeenranta.fi/fi/Nae-ja-koe/Hiekkalinna)
 
 > Sandy shores beckon,
 Ruokolahti's art takes form,
