@@ -130,6 +130,17 @@ If you're at a restaurant or café, this is a useful phrase to know when you wan
   - [Merikirja](https://kirja.elisa.fi/ekirja/merikirja) nostattaa kaipuun Lofooteille
 
 
+# Apps
+
+- Karttaselain
+- ut.no
+- Oruxmaps (offline kartat)
+- Mapitare
+- hvor
+- norgeskart ([Google play](https://play.google.com/store/apps/details?id=sk.sasak.norgeskart&hl=fi&gl=US))
+  - [Dalstinden](https://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=13&lat=7565778.76&lon=459915.05)
+- tracker
+
 # Links
 
 - [ta.dm - packing private](https://docs.google.com/spreadsheets/d/19BkGyPCeYUFju6qmrPmDd3s-zcD2MNX5jRguvoorb1c/edit?usp=sharing): mukaan

@@ -31,6 +31,7 @@ Nauti Viron ruuista: Kokeile perinteisiä virolaisia ruokia ja herkkuja, kuten k
 # Schedule
 
 - 630 tram 7.
+  - [Viimeiset vaeltajat](https://yle.fi/aihe/artikkeli/2008/01/28/studio-julmahuvi-viimeiset-vaeltajat)
 - 700 terminal
 - 720 departure
 - breakfast 1
@@ -57,8 +58,10 @@ tässä hetkessä elämme,
 ystävien kanssa yhdessä.
 
 - 1900 satama
+  - Wood City -puukerrostalot: [rakennuslehti](https://www.rakennuslehti.fi/2017/11/jatkasaaren-homehtuneet-wood-city-puukerrostalot-ovat-stora-enson-osin-rahoittama-tutkimuskohde-tyomaalla-testattiin-miten-puurakentaminen-onnistuu-ilman-saasuojaa/) [Helsingin uutiset](https://www.helsinginuutiset.fi/paikalliset/1253709), [HS](https://www.hs.fi/koti/art-2000005444271.html): desifiointia tulisi välttää. 
 - 1920 departure
 - 2130 arrival
+  - [sp](https://www.sports-tracker.com/workout/haques/64cab18f3bd4f224ff609a0f) private ta.dm
 
 >   Sade tanssii nyt,
 Laivan kannelta katson,
