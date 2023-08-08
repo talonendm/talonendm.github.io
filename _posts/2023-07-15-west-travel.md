@@ -58,7 +58,27 @@ Eura has a history of industrial activity spanning over 300 years. The Kauttua I
 - Kiperi
 - Euran urheilukenttä
 - [Koskeljärven luontoreitti](https://www.outdoorssatakunta.fi/kohde/koskeljarven-luontoreitti-eura-45-km/), [sijainti](https://www.luontoon.fi/koskeljarvi/kartatjakulkuyhteydet)
-- Eloranta saunam [Google maps](https://goo.gl/maps/CNLD5zFRkWSBSh3D7)
+  - "Koskeljärvi on kasvillisuudeltaan luontaisesti rehevä ja järvi on uusimman vuonna 2019 valmistuneen tilaluokituksen mukaan hyvässä ekologisessa tilassa." [PDF 2021](https://www.kalatalouskeskus.fi/wp-content/uploads/2021/10/KHS_EuraLapinj_ehdotusluonnos_teksti_06_10_2021.pdf)
+
+  - From Uhrattu ([maps](https://www.google.com/maps/place/Koskelj%C3%A4rven+luontoreitti/@60.9607969,22.1471633,15.75z)) 5km * 2, private [sp](https://www.sports-tracker.com/workout/haques/64ce42d7a8c87c6696ecd3d0)
+- Eloranta sauna [Google maps](https://goo.gl/maps/CNLD5zFRkWSBSh3D7)
+- Panelia bike [sp](https://www.sports-tracker.com/workout/haques/64cf350a62bf187981072430) private
+  - Letkuhumpat 8/2023, [fb](https://www.facebook.com/events/244469378472274/?ref=newsfeed)
+
+> Limainen kalvo,
+vedestä iholle nousee,
+[limalevä](https://yle.fi/a/3-11461627)* luo.
+Eloranta lämmin saun',
+kiskan hinnat kohtuulliset.
+
+*) Limalevä ei ole vaarallista, mutta runsaana esiintyessään se muodostaa ihon pinnalle epämiellyttävältä tuntuvan, limamaisen kalvon. Se voi aiheuttaa herkkäihoisille punoitusta ja kutinaa. Limaleväisessä vedessä uimisen jälkeen iho kannattaa pestä ja kuivata huolellisesti. 
+
+## Rauma
+
+- Narvijärvi
+  - [Puusaun](https://www.puusaun.com/)
+  - tutkimus [PDF](https://www.doria.fi/bitstream/handle/10024/134624/MO1_2006.pdf)
+  -  "Kalatalousalueen sisävesien osalta isoimpien järvien omistus jakautuu useampiin kiinteistöyksiköihin, mutta niin Pyhäjärvessä, Köyliönjärvessä, Koskeljärvessä, Turajärvessä kuin Narvijärvessäkin kalastus on keskitetty pääasiassa koko järven kattavan yhteisluvan piiriin." [PDF 2021](https://www.kalatalouskeskus.fi/wp-content/uploads/2021/10/KHS_EuraLapinj_ehdotusluonnos_teksti_06_10_2021.pdf)
 
 ## Pori
 
