@@ -20,6 +20,10 @@ tags:
 - [Forest Story](https://talonendm.github.io/ballrotation/foreststory/)
 - [Kummit-lehti](https://kummit.fi/tietoa-meista/kummit-lehti/)
 - Varaamo.espoo.fi: [laser](https://varaamo.espoo.fi/search?search=laser)
+- [varaamo.hel.fi](https://varaamo.hel.fi/)
+  - [UV-tulostin](https://varaamo.hel.fi/resources/awmcspbxrcsq?date=2023-08-10): PDF
+- [sahkokatkokartta](https://sahkokatkokartta.fi/)
+- [ukkoskartta](http://tutka.geocache.fi/)
 
 ## AI
 
