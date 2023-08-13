@@ -63,6 +63,7 @@ Aiempaa kirjallisuutta:
 - Virtuaalirahatutkimus: ``Tämän tutkimuksen perusteella väitän, että virtuaalivaluutta voi olla oikeudellisesti rahaa, mikäli se täyttää oikeustieteellisen rahateorian mukaiset kriteerit. Tutkimuksen kirjoitushetkellä markkinoilla ei kuitenkaan ole sellaista virtuaalivaluuttaa, joka täyttäisi nämä vaatimukset.'' [Suomen rahan sääntelyn oikeushistoria – raha oikeudellisena maksuvälineenä ennen ja nyt](https://helda.helsinki.fi/handle/10138/339928) [Keskitalo Kristian - pdf](https://helda.helsinki.fi/bitstream/handle/10138/339928/keskitalo_kristian_v%c3%a4it%c3%b6skirja_2022.pdf?sequence=1&isAllowed=y)
 - [Oikeustieteellinen - tilastoja, hakijamäärät](https://www.oikeustiede.com/aiheet/oikeustieteellinen-aloituspaikat-ja-hakijamaara/)
 - [Suomen suurin rikosjuttu uhkaa vanhentua käsiin](https://www.hs.fi/mielipide/art-2000009559508.html), HS 5.5.2023. "Vaarana on asianosaisia koskevien rikosten vanhentuminen lokakuussa 2023, ja jos näin käy, kyseessä on mittakaavassaan järkyttävä oikeudenmenetys. Suomalainen rikosoikeusprosessi on yksilön kannalta hidas ja läpinäkymätön."
+- [Kannattavatko ympäristörikokset Suomessa?](https://www.kpflaki.com/post/kannattavatko-ymp%C3%A4rist%C3%B6rikokset-suomessa): KPF-lakitoimisto.
 
 ## Links
 
