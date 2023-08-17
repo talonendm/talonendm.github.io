@@ -8,7 +8,7 @@ tags:
   - taidegalleria
 comments: true
 cover-img: /assets/pics/cover/e1024/e-IMG20230509132331.jpg
-thumbnail-img: /assets/pics/thumbnail/e640-direct/e-smoke.jpg
+thumbnail-img: /assets/pics/thumbnail/e640-direct/2023/e-smoke.jpg
 usemathjax: true
 published: true
 ---
