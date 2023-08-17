@@ -216,4 +216,8 @@ Some words from this dictionary: [pkky.fi RAKENNUSALAN PERUSSANASTO SUOMI-ENGLAN
   - yläpohja attic floor
 
 
+---
+
+[Disclaimer](https://talonendm.github.io/disclaimer)
+
 

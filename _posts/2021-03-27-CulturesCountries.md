@@ -33,6 +33,7 @@ Stuff related on Japan and japanese language; [Katakana](https://en.wikipedia.or
   - Sui Gyoza (boiled)
   - Age Gyoza (deep fried)
 - Matsutake, [olut ALE](https://olutposti.fi/olutkoira-the-flying-dutchman-mushroom-picking-ass-kicking-matsutake-ale/)
+- [Yoko Moku cigars](https://www.yokumoku.co.jp/en/) - Matcha
 
 ## Tokyo
 

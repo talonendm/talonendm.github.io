@@ -11,12 +11,16 @@ Seven dudes are members of the culinary clunb called Re:teatteri. In this page s
 -[ ] [Bistro Makoisa](https://www.bistromakoisa.fi/): testaa lounas / alacarte (Magneettikatu 3, Espoo). Isoon nälkään lähettyvillä [crispypizza](https://www.crispypizza.fi/)
 -[x] [Nabi](https://www.nabikoreanbbq.fi/) 12/2022: total 6, out GR, KA
 - [Bistro Omat - take away](https://bistromat.fi/kirkkonummi/menu/#TAKE%20AWAY)
-  - safkoja: [kummeliturska](https://fi.wikipedia.org/wiki/Kummeliturska)
+  - safkoja: 
+    - [kummeliturska](https://fi.wikipedia.org/wiki/Kummeliturska)
+    - [Saltimbocca](https://www.kodinkuvalehti.fi/reseptit/liharuuat/broileria-saltimbocca): "hyppää suuhun"
 - [Rioni - Espoo](https://www.rioni.fi/) - Georgialainen ravintola
 - [Murasaki](https://www.facebook.com/murasaki.fi): [HS](https://www.hs.fi/ruoka/art-2000009373944.html). Melko vaikea saada [varattua pöytää](https://murasaki-fi.resos.com/booking). Check 20.4.2023 (only waitlist)
 - Capperi Oulunkylä - hyvä pitsa ja bisse.
 - Vintero Tikkurila
-- [BISTRO BRYK](https://www.bistrobryk.fi/)
+- [x] [BISTRO BRYK](https://www.bistrobryk.fi/) 8/2023
+- [ ] Korean [Manna](https://www.mannaravintola.fi/)
+  - "Näistä syistä Helsingissä jyllää nyt Korea-ravintoloiden buumi" [HA 16.8.2023](https://www.hs.fi/ruoka/art-2000009772867.html): K-pop, Bibimbap, Iizip, Korealainen BBQ
 
 # Stories
 

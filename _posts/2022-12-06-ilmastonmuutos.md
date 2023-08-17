@@ -149,7 +149,7 @@ Joulukuusesta. "Kännykän hiilijalanjälki on noin 50–100 kiloa ja kannettava
 - [Forest Story](https://talonendm.github.io/ballrotation/foreststory/)
 
 
-### Vastuuvapauslauseke
+---
 
-Tämä julkaisu on tehty parhaan oman tietämyksemme ja ymmärtämyksemme pohjalta. Olemme tehneet kaiken voitavamme tietojen täsmällisyyden ja oikeellisuuden takaamiseksi, [talonendm](https://talonendm.github.io/) ei ole vastuussa mistään virheistä tai puutteista tai mistään suorasta, epäsuorasta tai välillisestä
-vahingosta, joka on aiheutunut tietojen virheellisestä soveltamisesta. Pidätämme oikeuden muutoksiin.
+[Disclaimer](https://talonendm.github.io/disclaimer)
+
