@@ -43,6 +43,14 @@ tags:
   - [openAI](https://trends.google.com/trends/explore?geo=FI&q=openAI&hl=fi)
   - [chatGPT](https://trends.google.com/trends/explore?geo=FI&q=chatGPT&hl=fi)
 
+### AI www
+
+- [Adobe Express](https://www.adobe.com/fi/express/)
+- [chatGPT](https://chat.openai.com/), [Merlin chat](https://www.merlin.foyer.work/)
+- Image to Video speech - [Heygen](https://app.heygen.com/guest/home) 
+- Online image editor: [photopea](https://www.photopea.com/)
+- The AI-first Code Editor: [CURSOR](https://www.cursor.so/): "Build software faster in an editor designed for pair-programming with AI", e.g. 200 GPT-3.5 uses per month.
+
 # 2022
 
 - [2020-12-16-books](https://talonendm.github.io/2020-12-16-books/)

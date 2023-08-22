@@ -90,7 +90,8 @@ Symbolismi, naivistinen tyyli taiteessa. Henkilökuvat hyvin realistisia, ks. [t
 - [Fernand Leger](https://arthive.com/sl/fernandleger/works/396896~Divers): kankaalla? (Didrichenistä 5e)
 - [Simo Hannula](): [Sinerbrychoffin puisto](https://www.hagelstam.fi/simo-hannula-5eaeb76c20ee341caec1eaa085a3db5a)
 - Pentti Kaskipuro: [Naamio](https://www.hagelstam.fi/pentti-kaskipuro-3d7c1d9655495a95fb716eae2cdb911c)
-
+- [Riitta Åkerstedt](https://kuvataiteilijamatrikkeli.fi/taiteilija/riitta-akerstedt)
+  - (Okänd) Seppo Fräntin kokoelmasta - [kansallisgalleria](https://www.kansallisgalleria.fi/fi/object/818298)
 
 # Stuff 
 
