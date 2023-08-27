@@ -42,6 +42,10 @@ Oikeusturvajärjestelmän pääpiirteet."
 - [Putkiyritys teki asennusvirheen ja pesuhuoneen vanha vedeneristys petti – kiista muutaman tonnin vahingosta maksoi kymppitonneja töpeksijöille](https://www.is.fi/taloussanomat/art-2000009512071.html): "Yritykselle kiistasta koituu kaikkiaan noin 31 000 euron ja omistajapariskunnalle noin 11 500 euron kulut. Hovioikeuteen vieminen säästi omistajalta noin 10 000 euroa. Asioista sopiminen, olisi säästänyt vielä enemmän. Voittajina selvisivät asianajajan, joiden laskutus muutaman tonnin riidassa nousi yli 37 000 euron."
 - Liikenneonnettomuus, kuolonkolari puimurin kanssa [IS 22.4.2023](https://www.is.fi/perhe/art-2000009527295.html): "Liikennevakuutuskeskus sai Itä-Suomen hovioikeudessa tahtonsa läpi. Hovi piti ennallaan puimuria kuljettaneen miehen saaman sakkotuomion, mutta sen mukaan Juliuksen omaisten on maksettava myös Liikennevakuutuskeskuksen oikeudenkäyntikulut."
 - [IS](https://www.is.fi/kotimaa/art-2000009745132.html): "Järkyttävät kuvat: Nuoren miehen päähänpisto tuhosi arvokkaan omakotitalon Kalajoella", Palossa kattorakenteista aluskate, tuuletusrima ja vaakaruoteet selvinneet osittain, ks. [kuva](https://www.is.fi/kotimaa/art-2000009745132.html).
+- Lomakylä Kakslauttanen
+  - Lapin iglukeisarille tuomio törkeästä ympäristön turmelemisesta – poltti ja hautasi valtavan määrän jätettä [IL](https://www.iltalehti.fi/kotimaa/a/125798f5-922f-4bcf-a2eb-9f6892045173)
+  - "Mie sanoin Jussille, että haista sie paska ja lähdin" [mtv3](https://www.mtvuutiset.fi/artikkeli/kari-paljasti-entisen-tyoantajansa-vuosikausia-jatkuneet-torkeat-ymparistorikokset-lapissa-sanoin-jussille-etta-haista-sie-paska/8758944)
+  - Eiramolle tuomittiin vuoden ehdollinen vankeusrangaistus ja 8280 euron sakot. [wikipedia](https://fi.wikipedia.org/wiki/Kakslauttanen)
 
 <hr style="border:2px solid gray">
 
