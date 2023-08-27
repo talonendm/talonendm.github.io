@@ -92,6 +92,8 @@ Symbolismi, naivistinen tyyli taiteessa. Henkilökuvat hyvin realistisia, ks. [t
 - Pentti Kaskipuro: [Naamio](https://www.hagelstam.fi/pentti-kaskipuro-3d7c1d9655495a95fb716eae2cdb911c)
 - [Riitta Åkerstedt](https://kuvataiteilijamatrikkeli.fi/taiteilija/riitta-akerstedt)
   - (Okänd) Seppo Fräntin kokoelmasta - [kansallisgalleria](https://www.kansallisgalleria.fi/fi/object/818298)
+- [Hugo Pratt](https://fi.wikipedia.org/wiki/Hugo_Pratt)
+  - [corto maltese](https://fi.wikipedia.org/wiki/Corto_Maltese)
 
 # Stuff 
 
