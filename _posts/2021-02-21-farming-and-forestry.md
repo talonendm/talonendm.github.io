@@ -177,6 +177,11 @@ strength and grace combined.
 - 29.7.2023: Keltakurjenmiekalla isot siemenkodat. Siirto portille syksyllä jakamalla ja siemeniä rantatörmään.
 - 29.7.2023: punaviinimarjapensaassa joku tauti. Noin 5 oksaa leikkasin pois. Lehdetön. Olisiko punapahkasieni tällöin leikkaa pois kaikki sairaat oksat ja polta tai toimita mahdollisimman kauas pihasta. Loppukesästä nämä punaiset pilkut muuttuvat tummiksi ja voivat levittää itiöitä uusiin kasveihin. Vai [Antraknoosi](https://www.jardineriaon.com/fi/tratamiento-y-prevencion-de-la-antracnosis.html)?
 - 29.7.2023: Yksi villi [Akileija ](https://sarinpuutarhat.blogspot.com/2018/03/lehtoakileija-helppo-kylvaa-siemenesta.html) (Aquilegia) kukkii mansikkamaan yläpuolella.
+- 31.8.2023: Kanttarelleja
+- 2.9.2023: ES-etanat: riippumattopaikasta kuusen juurelle, eteläisimmän omenapuun lähellä sientä syömässä, trampoliinilla.
+- 2.9.2023: keltakurjanmiekan siemenkotia, vihreitä, mutta paljon ja hyvä kuntoisia. Lapiolla maahan ja vääntö, chilin näköisen kodan asettamien koloon ja laipon nosto:
+  - eteläinen oja, rummulla; eteläinen kaivo ja sulkapallokentän reunus. muutama pikkulammesta pohjoiseen n. 2m; pohjoinen oja, savirinteeseen. Sinne myös yksi keltakurjenmiekka juurineen.
+- 2.9.2023: muutamia omenoita menneillä viikoilla. Muumiotautisia myös etelärinteen omenapuissa. Pihatien kunnostamista kivituhkalla.
 
 # 2022
 

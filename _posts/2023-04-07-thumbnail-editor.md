@@ -41,6 +41,7 @@ window.addEventListener('keydown', function(e) {
 
 // based on assets/local_imageModification.html
 // ta.dm 2023 thumbnail editor
+// 1.9.2023: 1080 x 1080 added Instagram Post	1080 x 1080 (1:1 ratio)
 // .........................................................
 
 // tallennus manual
@@ -246,7 +247,7 @@ function keyPressed() {
   
   if (key == "r") {
 
-    let maxcanvasmaara = 6;
+    let maxcanvasmaara = 7;
 
     canvaskoko = canvaskoko + 1;
     if (canvaskoko > maxcanvasmaara) canvaskoko = 1;
@@ -271,6 +272,10 @@ function keyPressed() {
     } else if (canvaskoko == 5) {
       iw = 1024;
       ih = 384;
+      resizeCanvas(iw, ih);
+    } else if (canvaskoko == 6) {
+      iw = 1080;
+      ih = 1080;
       resizeCanvas(iw, ih);
     } else {
       resizeCanvas(windowWidth, windowHeight);
