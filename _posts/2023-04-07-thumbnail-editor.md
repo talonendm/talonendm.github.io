@@ -247,7 +247,7 @@ function keyPressed() {
   
   if (key == "r") {
 
-    let maxcanvasmaara = 7;
+    let maxcanvasmaara = 8;
 
     canvaskoko = canvaskoko + 1;
     if (canvaskoko > maxcanvasmaara) canvaskoko = 1;
@@ -274,6 +274,10 @@ function keyPressed() {
       ih = 384;
       resizeCanvas(iw, ih);
     } else if (canvaskoko == 6) {
+      iw = 1024;
+      ih = 1024;
+      resizeCanvas(iw, ih);
+    } else if (canvaskoko == 7) {
       iw = 1080;
       ih = 1080;
       resizeCanvas(iw, ih);
