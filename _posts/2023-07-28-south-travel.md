@@ -63,7 +63,7 @@ ystävien kanssa yhdessä.
 - 2130 arrival
   - [sp](https://www.sports-tracker.com/workout/haques/64cab18f3bd4f224ff609a0f) private ta.dm
 
->   Sade tanssii nyt,
+> Sade tanssii nyt,
 Laivan kannelta katson,
 Ystävien kanssa.
 Humalan lämpö hellii,
