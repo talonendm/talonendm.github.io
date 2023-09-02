@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sip, Savor, and Delight: Local Flavors Unveiled
+title: Sip, Savor, and Delight - Local Flavors Unveiled
 subtitle: A Culinary Adventure in Iconic European Destinations
 tags:
   - Amsterdam
@@ -18,6 +18,7 @@ Taste buds dance with delight.
 
 # Restaurants
 
+The best seafood cuisine in the Clayes-sous-Bois region: [Leon](https://brasserie.restaurantleon.fr/fr/les-clayes-sous-bois)
 
 ## weather
 
