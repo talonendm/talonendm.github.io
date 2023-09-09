@@ -36,6 +36,10 @@ Puhe katsottavissa kokonaisuudessaan [Areenassa](https://areena.yle.fi/1-6422813
 - Sähköyhtiö ei suostu noudattamaan kuluttaja­riita­lauta­kunnan päätöstä [HS 2.8.2023](https://www.hs.fi/kotimaa/turku/art-2000009752764.html)
 - [KKO:1980-II-49](https://finlex.fi/fi/oikeus/kko/kko/1980/19800049t): "Työurakka Rakennusurakka Vahingonkorvaus"
 
+### Yritykset
+
+- Käräjäoikeuden päätös Ahlstrom-Munksjön ostotarjousriidassa toi tapaukseen vähemmistöomistajien kannalta ikävän käänteen – "Aika erikoinen ratkaisu" [kl.fi 1.9.2023](https://www.kauppalehti.fi/uutiset/karajaoikeuden-paatos-ahlstrom-munksjon-ostotarjousriidassa-toi-tapaukseen-vahemmistoomistajien-kannalta-ikavan-kaanteen-aika-erikoinen-ratkaisu/bf133ebb-0c71-4a6f-a84f-845bb7902e45?utm_source=marmai&utm_medium=almainternal&utm_campaign=mm_redirect&proxy=uutiset/karajaoikeuden-paatos-ahlstrom-munksjon-ostotarjousriidassa-toi-tapaukseen-vahemmistoomistajien-kannalta-ikavan-kaanteen-aika-erikoinen-ratkaisu/bf133ebb-0c71-4a6f-a84f-845bb7902e45), [HS.fi 31.8.2023](https://www.hs.fi/talous/art-2000009823513.html): "KÄRÄJÄOIKEUDEN tuore päätös käänsi asetelman jälleen päälaelleen."
+
 ## Energia
 
 - LNG terminaali: [16.1.2023 Länsiväylä](https://www.lansi-uusimaa.fi/uutissuomalainen/5658141): 68000 tonnia nesteytettyä maakaasua (LNG) vastaa noin 1 TWh energiaa. Kaasu höyrystetään laivassa. Laiva kykenisi höyrystämään jopa 40 TWh vuodessa! Jatkossa kaasu toimitetaan kansainvälisiltä markkinoilta, aiemmissa uutisissa on mainittu muun muassa Qatar. 
