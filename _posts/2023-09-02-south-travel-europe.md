@@ -18,7 +18,8 @@ Taste buds dance with delight.
 
 # Restaurants
 
-The best seafood cuisine in the Clayes-sous-Bois region: [Leon](https://brasserie.restaurantleon.fr/fr/les-clayes-sous-bois)
+- The best seafood cuisine in the Clayes-sous-Bois region: [Leon](https://brasserie.restaurantleon.fr/fr/les-clayes-sous-bois)
+- [O'clock Brewing](https://oclockbrewing.fr/en/) - a bit far.
 
 ## weather
 

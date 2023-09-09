@@ -182,6 +182,9 @@ strength and grace combined.
 - 2.9.2023: keltakurjanmiekan siemenkotia, vihreitä, mutta paljon ja hyvä kuntoisia. Lapiolla maahan ja vääntö, chilin näköisen kodan asettamien koloon ja laipon nosto:
   - eteläinen oja, rummulla; eteläinen kaivo ja sulkapallokentän reunus. muutama pikkulammesta pohjoiseen n. 2m; pohjoinen oja, savirinteeseen. Sinne myös yksi keltakurjenmiekka juurineen.
 - 2.9.2023: muutamia omenoita menneillä viikoilla. Muumiotautisia myös etelärinteen omenapuissa. Pihatien kunnostamista kivituhkalla.
+- 4.9.2023: Matalaksi syödyn omenapuun yläpuolelle valkohäntäpeuran estävä verkko toiselta omenapuulta, mikä kasvanut jo sopivaan mittaan. "Omenapuut kasvavat, ylös ne nousevat, Verkko niiden yllä, valkohäntäpeuroilta suoja."
+- 5.9.2023: kompostori 1:sen tyhjennys. 4 täynnä. Tarkemmat tiedot Sheets [private dm](https://docs.google.com/spreadsheets/d/1KrexxRqigmjHFJtK63wTE1OMzwcuNP3AaVYRwfUuqag/edit?usp=sharing)
+- 5.9.2023: Kolmen Humulus Lupuleksen siirto tien vierestä kompostorimulta Mali-Lupulus istutus penkkiin. Siinä yhteensä nyt n. 5-7 taimenta.
 
 # 2022
 
