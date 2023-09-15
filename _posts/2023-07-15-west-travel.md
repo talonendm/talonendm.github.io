@@ -28,7 +28,9 @@ The municipality is named after the Aura River, which flows through the area, ad
 
 ## Loimaa ja Mellilä
 
-- [Alpo Jaakolan patsaspuisto](https://www.hs.fi/kotimaa/turku/art-2000009738720.html), [google maps](https://goo.gl/maps/P6ZRCYbCCsU4dsJ17)
+- [Alpo Jaakolan patsaspuisto](https://www.hs.fi/kotimaa/turku/art-2000009738720.html), [google maps](https://goo.gl/maps/P6ZRCYbCCsU4dsJ17)  
+  - Osoite: Aura-Pirkkatie 84 (vt 9, Karhulan kylä noin 8 km Loimaan keskustasta Turun suuntaan)
+  - Kesällä 2023 avoinna 1.6. – 2.9.2023 ti-su klo 11-18. [Alpo](https://www.loimaantaidemuseo.fi/nayttelyt/alpo-jaakolan-patsaspuisto/)
 
 ## Säkylä
 
