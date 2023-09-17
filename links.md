@@ -11,6 +11,7 @@ tags:
 # 2023
 
 - [Thumbnail editor](https://talonendm.github.io/2023-04-07-thumbnail-editor/)
+- [compass map - openstreetmap](https://talonendm.github.io/compass/openstreetmap/)
 - [Tennis ta.dm](https://talonendm.github.io/2021-06-12-tennis/)
 - Tennis Lindal: [Varauskalenteri](https://kirte.net/varauskalenteri/Web/schedule.php) for Jaakko.
 - [Siuntio uimahalli ja punttis](https://www.siuntio.fi/siuntion-uimahalli-avataan-maanantaina-174-klo-13): auki 17.4.2023 alkaen
@@ -38,6 +39,7 @@ tags:
 
 ## AI
 
+- [Quivr aivot](https://www.quivr.app/chat)
 - [AI ja työpaikat - IS 30.4.2023](https://www.is.fi/taloussanomat/art-2000009544694.html): "Tekoälyn voi esimerkiksi pyytää tekemään sopimuspohjan ja kommentoimaan sopimuksia, jolloin me emme tarvitsekaan siihen juristia." - Eduhousen neuvonantajana toimiva pitkän linjan teknologiavaikuttaja Risto Linturi
 - [ ] [Visual Prompting Livestream With Andrew Ng](https://www.youtube.com/watch?v=FE88OOUBonQ): youtube
 - Google Trends: 
