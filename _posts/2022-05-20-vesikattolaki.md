@@ -104,6 +104,9 @@ Lakien valmisteluaineistoista. Lakien esitöissä perustellaan, miksi tietty sä
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p_jKCCct5NA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+<!--
+
 # Vesikattolaskelma
 
 Vesikatto **V** maksoi 30 000 euroa ja sen oletettu ja luvattu kesto **T0** on tyypillisesti 30 vuotta. Tämä tarkoittaa sitä, että vesikatosta aiheutuneet (kiinteät) kustannukset **W** ovat ilman hoitokuluja 1 000 euroa vuodessa. 
@@ -111,6 +114,8 @@ Vesikatto **V** maksoi 30 000 euroa ja sen oletettu ja luvattu kesto **T0** on t
 Epäonnisen kattosaneerauksen takia vesikatto kestääkin vain 5 vuotta (**T1=5**). Tällöin vuosittaiset kulut ovat 6 000 euroa vuodessa. Asiaa selvitellään asiantuntijoiden ja lakimiehien toimesta. Kustannukset **K** näistä ovat esimerkiksi 2000 euroa (omavastuuosuus). Paljon vesikaton tilaaja ja omistaja (velkoja) tulisi saada **H** hinnanalennusta? Kaupan purku tarkoittaisi sitä, että vuosittainen vesikatto maksaisi vain **K**/**T1** eli 400 euroa vuodessa. 
 
 Näillä esimerkin luvuilla urakoitsijan tulisi korvata 27 000 euroa virheellisestä asennuksesta. W = (V+K-H)/T1 = (30000+2000-27000)/5 = 5000/5 euroa = 1000 euroa.
+
+-->
 
 
 <!--
@@ -127,6 +132,7 @@ see: https://tex.stackexchange.com/questions/40794/when-should-cdot-be-used-to-i
 
 -->
 
+<!--
 
 $$W=\frac{V+K-H}{T_1}$$
 
@@ -137,6 +143,8 @@ $$H = V + K - W \cdot T_1 = 30000 + 2000 - 1000 \cdot 5 = 27000 $$
 &#129030;
 
 Hinnanalennus tämän esimerkin arvojen perusteella 27 000 euroa.
+-->
+
 
 ## Linkkejä
 
@@ -146,7 +154,14 @@ Hinnanalennus tämän esimerkin arvojen perusteella 27 000 euroa.
 - [Tuomioistuimet (98 §)](https://www.finlex.fi/fi/laki/ajantasa/1999/19990731#L9P98)
 - Patentteja
   - [Tile roof batten with drainage and ventilation features](https://patents.google.com/patent/US20060150536A1/en): "If water fails to drain, pools on the afore mentioned overlayment and leaks into the underlying decking and roof structure, catastrophic failure of the roof can occur."
-  - [TILE ROOF BATTEN WITH DRAINAGE AND VENTILATION FEATURES - PDF](https://patentimages.storage.googleapis.com/ab/19/a0/b54819a23deb4f/US20060150536A1.pdf): Jokainen parru "vaakaruode" on muotoiltu muovista nelikulmaisena, avoimella sivulla ja sivuilla, jotka ovat parrun pituusakselin suuntaiset ja jotka sisältävät aukkoja, joiden kautta vesi voi valua pois. Parruilla on ylämäkeen ja alamäkeen suunnatut puolipyramidiset muotoiset veden ohjauspinnat, jotka ohjaavat veden vedenpoistoaukoista. Lisäksi parruilla on veden ohjauspinnat sisäpuolella, joiden avulla vesi ohjataan vedenpoistoaukoista. Vakavia kosteusongelmia voi esiintyä, jos vaakaruoteet asennetaan suoraan aluskatteen päälle. Esimerkiksi eräissä markkinoilla olevissa teräsruoteissa ei ole mitään vedenpoistoaukkoja tai kanavia, joiden avulla vesi voisi virrata alas katolta ulkoseinälinjan ulkopuolelle. Tämä puute on korjattu eräissä tapauksissa osittain leikkaamalla uria puisten kattoparrujen alapuolelle. Tämä kuitenkin jätti ongelman veden kerääntymisestä avointen urien vieressä oleville tasaisille parrupinnoille, mikä aiheutti vesivahinkoja. Joissakin kohteissa mittatarkka teräsruote on tiivisti kiinni aluskatteessa. Tällöin vesi voi turmella alapuolisia rakenteita, sillä vesi pääsee naulan avartamista rei'istä alas kattorakenteisiin.
+  - [TILE ROOF BATTEN WITH DRAINAGE AND VENTILATION FEATURES - PDF](https://patentimages.storage.googleapis.com/ab/19/a0/b54819a23deb4f/US20060150536A1.pdf)
+  
+  <!--
+
+  : Jokainen parru "vaakaruode" on muotoiltu muovista nelikulmaisena, avoimella sivulla ja sivuilla, jotka ovat parrun pituusakselin suuntaiset ja jotka sisältävät aukkoja, joiden kautta vesi voi valua pois. Parruilla on ylämäkeen ja alamäkeen suunnatut puolipyramidiset muotoiset veden ohjauspinnat, jotka ohjaavat veden vedenpoistoaukoista. Lisäksi parruilla on veden ohjauspinnat sisäpuolella, joiden avulla vesi ohjataan vedenpoistoaukoista. Vakavia kosteusongelmia voi esiintyä, jos vaakaruoteet asennetaan suoraan aluskatteen päälle. Esimerkiksi eräissä markkinoilla olevissa teräsruoteissa ei ole mitään vedenpoistoaukkoja tai kanavia, joiden avulla vesi voisi virrata alas katolta ulkoseinälinjan ulkopuolelle. Tämä puute on korjattu eräissä tapauksissa osittain leikkaamalla uria puisten kattoparrujen alapuolelle. Tämä kuitenkin jätti ongelman veden kerääntymisestä avointen urien vieressä oleville tasaisille parrupinnoille, mikä aiheutti vesivahinkoja. Joissakin kohteissa mittatarkka teräsruote on 
+  tiivisti kiinni aluskatteessa. Tällöin vesi voi turmella alapuolisia rakenteita, sillä vesi pääsee naulan avartamista rei'istä alas kattorakenteisiin.
+  GPT analysis
+  -->
 
 ### Vastuuvapauslauseke
 
