@@ -12,6 +12,25 @@ comments: false
 published: true
 ---
 
+
+# 2023
+
+## Teemu Saukkonen
+
+- [teosluettelo](https://forumbox.fi/hallinta/wp-content/uploads/2023/06/Kuvallinen-teosluettelo_Saukkonen.pdf)
+- uusekspressionisminen tyyli. Aiheet on kuvattu monumentaalisessa koossa mikä korostaa kärsimystä. [[HS](https://www.hs.fi/kulttuuri/art-2000009854115.html) 17.9.2023]
+- visited: 230922
+
+## Teos 2023
+
+- [TEOS2023](https://teosvalitys.fi/) : The event is organized by the Finnish Sculptors' Association and the Finnish Printmakers' Association, featuring nearly 300 artists and over a thousand artworks.
+  - [HC Berg](https://www.hcberg.com/): mm. muovista taidetta.
+  - [Mari Hallipuro](https://www.marihallapuro.com/index.html): grafiikkaa, mm [tämä](https://taidelainaamo.fi/public/showimage.php?work_image_id=39680&size=large). [Lautturi](https://taidelainaamo.fi/public/showimage.php?work_image_id=39682&size=large) on upea, mutta ei saataville Teos2023-tapahtumassa.
+  - [Sari Bremer](https://www.taiko.art/saribremer)
+
+
+# Artists & Stuff
+
 ## Vappu Rossi
 - [Majesteetti](http://www.galleria12.fi/fi/ws/158/1458/rossi+vappu/majesteetti.html)
 
@@ -164,6 +183,10 @@ Abstract harmony.
 [Surreal visions](https://fahrenheitmagazine.com/en/modern-art/plastics/max-ernst-visions-of-a-surreal-world) come alive,
 Worlds beyond our grasp.
 
+
+## Links
+
+- private sheets [taulut](https://docs.google.com/spreadsheets/d/1xD8bZaQoqJuGkJIjRqkTy4iPHD_Jn3CmrRINroS9QKE/edit?usp=sharing)
 
 # References
 
