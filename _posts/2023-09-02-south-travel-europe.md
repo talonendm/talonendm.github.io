@@ -21,6 +21,12 @@ Taste buds dance with delight.
 - The best seafood cuisine in the Clayes-sous-Bois region: [Leon](https://brasserie.restaurantleon.fr/fr/les-clayes-sous-bois)
 - [O'clock Brewing](https://oclockbrewing.fr/en/) - a bit far.
 
+## Dam
+
+- Indonesian Restaurant [Blue Pepper](https://restaurantbluepepper.com/)
+  - Rijsttafel (pronounced "rice-taffel") is a Dutch-Indonesian culinary tradition that originated during the Dutch colonial period in Indonesia. Explore the diverse and delicious flavors of Indonesian cuisine
+- [Restaurant De Utrechtsedwarstafel](https://www.utrechtsedwarstafel.com/)
+
 ## weather
 
   - Holiday weather: [Amsterdam](https://www.holiday-weather.com/amsterdam/averages/november/)
