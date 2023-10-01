@@ -19,7 +19,7 @@ Art in tiny form.
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/p5.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/addons/p5.sound.min.js"></script>
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/addons/p5.sound.min.js"></script> -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.2/addons/p5.dom.min.js"></script> 
 <div id="sketch-holder-jt-xml"></div>
 
@@ -75,6 +75,7 @@ var infotekstisize = 16;
 
 var fillColor = [255, 255, 255]; // Fill color (red in RGB)
 var pte = 100; // 50;
+var piirra = true;
 
 // called once
 function setup() {
@@ -92,6 +93,10 @@ function setup() {
 }
 
 function draw() {
+  
+  
+  if (piirra) {
+  
   background(155);
   
   push();
@@ -141,6 +146,9 @@ function draw() {
       fill(0,255,0);
     }
     text(infonaytateksti, 1, 1);
+  }
+
+
   }
 
   if (tallenna) {
@@ -255,7 +263,9 @@ function keyPressed() {
     }
   }
 
-  
+  if (key == 'å') {
+    piirra = !piirra;
+  }
 
   if (key == 'p') {
     floodFill(mouseX, mouseY, fillColor);
@@ -395,8 +405,10 @@ A thumbnail editor typically allows users to select an image or video file, and 
 - -: frame -1
 - +: frame +1
 - i: show info
-- p: paint
-- o: white ellipse
+- å: start painting .. no loop
+  - p: paint
+  - o: white ellipse
+
 
 # Links
 
