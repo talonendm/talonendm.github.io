@@ -74,6 +74,7 @@ var copysize = 14;
 var infotekstisize = 16;
 
 var fillColor = [255, 255, 255]; // Fill color (red in RGB)
+var pte = 100; // 50;
 
 // called once
 function setup() {
@@ -196,6 +197,15 @@ function keyPressed() {
   }
   if (key == 'v') {
     a = a + 0.01;
+  }
+
+  if (key == 'o') { // 112 is the key code for F1
+    //console.log('F1 key is pressed');
+    // Perform actions when F1 is pressed
+    fill(255);
+    noStroke();
+    ellipse(mouseX, mouseY, 40, 40);
+    
   }
   
   if (key == 'i') {
@@ -386,6 +396,7 @@ A thumbnail editor typically allows users to select an image or video file, and 
 - +: frame +1
 - i: show info
 - p: paint
+- o: white ellipse
 
 # Links
 
