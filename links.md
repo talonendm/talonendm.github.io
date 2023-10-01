@@ -10,6 +10,8 @@ tags:
 
 # 2023
 
+- Traficom - [bittimittarinopeustesti](https://www.bittimittari.fi/fi/mittaus)
+- [Google Bard](https://bard.google.com/chat) - ta.dm discussions
 - [Thumbnail editor](https://talonendm.github.io/2023-04-07-thumbnail-editor/)
 - [compass map - openstreetmap](https://talonendm.github.io/compass/openstreetmap/)
 - [Tennis ta.dm](https://talonendm.github.io/2021-06-12-tennis/)
@@ -77,6 +79,7 @@ tags:
 
 # Roof
 
+- RIL 107-2012 and 2022 notes - [private](https://docs.google.com/document/d/1YgYnRn9pTKoyBPzwqpta_driAzr6q_0w8b-pUh7fr_Q/edit?usp=sharing)
 - [2021-05-17-roof](https://talonendm.github.io/2021-05-17-roof/)
 - [2021-12-05-contract-trust](https://talonendm.github.io/2021-12-05-contract-trust/)
 - [2022-05-15-aluskate](https://talonendm.github.io/2022-05-15-aluskate/)

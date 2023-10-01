@@ -185,6 +185,10 @@ strength and grace combined.
 - 4.9.2023: Matalaksi syödyn omenapuun yläpuolelle valkohäntäpeuran estävä verkko toiselta omenapuulta, mikä kasvanut jo sopivaan mittaan. "Omenapuut kasvavat, ylös ne nousevat, Verkko niiden yllä, valkohäntäpeuroilta suoja."
 - 5.9.2023: kompostori 1:sen tyhjennys. 4 täynnä. Tarkemmat tiedot Sheets [private dm](https://docs.google.com/spreadsheets/d/1KrexxRqigmjHFJtK63wTE1OMzwcuNP3AaVYRwfUuqag/edit?usp=sharing)
 - 5.9.2023: Kolmen Humulus Lupuleksen siirto tien vierestä kompostorimulta Mali-Lupulus istutus penkkiin. Siinä yhteensä nyt n. 5-7 taimenta.
+- 23.9.2023: perunoita kattilallinen
+- 26.9.2023: Mustatorvisientä 30 kpl ja kanttarellia suuri määrä. Syksy ollut keskimääräistä lämpimämpi ja sienet hieman jo yli. [Mustatorvisienipasta](https://liemessa.fi/2017/10/mustatorvisienipasta/) soveltaen. Creme fraiche mascarbone sijaan.
+- 29.9.2023: Perunoita muutama ja rusakon pää :|
+  
 
 # 2022
 
