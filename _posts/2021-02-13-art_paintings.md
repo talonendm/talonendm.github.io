@@ -15,6 +15,26 @@ published: true
 
 # 2023
 
+## Erkki Pirtola
+
+- [Kattoja](https://hs.mediadelivery.fi/img/658/fdc49401ad8919ea6bd53845e36a627d.jpg.webp), 1976, guassi
+- [HS 30.9.2023](https://www.hs.fi/kulttuuri/art-2000009880704.html)
+  - teoksia paperille 4.2. saakka Helsingin taidemuseossa (Eteläinen Rautatiekatu 8). Ti 10–17.30, ke–su 11.30–19.
+
+
+## Tuulikki Pietilä
+
+- [Pariisin katot](https://www.kansallisgalleria.fi/fi/object/634051), 1978
+  - kuva: 21,5 × 15,5 cm, lehti: 49,5 × 34,5 cm, laatta: 20,5 × 15,5 cm, kuivaneula, viivasyövytys
+  - [Hagelstam](https://www.hagelstam.fi/tuulikki-pietila-1917-2009-34)
+- [Vaalit](https://www.hagelstam.fi/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/8/2/827_60.jpg)
+  - akvatinta, sign., 15/35 tpl'a, 29,5x39,5, [Hagelstam](https://www.hagelstam.fi/tuulikki-pietila-1917-2009-35)
+- [Théâtre du Soleil](https://www.hagelstam.fi/tuulikki-pietila-1917-2009-36)
+  - Sarjasta (ks. [Hagelstam](https://www.hagelstam.fi/huutokaupat/modern-t149/modern-t149-taide?p=3)): Théâtre du Soleil
+  - puupiirros, sign. Tuulikki Pietilä 1976, 7/30 tpl'a, 47x47
+  
+
+
 ## Teemu Saukkonen
 
 - [teosluettelo](https://forumbox.fi/hallinta/wp-content/uploads/2023/06/Kuvallinen-teosluettelo_Saukkonen.pdf)
@@ -107,7 +127,7 @@ Symbolismi, naivistinen tyyli taiteessa. Henkilökuvat hyvin realistisia, ks. [t
 - [Jiri Geller](https://www.jirigeller.com/) tekee lasikuidusta ja polyuretaanista enemmän kuin aidon näköisiä teoksia (jäätelöpallot, ilmapallot, aalto tms.)  (Suomen kuvalehti SK37 - 12.9.2014).
 - [Satu Loukkola](http://www.satuloukkola.fi/galleria.html): Galleriassa käynti
 - [Fernand Leger](https://arthive.com/sl/fernandleger/works/396896~Divers): kankaalla? (Didrichenistä 5e)
-- [Simo Hannula](): [Sinerbrychoffin puisto](https://www.hagelstam.fi/simo-hannula-5eaeb76c20ee341caec1eaa085a3db5a)
+- [Simo Hannula](https://fi.wikipedia.org/wiki/Simo_Hannula): [Sinerbrychoffin puisto](https://www.hagelstam.fi/simo-hannula-5eaeb76c20ee341caec1eaa085a3db5a)
 - Pentti Kaskipuro: [Naamio](https://www.hagelstam.fi/pentti-kaskipuro-3d7c1d9655495a95fb716eae2cdb911c)
 - [Riitta Åkerstedt](https://kuvataiteilijamatrikkeli.fi/taiteilija/riitta-akerstedt)
   - (Okänd) Seppo Fräntin kokoelmasta - [kansallisgalleria](https://www.kansallisgalleria.fi/fi/object/818298)

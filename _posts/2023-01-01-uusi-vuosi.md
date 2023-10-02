@@ -35,6 +35,9 @@ Puhe katsottavissa kokonaisuudessaan [Areenassa](https://areena.yle.fi/1-6422813
 - Parkkipatesta tehdyt valitukset paljastavat bisneksen luonteen [HS 19.6.2023](https://www.hs.fi/kotimaa/art-2000009611194.html)
 - Sähköyhtiö ei suostu noudattamaan kuluttaja­riita­lauta­kunnan päätöstä [HS 2.8.2023](https://www.hs.fi/kotimaa/turku/art-2000009752764.html)
 - [KKO:1980-II-49](https://finlex.fi/fi/oikeus/kko/kko/1980/19800049t): "Työurakka Rakennusurakka Vahingonkorvaus"
+- "Isä huolestui lastensa sotilaskoulutuksesta ja toi lapsensa salaa Venäjältä Suomeen, oikeus määräsi lapset palautettaviksi heti äidilleen Venäjälle" [HS 28.9.2023](https://www.hs.fi/kotimaa/art-2000009882874.html) ja [KKO:2023:66](https://korkeinoikeus.fi/fi/index/ennakkopaatokset/kko202366.html): "Vanhempi lapsi kertoi myös, että heitä pidettäisiin Venäjällä maanpettureina Suomeen saapumisen vuoksi. Hän sanoi haluavansa olla isänsä kanssa." ja "Korkein oikeus päätyi harkinnassaan kuitenkin siihen, että lasten kokonaisetu toteutuu parhaiten lähivanhempana toimineen äitinsä luona Venäjällä."
+- Koiria väkivaltaisesti kohdelleet miehet saivat rangaistuksen – Liiton sääntökikkailu teki seuraukset tyhjiksi [HS 28.9.2023](https://www.hs.fi/kotimaa/turku/art-2000009869695.html)
+- [Täydellinen pako](https://www.hs.fi/kotimaa/art-2000009794072.html) [HS 30.9.2023](https://www.hs.fi/kotimaa/art-2000009886144.html)
 
 ### Yritykset
 

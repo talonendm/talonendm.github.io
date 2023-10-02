@@ -410,6 +410,53 @@ A thumbnail editor typically allows users to select an image or video file, and 
   - o: white ellipse
 
 
+# Code snippets
+
+Note, paint not working properly.
+
+~~~
+function floodFill(x, y, fillColor) {
+  loadPixels();
+  let targetColor = get(x, y);
+
+  if (!colorsMatch(targetColor, fillColor)) {
+    let stack = [];
+    stack.push([x, y]);
+
+    while (stack.length > 0) {
+      let [px, py] = stack.pop();
+      if (px >= 0 && px < width && py >= 0 && py < height) {
+        let index = (py * width + px) * 4;
+        if (colorsMatch(targetColor, pixels.slice(index, index + 3))) {
+          pixels[index] = fillColor[0];
+          pixels[index + 1] = fillColor[1];
+          pixels[index + 2] = fillColor[2];
+          stack.push([px + 1, py]);
+          stack.push([px - 1, py]);
+          stack.push([px, py + 1]);
+          stack.push([px, py - 1]);
+        }
+      }
+    }
+
+    updatePixels();
+  }
+}
+~~~
+
+
+~~~
+function colorsMatch(color1, color2) {
+  //return color1[0] === color2[0] && color1[1] === color2[1] && color1[2] === color2[2];
+
+  return (
+    abs(color1[0] - color2[0]) < pte &&
+    abs(color1[1] - color2[1]) < pte &&
+    abs(color1[2] - color2[2]) < pte
+  );
+}
+~~~
+
 # Links
 
 - test: available in [p5editor](https://editor.p5js.org/haques/sketches/c821CzPas)
