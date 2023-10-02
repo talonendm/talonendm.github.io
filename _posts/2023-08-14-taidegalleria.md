@@ -19,7 +19,6 @@ Taide voi tarjota luovan ja visuaalisen tavan näyttää virheet, herättää ke
 
 Plans: [private.dm](https://docs.google.com/document/d/11QDgrZXnxAqjNhxyRreWnYKccyJrAIO0YAkfdfurJTU/edit?usp=sharing)
 
-
 # Links
 
 - Suomen Taiteilijaseura - [Taiteellisen toiminnan organisointi](https://www.artists.fi/fi/taiteellisen-toiminnan-organisointi)
