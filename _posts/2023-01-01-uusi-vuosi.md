@@ -38,6 +38,8 @@ Puhe katsottavissa kokonaisuudessaan [Areenassa](https://areena.yle.fi/1-6422813
 - "Isä huolestui lastensa sotilaskoulutuksesta ja toi lapsensa salaa Venäjältä Suomeen, oikeus määräsi lapset palautettaviksi heti äidilleen Venäjälle" [HS 28.9.2023](https://www.hs.fi/kotimaa/art-2000009882874.html) ja [KKO:2023:66](https://korkeinoikeus.fi/fi/index/ennakkopaatokset/kko202366.html): "Vanhempi lapsi kertoi myös, että heitä pidettäisiin Venäjällä maanpettureina Suomeen saapumisen vuoksi. Hän sanoi haluavansa olla isänsä kanssa." ja "Korkein oikeus päätyi harkinnassaan kuitenkin siihen, että lasten kokonaisetu toteutuu parhaiten lähivanhempana toimineen äitinsä luona Venäjällä."
 - Koiria väkivaltaisesti kohdelleet miehet saivat rangaistuksen – Liiton sääntökikkailu teki seuraukset tyhjiksi [HS 28.9.2023](https://www.hs.fi/kotimaa/turku/art-2000009869695.html)
 - [Täydellinen pako](https://www.hs.fi/kotimaa/art-2000009794072.html) [HS 30.9.2023](https://www.hs.fi/kotimaa/art-2000009886144.html)
+- Mies yllätti naapurinsa varkaissa asuintalon vintillä Töölössä ja sai tämän kimppuunsa [HS 2.10.2023](https://www.hs.fi/kaupunki/art-2000009889162.html): "MIES valitti tuomiosta hovioikeuteen. Miehen mukaan tuomio oli liian ankara. Helsingin hovioikeus oli samaa mieltä." Varkaudesta, petoksesta ja pieksemisestä pari viikkoa duunia.
+  
 
 ### Yritykset
 

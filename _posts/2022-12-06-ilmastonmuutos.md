@@ -149,6 +149,10 @@ Joulukuusesta. "Kännykän hiilijalanjälki on noin 50–100 kiloa ja kannettava
 - [Forest Story](https://talonendm.github.io/ballrotation/foreststory/)
 
 
+# Links
+
+- Ilmastoaktivismia tarvitaan enemmän kuin koskaan [HS 2.10.2023 - mielipide Hanna Aho](https://www.hs.fi/mielipide/art-2000009888930.html): "Ilmastoaktivismia yhteiskuntamme muuttamiseksi tarvitaan nyt enemmän kuin koskaan. Kaikilla tasoilla: kunnissa, yrityksissä, maanviljelyksessä, ministeriöissä, eduskunnassa ja kaduilla. Jokaisen panosta tarvitaan." ja kommenteista todetaan, että tosiaan "herättelijoitä" tarvitaan.
+
 ---
 
 [Disclaimer](https://talonendm.github.io/disclaimer)

@@ -24,6 +24,7 @@ Seven dudes are members of the culinary clunb called Re:teatteri. In this page s
 
 # Stories
 
+- Hämäävän hyvää, Teknologia peukaloi aistikokemuksia ja voi muokata syömistottumuksiamme. [HS 2.10.2023](https://www.hs.fi/tiede/art-2000009822561.html): Tampereen yliopiston [tutkijat](https://www.tuni.fi/fi/palvelut-ja-yhteistyo/tutkimusyhteistyo-tampereen-yliopiston-kanssa/tauchi) pyrkivät manipuloimaan näkö-, haju- ja tuntoaistia.
 - [LEIVÄTÖN leipälautanen 29.1.2023 HS - The menu](https://www.hs.fi/kulttuuri/art-2000009340591.html)
   - "valikoima erilaisia levitteitä ilman leipää"
   - [The Bear](https://www.disneyplus.com/fi-fi/series/the-bear/52m6nx7HoP5F): sarja Disney+
