@@ -27,6 +27,8 @@ Art in tiny form.
 
 //dom // this probably needed if objects created in js
 
+// P5editor experiments: https://editor.p5js.org/haques/sketches/uVHB7Bf4a  231001
+
 
 window.addEventListener('keydown', function(e) {
   if(e.keyCode == 32 && e.target == document.body) {

@@ -6,11 +6,17 @@ tags:
   - Amsterdam
   - Paris
   - Rome
+  - Pälkäne
 comments: false
 cover-img: /assets/pics/cover/e1024/e-roof-painting-0001.jpg
 thumbnail-img: /assets/pics/thumbnail/e640-direct/2023/e-pic-on-roof-uncle-0001.jpg
 published: true
 ---
+
+<!--
+
+
+-->
 
 > City of canals,
 Culinary dreams take flight,
@@ -26,6 +32,47 @@ Taste buds dance with delight.
 - Indonesian Restaurant [Blue Pepper](https://restaurantbluepepper.com/)
   - Rijsttafel (pronounced "rice-taffel") is a Dutch-Indonesian culinary tradition that originated during the Dutch colonial period in Indonesia. Explore the diverse and delicious flavors of Indonesian cuisine
 - [Restaurant De Utrechtsedwarstafel](https://www.utrechtsedwarstafel.com/)
+
+## Pälkäne
+
+- sää [Foreca - Päkäne](https://www.foreca.fi/Finland/Palkane)
+
+### Sights
+
+- Pälkäneen rauniokirkko ([mapcarta](https://mapcarta.com/N500325848))
+- Syrjänharjun luonnonsuojelualue, [mapcarta](https://mapcarta.com/W191072047)
+- Vehoniemen näkötorni
+- Voipaalan taidekeskus (near [Rantavainiontien veneparkki](https://maps.app.goo.gl/mxnzcRW7p2LTYB337))
+  - klo 11-17 museokortilla
+- [Visavuori](https://maps.app.goo.gl/F7rt5mZN9kER5nYS8)
+  - kuvanveistäjä Emil Wikströmin hima Kari Suomalaisen hauskoja pilapiirrustuksia esillä.
+  - klo 10-16
+- Tenholan linnavuori
+  - auki aina, vaelluskohde
+- Aulangon [näkötorni](https://www.luontoon.fi/aulanko/luonto) (Hämeenlinna)
+  - klo 8–19
+- Tyrvännön [Järvikalastusmuseo](https://tyrvanto.net/jarvikalastusmuseo)
+  - sunnuntaisin auki: klo 12-14 ajalla 11.6.-6.8.
+
+### Kalastus
+
+- [Kukkia-järvi](https://visitpalkane.fi/kohde?destination=24978108880782039): "Kukkia on myös kalaisa järvi. Kalakannat ovat runsastuneet kalastuksen vähenemisen myötä."
+- [Rantavainiontien veneparkki](https://maps.app.goo.gl/mxnzcRW7p2LTYB337)
+- [Sääksmäen silta](https://maps.app.goo.gl/WQBKKBzmJFvKPadk6)
+
+> Pälkäneen polulla kuljen, luonnonhelmassa huljutan.
+Syrjänharjun suojelualueella, luonto kauneimmillaan.
+Vehoniemen näkötornista maisemat avautuvat avarat,
+Voipaalan taidekeskuksessa taidetta ihastella saan.
+
+> Kulttuurihistoriaa Pälkäneellä, rauniokirkko muistona menneiltä ajoilta.
+Museokortilla Voipaalaan, taideelämyksiin iloitsevaa silmääni kohtaan.
+Visavuoren veistokset, Emil Wikströmin luoma taika,
+Kari Suomalaisen pilakuvat hymyilyttävät, nautin hetkestä taivaanrannan taika.
+
+> Tenholan linnavuori kutsuu, historiaa tutkimaan ja luontoa ihailemaan.
+Pälkäneellä on tarjolla paljon, retkelläni maisemia nauttimaan.
+
 
 ## weather
 
