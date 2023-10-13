@@ -188,7 +188,11 @@ strength and grace combined.
 - 23.9.2023: perunoita kattilallinen
 - 26.9.2023: Mustatorvisientä 30 kpl ja kanttarellia suuri määrä. Syksy ollut keskimääräistä lämpimämpi ja sienet hieman jo yli. [Mustatorvisienipasta](https://liemessa.fi/2017/10/mustatorvisienipasta/) soveltaen. Creme fraiche mascarbone sijaan.
 - 29.9.2023: Perunoita muutama ja rusakon pää :|
-- 1.10.2023: Retiisin siementen kuivatus. Sadonkorjuu tulisi tehdä jo kuukausia aiemmin. 
+- 1.10.2023: Retiisin siementen kuivatus. Sadonkorjuu tulisi tehdä jo kuukausia aiemmin.
+- 13.10.2023: Alkuviikon pakkasissa krokus ja basilikat paleltuneneet. 
+- 13.10.2023: kompostori 2:n puolityhjennys ja Big Max talteen Halloweenia varten.
+- 13.10.2023: monivuotisesta maa-artisokkapenkistä raflasafkaa varten juureksia keittoon.
+- 13.10.2023: perunamaan rikkaruohot suliskentän reunaan ja kääntö. 
   
 
 # 2022
