@@ -57,7 +57,10 @@ Puhe katsottavissa kokonaisuudessaan [Areenassa](https://areena.yle.fi/1-6422813
 ### Ympäristö
 
 - "Jätealtaista uimavesiksi" [Hs 22.2.2023 Heli Saavalainen HS](https://www.hs.fi/kotimaa/art-2000009318404.html): typpi- ja fosforikuormituksista graafit. Metsäteollisuuden vesistöpäästöt, ks. esim. Lohjanjärvi.
-
+- "Säätiöt aktivismia tukemassa" [TARINAT JA JULKAISUT - KONEHUONE-KOLUMNI - 02.10.2023](https://koneensaatio.fi/tarinat-ja-julkaisut/saatiot-aktivismia-tukemassa/)
+  - "Aktivismi on toimintaa, jolla puututaan yhteiskunnallisiin epäkohtiin."
+  - "Koneen Säätiö on ennen kaikkea tieteellisen tutkimustyön ja taiteellisen työskentelyn rahoittaja. Painotamme rahoituspäätöksissä tieteen ja taiteen vapautta. Maailma tarvitsee tieteellistä ja taiteellista työtä, myös sellaista, jonka vaikutuksia ympäröivään yhteiskuntaan ei voi välittömästi havaita ja jota ei voi suoraan soveltaa yhteiskuntaa palvelemaan."
+  - "Säätiöt lisäsivät tieteen ja vähensivät kulttuurin tukea – kokonaissumma jälleen ennätystasoa" [HS 2.10.2023](https://www.hs.fi/kulttuuri/art-2000009893683.html)
 
 ## Computer
 
