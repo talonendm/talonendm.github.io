@@ -19,6 +19,13 @@ published: true
 
 Päivä alkoi lounaalla, soveltaen tätä [Paella-reseptiä](https://kaikkiaitinireseptit.blogspot.com/2014/07/paella-superherkullinen.html?sc=1690311079278#c7729886216712487382). Safka tulikin valmistettua avotulella vesisateessa. Onneksi aurinko tuli esiin, kun vieraat kutsuttiin syömään.
 
+1. MI
+2. GR
+3. JU
+4. HE
+5. VI
+6. KA
+
 - [plans and games - private: Kesäjuhla 2023](https://docs.google.com/document/d/1TGoSJyzqGnBplMpmlN8DDCId2afGmYCnWnjDPbMB14I/edit?usp=sharing)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2o5MwNFbcKzaebzINK6bnl?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
