@@ -10,6 +10,8 @@ tags:
   - links
   - gardening
   - kahala
+  - metsä
+  - metsälahjavähennys
 comments: false
 published: true
 ---
@@ -386,6 +388,18 @@ D: Kahala:
 
 # Kahala Boys - Veroyhtymä
 
+[Yhtymä](https://fi.wikipedia.org/wiki/Yhtym%C3%A4_(verotus)) on Suomen verotuksessa kahden tai useamman luonnollisen henkilön tai oikeushenkilön yhteenliittymä. Verotuksessa yhtymän tulot lasketaan ja jaetaan yhtymän osakkaille. Yhtymä ei siis ole itsenäinen verovelvollinen.
+
+## Metsävähennys
+
+metsätilan hankinta 100000 euroa. 60% saa metsävähennyspohjaa eli 60000e. jos veroprosentti 30 prossaa niin verohyöty 18000 euroa ja 34 prossalla 20400 euroa. [mtk.fi](https://www.mtk.fi/) - Mainio 1/2023 metsänomistajat jäsenlehti.
+
+## Metsälahjavähennys
+
+Metsälahjavähennys on suomalainen verohelpotus, joka liittyy metsäomaisuuden lahjoittamiseen. Tämä verovähennys on suunniteltu kannustamaan metsäomaisuuden siirtämistä seuraavalle sukupolvelle.
+
+- [vero.fi ohjeet](https://www.vero.fi/henkiloasiakkaat/omaisuus/metsa/metsalahjavahennys/)
+- Metsäverokirja 2023 Hannu Jauhiainen [private dm - muistiinpanot](https://docs.google.com/document/d/10U0geLffO6sV0fAT2EVn7s9xgro1QWuiewwkAVNoY_c/edit?usp=sharing)
 
 ## Metsä
 
@@ -452,6 +466,8 @@ A-taulukko: Ei vaadita elintarvikehuoneistoilmoitusta ja Ei kuulu säännöllise
 ### Verotus ym.
 
 "Mahlaa, pettua ja kuusenkerkkää pidetään verovapaasti myytävissä olevina kasvin osina. Pakurikääpä ja muut käävät ovat sieniä, joten myös ne voivat olla verovapaasti myytäviä luonnontuotteita." ja "Tuloverotuksessa vähennyskelpoisia menoja eivät ole verovapaan tulon hankkimisesta johtuneet menot (TVL 31.4 §). Verovapaan luonnontuotetulon hankintaan liittyvät menot ovat siten tuloverotuksessa vähennyskelvottomia." [vero.fi](https://www.vero.fi/syventavat-vero-ohjeet/ohje-hakusivu/48538/luonnontuotetulojen_verotu/)
+
+
 
 
 
