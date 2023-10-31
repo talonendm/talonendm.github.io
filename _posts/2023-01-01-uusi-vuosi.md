@@ -62,6 +62,10 @@ Puhe katsottavissa kokonaisuudessaan [Areenassa](https://areena.yle.fi/1-6422813
   - "Koneen Säätiö on ennen kaikkea tieteellisen tutkimustyön ja taiteellisen työskentelyn rahoittaja. Painotamme rahoituspäätöksissä tieteen ja taiteen vapautta. Maailma tarvitsee tieteellistä ja taiteellista työtä, myös sellaista, jonka vaikutuksia ympäröivään yhteiskuntaan ei voi välittömästi havaita ja jota ei voi suoraan soveltaa yhteiskuntaa palvelemaan."
   - "Säätiöt lisäsivät tieteen ja vähensivät kulttuurin tukea – kokonaissumma jälleen ennätystasoa" [HS 2.10.2023](https://www.hs.fi/kulttuuri/art-2000009893683.html)
 
+#### Rakentaminen
+
+- Rakennusliike J. Rajala: [IL 31.10.2023](https://www.iltalehti.fi/kotimaa/a/3d89966f-b792-4dcf-905d-d82838120eb8): "Rakennusliike ajautui konkurssiin – Oikeus ihmetteli, miksi firman nimissä on kaksi luksusautoa" [IL Jarno Liski](https://www.iltalehti.fi/kirjoittajat/Jarno%20Liski)
+
 ## Computer
 
 - HEVC: High-Efficiency Video Coding, more commonly called HEVC, is a specialized video compression standard. [howtogeek](https://www.howtogeek.com/680690/how-to-install-free-hevc-codecs-on-windows-10-for-h.265-video/)

@@ -195,6 +195,7 @@ strength and grace combined.
 - 13.10.2023: kompostori 2:n puolityhjennys ja Big Max talteen Halloweenia varten.
 - 13.10.2023: monivuotisesta maa-artisokkapenkistä raflasafkaa varten juureksia keittoon.
 - 13.10.2023: perunamaan rikkaruohot suliskentän reunaan ja kääntö. 
+- 29.10.2023: Jäniksen käpälä löytyi maasta. 40+5 krokuksen sipulia portaiden ja pensaiden viereen. Kolo rautakangella ja sipuli sinne.
   
 
 # 2022

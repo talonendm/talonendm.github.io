@@ -22,6 +22,29 @@ published: true
 Culinary dreams take flight,
 Taste buds dance with delight.
 
+# Dam
+
+- Indonesian Restaurant [Blue Pepper](https://restaurantbluepepper.com/)
+  - [Rijsttafel](https://en.wikipedia.org/wiki/Rijsttafel) (pronounced "rice-taffel") is a Dutch-Indonesian culinary tradition that originated during the Dutch colonial period in Indonesia. Explore the diverse and delicious flavors of Indonesian cuisine
+- [Restaurant De Utrechtsedwarstafel](https://www.utrechtsedwarstafel.com/)
+
+### Indonesian food in the Netherlands
+
+See a list of typical foods in [Wikipedia](https://en.wikipedia.org/wiki/Rijsttafel): Rijsttafel
+**Ayam** is the Indonesian word for chicken, widely used in soups, skewer grilling, and various sauced dishes, with saoto ayam being a favorite soup. **Bami**, thin egg noodles, are stir-fried with ingredients like garlic, onion, meats, and vegetables, influenced by Chinese chow mein and often served as a main dish.
+ 
+### Weather
+
+- Holiday weather: [Amsterdam](https://www.holiday-weather.com/amsterdam/averages/november/)
+
+### Travel
+
+- Bolt
+- Every 7-10 minutes bus line 397 departs from bus stop B17 at Schiphol Airport.
+  - [airport-bus](https://www.amsterdamsights.com/about/airport-bus.html)
+  - One-way ticket €6.50 (€7.50 when bought directly from the driver)
+  - The transfer time from the airport to the city center. An average trip takes about 30 min.
+  - Return ticket: [11.75€](https://www.getyourguide.com/amsterdam-l36/amsterdam-airport-express-return-trip-to-the-city-center-t165665/?date_from=2023-11-03&date_to=2023-11-03&partner=true&ranking_uuid=47c01ebe-6339-4580-ac70-e0b9e96e5659)
 
 # Versailles
 
@@ -32,17 +55,12 @@ Taste buds dance with delight.
 - The best seafood cuisine in the Clayes-sous-Bois region: [Leon](https://brasserie.restaurantleon.fr/fr/les-clayes-sous-bois)
 - [O'clock Brewing](https://oclockbrewing.fr/en/) - a bit far.
 
-## Dam
 
-- Indonesian Restaurant [Blue Pepper](https://restaurantbluepepper.com/)
-  - Rijsttafel (pronounced "rice-taffel") is a Dutch-Indonesian culinary tradition that originated during the Dutch colonial period in Indonesia. Explore the diverse and delicious flavors of Indonesian cuisine
-- [Restaurant De Utrechtsedwarstafel](https://www.utrechtsedwarstafel.com/)
-
-## Pälkäne
+# Pälkäne
 
 - sää [Foreca - Päkäne](https://www.foreca.fi/Finland/Palkane)
 
-### Sights
+## Sights
 
 - Pälkäneen rauniokirkko ([mapcarta](https://mapcarta.com/N500325848))
 - Syrjänharjun luonnonsuojelualue, [mapcarta](https://mapcarta.com/W191072047)
@@ -81,7 +99,6 @@ Pälkäneellä on tarjolla paljon, retkelläni maisemia nauttimaan.
 
 ## weather
 
-  - Holiday weather: [Amsterdam](https://www.holiday-weather.com/amsterdam/averages/november/)
   - Accuweather: [Paris](https://www.accuweather.com/en/fr/paris/623/weather-forecast/623)
   
 # Links
