@@ -6,7 +6,7 @@ tags:
   - Amsterdam
   - reteatteri
 comments: false
-cover-img: /assets/pics/cover/e1024/e-dam-canal.jpg.jpg
+cover-img: /assets/pics/cover/e1024/e-dam-canal.jpg
 thumbnail-img: /assets/pics/thumbnail/e384-direct/e-dam.jpg
 published: true
 ---
@@ -33,6 +33,8 @@ For dessert, we encountered a floral treat that resembled a 9 Volt battery in bo
 
 "For dessert, we were instructed to eat what looked like a tiny yellow flower. Five seconds later, I felt like my mouth had been woken up by a lightning bolt. It made the combination of orange-blossom sorbet, mango panna cotta and forest berries all the fruitier." [amsterdamfoodie.nl](https://www.amsterdamfoodie.nl/amsterdam-food-guide/indonesian-restaurants-in-amsterdam-rijsttafel/)
 
+Szechuan Button: Stimulate your taste buds with this exciting burst of energy! [Amazon](https://www.amazon.com/Buzz-Buttons-Flowers-50-Count/dp/B003UWU9KQ), [Buzz button](https://specialtyproduce.com/produce/Fresh_Flowers_Buzz_Button_4873.php)
+
 ### Indonesian food in the Netherlands
 
 See a list of typical foods in [Wikipedia](https://en.wikipedia.org/wiki/Rijsttafel): Rijsttafel
@@ -43,11 +45,15 @@ See a list of typical foods in [Wikipedia](https://en.wikipedia.org/wiki/Rijstta
 - Cafe de Krul: [instagram](https://www.instagram.com/cafedekrul/?hl=en)
 - Cafe de [Koe](https://cafedekoe.nl/)
 
-## Lunch 2
+## Breakfast 2
 
 - [Locals](https://www.localscoffee.nl/), [instagram](https://www.instagram.com/locals.coffee/?hl=fi), [Google Maps](https://maps.app.goo.gl/kJ5wSVuX4TXxkFm78)
+- EGGS BENEDICT alias Benny, [Uotilan resepti](https://www.uotilan.fi/reseptit/eggs-benedict-uotilan-tapaan/)
 
 ![b.01.locals](/assets/pics/thumbnail/e1080-direct/dam-23/e-pic-0001.jpg){: .mx-auto.d-block :}
+[EGGS BENNY](https://www.localscoffee.nl/menu): brioche - crispy bacon - two poached eggs - hollandaise sauce with avocado + capuchino and few orange juices.
+
+## Lunch 2
 
 - Vondelpark walk to meesterslijpers
 
