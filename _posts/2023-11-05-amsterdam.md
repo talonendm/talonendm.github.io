@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Sip, Savor, and Delight - Local Flavors Unveiled
-subtitle: A Culinary Adventure in Iconic European Destinations
+title: Amsterdam's Culinary Kaleidoscope
+subtitle: From Italian to Dutch, Indonesian to French, discover the diverse culinary landscape of Amsterdam
 tags:
   - Amsterdam
   - reteatteri
@@ -11,10 +11,8 @@ thumbnail-img: /assets/pics/thumbnail/e640-direct/2023/e-pic-on-roof-uncle-0001.
 published: true
 ---
 
-<!--
-
-
--->
+Amsterdam's Culinary Kaleidoscope: A Food Lover's Guide to Diverse Dining"
+From Italian to Dutch, Indonesian to French, discover the diverse culinary landscape of Amsterdam, and find out where to sate your taste buds in this international city.
 
 > City of canals,
 Culinary dreams take flight,
@@ -25,6 +23,9 @@ Taste buds dance with delight.
 ## Dinner 1
 
 Indonesian Restaurant [Blue Pepper](https://restaurantbluepepper.com/), [Rijsttafel](https://en.wikipedia.org/wiki/Rijsttafel) (pronounced "rice-taffel") is a Dutch-Indonesian culinary tradition that originated during the Dutch colonial period in Indonesia. Explore the diverse and delicious flavors of Indonesian cuisine.
+
+![b.01.Rijsttafel](/assets/pics/thumbnail/e1080-direct/dam-23/e-pic-0004.jpg){: .mx-auto.d-block :}
+
 
 ### Indonesian food in the Netherlands
 
@@ -42,7 +43,12 @@ See a list of typical foods in [Wikipedia](https://en.wikipedia.org/wiki/Rijstta
 
 ![b.01.locals](/assets/pics/thumbnail/e1080-direct/dam-23/e-pic-0001.jpg){: .mx-auto.d-block :}
 
+- Vondelpark walk to meesterslijpers
+
 [Breda](https://bredagroup-amsterdam.com/restaurant-breda-amsterdam/?lang=en)
+
+![b.01.kale.breda](/assets/pics/thumbnail/e1080-direct/dam-23/e-pic-0005.jpg){: .mx-auto.d-block :}
+
 
 
 ## Dinner 2
@@ -54,14 +60,28 @@ See a list of typical foods in [Wikipedia](https://en.wikipedia.org/wiki/Rijstta
 
 ## Lunch 3
 
+- Van Gogh - museum loppuunmyyty. Su aamu. 
+
 [Le Hollandais](https://www.lehollandais.nl/), 4 gangen €60.
 
-[Tournedos Rossini](https://en.wikipedia.org/wiki/Tournedos_Rossini) with extra ham.
+
+![b.01.tartar](/assets/pics/thumbnail/e1080-direct/dam-23/e-pic-0003.jpg){: .mx-auto.d-block :}
+
+
+
+![b.06.fish](/assets/pics/thumbnail/e1080-direct/dam-23/e-pic-0006.jpg){: .mx-auto.d-block :}
+
+
+
+[Tournedos Rossini](https://en.wikipedia.org/wiki/Tournedos_Rossini) with extra ham. Typically the dish is garnished with slices of black truffle and finished with a Madeira demi-glace sauce. (composer [Gioachino Rossini](https://en.wikipedia.org/wiki/Gioachino_Rossini))
 
 ![b.01.Rossini](/assets/pics/thumbnail/e1080-direct/dam-23/e-pic-0002.jpg){: .mx-auto.d-block :}
 
+
+
 (3) Heineken Experience
 
+![b.06.heinakenka](/assets/pics/thumbnail/e1080-direct/dam-23/e-pic-0008.jpg){: .mx-auto.d-block :}
 
  
 ### Weather
