@@ -66,6 +66,7 @@ tags:
 
 ## 2023
 
+- Yliopisto:  [HY/MOOC: Ruoka 1.0](https://digicampus.fi/course/view.php?id=4060), 2 op, 2023–2024
 - Aalto: [sustainable business](https://sustainablebusiness.aalto.fi/en/course/): "Do you often find yourself wondering: “How can we make our company more sustainable? How should our company adapt to today’s sustainability challenges?"
 - [UEF/MOOC:Johdanto metsätieteisiin ja metsätalouteen 1, 2022-2023](https://digicampus.fi/mod/page/view.php?id=184265): Kurssin suoritettuaan opiskelija: "ymmärtää metsien ominaispiirteet monipuolisena uusiutuvana luonnonvarana sekä hallitsee perustiedot Suomen metsätaloudesta ja metsätieteistä." sulkeutuu **28.2.2023**. Varaa noin 20h aikaa. [Kurssiohjeet](https://digicampus.fi/mod/page/view.php?id=184265. muistiinpanot (private: [dm](https://docs.google.com/document/d/1No6AWDlN5uoum1pmIl1oI9zzrfAP6awN92qVoK5-scc/edit?usp=sharing))
 - [MyDigicampus](https://digicampus.fi/my/)
