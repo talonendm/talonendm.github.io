@@ -244,10 +244,12 @@ plugins:
 
 # testing local gem file 19.11.2022 https://github.com/jekyll/jemoji
 emoji:
-  - src: "/assets/emoji/gemoji-3.0.1.gem"
+  - src: "/assets/emoji/gemoji-4.1.0.gem"
 
-# 19.11.2022 - build failed:
-# plugins:   - jemoji
+# 19.11.2022 - build failed: (gem) plugins --> gem
+gem:   
+  - jemoji
+
 # custom emoji: https://github.com/jekyll/jemoji
 
 # Beautiful Jekyll / Dean Attali
