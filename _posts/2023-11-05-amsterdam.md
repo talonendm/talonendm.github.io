@@ -51,7 +51,7 @@ See a list of typical foods in [Wikipedia](https://en.wikipedia.org/wiki/Rijstta
 - EGGS BENEDICT alias Benny, [Uotilan resepti](https://www.uotilan.fi/reseptit/eggs-benedict-uotilan-tapaan/)
 
 ![b.01.locals](/assets/pics/thumbnail/e1080-direct/dam-23/e-pic-0001.jpg){: .mx-auto.d-block :}
-[EGGS BENNY](https://www.localscoffee.nl/menu): brioche - crispy bacon - two poached eggs - hollandaise sauce with avocado + capuchino and few orange juices.
+[EGGS BENNY](https://www.localscoffee.nl/menu): brioche - crispy bacon - two poached eggs - hollandaise sauce with avocado + capuchino and few orange juices. It was kind of Eggs Benedict: "Eggs Benedict is a common American breakfast or brunch dish, consisting of two halves of an English muffin, each topped with Canadian bacon, a poached egg, and hollandaise sauce. It was popularized in New York City." [Wikipedia](https://en.wikipedia.org/wiki/Eggs_Benedict)
 
 ## Lunch 2
 
