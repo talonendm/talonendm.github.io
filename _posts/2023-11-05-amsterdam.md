@@ -137,6 +137,10 @@ Cheaper version for cutting meat: [Berkel Pro Line Xs25 Red Slicer - sähköinen
 
 - [Turtleneck](https://cookinglife.eu/turtleneck-reusable-stainless-steel-straws-set-of-4/) Reusable stainless steel straws - with brush - silver - Bendable - 4 Pieces
 - Eggland [Egg poacher](https://ototodesign.com/products/eggland-egg-poacher) Ototo
+    1. a layer of oil
+    2. water to boiling point
+    3. egg and cover it 5-7 minutes (probably 12 mins)
+    4. scoop it
 
 
 # Wines
