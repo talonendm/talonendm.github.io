@@ -241,11 +241,12 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jemoji
+
+#  - jemoji
 
 # testing local gem file 19.11.2022 https://github.com/jekyll/jemoji
-emoji:
-  - src: "/assets/emoji/gemoji-4.1.0.gem"
+# emoji:
+#  - src: "/assets/emoji/gemoji-4.1.0.gem"
 
 # 19.11.2022 - build failed: (gem) plugins --> gem
 # gem:   
