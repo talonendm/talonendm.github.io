@@ -65,6 +65,11 @@ Puhe katsottavissa kokonaisuudessaan [Areenassa](https://areena.yle.fi/1-6422813
 #### Rakentaminen
 
 - Rakennusliike J. Rajala: [IL 31.10.2023](https://www.iltalehti.fi/kotimaa/a/3d89966f-b792-4dcf-905d-d82838120eb8): "Rakennusliike ajautui konkurssiin – Oikeus ihmetteli, miksi firman nimissä on kaksi luksusautoa" [IL Jarno Liski](https://www.iltalehti.fi/kirjoittajat/Jarno%20Liski)
+- "Seuraako kukaan rakentajien ammattitaitoa ja työn laatua?" [HS mielipide 11.3.2023](https://www.hs.fi/mielipide/art-2000009436782.html): "Timpuriporukat vaihtuivat tiuhaan – uusi timpuriporukka haukkui meille aina edellisen porukan ja luvattiin parempaa työn jälkeä."
+  - "Laitettiin oranssia huomioteippiä jokaikiseen kohtaan, jossa työkseen rakennusalalla oleva tarkastaja löysi ongelmia. Seuraavaksi tuli vuokraustoimistosta valokuvaaja, joka otti kaikista kohteen pinnoista valokuvat nettiin laitettavaksi. Kuvat olivat netssä, ja lähetin sähköpostia talon vastaavalle mestarille, hänen esimiehelleen ja esimiehen esimiehelle kyseisessä rakennusyhtiössä - iso pohjoismainen. Kovasti pahoittelin, että tästä kohteesta tuli tuollaisia oranssein teipin liputettuja valokuvia paikkakunnan suuren vuokraustoimiston verkkoilmoitukseen. Etenkin, kun talosta oli puolet huoneistoista vielä myymättä. Lupasin vaihtaa kuvat kurantteihin välittömästi, kun korjaukset on tehty." - kommentti 11.3. 21:41
+  - "Reklamoinnit ovat yhtä tyhjän kanssa, koska jokaisesta virheestä tai laiminlyönnistä joka maksaa enemmän kuin muutama tuubi jotain akryylimassaa pitäisi lähteä oikeuteen ja lopputulos on parhaimmissakin tapauksissa suunnilleen sama kuin ryöstäisit pankin ja kiinni jäätyäsi riittäisi, että palautat rahat. Sen jälkeen kun nimi on paperissa oikeusturvaa ei käytännössä ole, joten laatu on tämän mukaista." - 11.3. 20:46
+  - "Rakennusala on yksi merkittävin laillisuuden "sokea piste" yhteiskunnassamme. Ja erityiseksi häpeäksi erityisesti maamme poliittisille päättäjille. Näiden päätöksistä ja päättämättömyyksistä on asia yksin kiinni." - 11.3. 15:00
+  - 
 
 ## Computer
 
