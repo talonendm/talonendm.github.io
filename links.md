@@ -126,6 +126,7 @@ tags:
 
 # DATA 
 
+- [Paavo](https://www.stat.fi/tup/paavo/index.html) - stat.fi: "Paavo-palvelu sisältää postinumeroalueittaista tietoa asukasrakenteesta, koulutuksesta, tuloista, asumisesta, työpaikoista, talouksien elämänvaiheesta ja asukkaiden pääasiallisesta toiminnasta."
 - [DRIVE - oma](https://drive.google.com/drive/u/0/my-drive)
 - [Hs - oma notes](https://docs.google.com/document/d/1NXiD0G9zo-lA1EG55y1xyt9KKr8jY8-yBwOP0ykL24o/edit?usp=sharing)
 - Talviurheilu - kamat ja koot [(private)](https://docs.google.com/spreadsheets/d/1wVZ0nORN11OwwguXcEv6zwl4aHwJYxDbeVlo4DfMErY/edit?usp=sharing)
