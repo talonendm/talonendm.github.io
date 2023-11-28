@@ -65,7 +65,8 @@ Puhe katsottavissa kokonaisuudessaan [Areenassa](https://areena.yle.fi/1-6422813
 #### Kestävä kehitys
 
 - Arto O. Salonen: väitöskirja: Kestävä kehitys globaalin ajan hyvinvointiyhteiskunnan haasteena, 2010 [(PDF)](https://helda.helsinki.fi/server/api/core/bitstreams/4a10465a-db58-412b-b9d6-562640251295/content)
-- 14.9.2023: Tikkurila Heureka: Ihminen, työ ja tulevaisuus - poimintoja:
+  - Elämästä tuli suoritus, joka ei mahdu maapallolle - [blogi](https://artosalonen.com/elamasta-tuli-suoritus-joka-ei-mahdu-maapallolle/)
+- 14.9.2023: Tikkurila Heureka: Ihminen, työ ja tulevaisuus - poimintoja ja GPT-keskustelua:
   -  Huomisesta voidaan tehdä toisenlainen, jos vain nin halutaan; Tomorrow can be made different, if that's what is desired.
   -  We humans are building the Anthropocene. The term "Anthropocene" refers to a proposed epoch that reflects the significant impact of human activities on the Earth's geology and ecosystems.
   - "Ihmisen vaikutus tulevaisuuteen on ennennäkemätön. Me rakennetaan tulevaisuus" translates to "The impact of humans on the future is unprecedented. We are building the future" in English. This statement emphasizes the significant and unprecedented role that humans have in shaping the course of the future. It conveys a sense of responsibility and agency in creating the path ahead.
@@ -94,12 +95,23 @@ Puhe katsottavissa kokonaisuudessaan [Areenassa](https://areena.yle.fi/1-6422813
     - hinnalla ei voi laatua määrittää...
   - "Kuntotarkastuksen tarkoitus on, että osapuolet tietävät, mitä riskejä talossa voi olla. Se voi myös johtaa jatkotutkimuksiin, joissa epäilyttävät rakenteet tutkitaan perusteellisemmin. Edellinen hallitus oli ensimmäinen, jonka ohjelmaan kirjattiin vuonna 2019, että kuntotarkastustoiminta tuodaan lainsäädännön piiriin ja kuntotarkastajille asetetaan pätevyysvaatimukset. Asia kuului useamman ministeriön hallinnonalalle, mutta ministeriöillä ei ollut lainsäädäntöresursseja tähän asiaan edellisellä hallituskaudella, kertoo rakennusneuvos [Katja Outinen](https://vnk.fi/-/katja-outinen-luotsaamaan-terveet-tilat-ohjelmaa) ympäristöministeriöstä. Nykyisen hallituksen hallitusohjelmassa ei ole mainintaa asiasta. Alan kirjavat käytännöt saavat siis jatkua."
     - Tavarantarkastajat lainsäädännön piirissä?
+- "87 000 euron mökkikaupasta 65 000 euron käräjöintikulut – Näin valtavia summia tavalliset ihmiset maksavat lakimiehille" [[HS Riika Nykänen 20.2.2023](https://www.hs.fi/kotimaa/art-2000009389445.html) otsikolla Taloriidan oikeuskulut voivat paisua valtaviksi]:
+  - "Väitöskirjatutkija Laura Sarasoja Kriminologian ja oikeuspolitiikan instituutista on tutkinut riita-asioiden oikeudenkäynti­kuluja Suomessa": "Kiinteää omaisuutta koskevissa riidoissa mediaanisumma oikeudenkäynti­kulujen vaatimuksissa on 23 000 euroa per osapuoli." HS:n selvityksen perusteella mediaani riidan intressi kiinteää omaisuutta koskevissa riidoissa oli noin 100 kiloeuroa.
+  - oikeusturvavakuutusten korvauskatto on 10 000 euroa ja omavastuuosuus vakuutuksissa tyypillisesti 15 prosenttia. [op ja HS]
+  - [Jussi Ikonen](https://www.merilampi.com/ihmiset/jussi-ikonen) toteaa artikkelissa, että kulujen kasvujen takia ihmiset jättävät nostavatta kannetta, vaikka siihen olisi ihan pätevät perustelut.
+  - Jussi Sarvikivi: "perusteltuja vaatimuksia voidaan jättää viemättä käräjille esimerkiksi sen pelossa, että vastapuolella on liian iso toimija, jolla on käytettävissä riitelyyn enemmän resursseja kuin yksityishenkilöllä." -- Oletettavasti eräät isot urakoitsijat toimivat juuri tällä periaatteella, ks. myös [RL](https://www.rakennuslehti.fi/2016/06/nain-suomi-homehtui-hyva-rakentamistapa-sai-aikaan-pahaa-jalkea/), ja "Tällainen voi olla vaikkapa rakennusliike, autoliike, perintätoimisto tai pikavippiyhtiö." [HS](https://www.hs.fi/kotimaa/art-2000009389445.html)
+  - Artikkelissa keskustellaan mahdollisesta kevennetystä oikeudenkäynnistä, jossa kulujen kasvua voitaisiin hillitä.
+- "Maria Nordin ei halua luovuttaa kissaansa valtiolle" [HS 25.11.2023](https://www.hs.fi/kaupunki/helsinki/art-2000010014031.html): "Koira oli purrut Nordinin kanaa, jonka vuoksi kanalle oli tullut syvä haava. Sen lisäksi Nordinin kissa oli tullut kyyn puremaksi, ja kissa oli saanut myrkytysoireita pureman seurauksena."
+
 
 ## Computer
 
 - HEVC: High-Efficiency Video Coding, more commonly called HEVC, is a specialized video compression standard. [howtogeek](https://www.howtogeek.com/680690/how-to-install-free-hevc-codecs-on-windows-10-for-h.265-video/)
 
+## AI
 
+- "Tekoäly voi syödä tutkijansa" [HS 18.11.2023](https://www.hs.fi/ulkomaat/art-2000009979820.html): "Tekoäly voi viedä työt keltä tahansa, mutta fiksujen kysymysten kysyjiä tarvitaan tulevaisuudessakin."
+- 
 
 
 ## Muut
