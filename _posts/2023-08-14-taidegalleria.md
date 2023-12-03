@@ -25,6 +25,7 @@ Plans: [private.dm](https://docs.google.com/document/d/11QDgrZXnxAqjNhxyRreWnYKc
 - TOISENLAINEN GALLERIA KÄYTTÖTARKOITUKSEN MUUTOSSUUNNITELMA LIIKETILAAN [PDF](https://www.theseus.fi/bitstream/handle/10024/91704/V%C3%A4yrynen_Tanja.pdf?sequence=2&isAllowed=y)
 - [museot ja taide](https://talonendm.github.io/2022-08-11-museot/)
 - [tauluja](https://talonendm.github.io/2021-02-13-art_paintings/)
+- "Raha­pulasta kärsivä sveitsiläis­museo huuto­kauppasi mestari­teoksia" [HS 27.11.2023](https://www.hs.fi/paivanlehti/27112023/art-2000009995293.html), [Paul Cézanne](https://fi.wikipedia.org/wiki/Paul_C%C3%A9zanne), [Langmatt](https://www.langmatt.ch/en/)-museo
 
 
 ---
