@@ -39,7 +39,7 @@ Puhe katsottavissa kokonaisuudessaan [Areenassa](https://areena.yle.fi/1-6422813
 - Koiria väkivaltaisesti kohdelleet miehet saivat rangaistuksen – Liiton sääntökikkailu teki seuraukset tyhjiksi [HS 28.9.2023](https://www.hs.fi/kotimaa/turku/art-2000009869695.html)
 - [Täydellinen pako](https://www.hs.fi/kotimaa/art-2000009794072.html) [HS 30.9.2023](https://www.hs.fi/kotimaa/art-2000009886144.html)
 - Mies yllätti naapurinsa varkaissa asuintalon vintillä Töölössä ja sai tämän kimppuunsa [HS 2.10.2023](https://www.hs.fi/kaupunki/art-2000009889162.html): "MIES valitti tuomiosta hovioikeuteen. Miehen mukaan tuomio oli liian ankara. Helsingin hovioikeus oli samaa mieltä." Varkaudesta, petoksesta ja pieksemisestä pari viikkoa duunia.
-  
+- Rikoksesta epäilty virkamies on reissannut kuin Yli-Viikari – [Iltalehti perkasi kuitit 17.12.2023](https://www.iltalehti.fi/politiikka/a/ed7bfd7c-239a-4a2c-be1a-ad2bd3a61306)
 
 ### Yritykset
 
