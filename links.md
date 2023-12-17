@@ -10,6 +10,7 @@ tags:
 
 # 2023
 
+- [DOCS - Tappolista - Heidi Blake 2023](https://docs.google.com/document/d/1OiXXuJJFJcDWkTQxwNyUYLwTNiTTxyPdJEr_pbUL9E4/edit?usp=sharing)
 - Traficom - [bittimittarinopeustesti](https://www.bittimittari.fi/fi/mittaus)
 - [Google Bard](https://bard.google.com/chat) - ta.dm discussions
 - [Thumbnail editor](https://talonendm.github.io/2023-04-07-thumbnail-editor/)
