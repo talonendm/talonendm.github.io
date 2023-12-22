@@ -98,7 +98,7 @@ Se tuo energian kauas koteihin,
 Ja auttaa ihmisiä päivästä toiseen.
 
 - "Koko Euroopassa kaasunkulutus on laskenut 19 prosenttia, Suomessa yli 50 prosenttia." 3/2023, [Maakaasun hinta Alankomaiden TTF-kaasumarkkinalla](https://images.jifo.co/53503771_1677763812290.svg), "Kiireellä ja isolla rahalla Suomeen hankittua LNG-terminaalia ei ole tarvinnut vielä kukaan." [3.3.2023 YLE, KAISA UUSITALO](https://yle.fi/a/74-20020242).
-
+- Uhkaako Suomea talvella energiapula? Läntisessä maailmassa on vain kymmenen jäävahvistettua lng-tankkeria [HS 28.10.2023](https://www.hs.fi/talous/art-2000009951491.html)
 
 # Luontokato
 
