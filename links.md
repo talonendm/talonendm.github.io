@@ -10,6 +10,7 @@ tags:
 
 # 2023
 
+- [DOCS - tarinoita ja GPT](https://docs.google.com/document/d/1M6JLsk_DVzYjTkBRl05gIXNSCEYzIi3F05QKgnfZdug/edit?usp=sharing)
 - [DOCS - Tappolista - Heidi Blake 2023](https://docs.google.com/document/d/1OiXXuJJFJcDWkTQxwNyUYLwTNiTTxyPdJEr_pbUL9E4/edit?usp=sharing)
 - Traficom - [bittimittarinopeustesti](https://www.bittimittari.fi/fi/mittaus)
 - [Google Bard](https://bard.google.com/chat) - ta.dm discussions
@@ -17,7 +18,7 @@ tags:
 - [compass map - openstreetmap](https://talonendm.github.io/compass/openstreetmap/)
 - [Tennis ta.dm](https://talonendm.github.io/2021-06-12-tennis/)
 - Tennis Lindal: [Varauskalenteri](https://kirte.net/varauskalenteri/Web/schedule.php) for Jaakko.
-- [Siuntio uimahalli ja punttis](https://www.siuntio.fi/siuntion-uimahalli-avataan-maanantaina-174-klo-13): auki 17.4.2023 alkaen
+- [Siuntion uimahalli ja punttis](https://www.siuntio.fi/siuntion-uimahalli-avataan-maanantaina-174-klo-13): auki 17.4.2023 alkaen
 - Kirkkonummen teitä kunnostetaan [Crowdsorsa](https://www.kirkkonummi.fi/kirkkonummella-kerataan-katujen-kuntotietoa-mobiilipelilla)
 - [Norja - Travelling](https://docs.google.com/document/d/10h1bN0ps1jTwevLAY3xna2aFz1f0oruE2Y_yMWK2xRA/edit?usp=sharing)
 - [Nimenhuuto](https://nimenhuuto.com/users/sessions)

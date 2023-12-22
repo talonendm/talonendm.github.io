@@ -196,6 +196,7 @@ strength and grace combined.
 - 13.10.2023: monivuotisesta maa-artisokkapenkistä raflasafkaa varten juureksia keittoon.
 - 13.10.2023: perunamaan rikkaruohot suliskentän reunaan ja kääntö. 
 - 29.10.2023: Jäniksen käpälä löytyi maasta. 40+5 krokuksen sipulia portaiden ja pensaiden viereen. Kolo rautakangella ja sipuli sinne.
+- 11.11.2023: "Puutarha on ehtymätön inspiraation, ilon ja kauneuden lähde. Se antaa jatkuvuuden tunteen, opettaa kärsivällisyyttä ja nöyryyttä." [Mari Mörö YLE](https://yle.fi/a/3-10323455)
   
 
 # 2022

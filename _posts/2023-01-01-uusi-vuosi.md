@@ -61,6 +61,11 @@ Puhe katsottavissa kokonaisuudessaan [Areenassa](https://areena.yle.fi/1-6422813
   - "Aktivismi on toimintaa, jolla puututaan yhteiskunnallisiin epäkohtiin."
   - "Koneen Säätiö on ennen kaikkea tieteellisen tutkimustyön ja taiteellisen työskentelyn rahoittaja. Painotamme rahoituspäätöksissä tieteen ja taiteen vapautta. Maailma tarvitsee tieteellistä ja taiteellista työtä, myös sellaista, jonka vaikutuksia ympäröivään yhteiskuntaan ei voi välittömästi havaita ja jota ei voi suoraan soveltaa yhteiskuntaa palvelemaan."
   - "Säätiöt lisäsivät tieteen ja vähensivät kulttuurin tukea – kokonaissumma jälleen ennätystasoa" [HS 2.10.2023](https://www.hs.fi/kulttuuri/art-2000009893683.html)
+- [Ylpeästi pihi - HS 2.12.2023](https://www.hs.fi/hyvinvointi/art-2000009873307.html): Teemu Kupiainen:
+  - "Nautin suunnattomasti, kun voin tarvittaessa kaivaa esiin juuri oikeanlaisen rautalanganpätkän" - lukija
+  - t-paidat: laatuluokka 1-5
+  - Lapualainen P. Hemminki: "Jos McDonald'sin roskiksesta kaivaa kuitteja, niiden koodeilla pääsee ilmaiseksi vessaan." [HS B6]
+  - 
 
 #### Kestävä kehitys
 
@@ -111,8 +116,17 @@ Puhe katsottavissa kokonaisuudessaan [Areenassa](https://areena.yle.fi/1-6422813
 ## AI
 
 - "Tekoäly voi syödä tutkijansa" [HS 18.11.2023](https://www.hs.fi/ulkomaat/art-2000009979820.html): "Tekoäly voi viedä työt keltä tahansa, mutta fiksujen kysymysten kysyjiä tarvitaan tulevaisuudessakin."
-- 
-
+- [HS hype 2.12.2023](https://www.hs.fi/visio/art-2000010003755.html):
+  - [Younite AI](https://younite-ai.com/)
+  - [Flowrite](https://www.flowrite.com/feature/web-app): Etkö ehdi kirjoittaa viestejäsi itse? [Talouselämä](https://www.talouselama.fi/uutiset/etko-ehdi-kirjoittaa-viestejasi-itse-startup-kehitti-tekoalylla-tekstia-luovan-tyokalun-ja-sai-tuekseen-sijoittajajoukon-mukana-enkeleita-slushista-ja-unitysta/3a910972-2b7a-4ac4-a5aa-a3a7b44ef8de): kirjoita sähköposteja AI:n avulla.
+  - [Conficientialmind](https://www.confidentialmind.com/): analysoi dokumentteja kielimallin avulla.
+  - [Silo AI Gen](https://www.silo.ai/blog/silo-ai-launches-silogen-a-world-class-generative-ai-team-for-europes-digital-sovereignty)
+  - [Ultimate](https://www.ultimate.ai/product-overview): AI Chat
+  - [MVision AI](https://www.mvision.ai/): Radiation Therapy
+  - [Valohai](https://valohai.com/product/): ML
+  - [Saidot](https://www.saidot.ai/): Kestävää ja läpinäkyvää AI:ta yrityksille.
+  - [Inven](https://www.inven.ai/resources#case-studies): sijoittajille AI ja dataa
+  - [Inscripta](https://inscripta.io/fi/): sanelut tekstiksi.
 
 ## Muut
 
