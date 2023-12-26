@@ -176,6 +176,10 @@ Later:
 
 # Lautapelit
 
+## Stiga bowling game
+
+A bowling game where you spin a gyro on a sloping field against the pins [Boardgamegeek](https://boardgamegeek.com/boardgame/173641/stiga-bowling), retrieved at 2023.
+
 ## Port Royal
 
 - [ohjeet suomeksi - YouTube](https://www.youtube.com/watch?v=OlzwX8iwboA): Vauhtia ja vaarallisia tilanteita, lähde mukaan Port Royal -peliin, veljet! Tää peli vie meidät Karibian satamakaupunkiin, joka kuhisee elämää ja vilkasta kaupankäyntiä. Nostetaan kortteja ja yritetään napata mahdollisimman paljon mainetta ja mammonaa! Ei kuitenkaan kannata olla liian rohkee, sillä liika riskinotto voi kostautua ja kaikki rahat voi menettää yhtenä päivänä. Tässä pelissä tarvitaan taitoa ja onnea, jotta voitaisiin kavuta ryysyistä rikkauksiin.
