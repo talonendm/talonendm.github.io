@@ -50,6 +50,11 @@ See a list of typical foods in [Wikipedia](https://en.wikipedia.org/wiki/Rijstta
 
 - The Hall of Mirrors (70 meters). It was in this room that the Treaty of Versailles was signed in 1919, formally endinf WWI. [TOP10 PARIS 2019 - Eyewitness Travel]
 
+## Bikes
+
+- Velib
+- Lime
+
 # Restaurants
 
 - The best seafood cuisine in the Clayes-sous-Bois region: [Leon](https://brasserie.restaurantleon.fr/fr/les-clayes-sous-bois)
