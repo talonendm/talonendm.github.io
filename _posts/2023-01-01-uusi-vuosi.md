@@ -40,6 +40,7 @@ Puhe katsottavissa kokonaisuudessaan [Areenassa](https://areena.yle.fi/1-6422813
 - [Täydellinen pako](https://www.hs.fi/kotimaa/art-2000009794072.html) [HS 30.9.2023](https://www.hs.fi/kotimaa/art-2000009886144.html)
 - Mies yllätti naapurinsa varkaissa asuintalon vintillä Töölössä ja sai tämän kimppuunsa [HS 2.10.2023](https://www.hs.fi/kaupunki/art-2000009889162.html): "MIES valitti tuomiosta hovioikeuteen. Miehen mukaan tuomio oli liian ankara. Helsingin hovioikeus oli samaa mieltä." Varkaudesta, petoksesta ja pieksemisestä pari viikkoa duunia.
 - Rikoksesta epäilty virkamies on reissannut kuin Yli-Viikari – [Iltalehti perkasi kuitit 17.12.2023](https://www.iltalehti.fi/politiikka/a/ed7bfd7c-239a-4a2c-be1a-ad2bd3a61306)
+- Yksityiset pysäköinninvalvonta­maksut eivät ole keksittyjä, [HS mielipide 15.4.2023](https://www.hs.fi/mielipide/art-2000009518861.html). Ruotsin malli, missä parkkisakosta vastaa yhteisvastuullisesti auton omistaja ja/tai ajaja.
 
 ### Yritykset
 
@@ -112,6 +113,10 @@ Puhe katsottavissa kokonaisuudessaan [Areenassa](https://areena.yle.fi/1-6422813
 ## Computer
 
 - HEVC: High-Efficiency Video Coding, more commonly called HEVC, is a specialized video compression standard. [howtogeek](https://www.howtogeek.com/680690/how-to-install-free-hevc-codecs-on-windows-10-for-h.265-video/)
+- "Kiina rajoittaa nuorten verkko­pelaamista, peli­osakkeet syöksyivät
+Kiinan viranomaisten uudet rajoitukset suitsivat etenkin verkkopeleihin käytettyä rahamäärää." [HS 26.12.2023](https://www.hs.fi/talous/art-2000010081192.html): "Kiinan viranomaisten ehdottamat uudet säännöt kieltäisivät alaikäisiä antamasta tippejä videopelien livestriimaajille. Lisäksi pelien valmistajia vaaditaan asettamaan rajoja sille, paljonko pelaajat voivat ladata rahaa peleissä käytettäville digitaalisille lompakoilleen."
+  - Kommenttien referaatti GPT Turbo3.5: "Tiktok on kiinalainen ohjelmisto, joka länsimaissa tarjoaa addiktoivan hömppäkanavan videopätkineen ja kyseenalaisine haasteineen, kun taas kiinalainen versio keskittyy lasten ja nuorten nettiajan rajoittamiseen, järkeviin haasteisiin ja opetuskäyttöön, herättäen epäilyksiä sen mahdollisesta roolista Kiinan maailmanherruustavoitteissa." 
+- [Pegasus](https://en.wikipedia.org/wiki/Pegasus_(spyware)), [NSO Group](https://en.wikipedia.org/wiki/NSO_Group), C64 longplay [youtube](https://www.youtube.com/watch?v=W5Ec9tb894s&t=243s) by [Cleveland M. Blakemore](https://www.lemon64.com/games/list.php?list_people=Cleveland%20M.%20Blakemore)
 
 ## AI
 
@@ -135,6 +140,9 @@ Puhe katsottavissa kokonaisuudessaan [Areenassa](https://areena.yle.fi/1-6422813
 - Ezviz studio requires restart ([download](https://support.ezviz.com/download))
 - [Toimittaja yrittää jäljittää Uros-kohuyhtiön salaperäistä perustajaa, IL 25.5.2023](https://www.is.fi/tv-ja-elokuvat/art-2000009575331.html)
 - "Iltalehden tietojen mukaan esimerkiksi jutussa koodinimellä "Porno-Köpi/Kyösti" mainittu henkilö on Tatarstanin tasavallan entinen kauppaedustaja Suomessa. Tatarstanilaisten medioiden mukaan mies aloitti työt Suomessa vuonna 2000." [IL 15.8.2023](https://www.iltalehti.fi/ulkomaat/a/10d7db11-932a-4e19-ac46-3b4a1dc7b1b7)
+- "Lieväasteinen uniapnea korjaantuu usein painoa pudottamalla - 
+Uniapnean hoidossa ei tule sivuuttaa painon pudotusta ja terveellisiä ruokatottumuksia." [HS mielipide 23.11.2023](https://www.hs.fi/mielipide/art-2000010006430.html)
+- Vihertyneet perunat on syytä jättää syömättä [HS mielipide 23.11.2023](https://www.hs.fi/mielipide/art-2000010006430.html): "Peruna tuottaa glykoalkaloideja (solaniinia ja kakoniinia) saadakseen vastustuskykyä tauteja ja tuholaisia vastaan ja erityisesti, kun peruna altistuu erilaisille stressitekijöille kasvukauden aikana." ja kommentti: "Suuri määrä perunoita voi mädäntyessään tuottaa vaarallista rikkikaasua umpinaiseen tilaan, kuten kellariin. Sama pätee mädäntyvään ihmisruumiseen."
 
 ![i.01.roof](/assets/pics/page/roof/ezviz.jpg){: .mx-auto.d-block :}
 
