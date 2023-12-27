@@ -1,9 +1,9 @@
-*---
+---
 layout: post
-title: Books
-subtitle: list of books
-cover-img: /assets/pics/cover/photo/deers2.JPG
-thumbnail-img: /assets/pics/thumbnail/drawing/mitaluet_helmiasioille_pastis.JPG
+title: Books - Notes
+subtitle: Notes and Stories
+cover-img: /assets/pics/cover/e1024/e-book-notes.jpg
+thumbnail-img: /assets/pics/thumbnail/e384-gen/e-pic-0006.jpg
 tags:
   - books
   - rakentaminen
@@ -12,7 +12,6 @@ tags:
 comments: false
 published: true
 ---
-
 
 # Kertoja
 
