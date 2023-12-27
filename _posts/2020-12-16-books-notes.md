@@ -31,6 +31,23 @@ Tällaista kerrontatapaa käytetään usein luomaan syvällisempää empatiaa he
 
 # Rakentaminen ja sopiminen
 
+## Pienurakoitsijan opas — kuluttajasopimukset ja käytäntö
+
+Saine, Marianne; Maso, Timo
+
+- [DOCS ta.dm notes](https://docs.google.com/document/d/1FIUxWayYz0QYnzo36oHr236XnbFdFcsGnT7JFzlnXBY/edit?usp=sharing)
+- Rakentamislaki ei ohjaa kestävyyteen - [mielipide DOCS private](https://docs.google.com/document/d/1nnPvoGLbCUb8BUKhknIRyimhevMmoElrAWhYVndhikc/edit?usp=sharing)
+
+"Pienurakoitsijan Opas — Kuluttajasopimukset ja Käytäntö" tarkastelee monipuolisesti rakennusprojekteihin liittyviä oikeudellisia näkökohtia. Teoksessa painotetaan erityisesti todistustaakan merkitystä kuluttaja-elinkeinonharjoittaja-riidoissa, joissa kuluttajan on kyettävä osoittamaan virheellisyys väitteensä tueksi. Aliurakoitsijoiden vastuukysymyksiä käsitellään erityisesti suurissa rakennus- tai korjausrakennustyössä, missä kuluttajalla on mahdollisuus neuvotella suoraan aliurakoitsijan kanssa mahdollisista työvirheistä. Vaikka vastuu ei siirry, pääurakoitsija kantaa vastuun aliurakoitsijan työn laadusta.
+
+Yrittäjän virhevastuuaika on tärkeä käsite, ja oppaassa tuodaan esille tilanne, jossa virhevastuu voi ulottua takuuajan yli. Esimerkiksi kylpyhuoneen vesikalusteiden asennuksessa vuonna 2005 paljastunut virhe johti kosteusvahinkoon noin kaksi ja puoli vuotta myöhemmin. Kuluttajalla oli oikeus vaatia virheen korjausta, vaikka takuu oli jo umpeutunut. Takuu kääntää todistustaakan, mikä helpottaa kuluttajaa esittämään vaatimuksia virheellisestä työstä.
+
+Rakennusmääräykset ja -ohjeet, erityisesti Suomen rakentamismääräyskokoelma (RakMk), toimivat oppaan mukaan standardina rakennusprojektien toteutukselle. Määräykset ovat velvoittavia, kun taas erilaiset rakentamisen ohjeet eivät sido, antaen joustavuutta projektin toteutukselle.
+
+Rakennusvalvonta on keskeinen osa onnistunutta projektia, ja kuluttajalla on vastuu siitä, että rakennus suunnitellaan ja rakennetaan määräysten mukaisesti. Ammattilaiset, kuten suunnittelijat, työnjohtajat ja rakennusalan yrittäjät, vastaavat oman työnsä asianmukaisuudesta, mutta kuluttajan tehtävänä on varmistaa, että työ tehdään rakennusluvan mukaisesti.
+
+Opas tarjoaa kattavan näkemyksen rakennusprojekteihin liittyvistä vastuukysymyksistä ja oikeudellisista periaatteista, tarjoten arvokasta tietoa niin kuluttajille kuin rakennusalan ammattilaisille.
+
 ## YRITYSTEN SOPIMUS- JA VASTUUKETJUT: SOPIMUSTEN HALLINTA KÄYTÄNNÖSSÄ
 
 - "Haapio Helena & Järvinen Marjaana: Yritysten sopimus- ja vastuuketjut - Sopimusten hallinta käytännössä. Teos opastaa tarjous- ja sopimussuunnitteluun ja sopimusten hallintaan sekä valaisee sopimusten mahdollisuuksia ja uhkia projektien laite- ja komponenttitoimituksissa." [lukuhetki](https://www.lukuhetki.fi/yritysten-sopimus-ja-vastuuketjut-sopimusten-hallinta-kaytannossa/53527) 
