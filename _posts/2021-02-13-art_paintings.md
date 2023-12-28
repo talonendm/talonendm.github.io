@@ -8,10 +8,12 @@ tags:
   - links
   - painting
   - art
+  - provenienssi
 comments: false
 published: true
 ---
 
+Kuvataiteessa [provenienssi](https://fi.wikipedia.org/wiki/Provenienssi) on taideteoksen lähtökohta, vaiheet sekä sen omistaja- ja sijoitustiedot. Listaus teoksista: [private ta.dm](https://docs.google.com/spreadsheets/d/1bLWWyQzVohHcNF3eup6pxHSoZWGGcxxsxsuzhRVcxyg/edit?usp=sharing)
 
 # 2023
 
