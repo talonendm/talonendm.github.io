@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Uusi vuosi 2023
-subtitle: uudenvuodenpuhe
+subtitle: uudenvuodenpuhe ja linkkejä
 tags:
-  - uusi vuosi 2023
+  - uusi vuosi
   - suomi
   - luottamus
   - links

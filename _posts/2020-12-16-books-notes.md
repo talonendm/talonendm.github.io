@@ -30,6 +30,44 @@ Tällaista kerrontatapaa käytetään usein luomaan syvällisempää empatiaa he
 
 # Rakentaminen ja sopiminen
 
+## YMPÄRISTÖOPAS 2016 - Rakennuksen kosteus- ja sisäilmatekninen kuntotutkimus Toim. Miia Pitkäranta
+
+- [PDF](https://julkaisut.valtioneuvosto.fi/bitstream/handle/10024/75517/YO_2016_Kuntotutkimusopas.pdf), [valtioneuvosto](https://julkaisut.valtioneuvosto.fi/handle/10024/75517)
+- "Onko aluskate
+asennettu oikein kattokannattajien väliin; ei
+liian tiukalla eikä liian löysällä? Onko aluskatteen ja vesikatteen välissä tuuletusväli?" [s.43]
+- "Katteen jäähtyessä ulkoilmaa kylmemmäksi kosteus voi tiivistyä katteen ylä- tai alapintaan. Katteen alapintaan tiivistynyt kosteus voi valua alapuolisiin rakenteisiin.
+Muun muassa tämän ehkäisemiseksi tuuletettuun kattorakenteeseen asennetaan yleensä aluskate." [s.125] !!!!!!!!!!!!
+- "Lisäksi epäjatkuvia katteita, kuten tiilikatetta. Epäjatkuvien katteiden kanssa rakenteen vedeneristys
+edellyttää epäjatkuvan katteen alapuolelle asennettua aluskatetta. Aluskate voi sitoa kosteutta, rajoittaa yläpohjan tuuletustilasta vesikaton alapinnalle siirtyvän kosteuden määrää ja johtaa pellin alapinnalle tiivistyneen kosteuden ja vesikatteen saumoista aluskatteelle tulleen veden ulos. Aluskatteen vesitiiveys koko katon alueella mukaan lukien läpiviennit ja ylösnostot on keskeistä jyrkän kattorakenteen toiminnalle. Aluskate tuulettuu yläpuolelta ja yleensä myös alapuoleltaan" [s.177]
+- "Aluskatteen päällä valuvan veden tulee poistua hallitusti ulos rakenteesta (ks. myös kuva 7.71)." [s.177]
+- "Vesikatoilla yleisin rakenteiden vaurioriski syntyy katevuodoista. Vesikatteen läpivientien, kuten kattokaivojen, savupiippujen, ilmanvaihtokanavien
+ja kattoikkunoiden, liitokset ja saumat voivat olla epätiiviitä (kuvat 7.60 ja 7.61). Tuulisella säällä sadevesi voi kulkeutua vesikatteen päällä myös ylöspäin ja tunkeutua mm. ylösnostojen epätiiviyskohtien kautta rakenteisiin." [s.178]
+- " Jos aluskate puuttuu tai se on puutteellisesti toteutettu, tulee arvioida onko tästä aiheutunut
+vaurioita rakenteille. Jos vesikaton läpivientejä ei ole tiivistetty huolellisesti, aluskatteen päällä
+virtaava vesi valuu läpiviennin vierestä ullakolle (kuva 7.70). Katteen kiinnityksessä käytetyt naulat
+ja ruuvit lävistävät usein aluskatteen. Aluskatteen ulottuma tulisi olla vähintään ulkoseinälinjan ulkopuolelle (kuva 7.71). Muuten aluskatteen päällä valuva vesi voi ohjautua haitallisesti rakenteisiin." [s.182]
+- [pdf slides](https://www.hel.fi/static/rakvv/tilaisuudet/2020/weijo.pdf)
+  - link to 2019 v: "[Kosteus- ja mikrobivaurioituneiden rakennusten korjaus](https://julkaisut.valtioneuvosto.fi/bitstream/handle/10024/161855/YM_2019_18_211019.pdf?sequence=4&isAllowed=y) Weijo, Inari; Lahdensivu, Jukka; Turunen, Timo; Ahola, Susanna; Sistonen, Esko; Vornanen-Winqvist, Camilla; Annila, Petri (2019-10)"
+    - "Aluskatteen puuttuminen voi katteen alapintaan tiivistyvän kosteuden seurauksena johtaa kosteus- ja mikrobivaurioitumiseen" [s.48]
+    - "Katteen sadevesitiiviys voi perustua varsinaiseen katemateriaaliin, sen alla olevaan aluskatteeseen tai näiden kahden materiaalikerroksen yhdistelmään.
+Aluskatteen asennus tulee toteuttaa tiiviisti. Tämä varmistetaan limittämällä aluskatteen jatkokset ja
+saumat, käyttämällä läpivientitiivisteitä aluskatteen kohdalla, huolehtimalla aluskatteen riittävästä kiinnityksestä sekä jatkamalla aluskate ulkoseinän ulkopinnan ylitse (vähintään 250 mm), jotta aluskate ei johda vettä ulkoseinärakenteen sisälle." [s.49]
+      - huom! "huolehtimalla aluskatteen riittävästä kiinnityksestä" i.e. käytä tuuletusrimaa!
+    - "Ullakolla ja tuuletusvälissä olevassa ilmassa oleva kosteus voi ajoittain tiivistyä esimerkiksi vesikattorakenteen alapintaan. Riittävän tuuletusvälin sekä diffuusioavoimen aluskatteen avulla voidaan vähentää kosteuden tiivistymisen ja siitä seuraavien riskien esiintymistä ja haittavaikutuksia." [s.49]
+- "aluskatteen kunnon ja kiinnityksen tarkastaminen vuosittain suoritettavan vesikattotarkastuksen yhteydessä" [s.83]
+
+### Kosteus- ja homevaurioituneen rakennuksen kuntotutkimus - Martti Viljanen
+
+- 3.1.24 kirjasto [private ta.dm notes](https://drive.google.com/file/d/1_Hu7EHeq5lnILJxhw4e_elKULzvJIzIL/view?usp=drive_link)
+- [Kosteus- ja homevaurioituneen rakennuksen kuntotutkimus Martti Viljanen](https://www.finlandiakirja.fi/fi/kosteus-ja-homevaurioituneen-rakennuksen-kuntotutkimus-1433288)
+- "Korjauksen keskeinen tavoite on poistaa vaurion syyt ja korjata vaurio siten, että siitä ei ole jatkossa haittaa ihmisille eikä rakenteille." [s.7]
+  - The main goal of the repair is to remove the causes of the damage and fix the damage so that it does not cause harm to people or structures in the future." [Copilot with Bing Chat]
+- "Home on aina kosteusvaurion seuraus. Home vaurio edellyttää aina, että rakenteen tai ilman kosteus on tavanomaista korkeampi." [s.10]
+  - Mold is always the result of moisture damage. Mold damage always requires that the humidity of the structure or air is higher than normal
+
+
+
 ## Pienurakoitsijan opas — kuluttajasopimukset ja käytäntö
 
 Saine, Marianne; Maso, Timo
