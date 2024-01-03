@@ -9,6 +9,7 @@ tags:
   - Diplomacy
   - kesäjuhla
   - Kirkkonummi
+  - Rummikub
 comments: false
 cover-img: /assets/pics/cover/ai/tractor.jpg
 thumbnail-img: /assets/pics/thumbnail/ai/summerfest.jpg
@@ -175,6 +176,10 @@ Later:
 - katapultti, ammunta ämpäriin 1 / tyyppi tiimit 3hlö
 
 # Lautapelit
+
+## Rummikub
+
+- tilastot 2024: [ta.dm](https://docs.google.com/spreadsheets/d/1M2r3mqUYRlVPESle_V68AXjObEo5JGNpk2HFmDouHCQ/edit?usp=sharing)
 
 ## Stiga bowling game
 
