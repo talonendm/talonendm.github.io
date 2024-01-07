@@ -49,6 +49,19 @@ Puhe katsottavissa kokonaisuudessaan [Areenassa](https://areena.yle.fi/1-6731009
 
 ## AI
 
+## Restaurants top 10 year -2023
+
+1. [Spis](https://spis.fi/etusivu/)
+2. [Sandro](https://www.sandro.fi/en/sandro-english/)
+3. [Plein](https://www.plein.fi/)
+4. [Hoku](https://www.hoku.fi/)
+5. [Tokyo 55](http://tokyo55.fi/)
+6. [Wino](https://www.wino.fi/)
+7. [Ventuno](https://www.tomibjorck.fi/restaurants-projects/ventuno)
+8. [Mure](https://gastrogrillmure.fi/)
+9. [Baskeri & Basso](https://basbas.fi/) ja [Bistro](https://basbas.fi/kulma/)
+10. [Grön](https://www.restaurantgron.com/)
+
 ## Muut
 
 ---
