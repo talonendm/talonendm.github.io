@@ -66,7 +66,7 @@ Puhe katsottavissa kokonaisuudessaan [Areenassa](https://areena.yle.fi/1-6422813
   - "Nautin suunnattomasti, kun voin tarvittaessa kaivaa esiin juuri oikeanlaisen rautalanganpätkän" - lukija
   - t-paidat: laatuluokka 1-5
   - Lapualainen P. Hemminki: "Jos McDonald'sin roskiksesta kaivaa kuitteja, niiden koodeilla pääsee ilmaiseksi vessaan." [HS B6]
-  - 
+  - SSAB aiheuttaa 7 prosenttia päästöistä vuonna 2021. [Talouselämä 39/2023, s.27 [ESG-sijoittaminen](https://greencarbon.fi/harkaa-sarvista-vastuullinen-sijoittaminen-ohjaa-rahavirrat-kohti-vihreaa/)]
 
 #### Kestävä kehitys
 
@@ -108,7 +108,7 @@ Puhe katsottavissa kokonaisuudessaan [Areenassa](https://areena.yle.fi/1-6422813
   - Jussi Sarvikivi: "perusteltuja vaatimuksia voidaan jättää viemättä käräjille esimerkiksi sen pelossa, että vastapuolella on liian iso toimija, jolla on käytettävissä riitelyyn enemmän resursseja kuin yksityishenkilöllä." -- Oletettavasti eräät isot urakoitsijat toimivat juuri tällä periaatteella, ks. myös [RL](https://www.rakennuslehti.fi/2016/06/nain-suomi-homehtui-hyva-rakentamistapa-sai-aikaan-pahaa-jalkea/), ja "Tällainen voi olla vaikkapa rakennusliike, autoliike, perintätoimisto tai pikavippiyhtiö." [HS](https://www.hs.fi/kotimaa/art-2000009389445.html)
   - Artikkelissa keskustellaan mahdollisesta kevennetystä oikeudenkäynnistä, jossa kulujen kasvua voitaisiin hillitä.
 - "Maria Nordin ei halua luovuttaa kissaansa valtiolle" [HS 25.11.2023](https://www.hs.fi/kaupunki/helsinki/art-2000010014031.html): "Koira oli purrut Nordinin kanaa, jonka vuoksi kanalle oli tullut syvä haava. Sen lisäksi Nordinin kissa oli tullut kyyn puremaksi, ja kissa oli saanut myrkytysoireita pureman seurauksena."
-
+- [Asuntokaupan kuntotarkastajien pätevyys vihdoin lakiin](https://www.hs.fi/mielipide/art-2000009896913.html) [HS 5.10.23]: Ympäristöministeriön kosteus- ja hometalkoot -ohjelmassa tästä keskusteltiin. Mielipiteessä väitetään, ettö pätevyyden lakisääteisyys lisäisi luottamusta. Lisäksi vältyttäisiin turhilta oikeuskäsittelyiltä. [Fise AKK], [AMK RKL ry], [KVKL ry] 
 
 ## Computer
 

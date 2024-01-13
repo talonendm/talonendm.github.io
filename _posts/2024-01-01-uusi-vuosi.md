@@ -44,6 +44,7 @@ Puhe katsottavissa kokonaisuudessaan [Areenassa](https://areena.yle.fi/1-6731009
 ### Ympäristö
 
 - [Reitit HEL](https://www.hel.fi/fi/kulttuuri-ja-vapaa-aika/ulkoilu-puistot-ja-luontokohteet/retkeily/ulkoilureitit-ja-luontopolut#rantareitit--pyorareitit-ja-ulkoilutiet)
+- [Norja avaa portin syvänmeren kaivos­toiminnalle, ympäristö­järjestöt huolissaan](https://www.hs.fi/ulkomaat/art-2000010109249.html) [HS 10.1.2024]: "280 000 neliökilometrin ala"
 
 #### Kestävä kehitys
 
@@ -62,7 +63,10 @@ Puhe katsottavissa kokonaisuudessaan [Areenassa](https://areena.yle.fi/1-6731009
 9. [Baskeri & Basso](https://basbas.fi/) ja [Bistro](https://basbas.fi/kulma/)
 10. [Grön](https://www.restaurantgron.com/)
 
-## Muut
+### Muut
+
+- [Karppi](https://ravintolakarppi.fi/): punavuori
+- Oh la la! [Pastis](https://pastis.fi/): "Pikkuroban ranskalais­ravintola tarjosi neljän tähden elämyksen: Jälkiruoka sai erityiset kehut" [HS 13.4.2023](https://www.hs.fi/ruoka/art-2000009487683.html)
 
 ---
 

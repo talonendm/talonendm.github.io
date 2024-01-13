@@ -33,6 +33,12 @@ Fig) Settings for 3mm plywood.
 - later
 - p5-box scale parameter: s = 2.83474164873, coefficent. 1mm, e.g. 283px corresponds 100mm in reality.
 
+## Materials
+
+- Aaltopahvi
+  - 15 speed
+  - 100 power
+  - 50 freq (low freq typically better for wood, and 100 freq for plastic)
 
 # Reality
 
