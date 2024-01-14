@@ -49,6 +49,8 @@ See a list of typical foods in [Wikipedia](https://en.wikipedia.org/wiki/Rijstta
 # Versailles
 
 - The Hall of Mirrors (70 meters). It was in this room that the Treaty of Versailles was signed in 1919, formally endinf WWI. [TOP10 PARIS 2019 - Eyewitness Travel]
+- Pari päivää ennen [tätä](https://www.iltalehti.fi/ulkomaat/a/9f587a99-9bec-4e05-80dc-f48b5342bd35): "Pariisin liepeillä sijaitsevaan Versailles’n palatsiin on kohdistunut pommiuhkaus, kertovat uutistoimisto AFP:n poliisilähteet. Palatsia evakuoidaan ja se suljetaan loppupäiväksi."
+- Aurinkokuninkaan peräaukon historiallisesta merkityksestä tiedeluento yliopistolla [mtv-uutiset  11.10.2016](https://www.mtvuutiset.fi/artikkeli/aurinkokuninkaan-peraaukon-historiallisesta-merkityksesta-tiedeluento-yliopistolla-eikohan-sali-tule-tayteen/6113458#gs.3mrh1c): "Mutta miten kirurgia sitten mullistui Aurinkokuninkaan peräaukkoleikkauksesta?"
 
 ## Bikes
 

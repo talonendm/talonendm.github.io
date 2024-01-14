@@ -19,6 +19,16 @@ Taide voi tarjota luovan ja visuaalisen tavan näyttää virheet, herättää ke
 
 Plans: [private.dm](https://docs.google.com/document/d/11QDgrZXnxAqjNhxyRreWnYKccyJrAIO0YAkfdfurJTU/edit?usp=sharing)
 
+# Asunnon käyttötarkoitus
+
+"Peruste hallintaanotolle on, jos asuntoa käytetään yhtiöjärjestykseen kirjatun käyttötarkoituksen vastaisesti, Sariola sanoo.", "Hänen mukaansa ratkaisevaa on huoneiston pääasiallinen käyttötarkoitus." [kotitalolehti](https://www.kotitalolehti.fi/kotona-tyoskentely-missa-menee-raja/) "Asunto-osakeyhtiössäkin voi tehdä töitä. Liike-toiminta ei saa aiheuttaa lisäkuluja tai häiriöitä." [kaleva](https://www.kaleva.fi/voiko-taloyhtio-estaa-liiketoiminnan-asunnossa/1722496#kommentit)
+
+Art gallery can be started whenever you feel like it. When it comes to museums, it's a bit trickier; there is also an international museum association that has its definition: "A museum is a permanent, non-profit institution serving society and its development, open to the public and conducting research, education, and enjoyment, which acquires, conserves, researches, communicates, and exhibits tangible and intangible evidence of people and their environment."
+
+- [Väyrynen Tanja, Thesis](https://www.theseus.fi/bitstream/handle/10024/91704/V%C3%A4yrynen_Tanja.pdf?sequence=2&isAllowed=y)
+- [museovirasto](https://www.museovirasto.fi/uploads/Museoalan_kehittaminen/opas-paikallismuseon-hoitamiseen.pdf)
+
+
 # Links
 
 - Suomen Taiteilijaseura - [Taiteellisen toiminnan organisointi](https://www.artists.fi/fi/taiteellisen-toiminnan-organisointi)
