@@ -54,12 +54,15 @@ talonen.dm: files:
 
 # Tips
 
+- [Viiden tähden riesling ja veriappelsiinirisotto](https://viinilehti.fi/viini/viinivinkki/2024-1/): "Corvers Kauter R3 Riesling Reserve Organic 2022"
 - [Fin Carré Milk Chocolate with Salty Liquorice](https://anna.fi/ruoka/ruokajutut/salmiakkisuklaat-makutestissa-voittajasuklaa-sai-useammalta-taydet-pisteet-tassa-ruutia) 
 - Bikarbonat - ruokasoodaa paistettuun sipuliin. (baking soda)
 - Blinit: anna taikinan tekeytyä pidempään kuin 4 tuntia. Käytä reilusti voita. Valkuaisvaahto lopuksi, tee se erittäin varovaisesti, muuten taikina saattaa lässähtää. Katso esim. [HS](https://www.hs.fi/ruoka/art-2000009347173.html). Blineille viini: [La Nantaise](https://viinilehti.fi/viinit/la-nantaise-muscadet-sevre-et-maine-2020/)
 
 
 # Food Art
+
+
 
 
 ## Mämmi

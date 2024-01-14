@@ -33,6 +33,15 @@ Puhe katsottavissa kokonaisuudessaan [Areenassa](https://areena.yle.fi/1-6731009
 - "Yksi puhelu 150 euroa – Näin tavallinen suomalainen voi saada niskaansa jättilaskun" [HS 29.12.2023](https://www.hs.fi/kotimaa/art-2000009755862.html): "TALOKAUPPARIIDAN oikeudenkäyntikulut paisuvat helposti kymmeniintuhansiin tai joskus jopa yli sataantuhanteen euroon." ja "Molemmat oikeusasteet määräsivät myyjän korvaamaan ostajille virheen vuoksi 10 000 euroa hinnanalennusta. Osapuolet joutuivat maksamaan itse omat oikeudenkäyntikulunsa. Ostajien asianajokulut olivat käräjä- ja hovioikeudesta yhteensä vajaat 33 000 euroa. Myyjällä niitä kertyi kaikkiaan lähes 45 000 euroa. Kummallekin osapuolelle olisi siis tullut halvemmaksi sopia korvauksista ilman käräjöintiä."
 - "Keravan kaupunki osti Matti Vestmanin yhtiöltä palveluja ja keppejä kymmenillä tuhansilla jo vuonna 2019 ilman kilpailutusta. Kaikkiaan Kerava on maksanut Vestmanin yhtiöille yli 200 000 euroa viime vuosina." [IL 21.12.2024](https://www.iltalehti.fi/talous/a/b0f434ca-8b8f-43c7-8228-f1bc23940ca8)
 - "Rikoksesta epäilty virkamies on reissannut kuin Yli-Viikari – Iltalehti perkasi kuitit Elintarvikemarkkinavaltuutettu Olli Wikbergistä tehdyn rikosilmoituksen taustalla näyttää olevan pitkään jatkunut piittaamattomuus valtion matkustus- ja hankintasäännöistä." [IL 17.12.2023](https://www.iltalehti.fi/politiikka/a/ed7bfd7c-239a-4a2c-be1a-ad2bd3a61306)
+- "Palkittu tamperelaisfirma suunnitteli lempääläläiseen metsään uraauurtavaa ekotaloa – Sitten paljastuivat 3,8 miljoonan petokset" [Aamulehti 12.1.2024](https://www.aamulehti.fi/rikos/art-2000010115047.html)
+- "Näin vaimonsa murhasta syytetty psykiatri vastasi poliisille, kun ruumis löytyi": "no niin" [iltalehti](https://www.iltalehti.fi/kotimaa/a/022f7013-7798-4147-87b9-d080c2ce9e4e)
+- "Sarjasyömäri joutuu vankilaan" [IL 4.12.2023](https://www.is.fi/kotimaa/art-2000010024402.html): "Mies on harrastanut ravintolapetoksia jo 1990-luvulta lähtien."
+- "Audi-kuski törmäsi hurjalla vauhdilla mopoautoon" [HS 18.9.2023](https://www.hs.fi/kotimaa/art-2000009862132.html) .. todennäköisyystuomio?
+
+### KKV
+
+- KKV: Gigantti on toiminut lainvastaisesti ja luonut harhaanjohtavia mielikuvia asiakkaille virhetilanteissa - [Tekniikan Maailma](https://tekniikanmaailma.fi/kkv-gigantti-on-toiminut-lainvastaisesti-ja-luonut-harhaanjohtavia-mielikuvia-asiakkaille-virhetilanteissa/): "Ku­lut­ta­jal­le on an­net­ta­va oi­keat tie­dot hä­nen oi­keuk­sis­taan ja vel­vol­li­suuk­sis­taan. Vir­hees­tä rekla­moi­taes­sa ti­lan­teen hoi­ta­mi­nen ei saa pit­kit­tyä. Ku­lut­ta­jaa ei saa oh­ja­ta au­to­maat­ti­ses­ti toi­sen yri­tyk­sen puo­leen, vaan hä­nen pi­tää voi­da luot­taa sii­hen, että myy­jä so­pi­ja­kump­pa­ni­na vas­taa aina vii­me kä­des­sä vir­hees­tä ja sen sel­vit­tä­mi­ses­tä", sanoo Kuluttaja-asiamies Katri Väänänen tiedotteessa.
+- Arvoasuntojen omistajat yrittivät siirtää vastikkeitaan toisille osakkaille - Taloussanomat - [Ilta-Sanomat](https://www.is.fi/taloussanomat/art-2000010112854.html): "KAHDELLE osakkaalle tulee oikeusjutuista noin 90 000 euron yhteiset kulut. Oikeudenkäyntikuluilla seinänaapurit olisivat maksaneet lähes 15 vuoden ajan asuntojensa vastikkeet – nyt rahat menevät lakimiesten palveluihin."
 
 ## Energia
 
@@ -48,7 +57,14 @@ Puhe katsottavissa kokonaisuudessaan [Areenassa](https://areena.yle.fi/1-6731009
 
 #### Kestävä kehitys
 
+#### Rakentaminen
+
+- "Aluehallintoviraston tarkastaja toteaa, että puutteita esiintyy melkein poikkeuksetta jokaisessa yrityksessä." [YLE 11.2.2016](https://yle.fi/a/3-8663051)
+
 ## AI
+
+- Teosto allekirjoittanut vastuullisen tekoälyn periaatteet [ePressi 23.10.2023](https://www.epressi.com/tiedotteet/musiikki-ja-viihde/teosto-allekirjoittanut-vastuullisen-tekoalyn-periaatteet-puolustamme-inhimillisen-luovuuden-ja-taiteen-asemaa.html)
+  - "TEKOÄLY TUKEE IHMISTEN LUOVUUTTA JA ITSEILMAISUA"
 
 ## Restaurants top 10 year -2023
 
@@ -67,6 +83,16 @@ Puhe katsottavissa kokonaisuudessaan [Areenassa](https://areena.yle.fi/1-6731009
 
 - [Karppi](https://ravintolakarppi.fi/): punavuori
 - Oh la la! [Pastis](https://pastis.fi/): "Pikkuroban ranskalais­ravintola tarjosi neljän tähden elämyksen: Jälkiruoka sai erityiset kehut" [HS 13.4.2023](https://www.hs.fi/ruoka/art-2000009487683.html)
+
+### Links
+
+- [palvelukartta](https://palvelukartta.hel.fi/fi/)
+- [Rakennetun ympäristön tietojärjestelmä](https://ryhti.syke.fi/)
+
+### Taxi Stadis
+
+- 1.9€/km, 1.5€/min. Kallis
+- 1,20 €/km + 1,20 €/min, Taksi Helsinki
 
 ---
 
