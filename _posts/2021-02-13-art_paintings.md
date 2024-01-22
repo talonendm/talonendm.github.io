@@ -15,6 +15,8 @@ published: true
 
 Kuvataiteessa [provenienssi](https://fi.wikipedia.org/wiki/Provenienssi) on taideteoksen lähtökohta, vaiheet sekä sen omistaja- ja sijoitustiedot. Listaus teoksista: [private ta.dm](https://docs.google.com/spreadsheets/d/1bLWWyQzVohHcNF3eup6pxHSoZWGGcxxsxsuzhRVcxyg/edit?usp=sharing)
 
+- Tpl'a (ransk. tirée par l'artiste) tarkoittaa, että grafiikanlehti on taiteilijan itsensä vedostama. Se kirjoitetaan yleensä vasempaan alareunaan vedosnumeron jommallekummalle puolelle. [wikipedia](https://fi.wikipedia.org/wiki/Taidegrafiikka)
+
 # 2023
 
 ## Erkki Pirtola

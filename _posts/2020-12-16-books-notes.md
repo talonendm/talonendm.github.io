@@ -28,10 +28,108 @@ Tällaista kerrontatapaa käytetään usein luomaan syvällisempää empatiaa he
 - [Roof 2020](https://docs.google.com/document/d/1LMxk_AfMsTNV3UZlrBWoFu_LfzdhI0JBWncK-Ys7gEY/edit?usp=sharing)
   - EasyHang Level Board: Aluskateapuri
 
+
+# Vesikatto
+
+Rakennusalalla, erityisesti pientalojen vesikattorakenteissa tapahtuu sekä ympäristöministeriön asettamien määräysten että ohjeistuksien laiminlyöntejä. 
+
+
+## Korjausrakentaminen, Jormalainen Pentti
+
+1999, 2. uudistettu painos. [Finna](https://www.finna.fi/Record/oy.996434383906252), [comments](https://www.finna.fi/Record/oy.996434383906252#usercomments): "Teos melko vanha, mutta kirja tarjoaa ihan hyödyllistä tietoa. Väärin suunnitellun tai huonosti hoidetun katon aiheuttamat vauriot voivat johtaa merkittäviin kustannuksiin. Aluskate ei saa olla tiukasti ruoteita vasten, vaan sen on oltava 20-30 mm "riippuvassa" asennossa. Aluskatteen saumat limitetään siten, että vesi ohjautuu räystäälle tai kouruihin. Huomaa, että vielä 2020-luvulla eräät rakennusalalla toimivat aluskate- ja muotokatevalmistajat ohjeistavat, että aluskatteen voi asentaa kireälle ilman roikkumaa. Veden ohjautuminen aluskatteella ei tällöin ole rakennusmääräysten mukaista."
+
+Väärin suunnitellun tai huonosti hoidetun katon aiheuttamat vauriot voivat johtaa merkittäviin kustannuksiin. Aluskate ei saa olla tiukasti ruoteita vasten, vaan sen on oltava 20-30 mm "riippuvassa" asennossa. Aluskatteen saumat limitetään siten, että vesi ohjautuu räystäälle tai kouruihin. [s.70]
+
+APA-viite
+Jormalainen, P., & Matilainen, A. (1999). Korjausrakentaminen (2. uud. p.). Rakennusalan kustantajat : Kustantajat Sarmala.
+
+Chicago-tyylinen lähdeviittaus
+Jormalainen, Pentti, ja Ari Matilainen. Korjausrakentaminen. 2. uud. p. Helsinki: Rakennusalan kustantajat : Kustantajat Sarmala, 1999.
+
+MLA-viite
+Jormalainen, Pentti, ja Ari Matilainen. Korjausrakentaminen. 2. uud. p. Rakennusalan kustantajat : Kustantajat Sarmala, 1999.
+
+Harvard-tyylinen lähdeviittaus
+Jormalainen, P. & Matilainen, A. 1999. Korjausrakentaminen. 2. uud. p. Helsinki: Rakennusalan kustantajat : Kustantajat Sarmala.
+
+
+
+## TALONRAKENTAJAN KÄSIKIRJA 4 - PIENTALON VESIKATTOJA ULKOVERHOUSTYÖT
+
+- Rakentajan tietokirjat [2010] 4. uud. p.: "Kirja soveltuu monin osin myös pientalon vesikaton ja ulkoverhouksen korjaamisen opaskirjaksi.", "Kirja on tarkoitettu omatoimisen rakentamisen ja rakennuttamisen opastukseen sekä ammatilliseen perusopetukseen." [Finna](https://www.finna.fi/Record/blanka.5600)
+
+Comments: "Kirjassa on arvokasta tietoa pientalon omistajille. Aluskate on vesikatteen alapuolinen ainekerros, jonka tehtävänä on estää veden, lumen ja kondenssiveden pääsy yläpohjaan katteen saumojen kautta. Kun vesi tai lumi pääsee varsinaisen katteen alle, aluskate ohjaa sen ulkoseinälinjan ulkopuolelle. Tämä varmistetaan jättämällä aluskate hieman löysälle ja käyttämällä tuuletus- eli korotusrimoja. Huomioitavaa: joissakin ohjeissa esitetään kirjan suosituksista poikkeavaa näkemystä, väittäen, että aluskate voidaan asentaa sekä kireälle että ilman tuuletusrimoja. Tämä voi kuitenkin johtaa siihen, että vesi ei ohjaudu määräysten ja suositusten mukaisesti."
+
+**Aluskate:**
+Aluskate on osa vesikatteen alusrakennetta, ja sen tarkoituksena on suojata rakennuksen alapuolisia rakenteita kondenssivedeltä. Aluskate asennetaan usein teräsmuotolevykatteille, teräspoimulevykatteille sekä betoni- ja kuitusementtilevykatteille. Aluskate varmistaa myös sen, että vesikatto pystyy pitämään koko rakennuksen ja sen vaipparakenteen suojassa sateelta.
+
+**Vaatimukset vesikatolle:**
+Vesikaton on oltava tiivis kaikissa olosuhteissa. Se tulee suojata rakennusta suoralta sateelta, tuulen voimalta ja mahdollisesti poikkeavilta vesisuihkuilta. Vesikaton tulisi olla joko jatkuva (vesitiivis vedenpaineen alaisena) tai epäjatkuva (esimerkiksi tiili- tai peltikate). 
+
+Viivästyneen havainnoinnin seurauksena ongelmien korjaaminen voi vaatia suurempia toimenpiteitä, kuten kantavien rakenteiden uusimista. Siksi aktiivinen huolto ja ajoissa tehdyt korjaukset voivat pidentää katon käyttöikää ja säilyttää sen tehokkaan suojan rakennuksen sisätiloille. [s.6-7]
+
+Aluskate on vesikatteen alapuolinen ainekerros, jonka tehtävänä on estää veden, lumen ja kondenssiveden pääsy yläpohjaan katteen saumojen tai reunojen kautta. Kun vesi tai lumi pääsee varsinaisen katteen alle, **aluskate ohjaa veden ulkoseinälinjan ulkopuolelle**. Yleensä kun viitataan aluskatteisiin, tarkoitetaan vapaasti asennettaviin aluskatteisiin.
+
+Aluskate on keskeinen osa katerakenteen (ja vesikaton)vedenpitävyyden varmistamisessa. Erityisesti haastavissa sääolosuhteissa, kuten tuulisella sadesäällä tai keväällä sulavan kattolumen aikana, saattaa vettä päästä katteen saumoista ja liitoksista. Lisäksi tietyissä olosuhteissa yläpohjasta tuleva vesihöyry voi tiivistyä vedeksi koskettaessaan kylmää vesikatteen alapintaa. Aluskate ottaa vastaan kondenssiveden ja ohjaa sen räystäälle ja ulkoseinälinjan ulkopuolelle.
+
+Aluskatteen on kyettävä kestämään toistuvaa kosketusta veden kanssa, mukaan lukien veden jäätymistä. Tämä varmistaa, että aluskate säilyttää tehokkuutensa erilaisissa sääolosuhteissa ja pitkällä aikavälillä. Aluskate on näin ollen tärkeä tekijä katteen ja rakennuksen yläpohjan suojaamisessa kosteudelta. [s.11]
+
+Aluskatteen kiinnitys: Käytetään nitojaa tai isokantaista naulaa. Aluskatteen päälle kiinnitetään rima ja sen avulla aluskate kiinnitetään rakenteiseiin. Rimat toimivat ruoderimoituksen alustana. 
+
+Ruoteet tehdään sahatavarasta, jonka mitat määräytyvät katteen painosta, kattotuolien välisestä mitasta ja ruoteiden välisestä mitasta.
+Puutavaran mitat suositellaan tarkistettavaksi katteen valmistajan asennusohjeista.
+Alusrima (esimerkiksi 22x50) suositellaan kiinnitettäväksi jokaiseen kattotuoliin ruoteiden alle aluskatteen päälle. Alusrima toimii nostajana, pitäen ruoteet irti aluskatteesta. [s.12-14]
+
+
+APA-viite
+(2010). Talonrakentajan käsikirja. 4: Pientalon vesikatto- ja ulkoverhoustyöt (4. uudistettu painos.). Rakentajan tietokirjat.
+
+Chicago-tyylinen lähdeviittaus
+Talonrakentajan Käsikirja. 4: Pientalon Vesikatto- Ja Ulkoverhoustyöt. 4. uudistettu painos. [Espoo]: Rakentajan tietokirjat, 2010.
+
+MLA-viite
+Talonrakentajan Käsikirja. 4: Pientalon Vesikatto- Ja Ulkoverhoustyöt. 4. uudistettu painos. Rakentajan tietokirjat, 2010.
+
+Harvard-tyylinen lähdeviittaus
+2010. Talonrakentajan käsikirja. 4: Pientalon vesikatto- ja ulkoverhoustyöt. 4. uudistettu painos. [Espoo]: Rakentajan tietokirjat.
+
+
 # Rakentaminen ja sopiminen
+
+
+## Rakentamisen perusteet
+Tomi Myllärinen, Hannu Pahajoki, Panu Peltonen, Juhani Saarikko, 2017.
+
+Rakentamisen perusteet soveltuu ensimmäisen vuoden opintokokonaisuuksiin. [sanoma](https://www.booky.fi/tuote/tomi_myllarinen/rakentamisen_perusteet/9789526353722) [Finna](https://www.finna.fi/Record/helmet.2287155)
+
+[Comments](https://www.finna.fi/Record/helmet.2287155?sid=3765885464#usercomments): "Kirjassa hyödyllistä tietoa. Pientalorakennuttajaa voi kiinnostaa se, että työlle annetaan tyypillisesti kahden vuoden takuu (eräät kattopakettiurakoitsijat tarjoavat viiden tai jopa 10 vuoden takuita). Törkeiden huolimattomuusepäkohtien osalta takuu on aina 10 vuotta, jos niitä sattuu ilmenemään. [s.101] Esimerkiksi rakennusmääräysten vastainen rakenne tulkitaan  virheeksi kuluttajakaupassa."
+
+Loppukatselmus kattopaketin osalta on merkittävä vaihe rakennusprosessissa, jossa varmistetaan, että kattorakenteet on asennettu asianmukaisesti ja täyttävät kaikki tarvittavat turvallisuus- ja rakennusmääräykset. Tämä vaihe liittyy olennaisesti rakennuksen tai sen osan käyttöönottoon.
+
+Työlle annetaan kahden vuoden takuu (eräät kattopakettiurakoitsijat tarjoavat viiden vuoden takuuta), ja törkeiden huolimattomuusepäkohtien osalta takuu on vastaavasti 10 vuotta, jos niitä sattuu ilmenemään. [s.101]
+Törkeää huolimattomuutta voisi esimerkiksi olla sellainen tapaus, jossa aluskatetta ei ole kiinnitetty asennusohjeiden mukaisesti (tuuletusrimalla). Tällöin mm. kondenssiveden ohjautuminen aluskatteella saattaa estyä.
+
+
+APA-viite
+
+Myllärinen, T., Pahajoki, H., Peltonen, P., Saarikko, J., Saastamoinen, N., Haarala, I., . . . Kimpimäki, K. (2017). Rakentamisen perusteet (1. painos.). Sanoma Pro Oy.
+
+Chicago-tyylinen lähdeviittaus
+
+Myllärinen, Tomi, Hannu Pahajoki, Panu Peltonen, Juhani Saarikko, Nea Saastamoinen, Ilpo Haarala, Katja Malassu, ja Katja Kimpimäki. Rakentamisen Perusteet. 1. painos. Helsinki: Sanoma Pro Oy, 2017.
+
+MLA-viite
+
+Myllärinen, Tomi, et al. Rakentamisen Perusteet. 1. painos. Sanoma Pro Oy, 2017.
+
+Harvard-tyylinen lähdeviittaus
+
+Myllärinen, T., Pahajoki, H., Peltonen, P., Saarikko, J., Saastamoinen, N., Haarala, I., . . . Kimpimäki, K. 2017. Rakentamisen perusteet. 1. painos. Helsinki: Sanoma Pro Oy.
+
 
 ## YMPÄRISTÖOPAS 2016 - Rakennuksen kosteus- ja sisäilmatekninen kuntotutkimus Toim. Miia Pitkäranta
 
+- [FINNA](https://www.finna.fi/Record/helmet.2280832?sid=3765938438)
 - [PDF](https://julkaisut.valtioneuvosto.fi/bitstream/handle/10024/75517/YO_2016_Kuntotutkimusopas.pdf), [valtioneuvosto](https://julkaisut.valtioneuvosto.fi/handle/10024/75517)
 - "Onko aluskate
 asennettu oikein kattokannattajien väliin; ei
@@ -43,7 +141,7 @@ edellyttää epäjatkuvan katteen alapuolelle asennettua aluskatetta. Aluskate v
 - "Aluskatteen päällä valuvan veden tulee poistua hallitusti ulos rakenteesta (ks. myös kuva 7.71)." [s.177]
 - "Vesikatoilla yleisin rakenteiden vaurioriski syntyy katevuodoista. Vesikatteen läpivientien, kuten kattokaivojen, savupiippujen, ilmanvaihtokanavien
 ja kattoikkunoiden, liitokset ja saumat voivat olla epätiiviitä (kuvat 7.60 ja 7.61). Tuulisella säällä sadevesi voi kulkeutua vesikatteen päällä myös ylöspäin ja tunkeutua mm. ylösnostojen epätiiviyskohtien kautta rakenteisiin." [s.178]
-- " Jos aluskate puuttuu tai se on puutteellisesti toteutettu, tulee arvioida onko tästä aiheutunut
+- "Jos aluskate puuttuu tai se on puutteellisesti toteutettu, tulee arvioida onko tästä aiheutunut
 vaurioita rakenteille. Jos vesikaton läpivientejä ei ole tiivistetty huolellisesti, aluskatteen päällä
 virtaava vesi valuu läpiviennin vierestä ullakolle (kuva 7.70). Katteen kiinnityksessä käytetyt naulat
 ja ruuvit lävistävät usein aluskatteen. Aluskatteen ulottuma tulisi olla vähintään ulkoseinälinjan ulkopuolelle (kuva 7.71). Muuten aluskatteen päällä valuva vesi voi ohjautua haitallisesti rakenteisiin." [s.182]
