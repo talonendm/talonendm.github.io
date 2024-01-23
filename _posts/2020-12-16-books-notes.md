@@ -9,9 +9,11 @@ tags:
   - rakentaminen
   - kertoja
   - kirja
+  - Finna
 comments: false
 published: true
 ---
+
 
 # Kertoja
 
@@ -23,10 +25,13 @@ Tällaista kerrontatapaa käytetään usein luomaan syvällisempää empatiaa he
 
 ## DOCS - Private - book stories
 
+- Finna - [my favourites](https://www.finna.fi/MyResearch/Favorites) (sign in)
 - [Tapahtumia 2023](https://docs.google.com/document/d/1M6JLsk_DVzYjTkBRl05gIXNSCEYzIi3F05QKgnfZdug/edit?usp=sharing)
 - [Past 2000](https://docs.google.com/document/d/1Cv04eqqRMtlM09rFJFqIK0nGKkJFszyFzsK19R2j6eU/edit?usp=sharing)
 - [Roof 2020](https://docs.google.com/document/d/1LMxk_AfMsTNV3UZlrBWoFu_LfzdhI0JBWncK-Ys7gEY/edit?usp=sharing)
   - EasyHang Level Board: Aluskateapuri
+- [Fantasy orcs etc](https://docs.google.com/document/d/1faif0u-XLbpo6EGr_q7od5OxHBEDha1EINQpibo9G9A/edit?usp=sharing)
+- private [sheets](https://docs.google.com/spreadsheets/d/1UGm89Z4n5J3uNUHhTRZsEIr4W8jqNYWh5RsIQAtu7BE/edit?usp=sharing) - story part ideas 24
 
 
 # Vesikatto
@@ -40,16 +45,16 @@ Rakennusalalla, erityisesti pientalojen vesikattorakenteissa tapahtuu sekä ymp�
 
 Väärin suunnitellun tai huonosti hoidetun katon aiheuttamat vauriot voivat johtaa merkittäviin kustannuksiin. Aluskate ei saa olla tiukasti ruoteita vasten, vaan sen on oltava 20-30 mm "riippuvassa" asennossa. Aluskatteen saumat limitetään siten, että vesi ohjautuu räystäälle tai kouruihin. [s.70]
 
-APA-viite
+APA-viite<br>
 Jormalainen, P., & Matilainen, A. (1999). Korjausrakentaminen (2. uud. p.). Rakennusalan kustantajat : Kustantajat Sarmala.
 
-Chicago-tyylinen lähdeviittaus
+Chicago-tyylinen lähdeviittaus<br>
 Jormalainen, Pentti, ja Ari Matilainen. Korjausrakentaminen. 2. uud. p. Helsinki: Rakennusalan kustantajat : Kustantajat Sarmala, 1999.
 
-MLA-viite
+MLA-viite<br>
 Jormalainen, Pentti, ja Ari Matilainen. Korjausrakentaminen. 2. uud. p. Rakennusalan kustantajat : Kustantajat Sarmala, 1999.
 
-Harvard-tyylinen lähdeviittaus
+Harvard-tyylinen lähdeviittaus<br>
 Jormalainen, P. & Matilainen, A. 1999. Korjausrakentaminen. 2. uud. p. Helsinki: Rakennusalan kustantajat : Kustantajat Sarmala.
 
 

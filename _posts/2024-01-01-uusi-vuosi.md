@@ -89,6 +89,10 @@ Puhe katsottavissa kokonaisuudessaan [Areenassa](https://areena.yle.fi/1-6731009
 - [palvelukartta](https://palvelukartta.hel.fi/fi/)
 - [Rakennetun ympäristön tietojärjestelmä](https://ryhti.syke.fi/)
 
+#### private
+
+- börsä - yritysstoorit [ta.dm](https://docs.google.com/document/d/1FV2Xj9IjXsyYfhMMX5qjXUpb102fat7wX7p0N45i9C8/edit?usp=sharing)
+
 ### Taxi Stadis
 
 - 1.9€/km, 1.5€/min. Kallis
