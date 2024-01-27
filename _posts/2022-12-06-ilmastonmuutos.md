@@ -99,6 +99,30 @@ Ja auttaa ihmisiä päivästä toiseen.
 
 - "Koko Euroopassa kaasunkulutus on laskenut 19 prosenttia, Suomessa yli 50 prosenttia." 3/2023, [Maakaasun hinta Alankomaiden TTF-kaasumarkkinalla](https://images.jifo.co/53503771_1677763812290.svg), "Kiireellä ja isolla rahalla Suomeen hankittua LNG-terminaalia ei ole tarvinnut vielä kukaan." [3.3.2023 YLE, KAISA UUSITALO](https://yle.fi/a/74-20020242).
 - Uhkaako Suomea talvella energiapula? Läntisessä maailmassa on vain kymmenen jäävahvistettua lng-tankkeria [HS 28.10.2023](https://www.hs.fi/talous/art-2000009951491.html)
+- "Yhdysvallat on nyt LNG:n suurin viejä ja öljynviejistä yksi isoimmista. Tämä amerikkalaistarina on osa maailman energian suurimpia uudelleenkartoituksia, sanoo S&P Globalin varatoimitusjohtaja Daniel Yergin." ja "Vielä vuonna 2002 USA toi noin 30 % energiastaan", "12 miljardin kuutiometrin päiväkapasiteetista 20 miljardiin" [energiauutiset 7.3.2023 - ](https://www.energiauutiset.fi/kategoriat/tuotanto/yhdysvallat-energian-ykkosviejaksi.html)
+- "Eurooppa havittelee yhä enemmän yhdysvaltalaista maakaasua, ja moni maa suunnittelee uusia tuontisatamia." [YLE](https://yle.fi/a/3-12470986)
+- Yhdysvallat toimittaa ennätysmäärin kaasua Eurooppaan, mutta kasvulla on rajansa
+  - "[SABINE PASS, LOUISIANA](https://en.wikipedia.org/wiki/Sabine_Pass) Hopeisena hohtava putkisto kiemurtelee kohti satamaa ja suoraan valtavaan rahtilaivaan. Sitä täytetään parhaillaan nestemäiseksi jäähdytetyllä maakaasulla."
+  - "Maaliskuussa presidentti Joe Biden lupasi juhlavasti, että Yhdysvallat tekee kansainvälistä yhteistyötä lisätäkseen Eurooppaan suuntaavia maakaasutoimituksia ainakin 15 miljardilla kuutiometrillä vuoden 2022 aikana. Se on noin kymmeneksen määrästä, jonka Venäjä toimitti EU-alueelle viime vuonna." [wHITEHOUSE](https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/25/fact-sheet-united-states-and-european-commission-announce-task-force-to-reduce-europes-dependence-on-russian-fossil-fuels/)
+- LNG PRICE EUROPE: [Trading economics](https://tradingeconomics.com/commodity/eu-natural-gas), [eurostat](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Natural_gas_price_statistics), price by country.
+- HS 31.3.2023 A28: Texas Odessa, energiteollisuus. 13000km2.
+  - [Fracking](https://en.wikipedia.org/wiki/Fracking): Hydraulic fracturing, or fracking, is a drilling method used to extract petroleum (oil) or natural gas from deep in the planet. In the fracking process, cracks in and below Earth's surface are opened and widened by injecting water, chemicals, and sand at high pressure.
+  - vesisärötys eli hydraulinen murtaminen, ensimmäiset kokeet 1940-luvulla.
+  - "How an Oil Boom in West Texas Is Reshaping the World" [Time](https://time.com/5492648/permian-oil-boom-west-texas/)
+
+
+## Companies [TOP 5](https://energy-oil-gas.com/news/top-five-lng-companies/)
+
+- Qatar Gas Transport Company Limited (Nakilat)
+- Cheniere Energy, Inc.
+- ExxonMobil
+- Chevron
+- [Shell](https://fi.investing.com/equities/royal-dutch-shell-a-shr)
+
+
+### Liuskekivi
+
+- "Öljypitoisen liuskekiven eli ns. palavankiven arvo on kovassa nousussa, kun maailman raakaöljyvarat hupenevat." [yle 28.5.2010](https://yle.fi/a/3-6157131): "Maailman öljyliuske-esiintymät, USA:72,0%, Viro 1.1%"
 
 # Luontokato
 

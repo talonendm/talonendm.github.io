@@ -155,7 +155,14 @@ Most of my travel diary notes / logbooks are complete mess and even rather "stup
 - Window A, Center B, Aisle C
 
 
+# Taiwan
 
+## Food
+
+Bubble tea (kehitetty Taiwanissa 1980-luvulla), joka tunnetaan myös nimellä helmimaitotee, bobamaitotee tai kuplatee, on taiwanilainen teepohjainen juoma, joka sisältää tyypillisesti maitoa, teetä ja sitkeitä tapiokahelmiä, jotka tunnetaan myös nimellä "boba".
+
+- [tee-se-itse-pakkaus](https://www.east-asia-mart.fi/fi/tuote/8670686) esim. lahjaksi: "Mustat tapiokanhelmet + 35 kpl isoja pillejä Bubble Tealle + makeutettu kondensoitu maito + Musta tee pussit"
+- [HS](https://www.hs.fi/ruoka/art-2000009451860.html) Kuplateetä esim. Simonkadun Boba Baosta. 
 
 # Slovakia
 

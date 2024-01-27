@@ -22,6 +22,7 @@ Kuvataiteessa [provenienssi](https://fi.wikipedia.org/wiki/Provenienssi) on taid
 ## Erkki Pirtola
 
 - [Kattoja](https://hs.mediadelivery.fi/img/658/fdc49401ad8919ea6bd53845e36a627d.jpg.webp), 1976, guassi
+  - [Kaupunki](https://www.hagelstam.fi/erkki-pirtola-1950-2016-8a398252485a6f53cfba29d01b601479) - Hagelstam
 - [HS 30.9.2023](https://www.hs.fi/kulttuuri/art-2000009880704.html)
   - teoksia paperille 4.2. saakka Helsingin taidemuseossa (Eteläinen Rautatiekatu 8). Ti 10–17.30, ke–su 11.30–19.
 
@@ -174,6 +175,8 @@ Paintings of van Gogh and Picasso in two dimensional space. What metrics should 
 ## Hammer Auctions
 - [Hagelstam](https://hagelstam.fi/)
   - [KUUKAUSIHUUTOKAUPPA A288 16.05.2023](https://www.hagelstam.fi/huutokaupat/kuukausihuutokauppa-a288)
+  - [Modern 151](https://www.hagelstam.fi/huutokaupat/modern-t151?p=11)
+    - private notes [ta.dm](https://docs.google.com/document/d/1g-GiVDz35nwDSSIPcUd3iAAYUMGBhTnDPiZOp69Hdvc/edit?usp=sharing)
 - [Helander](https://www.helander.com/fi)
   - [Helander page view](https://hela.auction2000.online/auk/w.objectlist?inc=hela&ina=20200907_1050)
   - [Helander Auctions list](https://hela.auction2000.online/auk/w.auctionlist?inc=hela)
@@ -190,6 +193,7 @@ Paintings of van Gogh and Picasso in two dimensional space. What metrics should 
 ## Kurt Schwitters
 
 Kurt Schwitters´ Merzbau (v230725): [YouTube](https://youtu.be/Dl03ruSzvRs?t=20). KURT SCHWITTERS his life was a [collage](https://www.singulart.com/en/artworks/thomas-dellert-kurt-schwitters-his-life-was-a-collage-264989).
+
 
 ## Cartoon and Manga
 
