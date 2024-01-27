@@ -61,6 +61,13 @@ Puhe katsottavissa kokonaisuudessaan [Areenassa](https://areena.yle.fi/1-6731009
 
 - "Aluehallintoviraston tarkastaja toteaa, että puutteita esiintyy melkein poikkeuksetta jokaisessa yrityksessä." [YLE 11.2.2016](https://yle.fi/a/3-8663051)
 
+## Muut
+
+- "Diabetesyhteisö vetoaa lääkärikuntaan, jotta kohulääke Ozempicia ei määrättäisi lihavuuden hoitoon." [keskipohjanmaa 11.9.2023](https://www.keskipohjanmaa.fi/artikkeli/suolistohormonilaakkeesta-on-edelleen-kova-pula-mutta-julia-lehto-on-onnistunut-saamaan-sita-uusi)
+  - [HS 6.4.2023](https://www.hs.fi/hyvinvointi/art-2000009420044.html) Kohulääkkeen nälkä
+    - Kohuttuun laihdutus­lääkkeeseen on yhdistetty lukuisia vakavia sivu­vaikutuksia – [Asian­tuntija kommentoi](https://www.hs.fi/hyvinvointi/art-2000009752914.html)
+
+
 ## AI
 
 - Teosto allekirjoittanut vastuullisen tekoälyn periaatteet [ePressi 23.10.2023](https://www.epressi.com/tiedotteet/musiikki-ja-viihde/teosto-allekirjoittanut-vastuullisen-tekoalyn-periaatteet-puolustamme-inhimillisen-luovuuden-ja-taiteen-asemaa.html)

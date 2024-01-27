@@ -147,6 +147,14 @@ Uniapnean hoidossa ei tule sivuuttaa painon pudotusta ja terveellisiä ruokatott
 ![i.01.roof](/assets/pics/page/roof/ezviz.jpg){: .mx-auto.d-block :}
 
 
+- "Professorilta tuli kyyninen arvio kohuun joutuneesta Gigantista: ”On tehty juuri sitä, mitä on haluttu tehtävän”" [Talouselämä 17.11.2023 nro41](https://www.talouselama.fi/uutiset/professorilta-tuli-kyyninen-arvio-kohuun-joutuneesta-gigantista-on-tehty-juuri-sita-mita-on-haluttu-tehtavan/5037ab70-9515-4d43-9a91-09a3ef9ee939): "Myynnin määrää parkitsemisen perusteena on pienennetty.", "Henkilökohteainen bonus on aina sidottu myymälän yhteisiin tavoitteisiin, myös asiakastyytyväisyydessä", "Kuluttaja-asiamies on puuttunut Giganti toimintaan virheiden korjaamisessa.", "Kuluttaja-asiamiehen mukaan Gigantin asiakaspalvelu on antanut asiakkaille harhaanjohtavia tietoja myyjän vastuusta, kun tuotteessa on vikaa. Asiakkaan reklamoidessa virheestä Gigantti on käännyttänyt hänet maahantuojan tai valmistajan puoleen, vaikka oikeasti vastuu kuuluu myyjälle. Asiakaspalvelu on jättänyt vasaavata reklamaatioihin tai ollut palaamatta asiaan, vaikka on luvannut tehdä niin."
+  - vastaavaa toimintaa esimerkiksi rakennusteollisuudessa. 
+  - "Tämäntyyppinen virhevastuun kieltäminen on kuluttajasuojalain vastaista" - Sari Vehviläinen KRIL:stä. 
+  - "Kuluttaja-asiamiehen valvonta on kollektiivista valvontaa: Kuluttaja-asiamies ei yleensä käsittele yksittäisiä riita-asioita, joissa kuluttaja hakee hyvitystä tavaran tai palvelun virheestä. Näissä tapauksissa kuluttajan apuna ovat kuluttajaneuvonta, [Euroopan kuluttajakeskus](https://www.ecc.fi/) ja kuluttajariitalautakunta." [lue lisää](https://www.kkv.fi/kuluttaja-asiat/kuluttaja-asiamies/)
+  - Ilmoitus tai vihje kuluttaja-asiamiehelle, [lomake](https://asiointi.kkv.fi/asiointi)
+  - ECC [lomake](https://www.ecc.fi/asiointi/#tiedustelut-ja-valitukset): (Jos valituksesi koskee kotimaista yritystä, käänny Kilpailu- ja kuluttajaviraston (KKV) kuluttajaneuvonnan puoleen.)
+
+
 ### Vastuuvapauslauseke
 
 Tämä julkaisu on tehty parhaan oman tietämyksemme ja ymmärtämyksemme pohjalta. Olemme tehneet kaiken voitavamme tietojen täsmällisyyden ja oikeellisuuden takaamiseksi, [talonendm](https://talonendm.github.io/) ei ole vastuussa mistään virheistä tai puutteista tai mistään suorasta, epäsuorasta tai välillisestä
