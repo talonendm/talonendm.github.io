@@ -11,7 +11,7 @@ tags:
 
 Metsien asianmukaista hoitoa ja suunnittelua varten tarvitaan tietoa tilan sijainnista, puustosta, kasvupaikoista ja luontokohteista. Metsäsuunnitelma on avain pitkäjänteiseen hoitoon, kooten tarvittavat tiedot tilakohtaisesti ja paljastaen metsän tilan, hakkuumahdollisuudet, sekä hoitotarpeet.
 
-[Metsään.fi](https://www.metsakeskus.fi/fi/asiointi/metsaanfi)-palvelu, tarjoama Metsäkeskuksen julkisesti rahoittama, antaa metsänomistajille pääsyn metsävaratietoon. Palveluun kirjautuminen mahdollistaa oman tilan tietojen tarkastelun verkkopankkitunnuksilla tai mobiilivarmenteella. Vaikka palvelu tarjoaa laskennallisia metsänhoito- ja hakkuuehdotuksia, se ei huomioi metsänomistajan henkilökohtaisia tavoitteita. Tarkempien ja yksilöllisten tietojen saamiseksi suositellaan metsäsuunnitelman laatimista tilalle. [^5]: "Metsään.fi-palvelun tarjoaa Suomen metsäkeskus. Metsäkeskuksen tehtäviin kuuluu metsiin perustuvien elinkeinojen edistäminen, metsien hoitoa ja käyttöä koskevan lainsäädännön toimeenpano sekä metsävaratietojen kerääminen ja ylläpito. Metsäkeskus toimii maa- ja metsätalousministeriön ohjauksessa. Metsään.fi-metsänomistajapalvelu on metsänomistajille tarkoitettu valtakunnallinen, sähköinen asiointipalvelu. Palvelu on maksuton. Palvelussa hyödynnetään Suomen yksityismetsistä kerättyä metsävaratietoa. Palvelu tuotetaan sekä suomeksi että ruotsiksi." [metsaan.fi]
+[Metsään.fi](https://www.metsakeskus.fi/fi/asiointi/metsaanfi)-palvelu, tarjoama Metsäkeskuksen julkisesti rahoittama, antaa metsänomistajille pääsyn metsävaratietoon. Palveluun kirjautuminen mahdollistaa oman tilan tietojen tarkastelun verkkopankkitunnuksilla tai mobiilivarmenteella. Vaikka palvelu tarjoaa laskennallisia metsänhoito- ja hakkuuehdotuksia, se ei huomioi metsänomistajan henkilökohtaisia tavoitteita. Tarkempien ja yksilöllisten tietojen saamiseksi suositellaan metsäsuunnitelman laatimista tilalle.[^5]: "Metsään.fi-palvelun tarjoaa Suomen metsäkeskus. Metsäkeskuksen tehtäviin kuuluu metsiin perustuvien elinkeinojen edistäminen, metsien hoitoa ja käyttöä koskevan lainsäädännön toimeenpano sekä metsävaratietojen kerääminen ja ylläpito. Metsäkeskus toimii maa- ja metsätalousministeriön ohjauksessa. Metsään.fi-metsänomistajapalvelu on metsänomistajille tarkoitettu valtakunnallinen, sähköinen asiointipalvelu. Palvelu on maksuton. Palvelussa hyödynnetään Suomen yksityismetsistä kerättyä metsävaratietoa. Palvelu tuotetaan sekä suomeksi että ruotsiksi." [metsaan.fi]
 
 "Runkopuun yhden kuutiometrin kasvu, ilman juurten ja oksien kasvua, sitoo hiilidioksidia keskimäärin noin 1000 kg. Puusto kasvaa vuodessa Etelä-Suomessa keskimäärin 6 ja Pohjois-Suomessa 4 kuutiometriä/ha." [metsaan.fi] ja metsakeskus
 
@@ -20,7 +20,7 @@ Metsien asianmukaista hoitoa ja suunnittelua varten tarvitaan tietoa tilan sijai
 
 ### Taimikon varhaishoito
 
-Taimikon perustaminen ja alkukasvatus vaativat merkittävää työtä ja aiheuttavat kustannuksia metsänomistajalle, mikä muodostaa hoitovaiheen. [^5]
+Taimikon perustaminen ja alkukasvatus vaativat merkittävää työtä ja aiheuttavat kustannuksia metsänomistajalle, mikä muodostaa hoitovaiheen.[^5]
 
 - 10 (2024)
   - Mekaaninen perkaus
@@ -33,21 +33,21 @@ Taimikon perustaminen ja alkukasvatus vaativat merkittävää työtä ja aiheutt
 
 ### Ensiharvennus
 
-Ensiharvennus toimii siirtymävaiheena hoitovaiheesta hyötyvaiheeseen. Suurin osa kiertoajasta edustaa metsänomistajalle selvää hyötyvaihetta jatkuvassa kasvatuksessa, missä metsä uudistuu jatkuvasti ja hakkuita tehdään toistuvasti suurten puiden keräämiseksi talteen, samalla tehdään tilaa uudelle kasvulle ja uudistumiselle. [^5]
+Ensiharvennus toimii siirtymävaiheena hoitovaiheesta hyötyvaiheeseen. Suurin osa kiertoajasta edustaa metsänomistajalle selvää hyötyvaihetta jatkuvassa kasvatuksessa, missä metsä uudistuu jatkuvasti ja hakkuita tehdään toistuvasti suurten puiden keräämiseksi talteen, samalla tehdään tilaa uudelle kasvulle ja uudistumiselle.[^5]
 
 - 13 (2024)
 
 ### Harvennushakkuu
 
-Metsää hoidetaan harvennuksilla tavoitteena avartaa valittujen kasvavien puiden kasvutilaa ja vähentää niiden välisiä kilpailuolosuhteita. Tämä nopeuttaa puiden paksuuskasvua, edistää niiden järeytymistä tukkipuiksi ja kasvattaa tukkipuun osuutta kokonaispuumäärästä. Vaikka harvennuksilla ei lisätä puuston kokonaiskasvua, ne parantavat metsän arvokasvua. Harvennushakkuut optimoivat taloudellista tuottoa mahdollistamalla aikaisemman hakkuutulon, lisäämällä kasvatettavien puiden järeyttä ja tukkipuun osuutta, sekä mahdollistamalla taloudellisesti arvokkaiden ja kasvupaikalle sopivien puulajien suosimisen. [^5]
+Metsää hoidetaan harvennuksilla tavoitteena avartaa valittujen kasvavien puiden kasvutilaa ja vähentää niiden välisiä kilpailuolosuhteita. Tämä nopeuttaa puiden paksuuskasvua, edistää niiden järeytymistä tukkipuiksi ja kasvattaa tukkipuun osuutta kokonaispuumäärästä. Vaikka harvennuksilla ei lisätä puuston kokonaiskasvua, ne parantavat metsän arvokasvua. Harvennushakkuut optimoivat taloudellista tuottoa mahdollistamalla aikaisemman hakkuutulon, lisäämällä kasvatettavien puiden järeyttä ja tukkipuun osuutta, sekä mahdollistamalla taloudellisesti arvokkaiden ja kasvupaikalle sopivien puulajien suosimisen.[^5]
 
 - 16 (2024)
 
 ### Jatkuva kasvatus - hakkuut
 
-Jatkuva kasvatus oli ensin kiellettyä, sitten siedettävää ja sen jälkeen suositeltavaa. [^3] s.65 [3]
-Puolet maailman selkärankaisista on kadonnut vuoden 1970 jälkeen ihmistoiminnan seurauksena. [^3] s.73, [Hs 27.10.2017](https://www.hs.fi/ulkomaat/art-2000005424826.html)
-Jaksollinen hakkuu lisää kirjanpainajan ja tukkimiehentäin aiheuttamia tuhoja. [^3] s.152 [3][3]
+Jatkuva kasvatus oli ensin kiellettyä, sitten siedettävää ja sen jälkeen suositeltavaa.[^3](s.65) 
+Puolet maailman selkärankaisista on kadonnut vuoden 1970 jälkeen ihmistoiminnan seurauksena.[^3] s.73, [Hs 27.10.2017](https://www.hs.fi/ulkomaat/art-2000005424826.html)
+Jaksollinen hakkuu lisää kirjanpainajan ja tukkimiehentäin aiheuttamia tuhoja.[^3](s.152) 
 
 ### Päätehakkuu ja metsän uudistaminen
 
@@ -55,9 +55,9 @@ Metsälain mukaan päätehakkuun jälkeen on huolehdittava metsän uudistumisest
 
 Metsän taloudellinen uudistamisikä vaihtelee puulajista ja maantieteellisestä sijainnista riippuen. Etelä-Suomessa havupuut ovat taloudellisesti uudistamiskypsiä yleensä 70-100 vuoden iässä, kun taas Pohjois-Suomessa metsä saavuttaa usein uudistuskypsyyden yli 100-vuotiaana. Koivikoita uudistetaan yleensä aikaisemmin, jo 50-70-vuotiaina. Uudistuskypsän puuston keskimääräinen läpimitta vaihtelee alueittain. Päätehakkuun yhteydessä pyritään kasvattamaan 400-500 puuta hehtaarilla Etelä-Suomen metsissä, mikä voi vastata noin 300 m3 puustoa hehtaarilla. [^5]
 
-Avohakkuussa poistetaan lähes kaikki puusto, ja hakkuujälki täytyy uudistaa kylvämällä tai istuttamalla. Kylvö on yleinen ja suositeltu uudistamistapa männiköissä sen kustannustehokkuuden ja varmuuden vuoksi, erityisesti kuivahkoilla kankailla. Kylvössä käytetään usein maanmuokkauskoneeseen liitettyä laitetta, mikä pienentää kustannuksia. Rehevillä mailla koivun kylvö voi olla suositeltavaa, kun taas kuusen uudistamiseen kylvö ei sovi. Istutus on varmin uudistamismenetelmä, ja hyvin toteutettuna se tuottaa nopeasti laadukkaan taimikon. Istutuksessa taimien keskimääräinen etäisyys on noin 2-2,5 metriä, ja tarkat istutustiheydet sekä ohjeet puulajille ja viljelytavalle on syytä selvittää erikseen. [^5]
+Avohakkuussa poistetaan lähes kaikki puusto, ja hakkuujälki täytyy uudistaa kylvämällä tai istuttamalla. Kylvö on yleinen ja suositeltu uudistamistapa männiköissä sen kustannustehokkuuden ja varmuuden vuoksi, erityisesti kuivahkoilla kankailla. Kylvössä käytetään usein maanmuokkauskoneeseen liitettyä laitetta, mikä pienentää kustannuksia. Rehevillä mailla koivun kylvö voi olla suositeltavaa, kun taas kuusen uudistamiseen kylvö ei sovi. Istutus on varmin uudistamismenetelmä, ja hyvin toteutettuna se tuottaa nopeasti laadukkaan taimikon. Istutuksessa taimien keskimääräinen etäisyys on noin 2-2,5 metriä, ja tarkat istutustiheydet sekä ohjeet puulajille ja viljelytavalle on syytä selvittää erikseen.[^5]
 
-Tukkipuun osuus uudistushakkuussa on lähes koko kertymästä (80-90 %), kunhan puusto on terve ja metsikkö on aiemmin harvennettu. Ilman oikea-aikaista harvennushakkuuta tukkipuukertymä jää yleensä 70 prosenttiin hakkuumäärästä tai alle. Hakkuukertymä uudistushakkuissa vaihtelee yleisesti Pohjois-Suomessa noin 200 kuutiometriin hehtaarilta ja Etelä-Suomessa 200-350 kuutiometriin hehtaarilta. Kuutiomäärään vaikuttavat kasvupaikka ja metsikön aiempi käsittely. Päätehakkuutulot voivat olla jopa 20 000 euroa hehtaarilta. [^5]
+Tukkipuun osuus uudistushakkuussa on lähes koko kertymästä (80-90 %), kunhan puusto on terve ja metsikkö on aiemmin harvennettu. Ilman oikea-aikaista harvennushakkuuta tukkipuukertymä jää yleensä 70 prosenttiin hakkuumäärästä tai alle. Hakkuukertymä uudistushakkuissa vaihtelee yleisesti Pohjois-Suomessa noin 200 kuutiometriin hehtaarilta ja Etelä-Suomessa 200-350 kuutiometriin hehtaarilta. Kuutiomäärään vaikuttavat kasvupaikka ja metsikön aiempi käsittely. Päätehakkuutulot voivat olla jopa 20 000 euroa hehtaarilta.[^5]
 
 ## Puukauppa
 
@@ -68,11 +68,11 @@ Tukkipuun osuus uudistushakkuussa on lähes koko kertymästä (80-90 %), kunhan 
 Seuraamalla veromääräysten mukaisia maksuaikatauluja voit varmistaa, että metsätaloutesi verotusasiat hoidetaan asianmukaisesti ja tehokkaasti. [^4] Laskelmat voi tehdä esimerkiksi [metsaan.fi](https://asiointi.metsaan.fi/group/metsanomistaja_private/veroilmoituksen-muistiinpanot)-palvelussa. 
 Metsänomistajan on velvollinen tarkasti kirjaamaan muistiin metsätalouden tulot ja menot. Numerointi ja kirjauspäivämäärä vastaavat tapahtuman tositetta, ja arvonlisäverovelvollisen tulee eritellä myyntiverotus ilman arvonlisäveron osuutta. 
 
-Pääsääntönä on kassaperiaate: Tämän pääsäännön mukaan etukäteen saadut tulot verotetaan sinä vuonna, jona ne saadaan. Esimerkiksi etukäteen saatu vuokra on vuokran saamisvuoden tuloa. [^6]
+Pääsääntönä on kassaperiaate: Tämän pääsäännön mukaan etukäteen saadut tulot verotetaan sinä vuonna, jona ne saadaan. Esimerkiksi etukäteen saatu vuokra on vuokran saamisvuoden tuloa.[^6]
 
 ### Tulot
 
-Metsätalouden pääomatulot käsittävät tulot, jotka saadaan puunmyynnistä, vakuutuskorvauksista, Kemera-tuista ja vastaavista lähteistä. Tämä tarkoittaa, että metsätaloudenharjoittajan saamat tulot näistä lähteistä luokitellaan verotuksessa pääomatuloiksi. Pääomatuloverotus soveltuu varallisuuden tuottamaan tuloon, erottaen sen ansiotuloverotuksesta. [^2] s.24
+Metsätalouden pääomatulot käsittävät tulot, jotka saadaan puunmyynnistä, vakuutuskorvauksista, Kemera-tuista ja vastaavista lähteistä. Tämä tarkoittaa, että metsätaloudenharjoittajan saamat tulot näistä lähteistä luokitellaan verotuksessa pääomatuloiksi. Pääomatuloverotus soveltuu varallisuuden tuottamaan tuloon, erottaen sen ansiotuloverotuksesta.[^2](s.24)
 
 ### Vähennykset
 
@@ -128,6 +128,7 @@ Yhtymä toimii niin, että se ei omista mitään omaisuutta suoraan. Sen sijaan 
 [^4]: [Metsänomistajan Verotusopas]. ta.dm [private ja.ta](https://drive.google.com/file/d/1khSzrHDBEBLg1sJlJj2rUtt6H1DBiPi0/view?usp=sharing)
 [^5]: [Uuden metsänomistajan kirja](https://kansallinen.fi/tuote/uuden-metsanomistajan-kirja-2/) [private ja.ta notes](https://drive.google.com/file/d/1n8xICP0HUyecZmC-75_k5s-EmTZBtVg6/view?usp=sharing)
 [^6]: Metsätilan verotus yksityisen metsänomistajan näkökulmasta, 2012. [PDF](https://www.theseus.fi/bitstream/handle/10024/44956/Opinnaytetyo%20Taru%20Heikkila.pdf)
+
 
 
 ---
