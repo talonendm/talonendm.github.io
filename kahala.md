@@ -46,7 +46,7 @@ Metsää hoidetaan harvennuksilla tavoitteena avartaa valittujen kasvavien puide
 ### Jatkuva kasvatus - hakkuut
 
 Jatkuva kasvatus oli ensin kiellettyä, sitten siedettävää ja sen jälkeen suositeltavaa.[^3](s.65) 
-Puolet maailman selkärankaisista on kadonnut vuoden 1970 jälkeen ihmistoiminnan seurauksena.[^3] s.73, [Hs 27.10.2017](https://www.hs.fi/ulkomaat/art-2000005424826.html)
+Puolet maailman selkärankaisista on kadonnut vuoden 1970 jälkeen ihmistoiminnan seurauksena.[^3] s.73, [HS 27.10.2017](https://www.hs.fi/ulkomaat/art-2000005424826.html)
 Jaksollinen hakkuu lisää kirjanpainajan ja tukkimiehentäin aiheuttamia tuhoja.[^3](s.152) 
 
 ### Päätehakkuu ja metsän uudistaminen
@@ -120,6 +120,12 @@ Yhtymä toimii niin, että se ei omista mitään omaisuutta suoraan. Sen sijaan 
 - Yhteyshenkilö: Jaakko Talonen (email: jaakko.talonen (miukumauku) gmail.com)
 - [Metsäyhtymä Talonen Jaakko, Talonen Juho ja Talonen Mikko @ Asiakastieto](https://www.asiakastieto.fi/yritykset/fi/metsayhtyma-talonen-jaakko-talonen-juho-ja-talonen-mikko/31972523/yleiskuva)
 
+---
+
+[Disclaimer](https://talonendm.github.io/disclaimer)
+
+---
+
 ## Kirjallisuus
 
 [^1]: [Metsäkoulu](https://www.adlibris.com/fi/kirja/metsakoulu-9789523380790): yksityisiä metsänomistajia on Suomessa yli puoli miljoonaa. Vuonna 2014 voimaan tullut metsälaki antaa valinnanvapauden, mutta myös samalla lisää vastuuta metsänhoidossa. 
@@ -131,6 +137,3 @@ Yhtymä toimii niin, että se ei omista mitään omaisuutta suoraan. Sen sijaan 
 
 
 
----
-
-[Disclaimer](https://talonendm.github.io/disclaimer)
