@@ -59,6 +59,11 @@ Avohakkuussa poistetaan lähes kaikki puusto, ja hakkuujälki täytyy uudistaa k
 
 Tukkipuun osuus uudistushakkuussa on lähes koko kertymästä (80-90 %), kunhan puusto on terve ja metsikkö on aiemmin harvennettu. Ilman oikea-aikaista harvennushakkuuta tukkipuukertymä jää yleensä 70 prosenttiin hakkuumäärästä tai alle. Hakkuukertymä uudistushakkuissa vaihtelee yleisesti Pohjois-Suomessa noin 200 kuutiometriin hehtaarilta ja Etelä-Suomessa 200-350 kuutiometriin hehtaarilta. Kuutiomäärään vaikuttavat kasvupaikka ja metsikön aiempi käsittely. Päätehakkuutulot voivat olla jopa 20 000 euroa hehtaarilta.[^5]
 
+
+## Metsälaki
+
+Voimaan tullut [metsälaki](https://mmm.fi/metsat/metsatalous/metsatalouden-kestavyys/metsalaki) antaa valinnanvapauden, mutta myös samalla lisää vastuuta metsänhoidossa. [^1]
+
 ## Puukauppa
 
 [Kuutio.fi](https://kuutio.fi/) on metsänomistajalle maksuton ja kaikille avoin sähköinen puukauppapaikka. 
@@ -98,7 +103,7 @@ Metsälahjavähennyksen saamisen ehdot liittyvät metsätilan laskennalliseen ar
 
 Metsälahjavähennyksen suuruus lasketaan lahjaveron määrän perusteella, joka ylittää tietyn raja-arvon, ja se kerrotaan kertoimella 2.4. Vähennyksen tulee olla vuosittain vähintään 1 500 euroa ja enintään 195 000 euroa. Vähennyksen perusteena voi olla korkeintaan 50 prosenttia verovuoden metsätalouden puhtaasta pääomatulosta, joten esimerkiksi 40 000 euroa voi olla mahdollista vähentää. Metsälahjavähennys on käytettävä 15 vuoden kuluessa lahjan saannista. [^2] s.67-68, [metsalahjavahennyslaskuri.metsakeskus.fi](https://metsalahjavahennyslaskuri.metsakeskus.fi/)
 
-Yksityisomistuksessa Suomen metsistä on yhteensä noin 11 miljoonaa hehtaaria. Siitä huolimatta, että tuo maa-ala on jakautunut yli 300 000 henkilölle. Noin puolet siitä on suuromistajien hallussa ja metsätilan koko on yli 65 hehtaaria. [is.fi 18.11.2017](https://www.is.fi/taloussanomat/art-2000005454018.html) Metsän keskimääräisestä vuotuisesta tuotosta tekee verottaja. [vero.fi](https://www.vero.fi/syventavat-vero-ohjeet/paatokset/47452/verohallinnon-paatos-metsan-keskimaaraisesta-vuotuisesta-tuotosta5/) ja se vaihtelee 100 euroa / ha paikkakunnasta riippuen. 
+Yksityisomistuksessa Suomen metsistä on yhteensä noin 11 miljoonaa hehtaaria. Siitä huolimatta, että tuo maa-ala on jakautunut yli 300 000 henkilölle. Noin puolet siitä on suuromistajien hallussa ja metsätilan koko on yli 65 hehtaaria. [is.fi 18.11.2017](https://www.is.fi/taloussanomat/art-2000005454018.html) Metsän keskimääräisestä vuotuisesta tuotosta tekee verottaja. [vero.fi](https://www.vero.fi/syventavat-vero-ohjeet/paatokset/47452/verohallinnon-paatos-metsan-keskimaaraisesta-vuotuisesta-tuotosta5/) ja se vaihtelee 100 euroa / ha paikkakunnasta riippuen. [^1] 
 
 "Vähennyksen saa vain minimiarvon ylittävään osaan kohdistuvasta lahjaverosta, joten lähellä minimiarvoa olevissa lahjoissa vähennys jää pieneksi. Metsälahjavähennyksen voi tehdä kaikista lahjan saajalle kertyvistä metsätalouden pääomatuloista." ja "Metsälahjavähennyksestä hyötyvät eniten Etelä-Suomessa suuria tiloja lahjana saavat. Esimerkiksi Rovaniemellä sijaitsevan 130 hehtaarin ja 140 000 euron arvoisen tilan metsälahjavähennyksen tuottama nettohyöty on täysimääräisenäkin alle 2 500 euroa." [Metsälehti, Hannu Jauhiainen, 3.5.2017](https://www.metsalehti.fi/artikkelit/nain-lasket-metsalahjavahennyksen/#7fc0eb2a)
 
@@ -128,7 +133,7 @@ Yhtymä toimii niin, että se ei omista mitään omaisuutta suoraan. Sen sijaan 
 
 ## Kirjallisuus
 
-[^1]: [Metsäkoulu](https://www.adlibris.com/fi/kirja/metsakoulu-9789523380790): yksityisiä metsänomistajia on Suomessa yli puoli miljoonaa. Vuonna 2014 voimaan tullut metsälaki antaa valinnanvapauden, mutta myös samalla lisää vastuuta metsänhoidossa. 
+[^1]: [Metsäkoulu, Juha Ruuska ja Heli Virtanen (toim.)](https://www.metsakauppa.fi/tuote/metsakoulu/)
 [^2]: [Metsäverokirja, Hannu Jauhiainen, 2023](https://www.metsakauppa.fi/tuote/metsaverokirja-2023/): [private dm - muistiinpanot](https://docs.google.com/document/d/10U0geLffO6sV0fAT2EVn7s9xgro1QWuiewwkAVNoY_c/edit?usp=sharing)
 [^3]: [Muuttuva metsä](https://www.suomalainen.com/products/minun-metsani-2), Opas jatkuvaan kasvatukseen, Pekka Juntti / Anna Ruohonen
 [^4]: [Metsänomistajan Verotusopas]. ta.dm [private ja.ta](https://drive.google.com/file/d/1khSzrHDBEBLg1sJlJj2rUtt6H1DBiPi0/view?usp=sharing)
