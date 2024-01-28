@@ -17,9 +17,6 @@ Metsien asianmukaista hoitoa ja suunnittelua varten tarvitaan tietoa tilan sijai
 
 ## Metsä - hoito ja periaatteet
 
-### Jatkuva kasvatus
-
-[^3]
 
 ### Taimikon varhaishoito
 
@@ -48,9 +45,9 @@ Metsää hoidetaan harvennuksilla tavoitteena avartaa valittujen kasvavien puide
 
 ### Jatkuva kasvatus - hakkuut
 
-Jatkuva kasvatus oli ensin kiellettyä, sitten siedettävää ja sen jälkeen suositeltavaa. [^3] s.65
+Jatkuva kasvatus oli ensin kiellettyä, sitten siedettävää ja sen jälkeen suositeltavaa. [^3] s.65 [3]
 Puolet maailman selkärankaisista on kadonnut vuoden 1970 jälkeen ihmistoiminnan seurauksena. [^3] s.73, [Hs 27.10.2017](https://www.hs.fi/ulkomaat/art-2000005424826.html)
-Jaksollinen hakkuu lisää kirjanpainajan ja tukkimiehentäin aiheuttamia tuhoja. [^3] s.152
+Jaksollinen hakkuu lisää kirjanpainajan ja tukkimiehentäin aiheuttamia tuhoja. [^3] s.152 [3][3]
 
 ### Päätehakkuu ja metsän uudistaminen
 
@@ -125,12 +122,12 @@ Yhtymä toimii niin, että se ei omista mitään omaisuutta suoraan. Sen sijaan 
 
 ## Kirjallisuus
 
-1. [Metsäkoulu](https://www.adlibris.com/fi/kirja/metsakoulu-9789523380790): yksityisiä metsänomistajia on Suomessa yli puoli miljoonaa. Vuonna 2014 voimaan tullut metsälaki antaa valinnanvapauden, mutta myös samalla lisää vastuuta metsänhoidossa. 
-2. [Metsäverokirja, Hannu Jauhiainen, 2023](https://www.metsakauppa.fi/tuote/metsaverokirja-2023/): [private dm - muistiinpanot](https://docs.google.com/document/d/10U0geLffO6sV0fAT2EVn7s9xgro1QWuiewwkAVNoY_c/edit?usp=sharing)
-3. [Muuttuva metsä](https://www.suomalainen.com/products/minun-metsani-2), Opas jatkuvaan kasvatukseen, Pekka Juntti / Anna Ruohonen
-4. [Metsänomistajan Verotusopas]. ta.dm [private ja.ta](https://drive.google.com/file/d/1khSzrHDBEBLg1sJlJj2rUtt6H1DBiPi0/view?usp=sharing)
-5. [Uuden metsänomistajan kirja](https://kansallinen.fi/tuote/uuden-metsanomistajan-kirja-2/) [private ja.ta notes](https://drive.google.com/file/d/1n8xICP0HUyecZmC-75_k5s-EmTZBtVg6/view?usp=sharing)
-6. Metsätilan verotus yksityisen metsänomistajan näkökulmasta, 2012. [PDF](https://www.theseus.fi/bitstream/handle/10024/44956/Opinnaytetyo%20Taru%20Heikkila.pdf)
+[1] [Metsäkoulu](https://www.adlibris.com/fi/kirja/metsakoulu-9789523380790): yksityisiä metsänomistajia on Suomessa yli puoli miljoonaa. Vuonna 2014 voimaan tullut metsälaki antaa valinnanvapauden, mutta myös samalla lisää vastuuta metsänhoidossa. 
+[2] [Metsäverokirja, Hannu Jauhiainen, 2023](https://www.metsakauppa.fi/tuote/metsaverokirja-2023/): [private dm - muistiinpanot](https://docs.google.com/document/d/10U0geLffO6sV0fAT2EVn7s9xgro1QWuiewwkAVNoY_c/edit?usp=sharing)
+[3] [Muuttuva metsä](https://www.suomalainen.com/products/minun-metsani-2), Opas jatkuvaan kasvatukseen, Pekka Juntti / Anna Ruohonen
+[4] [Metsänomistajan Verotusopas]. ta.dm [private ja.ta](https://drive.google.com/file/d/1khSzrHDBEBLg1sJlJj2rUtt6H1DBiPi0/view?usp=sharing)
+[5] [Uuden metsänomistajan kirja](https://kansallinen.fi/tuote/uuden-metsanomistajan-kirja-2/) [private ja.ta notes](https://drive.google.com/file/d/1n8xICP0HUyecZmC-75_k5s-EmTZBtVg6/view?usp=sharing)
+[6] Metsätilan verotus yksityisen metsänomistajan näkökulmasta, 2012. [PDF](https://www.theseus.fi/bitstream/handle/10024/44956/Opinnaytetyo%20Taru%20Heikkila.pdf)
 
 
 ---
