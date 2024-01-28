@@ -182,7 +182,9 @@ Later:
 - tilastot 2024: [ta.dm](https://docs.google.com/spreadsheets/d/1M2r3mqUYRlVPESle_V68AXjObEo5JGNpk2HFmDouHCQ/edit?usp=sharing)
 - What are the chances of going out first go in Rummikub? [Discussion](https://boardgames.stackexchange.com/questions/58589/what-are-the-chances-of-going-out-first-go-in-rummikub)
 - Rules [PDF](https://tesera.ru/images/items/784463/Rummikub_Rules.pdf)
-~~~
+
+
+~~~R
 
 # rummikub_main.R
 # rules :https://tesera.ru/images/items/784463/Rummikub_Rules.pdf
