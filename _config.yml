@@ -231,12 +231,15 @@ defaults:
 exclude:
   - CHANGELOG.md
   - CNAME
-  - Gemfile
-  - Gemfile.lock
   - LICENSE
   - README.md
   - screenshot.png
   - docs/
+
+
+# 29.1.2024 build fails
+#  - Gemfile
+#  - Gemfile.lock
 
 plugins:
   - jekyll-paginate
