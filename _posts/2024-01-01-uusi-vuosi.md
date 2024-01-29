@@ -48,6 +48,7 @@ Puhe katsottavissa kokonaisuudessaan [Areenassa](https://areena.yle.fi/1-6731009
 - Ilmalämpöpumppu [IL 3.1.2024](https://www.iltalehti.fi/asumisartikkelit/a/688f3629-050a-493e-8c81-deccc36a68f6): "Ikkunoiden eteen kannattaa etenkin öisin vetää verhot sekä sälekaihtimet, sillä niiden käyttö vähentää lämpöhukkaa." ja "Jos pumppu käynnistetään uudelleen matalissa lämpötiloissa, nopea laitteen lämpeneminen voi aiheuttaa vaurioita sen osiin. Jos laite sammuu tai sammutat laitteen, on uudelleenkäynnistykseen odotettava pakkasten lauhtumista, muistuttaa Motiva."
 - "Uraania merivedestä uudella sähkökemiallisella menetelmällä – Riittäisi tuhannelle 1 000 MW ydinvoimalalle 100 000 vuodeksi" [T&T](https://www.tekniikkatalous.fi/uutiset/uraania-merivedesta-uudella-sahkokemiallisella-menetelmalla-riittaisi-tuhannelle-1000-mw-ydinvoimalalle-100000-vuodeksi/fe6feb01-9cd0-4c0b-9568-4d4b088e53c2)
 
+
 ## Ilmasto
 
 ### Ympäristö
@@ -72,6 +73,8 @@ Puhe katsottavissa kokonaisuudessaan [Areenassa](https://areena.yle.fi/1-6731009
 
 - Teosto allekirjoittanut vastuullisen tekoälyn periaatteet [ePressi 23.10.2023](https://www.epressi.com/tiedotteet/musiikki-ja-viihde/teosto-allekirjoittanut-vastuullisen-tekoalyn-periaatteet-puolustamme-inhimillisen-luovuuden-ja-taiteen-asemaa.html)
   - "TEKOÄLY TUKEE IHMISTEN LUOVUUTTA JA ITSEILMAISUA"
+- Rayban Meta älylasit, [Instru](https://www.instru.fi/ray-ban-meta-alylasit) 329e (1/2024)
+
 
 ## Restaurants top 10 year -2023
 

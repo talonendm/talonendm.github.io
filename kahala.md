@@ -9,11 +9,21 @@ tags:
   - Metsäyhtymä
 ---
 
-Metsien asianmukaista hoitoa ja suunnittelua varten tarvitaan tietoa tilan sijainnista, puustosta, kasvupaikoista ja luontokohteista. Metsäsuunnitelma on avain pitkäjänteiseen hoitoon, kooten tarvittavat tiedot tilakohtaisesti ja paljastaen metsän tilan, hakkuumahdollisuudet, sekä hoitotarpeet.
+Kahala Boys auttaa tarvittaessa metsien asianmukaisesta hoidosta. Suunnittelua varten tarvitaan tietoa tilan sijainnista, puustosta, kasvupaikoista ja luontokohteista. Metsäsuunnitelma on avain pitkäjänteiseen hoitoon, kooten tarvittavat tiedot tilakohtaisesti ja paljastaen metsän tilan, hakkuumahdollisuudet, sekä hoitotarpeet. Tältä sivulta löydät koottua tietoa ja linkkejä hyödyllisille sivuistoille, jotka auttavat metsän liittyvissä asioissa ja haasteissa.
 
-[Metsään.fi](https://www.metsakeskus.fi/fi/asiointi/metsaanfi)-palvelu, tarjoama Metsäkeskuksen julkisesti rahoittama, antaa metsänomistajille pääsyn metsävaratietoon. Palveluun kirjautuminen mahdollistaa oman tilan tietojen tarkastelun verkkopankkitunnuksilla tai mobiilivarmenteella. Vaikka palvelu tarjoaa laskennallisia metsänhoito- ja hakkuuehdotuksia, se ei huomioi metsänomistajan henkilökohtaisia tavoitteita. Tarkempien ja yksilöllisten tietojen saamiseksi suositellaan metsäsuunnitelman laatimista tilalle.[^5]: "Metsään.fi-palvelun tarjoaa Suomen metsäkeskus. Metsäkeskuksen tehtäviin kuuluu metsiin perustuvien elinkeinojen edistäminen, metsien hoitoa ja käyttöä koskevan lainsäädännön toimeenpano sekä metsävaratietojen kerääminen ja ylläpito. Metsäkeskus toimii maa- ja metsätalousministeriön ohjauksessa. Metsään.fi-metsänomistajapalvelu on metsänomistajille tarkoitettu valtakunnallinen, sähköinen asiointipalvelu. Palvelu on maksuton. Palvelussa hyödynnetään Suomen yksityismetsistä kerättyä metsävaratietoa. Palvelu tuotetaan sekä suomeksi että ruotsiksi." [metsaan.fi]
+<!-- TOC -->
+<!-- MarkdownTOC autolink="true" bracket="round" depth="4" -->
 
-"Runkopuun yhden kuutiometrin kasvu, ilman juurten ja oksien kasvua, sitoo hiilidioksidia keskimäärin noin 1000 kg. Puusto kasvaa vuodessa Etelä-Suomessa keskimäärin 6 ja Pohjois-Suomessa 4 kuutiometriä/ha." [metsaan.fi] ja metsakeskus
+- [Heading 1](#heading-1)
+  - [Heading 2](#heading-2)
+    - [Heading 3](#heading-3)
+      - [Heading 4](#heading-4)
+
+<!-- /MarkdownTOC -->
+
+[Metsään.fi](https://www.metsakeskus.fi/fi/asiointi/metsaanfi)-palvelu, tarjoama Metsäkeskuksen julkisesti rahoittama, antaa metsänomistajille pääsyn metsävaratietoon. Palveluun kirjautuminen mahdollistaa oman tilan tietojen tarkastelun verkkopankkitunnuksilla tai mobiilivarmenteella. Vaikka palvelu tarjoaa laskennallisia metsänhoito- ja hakkuuehdotuksia, se ei huomioi metsänomistajan henkilökohtaisia tavoitteita. Tarkempien ja yksilöllisten tietojen saamiseksi suositellaan metsäsuunnitelman laatimista tilalle.[^5]: "Metsään.fi-palvelun tarjoaa Suomen metsäkeskus. Metsäkeskuksen tehtäviin kuuluu metsiin perustuvien elinkeinojen edistäminen, metsien hoitoa ja käyttöä koskevan lainsäädännön toimeenpano sekä metsävaratietojen kerääminen ja ylläpito. Metsäkeskus toimii maa- ja metsätalousministeriön ohjauksessa. Metsään.fi-metsänomistajapalvelu on metsänomistajille tarkoitettu valtakunnallinen, sähköinen asiointipalvelu. Palvelu on maksuton. Palvelussa hyödynnetään Suomen yksityismetsistä kerättyä metsävaratietoa. Palvelu tuotetaan sekä suomeksi että ruotsiksi." [^7]
+
+"Runkopuun yhden kuutiometrin kasvu, ilman juurten ja oksien kasvua, sitoo hiilidioksidia keskimäärin noin 1000 kg. Puusto kasvaa vuodessa Etelä-Suomessa keskimäärin 6 ja Pohjois-Suomessa 4 kuutiometriä/ha." [^7] ja [^8]
 
 ## Metsä - hoito ja periaatteet
 
@@ -91,13 +101,17 @@ Metsänomistajan näkökulmasta arvonlisävero toimii läpikulkueränä, sillä 
 
 Alv-velvollisuus jatkuu, kunnes elinkeinotoiminta päättyy. Arvonlisäveroa pidetään metsänomistajan kannalta läpikulkueränä, sillä puukaupassa arvonlisäveron maksaa ostaja ja metsänomistajan on tilitettävä se edelleen valtiolle. Metsänomistaja maksaa itse ostamistaan tarvikkeista ja palveluista sisältäen alvin, mutta voi saada sen takaisin verottajalta. Arvonlisäverovelvolliset metsänomistajat kirjaavat puukauppatulot myyntituloiksi ilman arvonlisäveroa ja vastaavasti menot vähennetään arvonlisäveron osuuden kanssa. Mahdolliset maksetut verot vähennetään saadusta alv-saldosta, ja jos verot ylittävät puukaupoista saatavan alv:n, valtio palauttaa erotuksen alkukesän aikana. [^5]
 
+Lue lisää: [^9]
+
 ### Metsävähennys
 
 Metsävähennyksen voi vaatia metsätalouden veroilmoituksessa 2C-lomakkeella, ja Verohallinto ei tee vähennystä automaattisesti. On tärkeää liittää metsätalouden muistiinpanoihin selvitys siitä, että on saanut metsätalouden pääomatulon metsästä, josta metsävähennyspohjaa voi saada. Metsävähennyspohja muodostuu 60 prosentista metsän hankintamenosta, joka on metsän (maapohjan ja puuston) osuus koko kiinteistön tai määräalan kauppahinnasta tai vastikkeesta. Lahjan tai perinnön perusteella ei synny uutta metsävähennyspohjaa, mutta jos perinnönjättäjällä tai lahjanantajalla on ollut käyttämätöntä metsävähennyspohjaa, voit siirtää osuuden käyttöösi. Yhtymän osalta metsävähennyksen pohja huomioidaan yhtymän verotuksessa. [vero.fi](https://www.vero.fi/henkiloasiakkaat/omaisuus/metsa/metsavahennys/)
 
 ### Metsälahjavähennys
 
-Metsälahjavähennys on mahdollinen silloin, kun metsätila on saatu lahjana, ja vähennykset perustuvat maksettuun lahjaveron määrään. Tämä vähennys on voimassa lahjoituksille, jotka on tehty vuodesta 2017 lähtien. Huomioitavaa on, että vähennys tehdään metsätalouden puhtaasta pääomatulosta yrittäjävähennyksen jälkeen. Hakemus metsälahjavähennyksestä tulee tehdä erillisellä 2L-lomakkeella esitäytetyn veroilmoituksen yhteydessä tai omavero annettavalla ilmoituksella.
+Metsälahjavähennys on mahdollinen silloin, kun metsätila on saatu lahjana. Tämä vähennys on voimassa lahjoituksille, jotka on tehty vuodesta 2017 lähtien ja lahjana saamasi metsä on pinta-alaltaan riittävän suuri. [^9]
+
+Huomioitavaa on, että vähennys tehdään metsätalouden puhtaasta pääomatulosta yrittäjävähennyksen jälkeen. Hakemus metsälahjavähennyksestä tulee tehdä erillisellä 2L-lomakkeella esitäytetyn veroilmoituksen yhteydessä tai omavero annettavalla ilmoituksella.
 
 Metsälahjavähennyksen saamisen ehdot liittyvät metsätilan laskennalliseen arvoon, joka tulee olla vähintään 30 000 euroa tai 100 hehtaaria. On kuitenkin huomioitava, että vaikka luonnolliset henkilöt ovat oikeutettuja tähän vähennykseen, yhtymälle tämä mahdollisuus ei ole käytettävissä, sillä verotuksessa yhtymä on vain laskentayksikkö.
 
@@ -121,6 +135,7 @@ Yhtymä toimii niin, että se ei omista mitään omaisuutta suoraan. Sen sijaan 
 
 ## Yhteystiedot
 
+- MTY Talonen email: talonen.kahala (miukumauku) gmail.com
 - Jaakko, Juho ja Mikko Talonen
 - Yhteyshenkilö: Jaakko Talonen (email: jaakko.talonen (miukumauku) gmail.com)
 - [Metsäyhtymä Talonen Jaakko, Talonen Juho ja Talonen Mikko @ Asiakastieto](https://www.asiakastieto.fi/yritykset/fi/metsayhtyma-talonen-jaakko-talonen-juho-ja-talonen-mikko/31972523/yleiskuva)
@@ -139,6 +154,9 @@ Yhtymä toimii niin, että se ei omista mitään omaisuutta suoraan. Sen sijaan 
 [^4]: [Metsänomistajan Verotusopas]. ta.dm [private ja.ta](https://drive.google.com/file/d/1khSzrHDBEBLg1sJlJj2rUtt6H1DBiPi0/view?usp=sharing)
 [^5]: [Uuden metsänomistajan kirja](https://kansallinen.fi/tuote/uuden-metsanomistajan-kirja-2/) [private ja.ta notes](https://drive.google.com/file/d/1n8xICP0HUyecZmC-75_k5s-EmTZBtVg6/view?usp=sharing)
 [^6]: Metsätilan verotus yksityisen metsänomistajan näkökulmasta, 2012. [PDF](https://www.theseus.fi/bitstream/handle/10024/44956/Opinnaytetyo%20Taru%20Heikkila.pdf)
+[^7]: [Metsäkeskus - metsään.fi](https://www.metsakeskus.fi/fi/asiointi/metsaanfi)
+[^8]: [Metsäkeskus](https://www.metsakeskus.fi/fi)
+[^9]: [Metsävero-opas Verovuosi 2023 - Stora Enso]: [ta.dm](https://drive.google.com/file/d/1A3wYq2hh7WMPxuS11YgHeTy7v6A4KGde/view?usp=sharing) private, lataa oma täältä: [Stora Enso](https://www.storaensometsa.fi/metsaverotus/?utm_term=&utm_campaign=Internal+%7C+Mets%C3%A4verotus+2023-2024)
 
 
 
