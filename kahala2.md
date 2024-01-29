@@ -135,19 +135,7 @@ Yhtymä toimii niin, että se ei omista mitään omaisuutta suoraan. Sen sijaan 
 
 [Disclaimer](https://talonendm.github.io/disclaimer)
 
----
 
-## Kirjallisuus
-
-[^1]: [Metsäkoulu, Juha Ruuska ja Heli Virtanen (toim.)](https://www.metsakauppa.fi/tuote/metsakoulu/)
-[^2]: [Metsäverokirja, Hannu Jauhiainen, 2023](https://www.metsakauppa.fi/tuote/metsaverokirja-2023/): [private dm - muistiinpanot](https://docs.google.com/document/d/10U0geLffO6sV0fAT2EVn7s9xgro1QWuiewwkAVNoY_c/edit?usp=sharing)
-[^3]: [Muuttuva metsä](https://www.suomalainen.com/products/minun-metsani-2), Opas jatkuvaan kasvatukseen, Pekka Juntti / Anna Ruohonen
-[^4]: [Metsänomistajan Verotusopas]. ta.dm [private ja.ta](https://drive.google.com/file/d/1khSzrHDBEBLg1sJlJj2rUtt6H1DBiPi0/view?usp=sharing)
-[^5]: [Uuden metsänomistajan kirja](https://kansallinen.fi/tuote/uuden-metsanomistajan-kirja-2/) [private ja.ta notes](https://drive.google.com/file/d/1n8xICP0HUyecZmC-75_k5s-EmTZBtVg6/view?usp=sharing)
-[^6]: Metsätilan verotus yksityisen metsänomistajan näkökulmasta, 2012. [PDF](https://www.theseus.fi/bitstream/handle/10024/44956/Opinnaytetyo%20Taru%20Heikkila.pdf)
-[^7]: [Metsäkeskus - metsään.fi](https://www.metsakeskus.fi/fi/asiointi/metsaanfi)
-[^8]: Metsäkeskus [Metsäkeskus](https://www.metsakeskus.fi/fi)
-[^9]: [Metsävero-opas Verovuosi 2023 - Stora Enso]: [ta.dm](https://drive.google.com/file/d/1A3wYq2hh7WMPxuS11YgHeTy7v6A4KGde/view?usp=sharing) private, lataa oma täältä: [Stora Enso](https://www.storaensometsa.fi/metsaverotus/?utm_term=&utm_campaign=Internal+%7C+Mets%C3%A4verotus+2023-2024)
 
 
 
