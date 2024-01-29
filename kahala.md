@@ -11,22 +11,13 @@ tags:
 
 Kahala Boys auttaa tarvittaessa metsien asianmukaisesta hoidosta. Suunnittelua varten tarvitaan tietoa tilan sijainnista, puustosta, kasvupaikoista ja luontokohteista. Metsäsuunnitelma on avain pitkäjänteiseen hoitoon, kooten tarvittavat tiedot tilakohtaisesti ja paljastaen metsän tilan, hakkuumahdollisuudet, sekä hoitotarpeet. Tältä sivulta löydät koottua tietoa ja linkkejä hyödyllisille sivuistoille, jotka auttavat metsän liittyvissä asioissa ja haasteissa.
 
-<!-- TOC -->
-<!-- MarkdownTOC autolink="true" bracket="round" depth="4" -->
-
-- [Heading 1](#heading-1)
-  - [Heading 2](#heading-2)
-    - [Heading 3](#heading-3)
-      - [Heading 4](#heading-4)
-
-<!-- /MarkdownTOC -->
-
-[Metsään.fi](https://www.metsakeskus.fi/fi/asiointi/metsaanfi)-palvelu, tarjoama Metsäkeskuksen julkisesti rahoittama, antaa metsänomistajille pääsyn metsävaratietoon. Palveluun kirjautuminen mahdollistaa oman tilan tietojen tarkastelun verkkopankkitunnuksilla tai mobiilivarmenteella. Vaikka palvelu tarjoaa laskennallisia metsänhoito- ja hakkuuehdotuksia, se ei huomioi metsänomistajan henkilökohtaisia tavoitteita. Tarkempien ja yksilöllisten tietojen saamiseksi suositellaan metsäsuunnitelman laatimista tilalle.[^5]: "Metsään.fi-palvelun tarjoaa Suomen metsäkeskus. Metsäkeskuksen tehtäviin kuuluu metsiin perustuvien elinkeinojen edistäminen, metsien hoitoa ja käyttöä koskevan lainsäädännön toimeenpano sekä metsävaratietojen kerääminen ja ylläpito. Metsäkeskus toimii maa- ja metsätalousministeriön ohjauksessa. Metsään.fi-metsänomistajapalvelu on metsänomistajille tarkoitettu valtakunnallinen, sähköinen asiointipalvelu. Palvelu on maksuton. Palvelussa hyödynnetään Suomen yksityismetsistä kerättyä metsävaratietoa. Palvelu tuotetaan sekä suomeksi että ruotsiksi." [^7]
+[Metsään.fi](https://www.metsakeskus.fi/fi/asiointi/metsaanfi)-palvelu[^7], tarjoama Metsäkeskuksen julkisesti rahoittama, antaa metsänomistajille pääsyn metsävaratietoon. Palveluun kirjautuminen mahdollistaa oman tilan tietojen tarkastelun verkkopankkitunnuksilla tai mobiilivarmenteella. Vaikka palvelu tarjoaa laskennallisia metsänhoito- ja hakkuuehdotuksia, se ei huomioi metsänomistajan henkilökohtaisia tavoitteita, esimerkiksi pdf-print: [Private ta.dm kuvio 9](https://drive.google.com/file/d/1A3phxBG3KIr0EgWS6NZxk6OX1FbD5w9W/view?usp=sharing). Tarkempien ja yksilöllisten tietojen saamiseksi suositellaan metsäsuunnitelman laatimista tilalle.[^5]: "Metsään.fi-palvelun tarjoaa Suomen metsäkeskus. Metsäkeskuksen tehtäviin kuuluu metsiin perustuvien elinkeinojen edistäminen, metsien hoitoa ja käyttöä koskevan lainsäädännön toimeenpano sekä metsävaratietojen kerääminen ja ylläpito. Metsäkeskus toimii maa- ja metsätalousministeriön ohjauksessa. Metsään.fi-metsänomistajapalvelu on metsänomistajille tarkoitettu valtakunnallinen, sähköinen asiointipalvelu. Palvelu on maksuton. Palvelussa hyödynnetään Suomen yksityismetsistä kerättyä metsävaratietoa. Palvelu tuotetaan sekä suomeksi että ruotsiksi." [^7]
 
 "Runkopuun yhden kuutiometrin kasvu, ilman juurten ja oksien kasvua, sitoo hiilidioksidia keskimäärin noin 1000 kg. Puusto kasvaa vuodessa Etelä-Suomessa keskimäärin 6 ja Pohjois-Suomessa 4 kuutiometriä/ha." [^7] ja [^8]
 
-## Metsä - hoito ja periaatteet
+## Metsänhoitoa
 
+Metsänhoitoa voidaan käsitellä monesta eri näkökulmasta, mutta tässä on joitakin yleisiä periaatteita metsänhoidosta:
 
 ### Taimikon varhaishoito
 
