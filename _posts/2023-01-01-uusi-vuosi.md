@@ -151,6 +151,7 @@ Uniapnean hoidossa ei tule sivuuttaa painon pudotusta ja terveellisiä ruokatott
   - vastaavaa toimintaa esimerkiksi rakennusteollisuudessa. 
   - "Tämäntyyppinen virhevastuun kieltäminen on kuluttajasuojalain vastaista" - Sari Vehviläinen KRIL:stä. 
   - "Kuluttaja-asiamiehen valvonta on kollektiivista valvontaa: Kuluttaja-asiamies ei yleensä käsittele yksittäisiä riita-asioita, joissa kuluttaja hakee hyvitystä tavaran tai palvelun virheestä. Näissä tapauksissa kuluttajan apuna ovat kuluttajaneuvonta, [Euroopan kuluttajakeskus](https://www.ecc.fi/) ja kuluttajariitalautakunta." [lue lisää](https://www.kkv.fi/kuluttaja-asiat/kuluttaja-asiamies/)
+    - "Valvonta kohdistuu erityisesti markkinoinnin ja sopimusehtojen sekä perinnän lainmukaisuuteen." ja "Kuluttaja-asiamiehelle lähetetyt ilmoitukset ovat julkisia asiakirjoja lukuun ottamatta ilmoitusten sisältämiä arkaluonteisia tai salassa pidettäviä tietoja."
   - Ilmoitus tai vihje kuluttaja-asiamiehelle, [lomake](https://asiointi.kkv.fi/asiointi)
   - ECC [lomake](https://www.ecc.fi/asiointi/#tiedustelut-ja-valitukset): (Jos valituksesi koskee kotimaista yritystä, käänny Kilpailu- ja kuluttajaviraston (KKV) kuluttajaneuvonnan puoleen.)
 
