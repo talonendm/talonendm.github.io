@@ -11,7 +11,14 @@ thumbnail-img: /assets/pics/thumbnail/e384-direct/e-IMG20230504215854.jpg
 published: true
 ---
 
-"Energian säästäminen on puhuttanut etenkin kovien pakkasten aikaan." ja "Osan ilma-vesilämpöpumppujen lämmöntuotto hiipuu kokonaan noin -20–25 asteen ulkolämpötiloissa." [^3] ja pörssisähköstä.. onko sähkösopimuksissa suuria eroja vai ei? Eri lähteissä pörssisähkösopimusta suitsutetaan, vaikka se ei välttämättä sellainen ole (omakotitaloasujalle): "Ilta-Sanomien taannoin tekemästä selvityksestä ilmenee, että pörssisähkö on viime vuonna todennäköisesti tullut selvästi halvemmaksi kuin kahden vuoden määräaikainen sopimus." ja "Jos sähkölämmitteisen omakotitalon asukas otti kahden vuoden määräaikaisen sähkösopimuksen vuoden 2022 syyskuussa, saattoi viime vuoden sähkölasku nousta jopa 8 000 euroon, kun taas pörssisähkösopimuksella lasku olisi samalla kulutuksella pysynyt alle 1 500 eurossa." ja "Ihmiset laskevat, että pörssin keskihinta tulee edullisimmaksi, mutta pitää laskea kulutuksellinen keskihinta eli milloin sähköä kuluu todella. Kahdentoista kuukauden keskihinta ei anna oikeaa tulosta. Kesällä pörssisähkö voi olla halpaa, mutta talvella jolloin sitä todella kuluu, se on kallista, toinen vastaaja kertoi Ilta-Sanomille." [^1] Ei siis lasketa kustannuksia siten kuten ihmiset, vaan tässä blogissa näytetään miten painotettu keskihinta lasketaan.
+Onko sähkösopimuksissa suuria eroja vai ei? Eri lähteissä pörssisähkösopimusta suitsutetaan, vaikka se ei välttämättä sellainen ole (omakotitaloasujalle). 
+- "Energian säästäminen on puhuttanut etenkin kovien pakkasten aikaan."
+- "Osan ilma-vesilämpöpumppujen lämmöntuotto hiipuu kokonaan noin -20–25 asteen ulkolämpötiloissa." [^3]
+- "Ilta-Sanomien taannoin tekemästä selvityksestä ilmenee, että pörssisähkö on viime vuonna todennäköisesti tullut selvästi halvemmaksi kuin kahden vuoden määräaikainen sopimus."
+- "Jos sähkölämmitteisen omakotitalon asukas otti kahden vuoden määräaikaisen sähkösopimuksen vuoden 2022 syyskuussa, saattoi viime vuoden sähkölasku nousta jopa 8 000 euroon, kun taas pörssisähkösopimuksella lasku olisi samalla kulutuksella pysynyt alle 1 500 eurossa."
+- "Ihmiset laskevat, että pörssin keskihinta tulee edullisimmaksi, mutta pitää laskea kulutuksellinen keskihinta eli milloin sähköä kuluu todella. Kahdentoista kuukauden keskihinta ei anna oikeaa tulosta. Kesällä pörssisähkö voi olla halpaa, mutta talvella jolloin sitä todella kuluu, se on kallista, toinen vastaaja kertoi Ilta-Sanomille." [^1] 
+
+Milloin pörssisähkö kannattaa ja missä tilanteessa aggregaatille [^7] tulee käyttöä? Kannattaa siis laskea kulutuksella painotettu sähköenergian keskihinta.
 
 ~~~Python
 
@@ -104,6 +111,7 @@ LATER
 
 - HattiWatt - sähkön hinta: [playstore](https://play.google.com/store/apps/details?id=com.arcinix.hattiwatt)
 - Hinta nyt: [https://energy.semeai.fi/](https://energy.semeai.fi/), [github](https://github.com/sjlehtin/semerg)
+- "Tappiot 140–400 miljoonaa: 1 100 Porschella ja 3 000 muulla autolla lastatun rahtilaivan sammutus epäonnistui keskellä Atlanttia" [Tekniikka ja talous](https://www.tekniikkatalous.fi/uutiset/sahkoautojen-akut-pitivat-tulta-ylla-tappiot-140400-miljoonaa-1100-porschella-ja-3000-muulla-autolla-lastatun-rahtilaivan-sammutus-epaonnistui-keskella-atlanttia/088b4f38-4655-4da7-93e5-4b71d09aa70a): "Felicity Ace"
 
 ---
 
@@ -119,3 +127,4 @@ LATER
 [^4]: Minilex [kaupanpurku](https://www.minilex.fi/a/osamaksukaupan-purku)
 [^5]: "Pörssisähkö maksoi viime vuonna keskimäärin seitsemän senttiä kilowattitunnilta, mutta hinta on vain osatotuus sähkön todellisesta hinnasta pörssisopimuksen tehneelle kuluttajalle." [KL 26.1.2024](https://www.kauppalehti.fi/uutiset/porssisahkon-vaitetaan-olevan-aina-halvempi-keskiarvohinta-kertoo-vain-osan-totuudesta/23d0b89f-4561-40b3-8823-ee6f2ee6ffd9)
 [^6]: "Sadattuhannet jumissa kalliissa sopimuksessa – kuluttaja-asiamies neuvoton" [HS 20.9.2023](https://www.hs.fi/talous/art-2000009867277.html)
+[^7]: "Kiteeläinen maitotilallinen otti aggregaatin käyttöön ja huomasi polttoöljyllä tuotetun sähkön tulevan nyt pörssisähköä edullisemmaksi" [Maaseudun tulevaisuus 15.12.2022](https://www.maaseuduntulevaisuus.fi/uutiset/052c51bf-2085-4f3f-8c08-4ca982088982)

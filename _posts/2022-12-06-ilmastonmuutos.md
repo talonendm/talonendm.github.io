@@ -118,7 +118,7 @@ Ja auttaa ihmisiä päivästä toiseen.
 - ExxonMobil
 - Chevron
 - [Shell](https://fi.investing.com/equities/royal-dutch-shell-a-shr)
-
+- Abu Dhabi National Oil Companyn johtaja veti ilmastokokousta. Ilmatoaktivistien mielestä kettu oli kanalan vartijana. [Talouselämä 44/2023 s.9]
 
 ### Liuskekivi
 
