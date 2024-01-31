@@ -109,7 +109,7 @@ Ja auttaa ihmisiä päivästä toiseen.
   - [Fracking](https://en.wikipedia.org/wiki/Fracking): Hydraulic fracturing, or fracking, is a drilling method used to extract petroleum (oil) or natural gas from deep in the planet. In the fracking process, cracks in and below Earth's surface are opened and widened by injecting water, chemicals, and sand at high pressure.
   - vesisärötys eli hydraulinen murtaminen, ensimmäiset kokeet 1940-luvulla.
   - "How an Oil Boom in West Texas Is Reshaping the World" [Time](https://time.com/5492648/permian-oil-boom-west-texas/)
-
+- LNG-terminaalin melua mitataan Inkoossa [20.7.2023, Kirkkonummen Sanomat]: Terminaalille 1-3 LNG-laivaa kuukaudessa purkamaan lastia. Nesteytetty maakaasu (LNG) höyrystetään terminaalissa uudelleen kaasuksi, jonka jälkeen kaasu 2,2km pitkällä yhdysputkella Gasgrid Finlandin ylläpitämään maakaasusiirtoverkkoon ja siitä käyttäjille.
 
 ## Companies [TOP 5](https://energy-oil-gas.com/news/top-five-lng-companies/)
 

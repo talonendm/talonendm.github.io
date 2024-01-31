@@ -9,11 +9,11 @@ tags:
   - Metsäyhtymä
 ---
 
-Kahala Boys auttaa tarvittaessa metsien asianmukaisesta hoidosta. Suunnittelua varten tarvitaan tietoa tilan sijainnista, puustosta, kasvupaikoista ja luontokohteista. Metsäsuunnitelma on avain pitkäjänteiseen hoitoon, kooten tarvittavat tiedot tilakohtaisesti ja paljastaen metsän tilan, hakkuumahdollisuudet, sekä hoitotarpeet. Tältä sivulta löydät koottua tietoa ja linkkejä hyödyllisille sivuistoille, jotka auttavat metsän liittyvissä asioissa ja haasteissa.
+Kahala Boys voi mahdollisesti auttaa metsien asianmukaisesta hoidossa. Suunnittelua varten tarvitaan tietoa tilan sijainnista, puustosta, kasvupaikoista ja luontokohteista. Metsäsuunnitelma on avain pitkäjänteiseen hoitoon, kooten tarvittavat tiedot tilakohtaisesti ja paljastaen metsän tilan, hakkuumahdollisuudet, sekä hoitotarpeet. Tältä sivulta löydät koottua tietoa ja linkkejä hyödyllisille sivuistoille, jotka auttavat metsän liittyvissä asioissa ja haasteissa. Tekoälyn ja esimerkiksi laserkeilauaineiston avulla puuston ja metsäkuvioiden omainaisuuksia voidaan analysoida entistä tarkemmin, katso esim. [^11] 
 
 [Metsään.fi](https://www.metsakeskus.fi/fi/asiointi/metsaanfi)-palvelu [^7], tarjoama Metsäkeskuksen julkisesti rahoittama, antaa metsänomistajille pääsyn metsävaratietoon. Palveluun kirjautuminen mahdollistaa oman tilan tietojen tarkastelun verkkopankkitunnuksilla tai mobiilivarmenteella. Vaikka palvelu tarjoaa laskennallisia metsänhoito- ja hakkuuehdotuksia, se ei huomioi metsänomistajan henkilökohtaisia tavoitteita, esimerkiksi pdf-print: [Private ta.dm kuvio 9](https://drive.google.com/file/d/1A3phxBG3KIr0EgWS6NZxk6OX1FbD5w9W/view?usp=sharing). Tarkempien ja yksilöllisten tietojen saamiseksi suositellaan metsäsuunnitelman laatimista tilalle.[^5]: "Metsään.fi-palvelun tarjoaa Suomen metsäkeskus. Metsäkeskuksen tehtäviin kuuluu metsiin perustuvien elinkeinojen edistäminen, metsien hoitoa ja käyttöä koskevan lainsäädännön toimeenpano sekä metsävaratietojen kerääminen ja ylläpito. Metsäkeskus toimii maa- ja metsätalousministeriön ohjauksessa. Metsään.fi-metsänomistajapalvelu on metsänomistajille tarkoitettu valtakunnallinen, sähköinen asiointipalvelu. Palvelu on maksuton. Palvelussa hyödynnetään Suomen yksityismetsistä kerättyä metsävaratietoa. Palvelu tuotetaan sekä suomeksi että ruotsiksi." [^7]
 
-"Runkopuun yhden kuutiometrin kasvu, ilman juurten ja oksien kasvua, sitoo hiilidioksidia keskimäärin noin 1000 kg. Puusto kasvaa vuodessa Etelä-Suomessa keskimäärin 6 ja Pohjois-Suomessa 4 kuutiometriä/ha." [^7] ja [^8]
+"Runkopuun yhden kuutiometrin kasvu, ilman juurten ja oksien kasvua, sitoo hiilidioksidia keskimäärin noin 1000 kg. [^10](s.19) Puusto kasvaa vuodessa Etelä-Suomessa keskimäärin 6 ja Pohjois-Suomessa 4 kuutiometriä/ha." [^7] ja [^8]
 
 ## Metsänhoitoa
 
@@ -44,6 +44,11 @@ Metsää hoidetaan harvennuksilla tavoitteena avartaa valittujen kasvavien puide
 
 - 16 (2024)
 
+
+### Lannoitus
+
+Lannoituksela voi saada noin 8 prosentin tuoton. Kasvulannoitus soveltuu parhaiten noin 40 vuotiaisiin metsiin tai sellaisiin metsiin, joihin toinen harvennus on jo tehty. [^10](s.19) 
+
 ### Jatkuva kasvatus - hakkuut
 
 Jatkuva kasvatus oli ensin kiellettyä, sitten siedettävää ja sen jälkeen suositeltavaa.[^3](s.65) 
@@ -60,6 +65,7 @@ Avohakkuussa poistetaan lähes kaikki puusto, ja hakkuujälki täytyy uudistaa k
 
 Tukkipuun osuus uudistushakkuussa on lähes koko kertymästä (80-90 %), kunhan puusto on terve ja metsikkö on aiemmin harvennettu. Ilman oikea-aikaista harvennushakkuuta tukkipuukertymä jää yleensä 70 prosenttiin hakkuumäärästä tai alle. Hakkuukertymä uudistushakkuissa vaihtelee yleisesti Pohjois-Suomessa noin 200 kuutiometriin hehtaarilta ja Etelä-Suomessa 200-350 kuutiometriin hehtaarilta. Kuutiomäärään vaikuttavat kasvupaikka ja metsikön aiempi käsittely. Päätehakkuutulot voivat olla jopa 20 000 euroa hehtaarilta.[^5]
 
+Tarkista työmaalle jätettyjen sertifioinnin mukaisten säästöpuiden ja tekopökkelöiden määrä. [^10](s.9)
 
 ## Metsälaki
 
@@ -78,7 +84,7 @@ Pääsääntönä on kassaperiaate: Tämän pääsäännön mukaan etukäteen sa
 
 ### Tulot
 
-Metsätalouden pääomatulot käsittävät tulot, jotka saadaan puunmyynnistä, vakuutuskorvauksista, Kemera-tuista ja vastaavista lähteistä. Tämä tarkoittaa, että metsätaloudenharjoittajan saamat tulot näistä lähteistä luokitellaan verotuksessa pääomatuloiksi. Pääomatuloverotus soveltuu varallisuuden tuottamaan tuloon, erottaen sen ansiotuloverotuksesta.[^2](s.24)
+Metsätalouden pääomatulot käsittävät tulot, jotka saadaan puunmyynnistä, vakuutuskorvauksista, Kemera-tuista ja vastaavista lähteistä. Tämä tarkoittaa, että metsätaloudenharjoittajan saamat tulot näistä lähteistä luokitellaan verotuksessa pääomatuloiksi. Pääomatuloverotus soveltuu varallisuuden tuottamaan tuloon, erottaen sen ansiotuloverotuksesta.[^2](s.24) Pystykaupoissa ennakonpidätys on 19 prosenttia ja jankinta- sekä käteiskaupoissa 13 prosenttia kauppahinnasta. [^10]
 
 ### Vähennykset
 
@@ -148,6 +154,7 @@ Yhtymä toimii niin, että se ei omista mitään omaisuutta suoraan. Sen sijaan 
 [^7]: [Metsäkeskus - metsään.fi](https://www.metsakeskus.fi/fi/asiointi/metsaanfi)
 [^8]: Metsäkeskus [Metsäkeskus](https://www.metsakeskus.fi/fi)
 [^9]: Metsävero-opas Verovuosi 2023 - Stora Enso
-
+[^10]: TerveMetsä 4/2023 Stora Enson metsänomistajille
+[^11]: Stora Enso [Precision Forestry](https://www.storaenso.com/en/about-stora-enso/innovation/digitalisation-in-stora-enso/forest-operations)
 
 
