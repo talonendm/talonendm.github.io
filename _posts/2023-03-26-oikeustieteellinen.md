@@ -65,6 +65,59 @@ Aiempaa kirjallisuutta:
 - [Suomen suurin rikosjuttu uhkaa vanhentua käsiin](https://www.hs.fi/mielipide/art-2000009559508.html), HS 5.5.2023. "Vaarana on asianosaisia koskevien rikosten vanhentuminen lokakuussa 2023, ja jos näin käy, kyseessä on mittakaavassaan järkyttävä oikeudenmenetys. Suomalainen rikosoikeusprosessi on yksilön kannalta hidas ja läpinäkymätön."
 - [Kannattavatko ympäristörikokset Suomessa?](https://www.kpflaki.com/post/kannattavatko-ymp%C3%A4rist%C3%B6rikokset-suomessa): KPF-lakitoimisto.
 
+
+# Stories
+
+<!-- Johdatus prosessioikeuteen, Mikko Vuorenpää -->
+
+## procedural law
+
+**OR:** Hey, I suspect that the roof has been installed incorrectly. It's constantly leaking and causing damage to the interior.
+
+**RI:** Oh no, that doesn't sound good. First of all, I would like to apologize for any issues. This is clearly a serious situation, and we need to address it properly.
+
+**OR:** Yes, I'd like to figure out what we can do in this situation. I know that legal issues may arise, and it's good to apply the principles of substantive and procedural law here.
+
+**RI:** Exactly. Substantive law gives you the right to expect that the roof is installed correctly, and I have the obligation to do it right. If you suspect an error, substantive law gives you a basis to demand corrective actions or compensation.
+
+**OR:** But if additional actions are needed, then we move into the realm of procedural law. How should this be processed?
+
+**RI:** Yes, that's the next step. If you can't get me to voluntarily correct the situation or compensate for the damage, we'll have to resort to procedural law. At this point, it's advisable to contact a lawyer and figure out how we can initiate legal proceedings.
+
+**OR:** I understand. But I hope we can resolve this issue without going to court. Is it possible that we can somehow reach a settlement?
+
+**RI:** Yes, a settlement is always a desirable option. We can discuss possible corrective actions and compensations and see if we can reach an agreement without going to court. It can be both a faster and more cost-effective way to resolve the situation.
+
+**OR:** Great, I hope we can come to an agreement and fix the issue without major legal actions. But if it doesn't work out, I now know that there are legal alternatives.
+
+**RI:** Absolutely, I'm ready to do everything I can to fix the situation, and I hope we can find a solution that satisfies both parties.
+
+and some moments later ..
+
+**RI:** According to what was just explained, legal proceedings can be seen as a structured process defined by law, where the government authority determines what is deemed correct in individual cases. The process isn't an end in itself; rather, it aims to enforce substantive law. Its role, in essence, is to uphold substantive law by providing a means to achieve the goals set in regulating substantive law within society. This may involve utilizing legal procedures, even resorting to coercion if necessary.
+
+**OR:** That makes sense. So, if there's an issue with the construction, and we can't resolve it amicably, we might have to go through this legal process. How does procedural law break down further?
+
+**RI:** Procedural law is further divided into three main areas: civil procedure, criminal procedure, and administrative procedure. The determination of which type of procedure applies depends on the specific substantive law norms relevant to the case. For instance, if the matter involves private law, like compensation or debt recovery, we'd be looking at civil procedure. On the other hand, if there's a suspicion of a crime, we'd be dealing with criminal procedure. Administrative procedure handles legal proceedings in matters concerning public law relationships, such as taxation or obtaining administrative permits for construction projects.
+
+**OR:** So, the type of legal process depends on the nature of the issue. If it's related to construction defects or disputes, would that fall under civil procedure?
+
+**RI:** Exactly. If the issue is about a construction-related matter governed by private law, like contractual disputes or damage claims, then civil procedure would be the relevant legal process.
+
+**OR:** Got it. And I assume if there's an issue with compliance or permits, that might fall under administrative procedure?
+
+**RI:** Absolutely. Administrative procedure comes into play when we're dealing with matters that involve public law relationships, like obtaining permits for construction. It regulates the legal proceedings in those specific cases.
+
+**OR:** Thanks for clarifying. So, for our situation, we'd likely be focusing on civil procedure if things escalate.
+
+**RI:** That's correct. If we can't resolve the issue through negotiation, civil procedure would be the next step to ensure the enforcement of your substantive rights related to the construction.
+
+**OR:** Hopefully, it doesn't come to that, but it's good to know the options. Thanks for explaining the legal aspects of this process.
+
+**RI:** You're welcome. Let's work together to find a resolution without having to resort to legal proceedings, but if needed, we'll navigate it accordingly.
+
+
+
 ## Links
 
 - [Kaspian Law & Consulting Oy](https://www.kaspian.fi/)
