@@ -10,9 +10,14 @@ tags:
   - kertoja
   - kirja
   - Finna
+  - ChatGPT
 comments: false
 published: true
 ---
+
+Kirjojen analysointia, muistiinpanoja ja keskustelua tekoälyn (kielimallin) kanssa aiheista. Deep Learning -kurssien muistiinpanoja: 
+
+- [Prompt Engineering for Developers](https://docs.google.com/document/d/1P6ojmZyju3B1_j9y784L42u-qekfWJtdWQVtydvsGdM/edit?usp=sharing)
 
 
 # Kertoja
@@ -21,7 +26,7 @@ published: true
 
 Tämä tyyli mahdollistaa sen, että lukija saa syvällisemmän käsityksen henkilöhahmon tunteista ja ajatuksista, vaikka kaikkitietävä kertoja tietäisikin enemmän yleisesti tapahtumista. Samalla se luo mielenkiintoisen kontrastin, koska yleensä kaikkitietävät kertojat ovat etäisiä ja objektiivisia, mutta tässä tapauksessa ne yhdistyvät henkilöhahmon subjektiiviseen kokemukseen.
 
-Tällaista kerrontatapaa käytetään usein luomaan syvällisempää empatiaa henkilöhahmon kanssa samalla säilyttäen laajempi näkökulma koko tarinaan. Se myös mahdollistaa monimutkaisempien tunnetilojen ja henkilöhahmojen kehityksen kuvaamisen.
+Tällaista kerrontatapaa käytetään usein luomaan syvällisempää empatiaa henkilöhahmon kanssa samalla säilyttäen laajempi näkökulma koko tarinaan. Se myös mahdollistaa monimutkaisempien tunnetilojen ja henkilöhahmojen kehityksen kuvaamisen. [Turbo 3.5]
 
 ## DOCS - Private - book stories
 
@@ -44,6 +49,44 @@ Rakennusalalla, erityisesti pientalojen vesikattorakenteissa tapahtuu sekä ymp�
 1999, 2. uudistettu painos. [Finna](https://www.finna.fi/Record/oy.996434383906252), [comments](https://www.finna.fi/Record/oy.996434383906252#usercomments): "Teos melko vanha, mutta kirja tarjoaa ihan hyödyllistä tietoa. Väärin suunnitellun tai huonosti hoidetun katon aiheuttamat vauriot voivat johtaa merkittäviin kustannuksiin. Aluskate ei saa olla tiukasti ruoteita vasten, vaan sen on oltava 20-30 mm "riippuvassa" asennossa. Aluskatteen saumat limitetään siten, että vesi ohjautuu räystäälle tai kouruihin. Huomaa, että vielä 2020-luvulla eräät rakennusalalla toimivat aluskate- ja muotokatevalmistajat ohjeistavat, että aluskatteen voi asentaa kireälle ilman roikkumaa. Veden ohjautuminen aluskatteella ei tällöin ole rakennusmääräysten mukaista."
 
 Väärin suunnitellun tai huonosti hoidetun katon aiheuttamat vauriot voivat johtaa merkittäviin kustannuksiin. Aluskate ei saa olla tiukasti ruoteita vasten, vaan sen on oltava 20-30 mm "riippuvassa" asennossa. Aluskatteen saumat limitetään siten, että vesi ohjautuu räystäälle tai kouruihin. [s.70]
+
+~~~Python
+
+prompt_1 = f"""
+Perform the following actions: 
+1 - Summarize the following text delimited by triple \
+backticks with 1 sentence.
+2 - Translate the summary into English.
+3 - List each topic in the English summary.
+4 - Output a json object that contains the following \
+keys: french_summary, num_names.
+
+Separate your answers with line breaks.
+
+Text:
+```{text}```
+"""
+response = get_completion(prompt_1)
+print("Completion for prompt 1:")
+print(response)
+
+# deeplearning.ai
+
+~~~
+
+output [Turbo 3.5](https://platform.openai.com/docs/guides/text-generation/chat-completions-api):
+
+~~~Python
+
+prompt_1 = f"""
+Completion for prompt 1:
+1 - The text discusses the potential damages and costs caused by poorly designed or maintained roofs, emphasizing the importance of proper installation and positioning of the underlay.
+2 - The potential damages and costs caused by poorly designed or maintained roofs can be significant, and it is important for the underlay to be positioned with a 20-30 mm "hanging" installation, with seams that direct water towards the eaves or gutters.
+3 - damages, costs, poorly designed roofs, poorly maintained roofs, proper installation, positioning, underlay, 20-30 mm hanging installation, seams, water, eaves, gutters.
+4 - {"french_summary": "Les dommages potentiels et les coûts causés par des toits mal conçus ou mal entretenus peuvent être importants, et il est important que la sous-couche soit positionnée avec une installation "suspendue" de 20 à 30 mm, avec des coutures qui dirigent l'eau vers les avant-toits ou les gouttières.", "num_names": 13}
+
+~~~
+
 
 APA-viite<br>
 Jormalainen, P., & Matilainen, A. (1999). Korjausrakentaminen (2. uud. p.). Rakennusalan kustantajat : Kustantajat Sarmala.
@@ -105,6 +148,49 @@ Harvard-tyylinen lähdeviittaus
   - "Aluskatteella on kaksi päätehtävää: Aluskate varmistaa katerakenteen vedenpitävyyden. arsinkin ankarissa sääolosuhteissa, esimerkiksi tuulisella sadesäällä tai keväällä kattolumien sulaessa katteen saumoistaja rakenneliitoksista saattaa katteen alle päästä vettä. Aluskate thdään siten, että tällaiset eksyneet vesipisarat eivät pääse yläpohjan arkoihin rakenteisiin,vaan joutuvat aluskatetta pitkin räystäälle ja siis talon ulkopuolelle. [Aluskate s.13]
 - Talonrakentajan käsikirja. 4 : Pientalon vesikatto- ja ulkoverhoustyöt (rakentajan tietokirjat, 4. painos)
   - "Aluskatteella tarkoitetaan katteen alapuolista ainekerrosta, joka estää katteen saumojen tai reunojen kautta mahdollisesti tihkuvan veden tai lumen sekä kondenssiveden pääsyn yläpohjaan. Varsinaisen katteen alle päässyt vesi valuu aluskatetta pitkin ulkoseinä-linjan ulkopuolelle. Aluskatteista puhuttaessa tarkoitetaan yleensä ns. vapaasti asennettavia aluskatteita." [Aluskate s.11]
+
+~~~Python
+
+prompt_2 = f"""
+Your task is to perform the following actions: 
+1 - Summarize the following text delimited by 
+  <> with 1 sentence.
+2 - Translate the summary into Finnish.
+3 - List each name in the English summary.
+4 - Output a json object that contains the 
+  following keys: english_summary, num_names.
+
+Use the following format:
+Text: <text to summarize>
+Summary: <summary>
+Translation: <summary translation>
+Names: <list of names in summary>
+Output JSON: <json with summary and num_names>
+
+Text: <{text}>
+"""
+response = get_completion(prompt_2)
+print("\nCompletion for prompt 2:")
+print(response)
+
+# deeplearning.ai
+
+~~~
+
+output [Turbo 3.5](https://platform.openai.com/docs/guides/text-generation/chat-completions-api):
+
+~~~Python
+
+Completion for prompt 2:
+Summary: The text discusses the importance of a roof's waterproofing and the role of an underlay in preventing water from entering the building's structure, with specific requirements outlined for the roof and underlay.
+
+Translation: Teksti käsittelee katon vesitiiviyden tärkeyttä ja aluskatteen roolia veden pääsyn estämisessä rakennuksen rakenteisiin, ja siinä määritellään tarkat vaatimukset katolle ja aluskatteelle.
+
+Names: Juhani Keppo
+
+Output JSON: {"english_summary": "The text discusses the importance of a roof's waterproofing and the role of an underlay in preventing water from entering the building's structure, with specific requirements outlined for the roof and underlay.", "num_names": 1}
+
+~~~
 
 
 ## YSE 1983 : rakennusurakka : käytännön käsikirja / Reino Erma
