@@ -37,6 +37,7 @@ Taimikon perustaminen ja alkukasvatus vaativat merkittävää työtä ja aiheutt
 Ensiharvennus toimii siirtymävaiheena hoitovaiheesta hyötyvaiheeseen. Suurin osa kiertoajasta edustaa metsänomistajalle selvää hyötyvaihetta jatkuvassa kasvatuksessa, missä metsä uudistuu jatkuvasti ja hakkuita tehdään toistuvasti suurten puiden keräämiseksi talteen, samalla tehdään tilaa uudelle kasvulle ja uudistumiselle.[^5]
 
 - 13 (2024)
+- Jalkasen (1000m2 tila) koivikon ensiharvennus, [metsälehti](https://www.metsalehti.fi/artikkelit/ensiharvennukseen-kymmenessa-vuodessa/#7fc0eb2a)
 
 ### Harvennushakkuu
 
@@ -61,15 +62,23 @@ Metsälain mukaan päätehakkuun jälkeen on huolehdittava metsän uudistumisest
 
 Metsän taloudellinen uudistamisikä vaihtelee puulajista ja maantieteellisestä sijainnista riippuen. Etelä-Suomessa havupuut ovat taloudellisesti uudistamiskypsiä yleensä 70-100 vuoden iässä, kun taas Pohjois-Suomessa metsä saavuttaa usein uudistuskypsyyden yli 100-vuotiaana. Koivikoita uudistetaan yleensä aikaisemmin, jo 50-70-vuotiaina. Uudistuskypsän puuston keskimääräinen läpimitta vaihtelee alueittain. Päätehakkuun yhteydessä pyritään kasvattamaan 400-500 puuta hehtaarilla Etelä-Suomen metsissä, mikä voi vastata noin 300 m3 puustoa hehtaarilla. [^5]
 
-Avohakkuussa poistetaan lähes kaikki puusto, ja hakkuujälki täytyy uudistaa kylvämällä tai istuttamalla. Kylvö on yleinen ja suositeltu uudistamistapa männiköissä sen kustannustehokkuuden ja varmuuden vuoksi, erityisesti kuivahkoilla kankailla. Kylvössä käytetään usein maanmuokkauskoneeseen liitettyä laitetta, mikä pienentää kustannuksia. Rehevillä mailla koivun kylvö voi olla suositeltavaa, kun taas kuusen uudistamiseen kylvö ei sovi. Istutus on varmin uudistamismenetelmä, ja hyvin toteutettuna se tuottaa nopeasti laadukkaan taimikon. Istutuksessa taimien keskimääräinen etäisyys on noin 2-2,5 metriä, ja tarkat istutustiheydet sekä ohjeet puulajille ja viljelytavalle on syytä selvittää erikseen.[^5]
+Avohakkuussa poistetaan lähes kaikki puusto, ja hakkuujälki täytyy uudistaa kylvämällä tai istuttamalla. Kylvö on yleinen ja suositeltu uudistamistapa männiköissä sen kustannustehokkuuden ja varmuuden vuoksi, erityisesti kuivahkoilla kankailla. Kylvössä käytetään usein maanmuokkauskoneeseen liitettyä laitetta, mikä pienentää kustannuksia. Rehevillä mailla koivun kylvö voi olla suositeltavaa, kun taas kuusen uudistamiseen kylvö ei sovi. Istutus on varmin uudistamismenetelmä, ja hyvin toteutettuna se tuottaa nopeasti laadukkaan taimikon. Istutuksessa taimien keskimääräinen etäisyys on noin 2-2,5 metriä, ja tarkat istutustiheydet sekä ohjeet puulajille ja viljelytavalle on syytä selvittää erikseen.[^5] 
 
-Tukkipuun osuus uudistushakkuussa on lähes koko kertymästä (80-90 %), kunhan puusto on terve ja metsikkö on aiemmin harvennettu. Ilman oikea-aikaista harvennushakkuuta tukkipuukertymä jää yleensä 70 prosenttiin hakkuumäärästä tai alle. Hakkuukertymä uudistushakkuissa vaihtelee yleisesti Pohjois-Suomessa noin 200 kuutiometriin hehtaarilta ja Etelä-Suomessa 200-350 kuutiometriin hehtaarilta. Kuutiomäärään vaikuttavat kasvupaikka ja metsikön aiempi käsittely. Päätehakkuutulot voivat olla jopa 20 000 euroa hehtaarilta.[^5]
+Tukkipuun osuus uudistushakkuussa on lähes koko kertymästä (80-90 %), kunhan puusto on terve ja metsikkö on aiemmin harvennettu. Ilman oikea-aikaista harvennushakkuuta tukkipuukertymä jää yleensä 70 prosenttiin hakkuumäärästä tai alle. Hakkuukertymä uudistushakkuissa vaihtelee yleisesti Pohjois-Suomessa noin 200 kuutiometriin hehtaarilta ja Etelä-Suomessa 200-350 kuutiometriin hehtaarilta. Kuutiomäärään vaikuttavat kasvupaikka ja metsikön aiempi käsittely. Päätehakkuutulot voivat olla jopa 20 000 euroa hehtaarilta.[^5] Tarkista työmaalle jätettyjen sertifioinnin mukaisten säästöpuiden ja tekopökkelöiden määrä. [^10](s.9)
 
-Tarkista työmaalle jätettyjen sertifioinnin mukaisten säästöpuiden ja tekopökkelöiden määrä. [^10](s.9)
+Vinkkejä puukauppaan: ei kiirettä; metsänomistaja päättää metsien käsittelystä aina itse. Hakkuun ainaka saa ja kannattaa käydä katsomassa työmaata ja varmistaa, että kaupanteossa sovitut asiat toteutuvat. ; ota selvää mitä hakkuiden jälkeen tulee tehdä. [^12](s.40)
 
 ## Metsälaki
 
-Voimaan tullut [metsälaki](https://mmm.fi/metsat/metsatalous/metsatalouden-kestavyys/metsalaki) antaa valinnanvapauden, mutta myös samalla lisää vastuuta metsänhoidossa. [^1]
+Voimaan tullut [metsälaki](https://mmm.fi/metsat/metsatalous/metsatalouden-kestavyys/metsalaki) antaa valinnanvapauden, mutta myös samalla lisää vastuuta metsänhoidossa. [^1] Metsänomisajan oikeusturva on kuitenkin metsälain kipukohta. Esimerkiksi korjuuvauriot ja virheet hakkuissa lankeaa metsänomistajalle. [^12](s.7)
+
+Ilmaston kannalta päättäjien tulisi esittää myös hiilisidonnan (suojelumetsien lisäksi) esimerkiksi tukimallia järeälle tukkipuulle. Tällöin metsää kannattaisi kasvattaa "loppuun asti" eikä uudistaa esim. 70 vuoden jälkeen. [^12](s.7)
+
+- "Lakia ei kukaan valvo", "jos lakia rikotaan, siitä pitäisi olla rangaistus. Metsälakia on urha tiukentaa, koska sitä ei juuri kukaan valvo. Jos sitä rikotaan, siitä ei yleensä seuraa mitään." [^12](s.9)
+
+## hiilinielu
+
+Suomeen laskettu hiilinielun määrä romahti. Se johtuu siitä, että suometsien määrä on pienentynyt, muuttunut suosta kangasmaaksi. Tässä on siis kyse hiilen nettonielun romahtamisesta eli metsien hiilen sidonnasta vähennetään hiilen päästöt. Turpeen muutuminen kangasmaaksi tuottaa CO2:sta. Suomen metsien laskennallinen nettohiilinielu putosi yli 20 miljoonasta (2020) CO2-ekvivalenttitonnista 8,4 miljoonaan (2021) [^12](s.36)
 
 ## Puukauppa
 
@@ -156,5 +165,5 @@ Yhtymä toimii niin, että se ei omista mitään omaisuutta suoraan. Sen sijaan 
 [^9]: Metsävero-opas Verovuosi 2023 - Stora Enso
 [^10]: TerveMetsä 4/2023 Stora Enson metsänomistajille
 [^11]: Stora Enso [Precision Forestry](https://www.storaenso.com/en/about-stora-enso/innovation/digitalisation-in-stora-enso/forest-operations)
-
+[^12]: MT Metsä no 4, 2023
 

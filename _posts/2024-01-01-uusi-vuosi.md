@@ -47,7 +47,7 @@ Puhe katsottavissa kokonaisuudessaan [Areenassa](https://areena.yle.fi/1-6731009
 
 - Ilmalämpöpumppu [IL 3.1.2024](https://www.iltalehti.fi/asumisartikkelit/a/688f3629-050a-493e-8c81-deccc36a68f6): "Ikkunoiden eteen kannattaa etenkin öisin vetää verhot sekä sälekaihtimet, sillä niiden käyttö vähentää lämpöhukkaa." ja "Jos pumppu käynnistetään uudelleen matalissa lämpötiloissa, nopea laitteen lämpeneminen voi aiheuttaa vaurioita sen osiin. Jos laite sammuu tai sammutat laitteen, on uudelleenkäynnistykseen odotettava pakkasten lauhtumista, muistuttaa Motiva."
 - "Uraania merivedestä uudella sähkökemiallisella menetelmällä – Riittäisi tuhannelle 1 000 MW ydinvoimalalle 100 000 vuodeksi" [T&T](https://www.tekniikkatalous.fi/uutiset/uraania-merivedesta-uudella-sahkokemiallisella-menetelmalla-riittaisi-tuhannelle-1000-mw-ydinvoimalalle-100000-vuodeksi/fe6feb01-9cd0-4c0b-9568-4d4b088e53c2)
-
+- [Bothnian Bay Hydrogen Valley](https://research.lut.fi/converis/portal/detail/Publication/18879375?auxfun=&lang=en_GB) – Research repo [PDF](https://lutpub.lut.fi/bitstream/handle/10024/163667/Bothnian_Bay_Hydrogen_Valley_Research_Report_Final.pdf?sequence=1&isAllowed=y): "tuulivoimaresurssien riittävyys suhteessa lisääntyneeseen sähkönkulutukseen, johon puolestaan vaikuttaa alueen terästuo-tannon muuttuminen hiilineutraaliksi ja sähköpohjaisten kemikaalien tuotanto (power-to-methanol). Johtopäätöksenä alueen tuulipotentiaalia voidaan pitää riittävänä muutosta varten, mutta käytettävissä olevan kapasiteetin on kasvettava merkittävästi sekä sähköntuotannon että energian siirtojärjestelmien osalta." - Hannu Karjunen
 
 ## Ilmasto
 
@@ -67,6 +67,8 @@ Puhe katsottavissa kokonaisuudessaan [Areenassa](https://areena.yle.fi/1-6731009
 - "Diabetesyhteisö vetoaa lääkärikuntaan, jotta kohulääke Ozempicia ei määrättäisi lihavuuden hoitoon." [keskipohjanmaa 11.9.2023](https://www.keskipohjanmaa.fi/artikkeli/suolistohormonilaakkeesta-on-edelleen-kova-pula-mutta-julia-lehto-on-onnistunut-saamaan-sita-uusi)
   - [HS 6.4.2023](https://www.hs.fi/hyvinvointi/art-2000009420044.html) Kohulääkkeen nälkä
     - Kohuttuun laihdutus­lääkkeeseen on yhdistetty lukuisia vakavia sivu­vaikutuksia – [Asian­tuntija kommentoi](https://www.hs.fi/hyvinvointi/art-2000009752914.html)
+- [Diabetes.fi](https://www.diabetes.fi/diabetes/onko_minulla_diabetes): "Kun paastoverinäytteestä mitataan sokeria 6,1–6,9 mmol/l, kyseessä on kohonnut paastoplasman sokeri eli heikentynyt paastosokeri (IFG, impaired fasting glucose).": "Kohonneen verensokerin pääsyy on vyötärölihavuus, jossa rasvakudosta on runsaasti vatsaontelossa, ja siihen liittyvä rasvan kertyminen maksasoluihin (ks. Rasvamaksa). Nämä aiheuttavat insuliiniresistenssiä, eli insuliinin vaikutus soluissa heikkenee. Seurauksena on aluksi verensokerin lievä nousu (esidiabetes), joka usein etenee diabetekseksi. Myös vähäinen liikunta heikentää insuliinin vaikutusta." [terveyskirjasto](https://www.terveyskirjasto.fi/dlk01134)
+- [Candela C8](https://candela.com/candela-c-8/) vauhtiveneessä kaksi hydrofoilia eli vedenalaista siipeä.
 
 
 ## AI
