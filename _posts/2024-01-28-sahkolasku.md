@@ -7,7 +7,7 @@ tags:
   - chatGPT
 comments: false
 cover-img: /assets/pics/cover/e1024/e-book-notes.jpg
-thumbnail-img: /assets/pics/thumbnail/e3640-direct/tuulivoimala.jpg
+thumbnail-img: /assets/pics/thumbnail/e640-direct/2023/tuulivoimala.jpg
 published: true
 ---
 
