@@ -106,13 +106,36 @@ LATER
 
 <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
 
+
+<!-- NOTE: these do not work in P5, here it is ok! 
+    width: 800 too wide, lets try 700 
+    
+    
+Links Coloring
+You can adjust links' color by setting linkColor to one of those:
+
+source - link will be of a source node color
+target - link will be of a target node color
+gradient - link color will be smoothly transient between source and target node colors
+hex code of color, like #a1a1a1
+Node Alignment
+Graph layout can be changed by setting nodeAlignment to:
+
+justify
+center
+left
+right
+
+    
+     -->
+
 <script>
   const config = {
     startOnLoad: true,
     securityLevel: 'loose',
     sankey: {
-      width: 800,
-      height: 400,
+      width: 700,
+      height: 350,
       linkColor: 'source',
       nodeAlignment: 'left',
     },
