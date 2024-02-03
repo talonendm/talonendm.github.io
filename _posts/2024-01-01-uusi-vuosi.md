@@ -110,6 +110,44 @@ Puhe katsottavissa kokonaisuudessaan [Areenassa](https://areena.yle.fi/1-6731009
 - 1.9€/km, 1.5€/min. Kallis
 - 1,20 €/km + 1,20 €/min, Taksi Helsinki
 
+# test
+
+<script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+
+
+<pre class="mermaid">     
+
+quadrantChart
+  x-axis Kiireellinen --> "Ei kiirettä"
+  y-axis "Voit unohtaa" --> "Tärkeä ❤"
+  quadrant-1 Suunnittele
+  quadrant-2 Toimi
+  quadrant-3 Delegoi
+  quadrant-4 Poista 
+</pre> 
+
+
+```html
+<p>
+    This is a paragraph with **markdown bold** which will be ignored.
+    This is the next line but there was no break tag so it is on the same line.
+</p>
+```
+
+```html
+<pre class="mermaid">     
+
+quadrantChart
+  x-axis Kiireellinen --> "Ei kiirettä"
+  y-axis "Voit unohtaa" --> "Tärkeä ❤"
+  quadrant-1 Suunnittele
+  quadrant-2 Toimi
+  quadrant-3 Delegoi
+  quadrant-4 Poista 
+</pre> 
+
+```
+
 ---
 
 [Disclaimer](https://talonendm.github.io/disclaimer)
