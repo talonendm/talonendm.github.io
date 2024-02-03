@@ -116,7 +116,46 @@ and some moments later ..
 
 **RI:** You're welcome. Let's work together to find a resolution without having to resort to legal proceedings, but if needed, we'll navigate it accordingly.
 
+## flowchart - PROSESSIOIKEUDEN LÄHTEET
 
+<script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+
+<pre class="mermaid">     
+
+%% Flow https://mermaid.js.org/syntax/flowchart.html
+%% PROSESSIOIKEUDEN LÄHTEET (s.5) 
+%% TODO: Tarkista 3.2.2024
+
+%% POS Jokaisella on oikeus saada asiansa käsitellyksi asianmukaisesti ja ilman aiheetonta viivytystä lain mukaan toimivaltaisessa tuomioistuimessa tai muussa viranomaisessa sekä oikeus saada oikeuksiaan ja velvollisuuksiaan koskeva päätös tuomioistuimen tai muun riippumattoman lainkäyttöelimen käsiteltäväksi
+
+graph TD
+
+    EIS[Euroopan neuvoston ihmisoikeussopimus EIS]
+    YKK[Yhdistyneiden kansakuntien kansalaisoikeus]
+    KP[poliittisia oikeuksia koskeva kansainvlinen yleissopimus KP-sopimus]
+    EIS-. artikla .->OO(oikeudenmukaiseen oikeudenkäynti)
+    KP-. artikla .->OO
+    EIS-->oj(ohjelmallisia ja julistuksenomaisia)
+    EIS-->EIT[Euroopan ihmisoikeustuomioistuimen EIT]
+
+    A0[Kirjoitettu laki] --> PO
+    H0[tavanomaisella oikeudella eli maantavalla]-->PO
+    PO[Prosessioikeus] --> B(Prosessimenettely)
+    B --> C[rikosprosessilaki, ROL]
+    C-. text .-> B
+    B --> D[oikeudenkäymiskaari]    
+    D-->E(siviiliasioissa säätelevä yleislaki)
+    OK[oikeudenkäymiskaari OK 1:11]
+    Tuomioistuinlaki --x OK
+    OK-->tm(todistelu ja muutoksenhaku)
+    tm-->ROL[rikosasioiden tuomioistuinkäsittely ROL 12:1]
+    ROL --x E
+    PL[Suomen perustuslain PL 21 §]-->pos(perusoikeussäännös)
+    pos-. ohjausvaikutus .->PO 
+
+    
+
+</pre>
 
 ## Links
 

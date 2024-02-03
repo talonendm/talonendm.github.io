@@ -110,10 +110,9 @@ Puhe katsottavissa kokonaisuudessaan [Areenassa](https://areena.yle.fi/1-6731009
 - 1.9€/km, 1.5€/min. Kallis
 - 1,20 €/km + 1,20 €/min, Taksi Helsinki
 
-# test
+# quadrantChart testing
 
 <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
-
 
 <pre class="mermaid">     
 
@@ -126,13 +125,7 @@ quadrantChart
   quadrant-4 Poista 
 </pre> 
 
-
-```html
-<p>
-    This is a paragraph with **markdown bold** which will be ignored.
-    This is the next line but there was no break tag so it is on the same line.
-</p>
-```
+See [P5-editor](https://editor.p5js.org/haques/sketches/2GgsUVSPn) and HTML in Markdown, [discussion](https://talk.jekyllrb.com/t/html-in-markdown/4585/4):
 
 ```html
 <pre class="mermaid">     
