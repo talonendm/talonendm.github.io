@@ -138,6 +138,7 @@ graph TD
     EIS-->oj(ohjelmallisia ja julistuksenomaisia)
     EIS-->EIT[Euroopan ihmisoikeustuomioistuimen EIT]
 
+
     A0[Kirjoitettu laki] --> PO
     H0[tavanomaisella oikeudella eli maantavalla]-->PO
     PO[Prosessioikeus] --> B(Prosessimenettely)

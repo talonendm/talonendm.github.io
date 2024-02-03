@@ -99,6 +99,45 @@ LATER
 
 
 
+
+## Sankey test
+
+<!-- https://mermaid.js.org/syntax/sankey.html  -->
+
+<script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+
+<script>
+  const config = {
+    startOnLoad: true,
+    securityLevel: 'loose',
+    sankey: {
+      width: 800,
+      height: 400,
+      linkColor: 'source',
+      nodeAlignment: 'left',
+    },
+  };
+  mermaid.initialize(config);
+</script>
+
+<pre class="mermaid">     
+
+
+%% CSV !!!!!
+
+sankey-beta
+
+Pumped heat, Door,100
+Pumped heat, Window, 50
+Pumped heat, Food, 20
+Pumped heat, Other, 20
+Panel, Other, 10
+
+
+</pre>
+
+
+
 # Lopuksi
 
 
