@@ -8,6 +8,7 @@ tags:
   - npm
   - nodejs
   - laser template
+  - ohjelmointi
 comments: true
 cover-img: /assets/pics/cover/photo/lasercutHiveCover.jpg
 thumbnail-img: /assets/pics/thumbnail/photo/app.jpg
@@ -96,6 +97,21 @@ Kuviot seuraavat hiiren liikkeitä, katso ja kokeile: [mouseX ja mouseY](https:/
 ### Haastava lisätehtävä
 
 Nostoauto esimerkki [täällä](https://maol.fi/materiaalit/taidetta-ohjelmoimalla/5-muuttujat/nostoauto/) ja kopio editoitavissa omassa P5-editorissa: <a href="https://editor.p5js.org/haques/sketches/McqXpW-WZ" target="_blank" rel="noopener"><span>Nostoauto - MAOL</span> </a>
+
+
+## Kurssi 3
+
+Eräät ihmiset pitävät lippujen opettelusta erilaisten lippupelien avulla. Ajattelin, että sellaisin voisi itsekin koodata, sellaisen, jossa ei esimerkiksi mainokset hypi silmille. Liput löytyvät valmiina [githubista](https://github.com/hampusborgos/country-flags): 
+
+~~~js
+
+~/git/github
+$ git clone https://github.com/hampusborgos/country-flags.git
+
+~~~
+
+
+
 
 
 # NPM

@@ -5,7 +5,8 @@ subtitle: p5 template - how to create new repo from this template
 tags:
   - git 
   - p5.js
-  - template
+  - github
+  - github template
   - gh-pages
   - Christmaself
   - Katakana
@@ -70,7 +71,9 @@ gh-pages branch: [https://talonendm.github.io/christmaself/](https://talonendm.g
 
 
 ## Katakana
+
 Drawing instuctions for [Katakana](https://www.lexilogos.com/keyboard/katakana.htm) (japanese):
+
 ~~~
 
 cd git # or wherever you have your repositories
@@ -97,4 +100,47 @@ git push origin gh-pages
 
 ~~~
 Go to https://github.com/talonendm/katakana and change brach to gh-pages. Github Katakana repository was created on 28th of March, 2021.
+
+## lippupeli
+
+~~~
+
+cd git # or wherever you have your repositories
+git clone https://github.com/talonendm/lippupeli.git
+cd lippupeli
+
+# These are not needed, in settings as default
+# git branch gh-pages
+# git checkout gh-pages
+# git push -u origin gh-pages
+
+cd ..
+
+git clone https://github.com/talonendm/p5template.git
+
+cp p5template/sketch.js lippupeli/sketch.js
+cp p5template/index.html lippupeli/index.html
+cp p5template/style.css lippupeli/style.css
+
+cd lippupeli
+
+git add .
+git commit -m "template copied"
+git push origin gh-pages
+
+# $ git push origin gh-pages
+# remote: Invalid username or password.
+# fatal: Authentication failed for 'https://github.com/talonendm/lippupeli.git/'
+
+# you need: (multiple hosts in .ssh folder like "Host github-talonendm")
+git push git@github-talonendm:talonendm/lippupeli
+
+~~~
+
+
+
+
+Go to https://github.com/talonendm/lippupeli and change brach to gh-pages. Github lippupeli repository was created on 2nd of February, 2024.
+
+![b.01.Rijsttafel](/assets/pics/page/repo/lippupeligithub.jpg){: .mx-auto.d-block :}
 
