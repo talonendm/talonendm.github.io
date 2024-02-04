@@ -95,12 +95,34 @@ da1 <- da1 %>% dplyr::mutate(hintavakiocum = cumsum(hintavakio) + cumsum(soppari
 
 # Kuvat
 
-LATER
+![b.01.sahko2401](/assets/pics/page/R/240128-sahkolasku.png){: .mx-auto.d-block :}
+
+Tammikuussa 2024 määräaikainen sähkösopimus tuli hieman edullisemmaksi kuin se, että asukas olisi valinnut pörssisähkösopimuksen.
+
+~~~R
+
+otsikko <- paste0(
+  "Sähkölämmitteinen omakotitalo:\nkulutuksella painotettu pörssihinta ", 
+  round(porssisahkopainotettukahinta,2), 
+  " c/kWh vs.\n vakiosoppari 9,45 c/kWh"
+)
+
+library(ggplot2)
+Sys.setlocale("LC_TIME", "Finnish")
+ggplot2::ggplot(da2, ggplot2::aes(x = t, y = hinta, color = sopimus)) + 
+  ggplot2::geom_line(size = 1.2) + 
+  ggplot2::xlab("Päiväys") +
+  ggplot2::ggtitle(otsikko) + 
+  ylab("Kustannus €")
+
+~~~
 
 
+## Sankey diagram for a winter day's energy distribution
 
-
-## Sankey test
+- Varaavalla takalla vähennetään sähkön kulutusta keskimäärin noin 2 000 kilowattituntia vuodessa, mutta kyllä parhaat pääsevät jopa 8000 kilowattituntiin. [^8]
+-  Levossa ihminen tuottaa keskimäärin 100 wattia lämpöä, kun taas kotitöitä tehtäessä lämmöntuotanto kasvaa jo 250 wattiin. Jos rasitus on keskiraskasta, lämpöä syntyy 500 wattia. "Ihmisen perusmetabolia tuottaa lämpöä noin 58 W/m² eli keskimäärin 110 W. Aikuisen ihmisen jäähtyessä säätelyn alainen lämmön tuotto perustuu ennen kaikkea lihasvärinän ja lihastyön tuottamaan lämpöön." [^9]
+-  "Hehkulamput on jo todettu niin surkeiksi valonlähteiksi, että ne täytyi kieltää, mutta kynttilä se vasta heikoksi jääkin: kynttilän palaessa vapautuvasta energiasta alle tuhannesosa nähdään valona." [^10]
 
 <!-- https://mermaid.js.org/syntax/sankey.html  -->
 
@@ -150,14 +172,64 @@ right
 
 sankey-beta
 
-Pumped heat, Door,100
-Pumped heat, Window, 50
-Pumped heat, Food, 20
-Pumped heat, Other, 20
-Panel, Other, 10
+Energy, Hot Water, 8
+Energy, Heating,59
+Energy, Lighting,8
+Energy, Kitchen, 5
+Energy, Sauna, 5
+Sauna, Heating, 3
+Sauna, Hygiene, 2
+Hot Water, Hygiene, 5
+Hot Water, Kitchen, 3
+Fire place, Heating, 9
+People, Heating, 7
+Candles, Heating, 0.799
+Candles, Lighting, 0.001
+Energy, Electronic devices, 13
+Electronic devices, Lighting, 2
+Electronic devices, Heating, 11
+
 
 
 </pre>
+
+
+ChatGPT Turbo 3.5:sen näkemys energian kulutuksesta:
+
+~~~
+
+                  +-----------+
+                  |  Energy   |
+                  |  Source   |
+                  +-----|-----+
+                        |
+         +--------------|--------------+
+         |              |              |
+    +----v----+  +----v----+  +----v----+
+    | Heating |  | Lighting|  | Devices |
+    | System  |  |         |  |         |
+    +----|----+  +----|----+  +----|----+
+         |             |            |
+         |             |            |
+         |             |            |
+  +------v-------+ +--v--+ +-------v--------+
+  | Radiators   | | LED | |  Electronic   |
+  |              | |     | |  Devices      |
+  +--------------+ +-----+ +---------------+
+         |             |            |
+         |             |            |
+         |             |            |
+  +------v-------+ +--v--+ +-------v--------+
+  | Hot Water   | | TV  | |   Computer    |
+  | Boiler      | |     | |               |
+  +--------------+ +-----+ +---------------+
+
+~~~
+
+
+
+
+
 
 
 
@@ -190,3 +262,6 @@ Panel, Other, 10
 [^5]: "Pörssisähkö maksoi viime vuonna keskimäärin seitsemän senttiä kilowattitunnilta, mutta hinta on vain osatotuus sähkön todellisesta hinnasta pörssisopimuksen tehneelle kuluttajalle." [KL 26.1.2024](https://www.kauppalehti.fi/uutiset/porssisahkon-vaitetaan-olevan-aina-halvempi-keskiarvohinta-kertoo-vain-osan-totuudesta/23d0b89f-4561-40b3-8823-ee6f2ee6ffd9)
 [^6]: "Sadattuhannet jumissa kalliissa sopimuksessa – kuluttaja-asiamies neuvoton" [HS 20.9.2023](https://www.hs.fi/talous/art-2000009867277.html)
 [^7]: "Kiteeläinen maitotilallinen otti aggregaatin käyttöön ja huomasi polttoöljyllä tuotetun sähkön tulevan nyt pörssisähköä edullisemmaksi" [Maaseudun tulevaisuus 15.12.2022](https://www.maaseuduntulevaisuus.fi/uutiset/052c51bf-2085-4f3f-8c08-4ca982088982)
+[^8]: "Näin kannattavaa on lämmittää varaavalla takalla – ostetuilla klapeillakin säästää satoja euroja" [IS 2.10.2017](https://www.is.fi/taloussanomat/art-2000005391951.html) 
+[^9]: "Ihmisen kylmävasteet ja toimintakyky", 2005, Hannu Rintamäki, Lawrence A. Palinkas ja Juhani Leppäluoto [Duodecim](https://www.duodecimlehti.fi/duo94810)
+[^10]: "TM selvitti: Miten kynttilä toimii? Energiasta alle tuhannesosa näkyy valona" [TM 18.2.2017](https://tekniikanmaailma.fi/tm-selvitti-nain-toimii-kynttila-energiasta-tuhannesosa-nakyy-valona/)
