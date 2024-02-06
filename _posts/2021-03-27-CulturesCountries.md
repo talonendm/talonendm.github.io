@@ -252,6 +252,12 @@ Instructions to create interactive maps using [leaflet](https://leafletjs.com/Sl
 
 - [Sillamäe](https://fi.wikipedia.org/wiki/Sillam%C3%A4e): "Sillamäe oli suljettu vuoteen 1991 asti. Sotateollisuuden työvoimana käytettiin venäläisiä siirtolaisia, sotavankeja ja jopa leningradilaisia kodittomia nuoria."
 
+
+### Intia
+
+- Tamarindin nimi on peräisin arabian kielisestä nimestä tamr hindī, joka merkitsee "intialainen taateli". (limua ompusta 24/02) Tamarindipuu on kotoisin trooppisilta Itä-Afrikan aroilta. Tamarindipuuta kasvaa nykyisin myös Aasian trooppisissa osissa ja Latinalaisessa Amerikassa ja Karibialla. [Wiki](https://fi.wikipedia.org/wiki/Tamarindipuu)
+
+
 ## Links
 
 - import leaflet js [integrity](https://iqcode.com/code/javascript/import-leaflet-js)

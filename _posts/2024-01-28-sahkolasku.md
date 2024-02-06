@@ -17,6 +17,7 @@ Onko sähkösopimuksissa suuria eroja vai ei? Eri lähteissä pörssisähkösopi
 - "Ilta-Sanomien taannoin tekemästä selvityksestä ilmenee, että pörssisähkö on viime vuonna todennäköisesti tullut selvästi halvemmaksi kuin kahden vuoden määräaikainen sopimus."
 - "Jos sähkölämmitteisen omakotitalon asukas otti kahden vuoden määräaikaisen sähkösopimuksen vuoden 2022 syyskuussa, saattoi viime vuoden sähkölasku nousta jopa 8 000 euroon, kun taas pörssisähkösopimuksella lasku olisi samalla kulutuksella pysynyt alle 1 500 eurossa."
 - "Ihmiset laskevat, että pörssin keskihinta tulee edullisimmaksi, mutta pitää laskea kulutuksellinen keskihinta eli milloin sähköä kuluu todella. Kahdentoista kuukauden keskihinta ei anna oikeaa tulosta. Kesällä pörssisähkö voi olla halpaa, mutta talvella jolloin sitä todella kuluu, se on kallista, toinen vastaaja kertoi Ilta-Sanomille." [^1] 
+- "Oksanen siirtyi maaliskuussa 2023 Helenin pörssisähköön ja on pysynyt siinä sen jälkeen. Sähkön siirrosta vastaa Järvi-Suomen Energia." [^12]
 
 Milloin pörssisähkö kannattaa ja missä tilanteessa aggregaatille [^7] tulee käyttöä? Kannattaa siis laskea kulutuksella painotettu sähköenergian keskihinta.
 
@@ -123,6 +124,7 @@ ggplot2::ggplot(da2, ggplot2::aes(x = t, y = hinta, color = sopimus)) +
 - Varaavalla takalla vähennetään sähkön kulutusta keskimäärin noin 2 000 kilowattituntia vuodessa, mutta kyllä parhaat pääsevät jopa 8000 kilowattituntiin. [^8]
 -  Levossa ihminen tuottaa keskimäärin 100 wattia lämpöä, kun taas kotitöitä tehtäessä lämmöntuotanto kasvaa jo 250 wattiin. Jos rasitus on keskiraskasta, lämpöä syntyy 500 wattia. "Ihmisen perusmetabolia tuottaa lämpöä noin 58 W/m² eli keskimäärin 110 W. Aikuisen ihmisen jäähtyessä säätelyn alainen lämmön tuotto perustuu ennen kaikkea lihasvärinän ja lihastyön tuottamaan lämpöön." [^9]
 -  "Hehkulamput on jo todettu niin surkeiksi valonlähteiksi, että ne täytyi kieltää, mutta kynttilä se vasta heikoksi jääkin: kynttilän palaessa vapautuvasta energiasta alle tuhannesosa nähdään valona." [^10]
+-  Elmukelmu ja perunat [^11]
 
 <!-- https://mermaid.js.org/syntax/sankey.html  -->
 
@@ -175,7 +177,10 @@ sankey-beta
 Energy, Hot Water, 8
 Energy, Heating,59
 Energy, Lighting,8
-Energy, Kitchen, 5
+Energy, Kitchen, 3
+Energy, Cooking, 2
+Energy, Hygiene, 2
+Cooking, Kitchen, 2
 Energy, Sauna, 5
 Sauna, Heating, 3
 Sauna, Hygiene, 2
@@ -188,7 +193,6 @@ Candles, Lighting, 0.001
 Energy, Electronic devices, 13
 Electronic devices, Lighting, 2
 Electronic devices, Heating, 11
-
 
 
 </pre>
@@ -236,6 +240,25 @@ ChatGPT Turbo 3.5:sen näkemys energian kulutuksesta:
 # Lopuksi
 
 
+## Hintavertailu
+
+Tänne tarkoitus poimia saatavilla olevia tarjouksia. Hyvän palvelun tarjoaa myös[sahkonkilpailutus](https://www.sahkon-kilpailutus.fi/vertailu/), missä laajemmin tiedot tarjouksista linkkeineen.
+
+### 4.2.2024
+
+- Fortum: 7.99 snt/kWh, 3.99 €/kk
+- Hehku: 8.95 snt/kWh, 0.00 €/kk
+- Nordic Green: Spot + 0.45 snt/kWh, 1.99 €/kk
+- Nordic Green: 8.29 €/kk, 3.99 €/kk
+- Helen: 8.75 snt/kWh, 5.99 €/kk
+- [PKV](https://paneliankoskenvoima.fi/): 
+  - 24 kk, 8,95 snt/kWh, 3.95€/kk
+  - Kosken [markkinaWoimaa](https://paneliankoskenvoima.fi/fi-fi/tuotteet-ja-palvelut/hinnastot/20/) 0,4 snt/kWh marginaalilla
+- Oomi: 1.3.2024-
+  - yli 400 000 kuluttaja- ja yritysasiakasta.
+  - Marginaali nousee 0,25 snt/kWh -> 0,59 snt/kWh.
+  - 4.95€/kk [^13] 
+
 ## Kaupan purku
 
 "Ostajalla on oikeus purkaa kauppa, jos myyjän toimitus viivästyy siten, että tämä sopimusrikkomus on ostajalle olennainen, myyjä ei toimita tavaraa ostajan asettamassa kohtuullisessa lisäajassa, tai jos **tavassa** on **virhe**, jota ei voi korjata tai toimittaa uutta tavaraa kohtuullisessa ajassa reklamaatiosta huolimatta. Ostajan on kuitenkin oltava varma siitä, että sopimusrikkomus on olennainen, ja myyjän on tullut ymmärtää tai pitänyt ymmärtää tämä. Vaikka tavara olisi myyty osamaksulla, ostajalla on oikeus purkaa kauppa myyjän viivästyksen tai **tavaran virheen vuoksi**, jos myyjä rikkoo sopimusvelvoitteitaan tavalla, joka on olennainen ostajalle, **eikä virheen korjaaminen** tai uuden tavaran toimittaminen ole mahdollista." [^3], [^4] (Tummennukset lisätty)
@@ -246,6 +269,8 @@ ChatGPT Turbo 3.5:sen näkemys energian kulutuksesta:
 - HattiWatt - sähkön hinta: [playstore](https://play.google.com/store/apps/details?id=com.arcinix.hattiwatt)
 - Hinta nyt: [https://energy.semeai.fi/](https://energy.semeai.fi/), [github](https://github.com/sjlehtin/semerg)
 - "Tappiot 140–400 miljoonaa: 1 100 Porschella ja 3 000 muulla autolla lastatun rahtilaivan sammutus epäonnistui keskellä Atlanttia" [Tekniikka ja talous](https://www.tekniikkatalous.fi/uutiset/sahkoautojen-akut-pitivat-tulta-ylla-tappiot-140400-miljoonaa-1100-porschella-ja-3000-muulla-autolla-lastatun-rahtilaivan-sammutus-epaonnistui-keskella-atlanttia/088b4f38-4655-4da7-93e5-4b71d09aa70a): "Felicity Ace"
+- [https://caruna.fi/](https://caruna.fi/)
+- [https://sahko.tk/](https://sahko.tk/): "1.5.2023 alkaen sähkön arvonlisävero on jälleen 24 %. Kuvaajassa aikavälin 1.12.2022 - 30.4.2023 hinnat ovat alv 10 %. Hallitus on päättänyt sähkön energiamaksun väliaikaisesta arvonlisäveron alennuksesta. Joulukuusta 2022 alkaen sähkön alv on 10 %. Alennus on tällä päätöksellä voimassa huhtikuun 2023 loppuun asti."
 
 ---
 
@@ -253,7 +278,7 @@ ChatGPT Turbo 3.5:sen näkemys energian kulutuksesta:
 
 ---
 
-## Kirjallisuus
+## Lähteet
 
 [^1]: "Nyt puhuvat tavalliset suomalaiset: Ei ollut halpaa pörssisähkö, 500–600 euron lasku joka kuukausi" [IS 16.1.2024](https://www.is.fi/taloussanomat/art-2000010122991.html)
 [^2]: "Sähkötarjoukset halpenivat – tällaisia sopimuksia on nyt tarjolla" [HS 28.1.2024](https://www.hs.fi/talous/art-2000010150610.html)
@@ -265,3 +290,7 @@ ChatGPT Turbo 3.5:sen näkemys energian kulutuksesta:
 [^8]: "Näin kannattavaa on lämmittää varaavalla takalla – ostetuilla klapeillakin säästää satoja euroja" [IS 2.10.2017](https://www.is.fi/taloussanomat/art-2000005391951.html) 
 [^9]: "Ihmisen kylmävasteet ja toimintakyky", 2005, Hannu Rintamäki, Lawrence A. Palinkas ja Juhani Leppäluoto [Duodecim](https://www.duodecimlehti.fi/duo94810)
 [^10]: "TM selvitti: Miten kynttilä toimii? Energiasta alle tuhannesosa näkyy valona" [TM 18.2.2017](https://tekniikanmaailma.fi/tm-selvitti-nain-toimii-kynttila-energiasta-tuhannesosa-nakyy-valona/)
+[^11]: "elmu" [IL](https://www.iltalehti.fi/ruoka-artikkelit/a/64e1c895-285b-46e7-ad72-f265af3835cd)
+[^12]: "Martti tilastoi kaiken sähkön­kulutuksensa 7 vuotta – data paljasti yllätyksiä" [IS 4.2.2024](https://www.is.fi/taloussanomat/art-2000010141932.html)
+[^13]: "Oomin pörssisähkö kallistuu
+Oomi: ”Hinnanmuutoksen perusteena on sähkönhankintaan ja liiketoimintaan liittyvien kustannusten nousu.”" [IL 6.2.2024](https://www.iltalehti.fi/talous/a/7119afb4-bd72-489c-8a24-47dfe27eb6fb)
