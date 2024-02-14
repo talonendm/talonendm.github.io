@@ -12,11 +12,23 @@ thumbnail-img: /assets/pics/thumbnail/photo/varjo.JPG
 published: true
 ---
 
+
 Hyvää uutta vuotta 2024! Tasavallan presidentti piti perinteisen [puheen](https://www.presidentti.fi/puheet/tasavallan-presidentti-sauli-niiniston-uudenvuodenpuhe-1-1-2023/) 
 
 > Jotain kannattaa silti säilyttää mielissä. Suomen pääoma on osaamisessa. Osaamista on ollut, koska on pidetty arvossa oppimista, opettamista ja opettajaa. Lukeminen, laskento ja liikunta – ehkä menneen ilmaisuja alaluokilta. Mutta vaikka kuinka moderni opetusmetodi tai oppimistila kehitettäisiin, ilman noita taitoja tai kuntoa ei nuori elämässään pärjää. Monimutkaiseen maailmaan valmennus voi alkaa aika yksinkertaisista lähtökohdista.
 
 Puhe katsottavissa kokonaisuudessaan [Areenassa](https://areena.yle.fi/1-67310090).
+
+
+<!-- 
+
+talonendm.github.io.git
+
+git add .
+git commit -m "some changes"
+git push git@github-talonendm:talonendm/talonendm.github.io.git
+
+-->
 
 
 # Links - stuff
