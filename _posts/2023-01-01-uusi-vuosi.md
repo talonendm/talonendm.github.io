@@ -109,6 +109,18 @@ Puhe katsottavissa kokonaisuudessaan [Areenassa](https://areena.yle.fi/1-6422813
   - Artikkelissa keskustellaan mahdollisesta kevennetystä oikeudenkäynnistä, jossa kulujen kasvua voitaisiin hillitä.
 - "Maria Nordin ei halua luovuttaa kissaansa valtiolle" [HS 25.11.2023](https://www.hs.fi/kaupunki/helsinki/art-2000010014031.html): "Koira oli purrut Nordinin kanaa, jonka vuoksi kanalle oli tullut syvä haava. Sen lisäksi Nordinin kissa oli tullut kyyn puremaksi, ja kissa oli saanut myrkytysoireita pureman seurauksena."
 - [Asuntokaupan kuntotarkastajien pätevyys vihdoin lakiin](https://www.hs.fi/mielipide/art-2000009896913.html) [HS 5.10.23]: Ympäristöministeriön kosteus- ja hometalkoot -ohjelmassa tästä keskusteltiin. Mielipiteessä väitetään, ettö pätevyyden lakisääteisyys lisäisi luottamusta. Lisäksi vältyttäisiin turhilta oikeuskäsittelyiltä. [Fise AKK], [AMK RKL ry], [KVKL ry] 
+- [HS 21.3.2023](https://www.hs.fi/kaupunki/art-2000009463897.html) KULUTTAJIEN tyytyväisyys uudisasuntoihin laskee toista vuotta peräkkäin. Tämä selviää Rakennusteollisuus RT:n teettämästä tuoreesta [Epsi Rating](https://www.epsi-rating.com/) -tutkimuksesta.
+  - "Osa rakennusvirheistä paljastuu vasta myöhemmin. Miksi kyselyä ei toteuteta esimerkiksi vuoden tai kahden päästä asunnon hankinnasta?
+
+
+## Oikeus
+
+- "Merikylpylä vie risteilyjätin oikeuteen Viking Gabriellan törmäyksen vuoksi" [[Hs 3.3.2023](https://www.hs.fi/kaupunki/art-2000009428992.html)] ja HS paperi 4.3.2023. 
+  - törmäys 12.1.2022. Alus ajautui päin Allas Sea Poolia.
+  - "Merilaissa on säädöksiä, jotka rajaavat korvausvastuuta, jos vahingonaiheuttajaa ei yksiselitteisesti todeta syypääksi onnettomuuden esimerkiksi törkeän huolimattomuuden perusteella." Ohjattavuuden menetys johtui luultavasti sähkökatkosta. 
+- Parkkipate hävisi korkeimmassa oikeudessa 4.3.2023: "[Lasse Kerkelä HS, 3.3.2023](https://www.hs.fi/kotimaa/art-2000009430126.html). PITÄÄKÖ autoja vuokraavan yhtiön luovuttaa vuokraajien tietoja pysäköinnin­valvojalle, jotta tämä voi määrätä heille valvontamaksun? Ei tarvitse, päätti korkein oikeus ennakkopäätöksessään perjantaina.
+Pysäköinnin­valvontayhtiö Parkkipate hävisi korkeimman oikeuden ratkaisun myötä pitkän oikeusprosessin." Parkkipate ja Eurorent käräjille vuonna 2019.
+
 
 ## Computer
 
@@ -143,6 +155,10 @@ Kiinan viranomaisten uudet rajoitukset suitsivat etenkin verkkopeleihin käytett
 - "Lieväasteinen uniapnea korjaantuu usein painoa pudottamalla - 
 Uniapnean hoidossa ei tule sivuuttaa painon pudotusta ja terveellisiä ruokatottumuksia." [HS mielipide 23.11.2023](https://www.hs.fi/mielipide/art-2000010006430.html)
 - Vihertyneet perunat on syytä jättää syömättä [HS mielipide 23.11.2023](https://www.hs.fi/mielipide/art-2000010006430.html): "Peruna tuottaa glykoalkaloideja (solaniinia ja kakoniinia) saadakseen vastustuskykyä tauteja ja tuholaisia vastaan ja erityisesti, kun peruna altistuu erilaisille stressitekijöille kasvukauden aikana." ja kommentti: "Suuri määrä perunoita voi mädäntyessään tuottaa vaarallista rikkikaasua umpinaiseen tilaan, kuten kellariin. Sama pätee mädäntyvään ihmisruumiseen."
+- Viihteen vangit [Hs 2.4.2023](https://alasin-delivery.datadesk.hs.fi/bf14cd1e-f3be-4493-b5f4-d836fbf86c9f/index.html)
+  - Aldous Huxley: asiat liiankin mukavasti fiktiivisessä dystopiassa, huvitamme itsemme hengiltä (Neil Postman 1985)
+    - "elämmekö jo metaversumissa, jossa totuuden ja fiktion rajat ovat hälvenneet?" - Oskari Onninen HS
+  - George Orwell 1984
 
 ![i.01.roof](/assets/pics/page/roof/ezviz.jpg){: .mx-auto.d-block :}
 

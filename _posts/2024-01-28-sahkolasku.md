@@ -232,10 +232,39 @@ ChatGPT Turbo 3.5:sen näkemys energian kulutuksesta:
 
 
 
+# R detailed analysis
+
+~~~R
+
+# Assuming your data frame is named df
+df$date <- as.Date(paste(df$vuosi, df$kuukausi, df$paiva, "01", sep = "-"))
+
+# Now you can remove the individual year and month columns if needed
+df <- df[, !(names(df) %in% c("vuosi", "kuukausi", "paiva"))]
+
+# OR
+
+df <- df %>% dplyr::ungroup() %>% dplyr::select(-vuosi, -kuukausi, -paiva)
+
+~~~
 
 
 
 
+
+~~~R
+
+ggplot2::ggplot(
+  data = df, 
+  ggplot2::aes(x = date, 
+               y = sum_kulutus,
+               color = kellonaika)
+) + 
+  ggplot2::geom_point(size = 0.5) + 
+  ggplot2::stat_smooth(size = 1.2, se = FALSE, span = 0.25, n = 60) +
+  ggplot2::ylab("avg(kWh/h)") + ggplot2::ggtitle("Energian kulutus vuorokaudessa")
+
+~~~
 
 # Lopuksi
 
@@ -266,6 +295,7 @@ Tänne tarkoitus poimia saatavilla olevia tarjouksia. Hyvän palvelun tarjoaa my
 
 # Links
 
+- Sheets [private ta.dm](https://docs.google.com/spreadsheets/d/1khNHvD_jq5zCdLZW7wAnOAJS81ThxjPPSlxytaiLnDg/edit?usp=sharing) vasteita, takka, säädöt ym.
 - HattiWatt - sähkön hinta: [playstore](https://play.google.com/store/apps/details?id=com.arcinix.hattiwatt)
 - Hinta nyt: [https://energy.semeai.fi/](https://energy.semeai.fi/), [github](https://github.com/sjlehtin/semerg)
 - "Tappiot 140–400 miljoonaa: 1 100 Porschella ja 3 000 muulla autolla lastatun rahtilaivan sammutus epäonnistui keskellä Atlanttia" [Tekniikka ja talous](https://www.tekniikkatalous.fi/uutiset/sahkoautojen-akut-pitivat-tulta-ylla-tappiot-140400-miljoonaa-1100-porschella-ja-3000-muulla-autolla-lastatun-rahtilaivan-sammutus-epaonnistui-keskella-atlanttia/088b4f38-4655-4da7-93e5-4b71d09aa70a): "Felicity Ace"

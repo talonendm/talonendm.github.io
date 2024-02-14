@@ -70,12 +70,19 @@ Puhe katsottavissa kokonaisuudessaan [Areenassa](https://areena.yle.fi/1-6731009
 - [Diabetes.fi](https://www.diabetes.fi/diabetes/onko_minulla_diabetes): "Kun paastoverinäytteestä mitataan sokeria 6,1–6,9 mmol/l, kyseessä on kohonnut paastoplasman sokeri eli heikentynyt paastosokeri (IFG, impaired fasting glucose).": "Kohonneen verensokerin pääsyy on vyötärölihavuus, jossa rasvakudosta on runsaasti vatsaontelossa, ja siihen liittyvä rasvan kertyminen maksasoluihin (ks. Rasvamaksa). Nämä aiheuttavat insuliiniresistenssiä, eli insuliinin vaikutus soluissa heikkenee. Seurauksena on aluksi verensokerin lievä nousu (esidiabetes), joka usein etenee diabetekseksi. Myös vähäinen liikunta heikentää insuliinin vaikutusta." [terveyskirjasto](https://www.terveyskirjasto.fi/dlk01134)
 - [Candela C8](https://candela.com/candela-c-8/) vauhtiveneessä kaksi hydrofoilia eli vedenalaista siipeä.
 
+### Pakotteet ym.
+
+- Tikkurila [HS 13.2.2024](https://www.hs.fi/talous/art-2000010222470.html)
+- "Venäläis­öljyä kuljettavien alusten matka on vaikeutunut, alkavatko lännen pakotteet vihdoin purra?" [Hs 13.2.2024](https://www.hs.fi/talous/art-2000010224538.html)
+
+
 
 ## AI
 
 - Teosto allekirjoittanut vastuullisen tekoälyn periaatteet [ePressi 23.10.2023](https://www.epressi.com/tiedotteet/musiikki-ja-viihde/teosto-allekirjoittanut-vastuullisen-tekoalyn-periaatteet-puolustamme-inhimillisen-luovuuden-ja-taiteen-asemaa.html)
   - "TEKOÄLY TUKEE IHMISTEN LUOVUUTTA JA ITSEILMAISUA"
 - Rayban Meta älylasit, [Instru](https://www.instru.fi/ray-ban-meta-alylasit) 329e (1/2024)
+- [VaakaR](https://github.com/vaakaruode/VaakaR)
 
 
 ## Restaurants top 10 year -2023

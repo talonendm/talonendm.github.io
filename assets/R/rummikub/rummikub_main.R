@@ -52,9 +52,4 @@ r2$group <- r2$row_sums * as.numeric(rownames(r2))
 print(r2)
 
 print(sum(r2$group))
-
-
-
-
-
-
+# -------------------------------------------------------------

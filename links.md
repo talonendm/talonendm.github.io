@@ -8,6 +8,17 @@ tags:
 ---
 
 
+
+# 2024
+
+
+## R
+
+- [Rstudio](https://posit.co/download/rstudio-desktop/)
+- Quarto documents into self contained [HTML](https://quarto.org/docs/output-formats/html-publishing.html#standalone-html)
+- [Blogdown](https://bookdown.org/yihui/blogdown/)
+- [VaakaR](https://github.com/vaakaruode/vaakaR) and [RuuviR](https://github.com/talonendm/RuuviR/)
+
 # 2023
 
 - [DOCS - tarinoita ja GPT](https://docs.google.com/document/d/1M6JLsk_DVzYjTkBRl05gIXNSCEYzIi3F05QKgnfZdug/edit?usp=sharing)
