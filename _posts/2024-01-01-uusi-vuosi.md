@@ -49,6 +49,7 @@ git push git@github-talonendm:talonendm/talonendm.github.io.git
 - "Näin vaimonsa murhasta syytetty psykiatri vastasi poliisille, kun ruumis löytyi": "no niin" [iltalehti](https://www.iltalehti.fi/kotimaa/a/022f7013-7798-4147-87b9-d080c2ce9e4e)
 - "Sarjasyömäri joutuu vankilaan" [IL 4.12.2023](https://www.is.fi/kotimaa/art-2000010024402.html): "Mies on harrastanut ravintolapetoksia jo 1990-luvulta lähtien."
 - "Audi-kuski törmäsi hurjalla vauhdilla mopoautoon" [HS 18.9.2023](https://www.hs.fi/kotimaa/art-2000009862132.html) .. todennäköisyystuomio?
+- Rikossarja Tampereella [16.2.2024](https://www.is.fi/tampereen-seutu/art-2000010232192.html)
 
 ### KKV
 
@@ -91,10 +92,24 @@ git push git@github-talonendm:talonendm/talonendm.github.io.git
 
 ## AI
 
+- [Timeline Google](https://timeline.google.com/)
+  - [Maps](https://www.google.com/maps/place/Flogging+Place/@61.2822933,22.6864417,13.5z). jata: [floggingplace 2/2023](https://timeline.google.com/maps/timeline?pli=1&rapt=AEjHL4Oanu4O_PQ3uabkOdYHD8-ehZ9NFEeqgva6SNnGO5x_GN0tZ-7uPQcePWGL95UiC-HOlkOrRrjH3UC87ADCz8DyA-dE6tFgPfE5KRHzLygyEJ1Ju2s&pb=!1m2!1m1!1s2023-02-10)
+- [Settlings](https://store.steampowered.com/app/1771110/The_Settlings/) (game)
+- Capcut AI characters
+  - Tips: collect material to local folder
+    - upload material (either 9:16 or e.g. 4:3)
+  - Text: use commercial if needed
+  - Epidemic Sound (created by epidemic sound)
+    - Royalty-Free Music to your content
+      - In partnership with Capcut: The perfect sound, wherever you create.
+    - About 10e/month..
+- [Postnitro.ai](https://postnitro.ai/) - create Carousel for Instagram
 - Teosto allekirjoittanut vastuullisen tekoälyn periaatteet [ePressi 23.10.2023](https://www.epressi.com/tiedotteet/musiikki-ja-viihde/teosto-allekirjoittanut-vastuullisen-tekoalyn-periaatteet-puolustamme-inhimillisen-luovuuden-ja-taiteen-asemaa.html)
   - "TEKOÄLY TUKEE IHMISTEN LUOVUUTTA JA ITSEILMAISUA"
 - Rayban Meta älylasit, [Instru](https://www.instru.fi/ray-ban-meta-alylasit) 329e (1/2024)
 - [VaakaR](https://github.com/vaakaruode/VaakaR)
+- [copilot](https://copilot.microsoft.com/) with Edge (2/2024)
+- "Nvidian markkina-arvo ohitti Amazonin – tekoälystä hyötynyt yhtiö hätyyttää jo Googlea. Nvidian markkina-arvo on jo 890-kertaistunut kesästä 2004." [HS 14.2.2024](https://www.hs.fi/talous/art-2000010226160.html)
 
 
 ## Restaurants top 10 year -2023
