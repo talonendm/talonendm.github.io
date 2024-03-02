@@ -288,9 +288,30 @@ Tänne tarkoitus poimia saatavilla olevia tarjouksia. Hyvän palvelun tarjoaa my
   - Marginaali nousee 0,25 snt/kWh -> 0,59 snt/kWh.
   - 4.95€/kk [^13] 
 
+### 28.2.2024
+
+- [Fortum](https://www.fortum.fi/kotiasiakkaille/sahkoa-kotiin/sahkosopimukset?utm_term=m%C3%A4%C3%A4r%C3%A4aikainen+s%C3%A4hk%C3%B6sopimus): Energian hinta 7,89 c/kWh
+  - +/- kulutusvaikutus
+  - Perusmaksu 3,99 €/kk
+- Helen 4.3. asti voimassa: Perusmaksu: 3,99 €/kk, Energia: 8,59 c/kWh. ks. meilit.
+  -  0,38 snt/kWh marginaalilla + 3,93 € / kk. 
+- [PKV](https://paneliankoskenvoima.fi/): 
+  - 24 kk, 8,95 snt/kWh, 3.95€/kk
+  - Kosken [markkinaWoimaa](https://paneliankoskenvoima.fi/fi-fi/tuotteet-ja-palvelut/hinnastot/20/) 0,4 snt/kWh marginaalilla
+  - Energiaraportit PKV - [kirjautuminen](https://energiaraportit.fi/paneliankoskenvoima/fi/login)
+  - Toistaiseksi voimassa oleva: 9,55 snt/kWh ja perusmaksu 3,95 €/ kk (sis. alv. 24%)
+
+
+# Fingrid 
+
+- [asiakasportaali](https://www.fingrid.fi/sahkomarkkinat/datahub/kirjautuminen-datahubin-asiakasportaaliin/)
+  - "Kohdassa Asioi toisen puolesta voit asioida toisen käyttäjän puolesta, mikäli toinen osapuoli on valtuuttanut sinut Suomi.fi-palvelussa asioimaan hänen puolestaan. Asioi yrityksenä kohdassa voit asioida yrityksen puolesta, mikäli sinulta löytyy Suomi.fi-palvelussa annettu valtuus edustaa yhtiötä palvelussa."
+  - suomi.fi valtuus: "Sähkösopimusten tietojen katselu": "Tällä valtuudella valtuutettu voi katsella sähkösopimusten tietoja ja antaa palveluntarjoajille luvan valtuuttajan sähkösopimusten ja sähkön kulutustietojen tarkasteluun."
+    - [Datahub](https://oma.datahub.fi/#/login)
+
 ## Kaupan purku
 
-"Ostajalla on oikeus purkaa kauppa, jos myyjän toimitus viivästyy siten, että tämä sopimusrikkomus on ostajalle olennainen, myyjä ei toimita tavaraa ostajan asettamassa kohtuullisessa lisäajassa, tai jos **tavassa** on **virhe**, jota ei voi korjata tai toimittaa uutta tavaraa kohtuullisessa ajassa reklamaatiosta huolimatta. Ostajan on kuitenkin oltava varma siitä, että sopimusrikkomus on olennainen, ja myyjän on tullut ymmärtää tai pitänyt ymmärtää tämä. Vaikka tavara olisi myyty osamaksulla, ostajalla on oikeus purkaa kauppa myyjän viivästyksen tai **tavaran virheen vuoksi**, jos myyjä rikkoo sopimusvelvoitteitaan tavalla, joka on olennainen ostajalle, **eikä virheen korjaaminen** tai uuden tavaran toimittaminen ole mahdollista." [^3], [^4] (Tummennukset lisätty)
+Tässä vielä esim. lämpöpumppuihin tai aurinkopaneeleihin liittyvä "haaste": "Ostajalla on oikeus purkaa kauppa, jos myyjän toimitus viivästyy siten, että tämä sopimusrikkomus on ostajalle olennainen, myyjä ei toimita tavaraa ostajan asettamassa kohtuullisessa lisäajassa, tai jos **tavassa** on **virhe**, jota ei voi korjata tai toimittaa uutta tavaraa kohtuullisessa ajassa reklamaatiosta huolimatta. Ostajan on kuitenkin oltava varma siitä, että sopimusrikkomus on olennainen, ja myyjän on tullut ymmärtää tai pitänyt ymmärtää tämä. Vaikka tavara olisi myyty osamaksulla, ostajalla on oikeus purkaa kauppa myyjän viivästyksen tai **tavaran virheen vuoksi**, jos myyjä rikkoo sopimusvelvoitteitaan tavalla, joka on olennainen ostajalle, **eikä virheen korjaaminen** tai uuden tavaran toimittaminen ole mahdollista." [^3], [^4] (Tummennukset lisätty)
 
 
 # Links
