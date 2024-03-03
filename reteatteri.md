@@ -8,7 +8,9 @@ Seven dudes are members of the culinary clunb called Re:teatteri. In this page s
 
 # Restaurants
 
--[ ] [Bistro Makoisa](https://www.bistromakoisa.fi/): testaa lounas / alacarte (Magneettikatu 3, Espoo). Isoon nälkään lähettyvillä [crispypizza](https://www.crispypizza.fi/)
+- [ ] [Robusto](https://robusto.fi/Menu) 2.3.2024 [HS - Robusto](https://www.hs.fi/ruoka/art-2000010128822.html)
+- [ ] [The Room](https://www.avecmedia.fi/ravintolat-baarit/suomen-overein-ravintola-kozeen-shiwanin-the-room-on-elamys-kaikille-aisteille/), 2024/3
+- [ ] [Bistro Makoisa](https://www.bistromakoisa.fi/): testaa lounas / alacarte (Magneettikatu 3, Espoo). Isoon nälkään lähettyvillä [crispypizza](https://www.crispypizza.fi/)
 -[x] [Nabi](https://www.nabikoreanbbq.fi/) 12/2022: total 6, out GR, KA
 - [Bistro Omat - take away](https://bistromat.fi/kirkkonummi/menu/#TAKE%20AWAY)
   - safkoja: 
