@@ -345,3 +345,10 @@ Tässä vielä esim. lämpöpumppuihin tai aurinkopaneeleihin liittyvä "haaste"
 [^12]: "Martti tilastoi kaiken sähkön­kulutuksensa 7 vuotta – data paljasti yllätyksiä" [IS 4.2.2024](https://www.is.fi/taloussanomat/art-2000010141932.html)
 [^13]: "Oomin pörssisähkö kallistuu
 Oomi: ”Hinnanmuutoksen perusteena on sähkönhankintaan ja liiketoimintaan liittyvien kustannusten nousu.”" [IL 6.2.2024](https://www.iltalehti.fi/talous/a/7119afb4-bd72-489c-8a24-47dfe27eb6fb)
+
+
+<!-- 
+
+git push git@github-talonendm:talonendm/talonendm.github.io
+
+-->
