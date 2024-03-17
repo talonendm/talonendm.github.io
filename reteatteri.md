@@ -26,6 +26,8 @@ Seven dudes are members of the culinary clunb called Re:teatteri. In this page s
 
 # Stories
 
+- Tässä ovat Suomen 50 parasta ravintolaa [HS 13.3.2024](https://www.hs.fi/ruoka/art-2000010285785.html)
+  - Grön, Bas Bas pärjänneet hyvin re:teatterissa. Savoy (Cafe) ja Luovuus kukkii kaoksesta olivat pettymyksiä.
 - Hämäävän hyvää, Teknologia peukaloi aistikokemuksia ja voi muokata syömistottumuksiamme. [HS 2.10.2023](https://www.hs.fi/tiede/art-2000009822561.html): Tampereen yliopiston [tutkijat](https://www.tuni.fi/fi/palvelut-ja-yhteistyo/tutkimusyhteistyo-tampereen-yliopiston-kanssa/tauchi) pyrkivät manipuloimaan näkö-, haju- ja tuntoaistia.
 - [LEIVÄTÖN leipälautanen 29.1.2023 HS - The menu](https://www.hs.fi/kulttuuri/art-2000009340591.html)
   - "valikoima erilaisia levitteitä ilman leipää"
@@ -63,9 +65,6 @@ talonen.dm: files:
 
 
 # Food Art
-
-
-
 
 ## Mämmi
 

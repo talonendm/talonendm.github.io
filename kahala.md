@@ -21,10 +21,11 @@ Metsänhoitoa voidaan käsitellä monesta eri näkökulmasta, mutta tässä on j
 
 ### Taimikon varhaishoito
 
-Taimikon perustaminen ja alkukasvatus vaativat merkittävää työtä ja aiheuttavat kustannuksia metsänomistajalle, mikä muodostaa hoitovaiheen.[^5]
+Taimikon perustaminen ja alkukasvatus vaativat merkittävää työtä ja aiheuttavat kustannuksia metsänomistajalle, mikä muodostaa hoitovaiheen.[^5] Taimikoissa ja nuorissa metsissä ollaan pohjapinta-alaan verrattuna enemmän kiinnostuneita runkoluvusta eli siitä monta puuta on hehtaarilla [kpl/ha]. Taimikosta otetaan muutama ympyräkoeala, ja yleensä käytetään 4 metrin keppiä tai onkivapaa. [^1](s.257) Tarkemman tuloksen saa esimerkiksi vajaa 6 metrin ongivavalla. Kokeen tekevä henkilö pyörähtää ympäri ja laskee monta runkoa osaa alalle. Neljän metrin säteellä saatu kuku kerrotaan 200:lla ja noin 5,6 metrin säteen ala kerrotaan 100:lla. 
 
 - 10 (2024)
   - Mekaaninen perkaus
+
 
 ### Nuoren metsän hoito 
 

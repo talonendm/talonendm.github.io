@@ -20,6 +20,28 @@ This post contains information related on establishment of an agricultural tax g
 
 # Metsä - Forest
 
+- Lehtipuustoisuus männiköissä: Yleensä männyntaimikoissa voidaan lisätä tietty prosenttiosuus lehtipuustoa, joka voi olla välillä 10-20%. Tämä saattaa olla hyödyllistä monimuotoisuuden lisäämiseksi tai metsän kasvun tehostamiseksi.
+- Varhaisperkaus: Tämä on toimenpide, jossa poistetaan tiettyjä kasvavia taimia varhaisessa kasvuvaiheessa. Etukasvuisuus on tila, jossa jotkut taimet kasvavat nopeammin ja kilpailevat muiden kanssa valosta ja resursseista. Tämä voi johtaa kasvutappioihin ja lisätä hirvituhojen riskiä.
+
+## Metka
+
+- Tuen saajat: Tukea voidaan myöntää yksityisille maanomistajille, jotka omistavat metsämaata.
+- Tuen soveltuvuus: Tukea voidaan myöntää metsiin, joissa on voimassa oleva metsälaki. Tämä tarkoittaa, että tuen saajien on noudatettava Suomen metsälainsäädäntöä.
+- Tuettavat työlajit: METKA-tuki kattaa useita erilaisia metsänhoitotyölajeja, kuten taimikon ja nuoren metsän hoito, terveyslannoitus, metsäteiden rakennus ja perusparannus, suometsän hoito, kulotus ja luonnonhoito. Tämä tarkoittaa, että tukea voi saada erilaisiin toimenpiteisiin metsien kehittämiseksi ja ylläpitämiseksi.
+- Tuen verotus: Tuki on veronalaista tuloa, mikä tarkoittaa sitä, että tuen saajat joutuvat ilmoittamaan tuen verotettavana tulona verotusta varten.
+
+Lisäinfoa: [Metsäkeskuksen verkkosivuilta](https://www.metsakeskus.fi/fi/metsatalouden-tuet/metka-tuet)
+Notes: [private ta.ka](https://docs.google.com/document/d/1AhPfmFbHsLdNx6V-3vJkLEdW0BHQCXjCd9j8L8tmjxg/edit?usp=sharing)
+
+
+### Mihin
+
+- Taimikon varhaisperkaus: Varhaisperkaus on toimenpide, jossa poistetaan tiettyjä kasvavia taimia varhaisessa kasvuvaiheessa, jotta jäljelle jäävät taimet voivat kehittyä paremmin.
+- Taimikon harvennus: Tämä on toimenpide, jossa metsiköstä poistetaan osa taimista tai nuorista puista, jotta jäljelle jäävät puut voivat saada enemmän tilaa ja resursseja kasvaa.
+- Nuoren metsän harvennus: Nuoren metsän harvennus on samankaltainen toimenpide kuin taimikon harvennus, mutta se suoritetaan vanhemmassa metsässä, jossa puut ovat jo vähän suurempia.
+- Verhopuuston harvennus: Verhopuuston harvennus on toimenpide, jossa metsässä olevaa tiheää puustoa harvennetaan, jotta jäljelle jäävät puut voivat saada enemmän tilaa ja resursseja kasvaa.
+- Lisäksi tukea voidaan myöntää näiden hoitotoimenpiteiden yhteydessä kaadetun pienpuun keräämiseen. Pienpuulla tarkoitetaan yleensä puita, joiden halkaisija on pieni ja jotka eivät ole taloudellisesti kannattavia myytäväksi puutavarana, mutta niiden keräämisellä voi olla merkitystä esimerkiksi energiantuotannossa tai muissa käyttötarkoituksissa.
+
 ## Puunkaato - felling a tree - Timber!
 
 - The person cutting the trees is a feller.
@@ -115,9 +137,18 @@ jos saa diilin, 10 snt/kWh, paljon kustannukset laskevat? ks. [private ta.dm](ht
 - [Bosch ART 23 Combitrim](https://www.k-rauta.fi/tuote/trimmeri-bosch-art-23-combitrim/3165140349512) sähkötrimmeri nurmikon siistimiseen, [Siimaa puuilosta](https://www.puuilo.fi/bosch-art-23-sl-trimmerin-siima?gclid=CjwKCAjwg4-EBhBwEiwAzYAlsiMC8ORKpSoj8aWQBdarQyU4RCw1892aMjGurePbo6CwtmKHQCF7IhoCWswQAvD_BwE).
 
 
+# 2024
+
+- 8.3.2024 allerg. started. "Pähkinäpensas kukkii Etelä-Ruotsissa ja lepän kukinta on alkamassa Etelä-Ruotsissa. Suomeen ei kulkeudu siitepölyä." [norkko.fi](https://norkko.fi/)
+- 10.3.2024 Pienten Omenapuiden leikkaaminen
+- 10.3.2024 Isopihlaja kääpiöomenapuun luota ja kaksoispaju kaato isohkon omenapuun läheltä
+- 11.3.2024 Haapa ja pihjala nurin
+- 13.3.2024 puiden ja risujen keräämistä. Ison omenapuun oksien kevätleikkaus.
+
+
 # 2023
 
-- 18.3.2023 Omenapuiden leikkaaminen
+- 8.3.2023 Omenapuiden leikkaaminen
 - 21.3.2023 Rhodon suojaaminen aurinkoverkolla
 - 22.3.2023: "Maan etelä- ja keskiosiin kulkeutuu lepän siitepölyä etelämpää Euroopasta. Lepän siitepölymäärät ovat enimmäkseen vähäisiä, mutta määrät voivat nousta maan eteläosissa ajoittain kohtalaisiksi. Sade laskee ilman siitepölymääriä." [Norkko siitepölytiedote](https://www.norkko.fi/)
  - 2.4.2023 ja 4.4.2023: omenapuulla vilinää: punatulkku, [närhi](https://fi.wikipedia.org/wiki/N%C3%A4rhi) (Garrulus glandarius) ja käpytikka. Närhi: "Sen pituus on 32 – 35 cm, ja sen siipien kärkiväli on 54 – 58 cm. Perusväriltään närhi on punertavan beigenruskea." [tiedonportailla.fi](https://www.tiedonportailla.fi/narhi/)
