@@ -15,6 +15,8 @@ The Adriatic Sea (/ˌeɪdriˈætɪk/) is a body of water separating the Italian 
 
 # Cavtat
 
+Kaupunki 20 kilometrin päässä Dubrovnikista etelään. Bussilla nro 10, [Libertas Dubrovnik](https://www.libertasdubrovnik.hr/en/line/2/dubrovnik-cavtat-10) -aikataulu. Katso reitti [Moovit](https://moovitapp.com/index/en/public_transit-line-10-Dubrovnik-4304-923485-87446440-0)-sivulta tai apista.
+
 # Plat
 
 - [Bus 11](https://www.rome2rio.com/s/Dubrovnik-Airport-DBV/Plat-Dubrova%C4%8Dko-Neretvanska-Croatia)

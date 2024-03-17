@@ -92,6 +92,7 @@ git push git@github-talonendm:talonendm/talonendm.github.io.git
 
 ## AI
 
+- Dopamiinikulttuurin nousu, [HS 13.3.2024](https://www.hs.fi/talous/art-2000010285085.html): "Puolet maailman kymmenestä arvokkaimmasta yhtiöstä perustaa liikeideansa siihen, että digitaalinen riippuvuutemme niistä syvenisi"
 - [Timeline Google](https://timeline.google.com/)
   - [Maps](https://www.google.com/maps/place/Flogging+Place/@61.2822933,22.6864417,13.5z). jata: [floggingplace 2/2023](https://timeline.google.com/maps/timeline?pli=1&rapt=AEjHL4Oanu4O_PQ3uabkOdYHD8-ehZ9NFEeqgva6SNnGO5x_GN0tZ-7uPQcePWGL95UiC-HOlkOrRrjH3UC87ADCz8DyA-dE6tFgPfE5KRHzLygyEJ1Ju2s&pb=!1m2!1m1!1s2023-02-10)
 - [Settlings](https://store.steampowered.com/app/1771110/The_Settlings/) (game)

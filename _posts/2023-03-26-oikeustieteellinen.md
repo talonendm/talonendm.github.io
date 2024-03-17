@@ -15,6 +15,17 @@ Oikeustieteellisen tiedekunnan perustehtävänä on tuottaa kansainvälisesti ko
 
 Oikeustieteellisen alan yhteisvalinnan valintakoe maanantaina 23.5.2022 pidetään digitaalisena kokeena. Koe järjestetään valvottuna valintakokeena sillä paikkakunnalla, sen yliopiston osoittamissa tiloissa, minkä hakija on hakulomakkeella valinnut. Kokeeseen osallistuvilla hakijoilla tulee olla kokeen suorittamista varten oma kannettava tietokone. Valintakoetta ei voi suorittaa tabletilla tai älypuhelimella. Kannettavalla tietokoneella tulee olla mahdollista liittyä erikseen osoitettavaan langattomaan valintakoeverkkoon. [oikeustieteet.fi](https://oikeustieteet.fi/oikeustieteen-valintakoe-kevaalla-2022)
 
+# Hakeminen
+
+## 2024
+
+- "Oikeustieteellisen alan yhteisvalinnassa ovat mukana Helsingin, Itä-Suomen, Lapin ja Turun yliopistot. Yliopistot käyttävät valinnassa yhteistä valintakoetta ja yhteisiä valintaperusteita." [oikeustieteet.fi/](https://oikeustieteet.fi/), [kaukohteet ja valintamäärät](https://oikeustieteet.fi/hakukohteet)
+- Oikeustieteen yhteisvalinnan valintakokeeseen luettavaksi tarkoitettu aineisto julkaistaan 23.4.2024. Materiaali julkaistaan myös maksuttomana PDF-versiona 23.4.2024. [unicontent](https://www.unicontent.fi/tuote/oikeustieteellisen-valintakoemateriaali-2024/)
+
+
+- tadm [private](https://docs.google.com/document/d/1HFx2P_NQUuzLSLu1UIHItoMoqYA-4FEHRedZKoYkJ88/edit?usp=sharing)
+
+
 ## Materiaalia - Aiemmat kokeet
 
 - Vuosi 2023 (25.4.2023) - [Unigrafia](https://www.unicontent.fi/tuote/oikeustieteellisen-valintakoemateriaalipaketti-2023-erillisartikkelit/). Muistiinpanot - private Foxit edits at ta.dm:
