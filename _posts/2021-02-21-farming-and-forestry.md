@@ -477,7 +477,7 @@ Suomen Terveystuotekauppiaiden Liitto on valinnut vuoden 2021 rohdoskasviksi kuu
 ### Koivunmahla
 Tilapäisesti loppu! Seuraavan kerran saatavilla huhtikuussa 2022. Pakastettuna vielä hieman varastossa.
 
-"Mahlasta on 98,5 prosenttia vettä ja loput kivennäis- ja hivenaineita (kalsium, kalium, magnesium ja mangaani). Mahla on käytettävä tai säilöttävä esimerkiksi pakastamalla vuorokauden sisällä keruusta. Reikä (3-5cm) tehdään mielellään pohjoisen puolelle, jotta letku on varjossa eikä niin lämpene." [Metsään lehti](https://www.metsaan-lehti.fi/uutiset/metsien-kaytto/mahlaa-voi-kerata-omaksi-iloksi-tai-myyntiin.html).
+"Mahlasta on 98,5 prosenttia vettä ja loput kivennäis- ja hivenaineita (kalsium, kalium, magnesium ja mangaani), katso myös [kemian kauneus](https://talonendm.github.io/2023-12-03-kemi/). Mahla on käytettävä tai säilöttävä esimerkiksi pakastamalla vuorokauden sisällä keruusta. Reikä (3-5cm) tehdään mielellään pohjoisen puolelle, jotta letku on varjossa eikä niin lämpene." [Metsään lehti](https://www.metsaan-lehti.fi/uutiset/metsien-kaytto/mahlaa-voi-kerata-omaksi-iloksi-tai-myyntiin.html).
 
 A-taulukko: Ei vaadita elintarvikehuoneistoilmoitusta ja Ei kuulu säännöllisen valvonnan piiriin. [Ruokavirasto](https://www.ruokavirasto.fi/globalassets/yritykset/elintarvikeala/toiminnan-aloittaminen/elintarvikehuoneistot/toiminnasta-ilmoittaminen_taulukko.pdf).
 

@@ -38,6 +38,12 @@ git push git@github-talonendm:talonendm/talonendm.github.io.git
 
 ## Oikeus
 
+- [HS 17.3.2024, läpsäisy](https://www.hs.fi/kotimaa/art-2000010296287.html): "Käräjäoikeus oli todennut päätöksessään, että koska lyönnistä kuului ääni, lyönnin oli täytynyt olla kova ja aiheuttaa uhrille kipua."
+- "Siivousainefirmalle syytteet laajassa lahjusvyyhdissä – Poliisi: Lahjuksia annettu yritysten edustajille ja virkamiehille" [HS 16.3.2024 paper](https://www.hs.fi/kotimaa/art-2000010295677.html): "Kahta henkilöä syytetään vuosina 2010–2018 tehdyistä törkeästä lahjomisesta elinkeino­toiminnassa, törkeästä lahjomisesta sekä törkeästä kirjanpito­rikoksesta." Käsitellään myöhemmin Helsingin käräjäoikeudessa.
+- "Psykoterapeutin koulutuksesta jopa 18000 euroa maksaneet eivät saa ammattipätevyyttä – Kuluttajaviranomainen teki instituutista tutkintapyynnön" [HS 21.12.2017](https://www.hs.fi/kotimaa/art-2000005498251.html)
+- "Yli 200 opiskelijan erehdyttämisestä miljoona­korvaukset oikeudessa
+Valvira ei ole myöntänyt opiskelijoille psykoterapeutin ammattinimikettä, koska sen mukaan HPI:n koulutus ei kelpaa siihen. Toimitusjohtaja kiisti syytteet." [HS 11.3.2024](https://www.hs.fi/kotimaa/art-2000010286502.html): "Käräjäoikeuden mukaan John Pihlaja, 73, erehdytti opiskelijoita siitä, millä varmuudella he saisivat psykoterapeutin ammattinimikkeen valmistuttuaan."
+  - "Käräjäoikeuden mukaan Pihlaja syyllistyi törkeään petokseen ja markkinointirikokseen. Hänet tuomittiin kahden vuoden ehdolliseen vankeuteen sekä korvaamaan opiskelijoille koulutusmaksuja ja muita kuluja yli 1,6 miljoonaa euroa. Lisäksi HPI tuomittiin 10 000 euron yhteisösakkoon."
 - "Rivitaloasunnon viemäri tukkeutui peräjälkeen kolmasti" [IL 31.12.2023](https://www.iltalehti.fi/kotimaa/a/2c080d47-bd2d-43bb-b18a-2b16d377a154)
 - "Rakennus­mestari myi rakentamansa talon – ostaja voitti riidan, ja myyjille tulossa yli 230 000 euron lasku" [IS 31.12.2023 - Vesa Näveri](https://www.is.fi/taloussanomat/art-2000010082262.html) ja "Sokkelista otetussa kuvassa on nähtävissä kosteuden aiheuttama jälki." - hieman kalkkihärmää
 - "Uudenvuodenaaton henki­rikoksesta epäilty mies omistaa Ulvilassa rakennus­alan yrityksen ja hänellä on pitkä rikos­rekisteri" [HS 3.1.2024](https://www.hs.fi/kotimaa/art-2000010096368.html)
@@ -66,6 +72,7 @@ git push git@github-talonendm:talonendm/talonendm.github.io.git
 
 ### Ympäristö
 
+- "Helsingin uuden tunnelin tiellä elävä hyönteinen on niin harvinainen, että niitä on vain kolmessa paikassa Suomessa" [HS 18.3.2024](https://www.hs.fi/kaupunki/art-2000010290648.html): [Kirvelilattakoin toukka](https://suomenluonto.fi/havaintokirja/kirvelilattakoin-toukka-lapinlahti-helsinki/), [masennusperhonen](https://www.hs.fi/tiede/art-2000010288809.html): "PERHOSEN hienompi nimi on Depressaria chaerophylli. Perhosammattilaiset kutsuvat näitä toisinaan ”masennuskoiksi”, mikä lienee sopivaa mielisairaalan puistossa elävälle otukselle."
 - [Reitit HEL](https://www.hel.fi/fi/kulttuuri-ja-vapaa-aika/ulkoilu-puistot-ja-luontokohteet/retkeily/ulkoilureitit-ja-luontopolut#rantareitit--pyorareitit-ja-ulkoilutiet)
 - [Norja avaa portin syvänmeren kaivos­toiminnalle, ympäristö­järjestöt huolissaan](https://www.hs.fi/ulkomaat/art-2000010109249.html) [HS 10.1.2024]: "280 000 neliökilometrin ala"
 
@@ -88,8 +95,6 @@ git push git@github-talonendm:talonendm/talonendm.github.io.git
 - Tikkurila [HS 13.2.2024](https://www.hs.fi/talous/art-2000010222470.html)
 - "Venäläis­öljyä kuljettavien alusten matka on vaikeutunut, alkavatko lännen pakotteet vihdoin purra?" [Hs 13.2.2024](https://www.hs.fi/talous/art-2000010224538.html)
 
-
-
 ## AI
 
 - Dopamiinikulttuurin nousu, [HS 13.3.2024](https://www.hs.fi/talous/art-2000010285085.html): "Puolet maailman kymmenestä arvokkaimmasta yhtiöstä perustaa liikeideansa siihen, että digitaalinen riippuvuutemme niistä syvenisi"
@@ -111,6 +116,12 @@ git push git@github-talonendm:talonendm/talonendm.github.io.git
 - [VaakaR](https://github.com/vaakaruode/VaakaR)
 - [copilot](https://copilot.microsoft.com/) with Edge (2/2024)
 - "Nvidian markkina-arvo ohitti Amazonin – tekoälystä hyötynyt yhtiö hätyyttää jo Googlea. Nvidian markkina-arvo on jo 890-kertaistunut kesästä 2004." [HS 14.2.2024](https://www.hs.fi/talous/art-2000010226160.html)
+
+# Yritykset
+
+## Fortum
+
+
 
 
 ## Restaurants top 10 year -2023

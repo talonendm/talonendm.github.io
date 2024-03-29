@@ -322,6 +322,7 @@ Tässä vielä esim. lämpöpumppuihin tai aurinkopaneeleihin liittyvä "haaste"
 - "Tappiot 140–400 miljoonaa: 1 100 Porschella ja 3 000 muulla autolla lastatun rahtilaivan sammutus epäonnistui keskellä Atlanttia" [Tekniikka ja talous](https://www.tekniikkatalous.fi/uutiset/sahkoautojen-akut-pitivat-tulta-ylla-tappiot-140400-miljoonaa-1100-porschella-ja-3000-muulla-autolla-lastatun-rahtilaivan-sammutus-epaonnistui-keskella-atlanttia/088b4f38-4655-4da7-93e5-4b71d09aa70a): "Felicity Ace"
 - [https://caruna.fi/](https://caruna.fi/)
 - [https://sahko.tk/](https://sahko.tk/): "1.5.2023 alkaen sähkön arvonlisävero on jälleen 24 %. Kuvaajassa aikavälin 1.12.2022 - 30.4.2023 hinnat ovat alv 10 %. Hallitus on päättänyt sähkön energiamaksun väliaikaisesta arvonlisäveron alennuksesta. Joulukuusta 2022 alkaen sähkön alv on 10 %. Alennus on tällä päätöksellä voimassa huhtikuun 2023 loppuun asti."
+- [MTV 28.11.20233](https://www.mtvuutiset.fi/artikkeli/kkv-varoittaa-sahkoyhtio-raahaa-kuluttajia-karajille-ilman-perusteita-varauduttava-taysimittaiseen-oikeudenkayntiin/8580544#gs.6m5hu6): KKV varoittaa: Sähköyhtiö raahaa kuluttajia käräjille ilman perusteita – "Varauduttava täysimittaiseen oikeudenkäyntiin": "Ongelmallista on se, että jos suppealla haastehakemuksella vireille tullut asia riitautuu, se siirretään normaaliin riita-asioiden prosessiin. KKV:n mukaan lukuisat velkomusta vastustaneet kuluttajat ovat joutuneet oikeuteen."
 
 ---
 
