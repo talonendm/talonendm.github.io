@@ -132,6 +132,7 @@ Symbolismi, naivistinen tyyli taiteessa. Henkilökuvat hyvin realistisia, ks. [t
 - [Jiri Geller](https://www.jirigeller.com/) tekee lasikuidusta ja polyuretaanista enemmän kuin aidon näköisiä teoksia (jäätelöpallot, ilmapallot, aalto tms.)  (Suomen kuvalehti SK37 - 12.9.2014).
 - [Satu Loukkola](http://www.satuloukkola.fi/galleria.html): Galleriassa käynti
 - [Fernand Leger](https://arthive.com/sl/fernandleger/works/396896~Divers): kankaalla? (Didrichenistä 5e)
+  - Joel Sievers - samaa tyyliä?
 - [Simo Hannula](https://fi.wikipedia.org/wiki/Simo_Hannula): [Sinerbrychoffin puisto](https://www.hagelstam.fi/simo-hannula-5eaeb76c20ee341caec1eaa085a3db5a)
 - Pentti Kaskipuro: [Naamio](https://www.hagelstam.fi/pentti-kaskipuro-3d7c1d9655495a95fb716eae2cdb911c)
 - [Riitta Åkerstedt](https://kuvataiteilijamatrikkeli.fi/taiteilija/riitta-akerstedt)
@@ -144,7 +145,7 @@ Symbolismi, naivistinen tyyli taiteessa. Henkilökuvat hyvin realistisia, ks. [t
 ## Salmela
 
 - [Taidekeskus Salmela](https://taidekeskussalmela.fi/), kesän [2022 näyttelyt](https://taidekeskussalmela.fi/nayttelyt) (19.6.2022):
-  - Joel Sievers: ekspressionistinen tekniikka
+  - [Joel Sievers](https://www.painters.fi/galleria/joel-sievers/): ekspressionistinen tekniikka
   - Tuulikki Pietilä: taidokasta taidegrafiikkaa
   - Tuomo Rosenlund & Johanna Pohjavirta: piirustus ja valokuvan yhdistelmiä
   - Juliana Hyrri: maalauksia
@@ -215,6 +216,7 @@ Worlds beyond our grasp.
 ## Links
 
 - private sheets [taulut](https://docs.google.com/spreadsheets/d/1xD8bZaQoqJuGkJIjRqkTy4iPHD_Jn3CmrRINroS9QKE/edit?usp=sharing)
+- [museot ja taide](https://talonendm.github.io/2022-08-11-museot/)
 
 # References
 

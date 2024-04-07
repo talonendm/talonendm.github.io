@@ -144,6 +144,9 @@ jos saa diilin, 10 snt/kWh, paljon kustannukset laskevat? ks. [private ta.dm](ht
 - 10.3.2024 Isopihlaja kääpiöomenapuun luota ja kaksoispaju kaato isohkon omenapuun läheltä
 - 11.3.2024 Haapa ja pihjala nurin
 - 13.3.2024 puiden ja risujen keräämistä. Ison omenapuun oksien kevätleikkaus.
+- 30.3.2024: taimikko Gahis [sp](https://www.sports-tracker.com/workout/haques/6607de0fc01d05312dfe4741). Stihl yksi tankillinen.
+- 4.4.2024: pari koivuu
+- 5.4.2024: kirves heiluu.
 
 
 # 2023
