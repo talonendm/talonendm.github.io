@@ -148,6 +148,7 @@ If you're at a restaurant or café, this is a useful phrase to know when you wan
 
 ## Norway links
 
+- 04/2024: "Rahaton paratiisi" [HS 7.4.2024](https://www.hs.fi/ulkomaat/art-2000010289727.html): "Yli miljoona turistia matkustaa Lofooteille joka vuosi."
 - Lofoten: [private ta.dm](https://docs.google.com/document/d/10h1bN0ps1jTwevLAY3xna2aFz1f0oruE2Y_yMWK2xRA/edit?usp=sharing)
   - The average temperature in Lofoten in June is around 12°C (54°F), and the sun never sets, which means you'll have plenty of daylight hours to explore the islands.
 - Norway [ta.dm](https://talonendm.github.io/2022-07-11-lappland/)

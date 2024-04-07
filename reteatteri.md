@@ -8,8 +8,10 @@ Seven dudes are members of the culinary clunb called Re:teatteri. In this page s
 
 # Restaurants
 
+- [ ] [Sakebar](http://sakebar.fi/) 
+  - Sake Bar & Izakaya Artisanal sake & good drinking food #RiceisLife
 - [ ] [Robusto](https://robusto.fi/Menu) 2.3.2024 [HS - Robusto](https://www.hs.fi/ruoka/art-2000010128822.html)
-- [ ] [The Room](https://www.avecmedia.fi/ravintolat-baarit/suomen-overein-ravintola-kozeen-shiwanin-the-room-on-elamys-kaikille-aisteille/), 2024/3
+- [x] [The Room](https://www.avecmedia.fi/ravintolat-baarit/suomen-overein-ravintola-kozeen-shiwanin-the-room-on-elamys-kaikille-aisteille/), 2024/3
 - [ ] [Bistro Makoisa](https://www.bistromakoisa.fi/): testaa lounas / alacarte (Magneettikatu 3, Espoo). Isoon nälkään lähettyvillä [crispypizza](https://www.crispypizza.fi/)
 -[x] [Nabi](https://www.nabikoreanbbq.fi/) 12/2022: total 6, out GR, KA
 - [Bistro Omat - take away](https://bistromat.fi/kirkkonummi/menu/#TAKE%20AWAY)
@@ -21,7 +23,7 @@ Seven dudes are members of the culinary clunb called Re:teatteri. In this page s
 - Capperi Oulunkylä - hyvä pitsa ja bisse.
 - Vintero Tikkurila
 - [x] [BISTRO BRYK](https://www.bistrobryk.fi/) 8/2023
-- [ ] Korean [Manna](https://www.mannaravintola.fi/)
+- [x] Korean [Manna](https://www.mannaravintola.fi/)
   - "Näistä syistä Helsingissä jyllää nyt Korea-ravintoloiden buumi" [HA 16.8.2023](https://www.hs.fi/ruoka/art-2000009772867.html): K-pop, Bibimbap, Iizip, Korealainen BBQ
 
 # Stories
@@ -58,6 +60,8 @@ talonen.dm: files:
 
 # Tips
 
+- Ju: Dry rub: "Kuivamausteseoksella eli Dry Rubilla kuorrutus on vaihtoehtoinen marinointitapa joka sopii erityisesti pitkään kypsennettävälle possun- tai naudanlihalle. Mausteseos auttaa muodostamaan maukkaan kuoren lihan ympärille jolloin kosteus pysyy paremmin tallessa ja se lisää mukavaa suutuntumaa." [mättömestari](https://www.xn--mttmestari-q5a2t.fi/resepti/kuivamausteseos-grillilihalle-dry-rub-ohje/)
+  - valkosipuli ja minttu jauhe Sous vide vakuumiin vuorokaudeksi ennen grillausta
 - [Viiden tähden riesling ja veriappelsiinirisotto](https://viinilehti.fi/viini/viinivinkki/2024-1/): "Corvers Kauter R3 Riesling Reserve Organic 2022"
 - [Fin Carré Milk Chocolate with Salty Liquorice](https://anna.fi/ruoka/ruokajutut/salmiakkisuklaat-makutestissa-voittajasuklaa-sai-useammalta-taydet-pisteet-tassa-ruutia) 
 - Bikarbonat - ruokasoodaa paistettuun sipuliin. (baking soda)
