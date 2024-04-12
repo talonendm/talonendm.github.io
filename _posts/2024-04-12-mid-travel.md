@@ -3,13 +3,12 @@ layout: post
 title: Exploring the Heart of Finland
 subtitle: A Tampere Travel Diary
 tags:
-  - Pori
-  - Eura
+  - Tampere
   - travelling
-  - kalastus
+  - museum
 comments: false
-cover-img: /assets/pics/cover/e1024/e-pic-robbie-0001.jpg
-thumbnail-img: /assets/pics/thumbnail/e640-direct/2023/e-pic-aili-0002.jpg
+cover-img: /assets/pics/cover/e1024/lego.jpg
+thumbnail-img: /assets/pics/thumbnail/e384-direct/naama.jpg
 published: true
 ---
 
