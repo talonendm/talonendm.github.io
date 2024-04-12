@@ -84,6 +84,7 @@ Valvira ei ole myöntänyt opiskelijoille psykoterapeutin ammattinimikettä, kos
 
 ## Muut
 
+- "Ellemme varmuudella tiedä, kuinka tulee käymään, olettakaamme, että kaikki käy hyvin" - Mauno Koiviston mietelause [IL 21.5.2017](https://www.is.fi/kotimaa/art-2000005219979.html)
 - "Diabetesyhteisö vetoaa lääkärikuntaan, jotta kohulääke Ozempicia ei määrättäisi lihavuuden hoitoon." [keskipohjanmaa 11.9.2023](https://www.keskipohjanmaa.fi/artikkeli/suolistohormonilaakkeesta-on-edelleen-kova-pula-mutta-julia-lehto-on-onnistunut-saamaan-sita-uusi)
   - [HS 6.4.2023](https://www.hs.fi/hyvinvointi/art-2000009420044.html) Kohulääkkeen nälkä
     - Kohuttuun laihdutus­lääkkeeseen on yhdistetty lukuisia vakavia sivu­vaikutuksia – [Asian­tuntija kommentoi](https://www.hs.fi/hyvinvointi/art-2000009752914.html)

@@ -14,6 +14,9 @@ published: true
 ---
 
 # Japan
+
+- "Noin 1,8 miljoonaa japanilaista maan 125 miljoonasta ihmisestä kantaa tällä hetkellä Sato-sukunimeä. Toiseksi yleisin sukunimi maassa on Suzuki ja kolmanneksi yleisin Takahashi." [IS 8.4.2024, Sara Sairanen](https://www.is.fi/ulkomaat/art-2000010341986.html)
+
 Stuff related on Japan and japanese language; [Katakana](https://en.wikipedia.org/wiki/Katakana). Learn japanese here:
 - [Katakana mobile](https://talonendm.github.io/katakana/)
 - [Katakana keyboard](https://www.lexilogos.com/keyboard/katakana.htm)
