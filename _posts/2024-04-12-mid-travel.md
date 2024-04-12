@@ -36,6 +36,31 @@ At Pyynikki Observation Tower, I treated myself to a traditional Finnish cinnamo
 
 - Manse: "Mansions" which means "Tammerfors" in Swedish, reflecting Tampere's historical connection to Sweden. "Tammer" means "mansion" or "manor" and "fors" means "rapids" or "waterfall." This name was chosen due to Tampere's location at the Tammerkoski rapids, which played a significant role in the city's industrial development. Over time, the Swedish name "Tammerfors" evolved into "Manse" among Finnish speakers, likely due to its shorter and catchier nature. It became a popular colloquial term used by locals to refer to their beloved city. "Manse" is more than just a nickname; it embodies a sense of pride and belonging among the residents of Tampere. It's often used in a friendly and affectionate manner, reflecting the strong community spirit that characterizes the city.
 
+## Restaurants
+
+### Pizzeria Luca
+
+- [maps](https://www.google.com/maps/place/Pizzeria+Luca/@61.5005302,23.756915,17z/)
+- Diavola
+
+### Ilves
+
+- Ilves [maps](https://www.google.com/maps/place/Original+Sokos+Hotel+Ilves/@61.4946191,23.7656454,17z)
+
+
+### Lapland hotels Ratina Arena
+
+- [maps](https://www.google.com/maps/place/Lapland+Hotels+Arena/@61.4943675,23.7699167,16.5z/)
+
+### RAVINTOLA PERISCOPE
+
+- [maps](https://www.google.com/maps/place/Ravintola+Periscope/@61.4946191,23.7656454,17z/)
+
+### Dam - brunssi
+
+- [Dam](https://dambar.fi/20-opiskelijoille/): Valssipadonraitti 2 [maps](https://www.google.com/maps/place/Valssipadonraitti+2,+33100+Tampere/@61.5007384,23.7613583,17z/)
+- Saat voimassa olevalla opiskelijakortilla aina -20% alennukset ruuista (ei voimassa brunssilla, eikä erikoistapahtumissa), hanatuotteista, sekä talon viineistä.
+
 # Transfers
 
 - La:
@@ -46,11 +71,13 @@ At Pyynikki Observation Tower, I treated myself to a traditional Finnish cinnamo
 
 # Links
 
+- [brewcats](https://www.xn--tyttkinpanee-6ib.com/)
 - chatGPT - prompts - [private ta.dm](https://docs.google.com/document/d/1n1Vl_3XI5mYtdwjpzkOmbijMq9S61ba18t5PttlT9xE/edit?usp=sharing)
 - tavarat messiin - private.dm [sheets](https://docs.google.com/spreadsheets/d/19BkGyPCeYUFju6qmrPmDd3s-zcD2MNX5jRguvoorb1c/edit?usp=sharing)
 - paikalliset kalastusrajoitukset kartalla [kalastusrajoitus.fi](https://kalastusrajoitus.fi/#/kalastusrajoitus)
 - sää: [Tampere](https://www.foreca.fi/Finland/Tampere)
   - only few rain drops -  I was fortunate to experience mostly dry weather with only a few scattered raindrops. The crisp spring air provided the perfect backdrop for exploring the city's streets, parks, and lakeshores. Although there were moments when the clouds threatened to release their showers, they often passed quickly, leaving behind clear skies and gentle breezes. This mild weather allowed me to fully immerse myself in all that Tampere had to offer, from its historic landmarks to its natural beauty, without any significant interruptions.
+- "Lapset löysivät röykkiön hylättyjä hautakiviä" [HS 12.4.2024](https://www.hs.fi/kotimaa/art-2000010357576.html)
 
 ---
 

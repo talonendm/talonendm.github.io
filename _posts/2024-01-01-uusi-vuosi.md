@@ -84,6 +84,7 @@ Valvira ei ole myöntänyt opiskelijoille psykoterapeutin ammattinimikettä, kos
 
 ## Muut
 
+- "Etelä-Korea aloitti tutkinnan verkko­kauppa Temusta: Epäillään valheellisesta mainonnasta" [HS 8.4.2024](https://www.hs.fi/talous/art-2000010344523.html)
 - "Ellemme varmuudella tiedä, kuinka tulee käymään, olettakaamme, että kaikki käy hyvin" - Mauno Koiviston mietelause [IL 21.5.2017](https://www.is.fi/kotimaa/art-2000005219979.html)
 - "Diabetesyhteisö vetoaa lääkärikuntaan, jotta kohulääke Ozempicia ei määrättäisi lihavuuden hoitoon." [keskipohjanmaa 11.9.2023](https://www.keskipohjanmaa.fi/artikkeli/suolistohormonilaakkeesta-on-edelleen-kova-pula-mutta-julia-lehto-on-onnistunut-saamaan-sita-uusi)
   - [HS 6.4.2023](https://www.hs.fi/hyvinvointi/art-2000009420044.html) Kohulääkkeen nälkä
@@ -95,6 +96,8 @@ Valvira ei ole myöntänyt opiskelijoille psykoterapeutin ammattinimikettä, kos
 
 - Tikkurila [HS 13.2.2024](https://www.hs.fi/talous/art-2000010222470.html)
 - "Venäläis­öljyä kuljettavien alusten matka on vaikeutunut, alkavatko lännen pakotteet vihdoin purra?" [Hs 13.2.2024](https://www.hs.fi/talous/art-2000010224538.html)
+- [Suomella on keino lopettaa Venäjän varjolaivaston riskialusten kulku, tutkija sanoo](https://www.hs.fi/ulkomaat/art-2000010345861.html) HS 12.4.2024
+
 
 ## AI
 
