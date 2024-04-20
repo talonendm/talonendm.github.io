@@ -38,6 +38,7 @@ git push git@github-talonendm:talonendm/talonendm.github.io.git
 
 ## Oikeus
 
+- "Juristilta kiellettiin esiintyminen oikeudessa" [HS 4.4.2024](https://www.hs.fi/kotimaa/turku/art-2000010332270.html): "Miehen mukaan kiellosta aiheutuu hänelle suuria taloudellisia tappioita."
 - "Taloriita kävi kalliiksi ostajalle ja myyjälle – Juristeille valtavat palkkiot" [HS 3.4.2024](https://www.hs.fi/kotimaa/turku/art-2000010331397.html) "Käräjäoikeus määräsi myyjät maksamaan ostajille 6 230 euroa hinnanalennusta viivästyskorkoineen. Muilta osin ostajien kanne hylättiin. Molemmille osapuolille jäi maksettavaksi omat oikeudenkäyntikulunsa."
   - Morjens! : 
     - Hovioikeus
@@ -111,6 +112,7 @@ Valvira ei ole myöntänyt opiskelijoille psykoterapeutin ammattinimikettä, kos
 
 ## AI
 
+- "Tekoäly opettajan apurina" [opettaja.fi](https://www.opettaja.fi/ajassa/tekoaly-opettajan-apurina/), [HS](Pikkukunnan matematiikan­opettaja turhautui ja loi uuden opetus­menetelmän – Tulokset ampaisivat nousuun): [matikkamatskut Youtube](https://www.youtube.com/@MatikkamatskutTube)
 - Dopamiinikulttuurin nousu, [HS 13.3.2024](https://www.hs.fi/talous/art-2000010285085.html): "Puolet maailman kymmenestä arvokkaimmasta yhtiöstä perustaa liikeideansa siihen, että digitaalinen riippuvuutemme niistä syvenisi"
 - [Timeline Google](https://timeline.google.com/)
   - [Maps](https://www.google.com/maps/place/Flogging+Place/@61.2822933,22.6864417,13.5z). jata: [floggingplace 2/2023](https://timeline.google.com/maps/timeline?pli=1&rapt=AEjHL4Oanu4O_PQ3uabkOdYHD8-ehZ9NFEeqgva6SNnGO5x_GN0tZ-7uPQcePWGL95UiC-HOlkOrRrjH3UC87ADCz8DyA-dE6tFgPfE5KRHzLygyEJ1Ju2s&pb=!1m2!1m1!1s2023-02-10)
