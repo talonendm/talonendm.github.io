@@ -38,6 +38,15 @@ git push git@github-talonendm:talonendm/talonendm.github.io.git
 
 ## Oikeus
 
+- "Taloriita kävi kalliiksi ostajalle ja myyjälle – Juristeille valtavat palkkiot" [HS 3.4.2024](https://www.hs.fi/kotimaa/turku/art-2000010331397.html) "Käräjäoikeus määräsi myyjät maksamaan ostajille 6 230 euroa hinnanalennusta viivästyskorkoineen. Muilta osin ostajien kanne hylättiin. Molemmille osapuolille jäi maksettavaksi omat oikeudenkäyntikulunsa."
+  - Morjens! : 
+    - Hovioikeus
+      - yli 35 000 euron käräjäoikeuskulunsa sekä hovioikeuskulut. He vetosivat siihen, että ostajien vaatimukset oli pääosin hylätty käräjäoikeudessa.
+      - yli 34 000 euron käräjäkulunsa sekä erilaisia tutkimus ja selvittelykuluja. Lisäksi ostajat vaativat myyjiä korvaamaan heidän oikeudenkäyntikulunsa hovioikeudessa.
+      - myyjien on korvattava ostajille hinnanalennusta 6 230 euron sijaan 18 000 euroa viivästyskorkoineen.
+      - myyjien käräjäoikeuden oikeudenkäyntikuluista 20 000 euroa viivästyskorkoineen.
+- Vastikkeet maksamatta Heinolassa [HS 20.4.2024, Tuomo Pietiläinen](https://www.hs.fi/talous/art-2000010371326.html): "Heinolalaisen kerrostalon omistajayhtiö on jättänyt liikehuoneistojen vastikkeita maksamatta lähes 50 000 euroa."
+- Illanvietto Järvenpäässä 2020, [HS 20.4.2024, Milla Palkoaho](https://www.hs.fi/kaupunki/art-2000010348232.html). Hovioikeudenpäätös
 - [HS 17.3.2024, läpsäisy](https://www.hs.fi/kotimaa/art-2000010296287.html): "Käräjäoikeus oli todennut päätöksessään, että koska lyönnistä kuului ääni, lyönnin oli täytynyt olla kova ja aiheuttaa uhrille kipua."
 - "Siivousainefirmalle syytteet laajassa lahjusvyyhdissä – Poliisi: Lahjuksia annettu yritysten edustajille ja virkamiehille" [HS 16.3.2024 paper](https://www.hs.fi/kotimaa/art-2000010295677.html): "Kahta henkilöä syytetään vuosina 2010–2018 tehdyistä törkeästä lahjomisesta elinkeino­toiminnassa, törkeästä lahjomisesta sekä törkeästä kirjanpito­rikoksesta." Käsitellään myöhemmin Helsingin käräjäoikeudessa.
 - "Psykoterapeutin koulutuksesta jopa 18000 euroa maksaneet eivät saa ammattipätevyyttä – Kuluttajaviranomainen teki instituutista tutkintapyynnön" [HS 21.12.2017](https://www.hs.fi/kotimaa/art-2000005498251.html)
@@ -84,6 +93,7 @@ Valvira ei ole myöntänyt opiskelijoille psykoterapeutin ammattinimikettä, kos
 
 ## Muut
 
+- "Eläinsuojelu­yhdistys varoittaa luontoon jäävistä koiran­karvoista: pikku­linnut kuolevat niihin" [HS 3.4.2024](https://www.hs.fi/kaupunki/helsinki/art-2000010332192.html): "Puun kaatamisen yhteydessä löytyneessä linnunpesässä oli kaikki poikaset jääneet kiinni koirankarvaan."; kommentti: "Hyvä että uutisoidaan. Moni varmasti tarkoituksella jättää koiran karvat luontoon juuri hyvät mielessä"
 - "Etelä-Korea aloitti tutkinnan verkko­kauppa Temusta: Epäillään valheellisesta mainonnasta" [HS 8.4.2024](https://www.hs.fi/talous/art-2000010344523.html)
 - "Ellemme varmuudella tiedä, kuinka tulee käymään, olettakaamme, että kaikki käy hyvin" - Mauno Koiviston mietelause [IL 21.5.2017](https://www.is.fi/kotimaa/art-2000005219979.html)
 - "Diabetesyhteisö vetoaa lääkärikuntaan, jotta kohulääke Ozempicia ei määrättäisi lihavuuden hoitoon." [keskipohjanmaa 11.9.2023](https://www.keskipohjanmaa.fi/artikkeli/suolistohormonilaakkeesta-on-edelleen-kova-pula-mutta-julia-lehto-on-onnistunut-saamaan-sita-uusi)

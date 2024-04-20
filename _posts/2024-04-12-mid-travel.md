@@ -18,6 +18,8 @@ I delved into Tampere's rich industrial history. The Vapriikki Museum Complex pr
 
 At Pyynikki Observation Tower, I treated myself to a traditional Finnish cinnamon bun, freshly baked and utterly delicious. With the sweet aroma lingering in the air, I marveled at the serene beauty of the surrounding nature.
 
+(Turku available [here](https://talonendm.github.io/2023-07-15-west-travel/))
+
 ### Museums
 
 - Spy Museum Finland in Tampere is the place where you get to know these real people and their equipment. [vakoilumuseo](https://www.vakoilumuseo.fi/spy-museum/)
@@ -28,8 +30,15 @@ At Pyynikki Observation Tower, I treated myself to a traditional Finnish cinnamo
   - Sun 11-17: Hämeenpuisto 28
 - Vapriikki
   - suomen [pelimuseo](https://www.vapriikki.fi/nayttelyt/suomen-pelimuseo-nayttelyt/): Alaverstaanraitti 5
+    - Slick's Slides
+    - [Turboraketti](https://fi.wikipedia.org/wiki/Turboraketti): Amiga 1992
+      - "Turboraketti on Heikki Kosolan Amigalle tekemä kahden pelaajan luolalentely, jonka hän julkaisi vuonna 1993 sharewarena. Pelaajat taistelevat toisiaan vastaan aluksilla, joita puskevat eteenpäin rakettimoottorit." [Retropelit](https://www.retropelit.fi/turboraketti/)
+      - Flipperi [Twilight](https://pinside.com/pinball/machine/twilight-zone)
+      - ANKH - Pasi Janhunen [roolipelitiedotus](https://roolipelitiedotus.fi/haastattelu/haastattelussa-pasi-janhunen/): "ANKH oli toinen suomalainen roolipeli. Siinä missä Risto Hiedan Miekka ja Magia oli omakustannejulkaisu, ANKH:n julkaisija oli Nelospelit (nyk. Tactic)."
+        - Adventures of the North – Kalevala Heroes
+    - Manserock, Postal museum, valokuva museo jäi välistä - tänne varmasti seuraavalla Tampere reissulla.
   - ESITTELY: HYVÄ IHMINEN – [MIKSI HOLOKAUSTI KOSKEE MEITÄKIN?](https://www.vapriikki.fi/tapahtuu/esittely-hyva-ihminen-miksi-holokausti-koskee-meitakin/)
-    - 15.00 - 15.45: Kohtaamispaikka Kupla
+    - 15.00 - 15.45: Kohtaamispaikka Kupla (skip)
     - Paikka: kohtaamispaikka Kupla, toinen kerros. Vapaa pääsy.
 
 ### Other stuff

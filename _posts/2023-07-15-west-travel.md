@@ -15,6 +15,11 @@ published: true
 
 Amidst the vibrant tapestry of a sun-kissed day, a quadra of lovely spirits embarked on an enchanting sojourn. With a shared passion for jazz resonating within their souls, they sought the mystical allure of a distant rhythm echoing from the heart of Pori. The journey, like an uncharted symphony, unfurled before them, beckoning them to embark on a road less traveled.
 
+## Turku 2024
+
+- Iiu Susiraja, [WAM Turku](https://museot.fi/nayttelykalenteri/?nayttely_id=34350) 2.2.2024–12.5.2024
+  - Itäinen Rantakatu 38, [museo WAM](https://www.wam.fi/)
+
 ## Lohja
 
 Leaving the urban cacophony behind, they surrendered to the embrace of nature's melody, traversing meandering roads that led them through quaint villages and verdant landscapes. Each curve of the road unveiled untold secrets, whispered by the winds that had witnessed the tales of ages past.

@@ -70,6 +70,9 @@ Kuvataiteessa [provenienssi](https://fi.wikipedia.org/wiki/Provenienssi) on taid
 ## Yrjö Saarinen
 - Kissa 1936
 - [Yrjö Saarinen - Kukka-asetelma](https://www.hagelstam.fi/yrjo-saarinen-1899-1958-d7d5c291e7bf085ff5318f0079327e13): Hagelstam 27.4.2023: öljy, sign. 1948, kaksipuoleinen, 53x73
+- [Classic huutokauppa 25.4.2024](https://www.hagelstam.fi/huutokaupat/classic-t152?___store=default)
+  - [Malli 1943](https://www.hagelstam.fi/yrjo-saarinen-1899-1958-9fd946c3da0f1858818c9da7026301f4)
+    - 900 -> o: 950 -> 1300 -> o: 1400 (ja ylitti.. voi olla että taktinen)
 
 ## Fernand Léger
 - [Nature morte à la coupe 1948](https://www.discoveringfinland.com/blog/didrichsen-art-museum-one-leading-art-museums-finland/)
@@ -111,6 +114,8 @@ Symbolismi, naivistinen tyyli taiteessa. Henkilökuvat hyvin realistisia, ks. [t
 
 ## Akseli Gallen-Kallela
 - [Probleemi - 1894](https://fi.wikipedia.org/wiki/Symposion_(Akseli_Gallen-Kallela); Kajanus, Sibelius ja Merikanto kuvattu on karikatyyrimaisina ja tausta on mielikuvituksellisen symbolistinen.
+- [Imatrankoski](https://www.hagelstam.fi/akseli-gallen-kallela-vaitetty-f20149eb47ce1109236d4083d38c17f1) (väitetty että on)
+- 
 
 ## Rauni Liukko
 - [Thunderbirds Blues](https://hela.auction2000.online/auk/w.object?inc=hela&ina=20200907_1050&ino=14) (Helander)

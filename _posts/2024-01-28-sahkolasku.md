@@ -295,6 +295,9 @@ Tänne tarkoitus poimia saatavilla olevia tarjouksia. Hyvän palvelun tarjoaa my
   - Perusmaksu 3,99 €/kk
 - Helen 4.3. asti voimassa: Perusmaksu: 3,99 €/kk, Energia: 8,59 c/kWh. ks. meilit.
   -  0,38 snt/kWh marginaalilla + 3,93 € / kk. 
+     -  Muuta: "Sähkösopimusasiakkaanamme saat 20 % alennusta Fennian kotivakuutuksesta
+  -  1.6.2024 alkaen: 0.48 c / kWh marginaali (note: snt to c) ja 4,90 € / kk perusmaksu
+Sähkösopimusasiakkaanamme voit nyt saada 20 % alennusta Fennian kotivakuutuksesta. Fennian kotivakuutusasiakkaana sinun on mahdollista saada alennusta myös monista muista Fennian vakuutuksista. Vakuutusetu on voimassa sähkösopimusasiakkuutesi ajan. Etu raukeaa, jos sähkösopimusasiakkuutesi Helenillä päättyy."
 - [PKV](https://paneliankoskenvoima.fi/): 
   - 24 kk, 8,95 snt/kWh, 3.95€/kk
   - Kosken [markkinaWoimaa](https://paneliankoskenvoima.fi/fi-fi/tuotteet-ja-palvelut/hinnastot/20/) 0,4 snt/kWh marginaalilla
