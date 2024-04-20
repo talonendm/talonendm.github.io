@@ -153,6 +153,8 @@ jos saa diilin, 10 snt/kWh, paljon kustannukset laskevat? ks. [private ta.dm](ht
   - FXA 2000/4000kg kuormaliina räikällä
   - Fiskars, Felling lever + log hook 115 cm L 
 - 12.4.2024: jatkuu, ja koivua haloiksi
+- 17.4.2024: krookus: Tumman violetit ja valkoiset [krookukset](https://www.kekkila.fi/kasvikirjasto/krookus/) kukkivat.skillaa näkyvissä - ekat Tapiolassa raitilla Tornitasolle. Ojan perkausta talon takana, vanhojen keinujen paikalle.
+- 20.4.2024: risujen roudaus
 
 
 # 2023

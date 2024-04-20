@@ -50,7 +50,7 @@ At Pyynikki Observation Tower, I treated myself to a traditional Finnish cinnamo
 ### Pizzeria Luca
 
 - [maps](https://www.google.com/maps/place/Pizzeria+Luca/@61.5005302,23.756915,17z/)
-- Diavola
+  - [Diavola](https://www.k-ruoka.fi/reseptit/diavola) eli tulinen salamipizza
 
 ### Ilves
 
@@ -59,6 +59,9 @@ At Pyynikki Observation Tower, I treated myself to a traditional Finnish cinnamo
 
 ### Lapland hotels Ratina Arena
 
+Keskuksessa on vajaa 20 upeaa minigolfrataa, joista neljä sijaitsee niin sanotussa kauhualueessa, mikä saa sinut joko nauramaan tai kiljumaan iästäsi ja mielentilastasi riippuen. Keskus tarjoaa ihanteellisen ympäristön yritystapahtumille, polttareille, syntymäpäiväjuhlille, riippumatta iästäsi ja taitotasostasi. Se sopii myös täydellisesti ensimmäiseksi treffiksi sen erityisen ihmisen kanssa tai rentouttavaksi illaksi parin oluen äärellä. - ChatGPT 3.5
+
+- [Hohtogolf West Cosat Ratina](https://visittampere.fi/en/experience/hohtogolf-west-coast-ratina/)
 - [maps](https://www.google.com/maps/place/Lapland+Hotels+Arena/@61.4943675,23.7699167,16.5z/)
 
 ### RAVINTOLA PERISCOPE
@@ -72,11 +75,17 @@ At Pyynikki Observation Tower, I treated myself to a traditional Finnish cinnamo
 
 # Transfers
 
-- La:
-  - 07:15 b
-- Su: 
-  - Pe: 17_00
-  - Pa: U 18:46
+> Astun sisään vaunuun, tunnelma on chill,
+Yläkerta huokuu fiilistä, se on täysin vill.
+Ei turhia huolia, ei kiirettä minnekään,
+Täällä hetki rentoutuu, ei aikaan enää kiinni jään.
+
+> Tilaa mulle kahvi, tai ehkä lasi viiniä,
+Rento meininki, täällä kaikki ystäviä.
+Keskustellaan ja nauraa, ja jaetaan tarinoita,
+Matkalla uusiin seikkailuihin, täällä ollaan voittajia.
+
+[VR Ravintolavaunu](https://www.vr.fi/palvelut-junassa/ravintolavaunun-ylakerta)
 
 # Links
 
