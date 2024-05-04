@@ -57,6 +57,8 @@ grandparent -> toimittaja
 
 Onko tämä hinta korkeampi, jolloin kannattaa hankkia kiinteähintainen sopimus: "Edullisimmissa kiinteähintaisissa sopimuksissa sähköenergia maksaa nyt hieman alle yhdeksän senttiä kilowattitunnilta, selviää [Energiaviraston vertailupalvelusta](https://www.sahkonhinta.fi/)." [^2] Jos on mahdollisuus asettaa yösähkö esimerkiksi lämminvesivaraajalle, niin paras vaihtoehto saattaa olla "joustosopimus". "Tyypillisesti kulutusvaikutuksen kerrotaan olevan sopimuksissa noin 1,5 senttiä kilowattitunnilta suuntaansa, eli joko kiinteää hintaa laskien tai nostaen." [^2], [^5] Kuluttaja-asiamies on etsinyt keinoja kalliiden määräaikaisten sopimusten kohtuullistamiseksi. Sillä ei kuitenkaan ole käytössä olevia keinoja auttaa ahdingossa olevia kuluttajia. [^6] (Keskustelusta: "Kuluttajavirasto on olemassa sitä varten että olisi ketterämpi elin joka ratkaisee nopeasti kuluttajien ongelmia häiriötilanteissa. Jos yritykset lopettavat sen suositusten noudattamisen oikeusasteet ruuhkautuvat hyvin nopeasti entisestään kun jokainen kuluttaja joutuu käymään raskaan prosessin läpi saadakseen oikeusturvaa.")
 
+Huomioitavaa: Vaikkakin lämminvesivaraaja aloittaa ja osa lämmityksestä on asetettu vain "yötilaan" niin tilastojen mukaan 52% sähkön kulutuksestasi tapahtui päivällä (viikon ajanjakso huhtikuussa 2024). Tämä johtuu siitä, että "päivä" on määritelty 07:00 - 21:59 (07-22) ja yö 22-07 eli toisin sanoen päivässä on 15 tuntia ja yössä vain 9 tuntia. Helenin palvelun mukaan päiväsähkön osuus vastaavissa talouksissa oli 58%. 
+
 # Koodi
 
 private [ta.dm](https://docs.google.com/document/d/1bZe9BhvIAwEv39FTTzlkiU4YRZ-kIH9iSdpZ5zvZjwY/edit?usp=sharing)
@@ -315,6 +317,12 @@ Sähkösopimusasiakkaanamme voit nyt saada 20 % alennusta Fennian kotivakuutukse
 ## Kaupan purku
 
 Tässä vielä esim. lämpöpumppuihin tai aurinkopaneeleihin liittyvä "haaste": "Ostajalla on oikeus purkaa kauppa, jos myyjän toimitus viivästyy siten, että tämä sopimusrikkomus on ostajalle olennainen, myyjä ei toimita tavaraa ostajan asettamassa kohtuullisessa lisäajassa, tai jos **tavassa** on **virhe**, jota ei voi korjata tai toimittaa uutta tavaraa kohtuullisessa ajassa reklamaatiosta huolimatta. Ostajan on kuitenkin oltava varma siitä, että sopimusrikkomus on olennainen, ja myyjän on tullut ymmärtää tai pitänyt ymmärtää tämä. Vaikka tavara olisi myyty osamaksulla, ostajalla on oikeus purkaa kauppa myyjän viivästyksen tai **tavaran virheen vuoksi**, jos myyjä rikkoo sopimusvelvoitteitaan tavalla, joka on olennainen ostajalle, **eikä virheen korjaaminen** tai uuden tavaran toimittaminen ole mahdollista." [^3], [^4] (Tummennukset lisätty)
+
+# Asuntojen hintatiedot
+
+Vuokrat ja hinnat: [https://asuntojen.hintatiedot.fi/](https://asuntojen.hintatiedot.fi/): "Asuntojen hintatiedot on ympäristöministeriön ja Asumisen rahoitus- ja kehittämiskeskuksen (ARA) tarjoama internethakupalvelu yksityishenkilöille. Palvelu on toteutettu yhteistyössä KVKL - Kiinteistönvälitysalan Keskusliitto Ry:n, Kiinteistömaailma Oy:n, OP Koti, Huoneistokeskus Oy:n, Aktia Kiinteistönvälitys Oy:n ja RE/MAX Suomen kanssa."
+
+- Private analysis [ta.dm](https://docs.google.com/spreadsheets/d/1gUnkZyJN3rJukRbwTf4pVkTyXBbbInsltEAeg_5ihEk/edit?usp=sharing)
 
 
 # Links

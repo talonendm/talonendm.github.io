@@ -4,6 +4,7 @@ title: Exploring the Heart of Finland
 subtitle: A Tampere Travel Diary
 tags:
   - Tampere
+  - Hauho
   - travelling
   - museum
 comments: false
@@ -86,6 +87,23 @@ Keskustellaan ja nauraa, ja jaetaan tarinoita,
 Matkalla uusiin seikkailuihin, täällä ollaan voittajia.
 
 [VR Ravintolavaunu](https://www.vr.fi/palvelut-junassa/ravintolavaunun-ylakerta)
+
+
+# Hauho
+
+Esihistorialliset hökkelit ja huttuset Hämeessä paukahtelivat pääasiassa Vanajaveden seuduille ja Hauhon vesistöjen liepeille, erityisesti Suolijärven, Ormajärven ja Pääjärven maisemiin. Hauholla on ihan sikana kivi- ja rautakautisia jäänteitä, kuten Perkiön ja Hankalajärven asuinpaikkoja. Perkiö oli erityisen pop nuorakeraamisen aikakaudella, ja siellä on myös rautakautinen hautausmaa ja jotain uhrinpaikkoja, jotka kielii siitä, että asutusta on ollut jo ainakin 600-luvulta lähtien. (Mukaillen [hamewiki](https://www.hamewiki.fi/Hauho)a)
+
+- [Maulan maatila](https://www.maula.net/)
+  - sähköpyöräily: [spessuvuokraus](https://www.spessuvuokraus.fi/)
+
+
+## Wines
+
+### 2014 Quinta Vale do Meao "Meandro" Douro
+
+- Syvä ja monimutkainen tuoksu, jossa on paljon aromaattisia sävyjä, mutta säilytetään tasapaino niiden välillä. Suussa se on eloisa, suurella eleganssilla, näyttäen erinomaisen puun integraation, yllättävän laajan valikoiman makuja ja erittäin pitkän jälkimaun. "Blend: 55% Touriga Nacional, 35% Touriga Franca, 5% Tinta Barroca, 5% Tinta Roriz" [wine.com](https://www.wine.com/product/quinta-do-vale-meao-douro-2014/430983#closePromoModal)
+- Drink from 2022. [winesearcher(https://www.wine-searcher.com/find/quinta+vale+meao+tinto+douro+portugal/2014/europe); "This is a major wine, ripe and full of rich tannins and concentrated fruit. It is always one of the longest-lived wines from the Douro and this vintage has the structure and the fruit weight to develop well. An attractive spicy, smoky character adds extra interest" Magnum 495€ [socolcos.pt](https://socalcos.pt/index.php/pt/loja/categorias/vinho/quinta-do-vale-me%C3%A3o-2014-douro-1-5l-detail.html)
+
 
 # Links
 
