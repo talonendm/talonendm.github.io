@@ -112,6 +112,8 @@ Valvira ei ole myöntänyt opiskelijoille psykoterapeutin ammattinimikettä, kos
 
 ## AI
 
+- Airtag. Laukkuihin tms.
+- Office Co-pilot. Teams-kokouksista sisältö. Luo powerpoint-esitys.
 - "Tekoäly opettajan apurina" [opettaja.fi](https://www.opettaja.fi/ajassa/tekoaly-opettajan-apurina/), [HS](Pikkukunnan matematiikan­opettaja turhautui ja loi uuden opetus­menetelmän – Tulokset ampaisivat nousuun): [matikkamatskut Youtube](https://www.youtube.com/@MatikkamatskutTube)
 - Dopamiinikulttuurin nousu, [HS 13.3.2024](https://www.hs.fi/talous/art-2000010285085.html): "Puolet maailman kymmenestä arvokkaimmasta yhtiöstä perustaa liikeideansa siihen, että digitaalinen riippuvuutemme niistä syvenisi"
 - [Timeline Google](https://timeline.google.com/)

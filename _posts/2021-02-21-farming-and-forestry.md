@@ -148,6 +148,7 @@ jos saa diilin, 10 snt/kWh, paljon kustannukset laskevat? ks. [private ta.dm](ht
 - 4.4.2024: pari koivuu
 - 5.4.2024: kirves heiluu.
 - 1.4.2024: Mahlan valutus
+  - Idea. Myös suoraan isoon pakastepussiin ja suuaukko tiukasti putkeen nippusiteellä. En testannut.. mutta Tiktokissa oli video.
 - 5.4.2024: takatalvi. Myrsky ja pakkasta. "Saapui takatalvi" [youtube](https://www.youtube.com/watch?v=QZwfp_VwFU0), [Birdlife](https://www.birdlife.fi/lintutilanne-20240405/)
 - 8.4.2024: Mahlan valutus. Korkit reikä 18mm, ei mene ötökät 5.15l tonkkaan. Puu 13mm.. saa tiivisti 15mm vesiputken.
   - FXA 2000/4000kg kuormaliina räikällä

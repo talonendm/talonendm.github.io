@@ -89,6 +89,15 @@ Matkalla uusiin seikkailuihin, täällä ollaan voittajia.
 [VR Ravintolavaunu](https://www.vr.fi/palvelut-junassa/ravintolavaunun-ylakerta)
 
 
+# Veikkola
+
+## Lamminjärvi
+
+Noin 1h kierros. "[Lamminjärvi](https://fi.wikipedia.org/wiki/Lamminj%C3%A4rvi_(Kirkkonummi)) on pieni järvi Veikkolassa Pohjois-Kirkkonummella. Se sijaitsee Vanhan Turuntien ja Turunväylän välissä. Se kuuluu Suomenlahden rannikkoalueen päävesistöön." Uimaranta, vesi rehevöitynyttä. [Wikipedia](https://fi.wikipedia.org/wiki/Lamminj%C3%A4rvi_(Kirkkonummi))
+
+
+
+
 # Hauho
 
 Esihistorialliset hökkelit ja huttuset Hämeessä paukahtelivat pääasiassa Vanajaveden seuduille ja Hauhon vesistöjen liepeille, erityisesti Suolijärven, Ormajärven ja Pääjärven maisemiin. Hauholla on ihan sikana kivi- ja rautakautisia jäänteitä, kuten Perkiön ja Hankalajärven asuinpaikkoja. Perkiö oli erityisen pop nuorakeraamisen aikakaudella, ja siellä on myös rautakautinen hautausmaa ja jotain uhrinpaikkoja, jotka kielii siitä, että asutusta on ollut jo ainakin 600-luvulta lähtien. (Mukaillen [hamewiki](https://www.hamewiki.fi/Hauho)a)
