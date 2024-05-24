@@ -174,6 +174,19 @@ Valvira ei ole myöntänyt opiskelijoille psykoterapeutin ammattinimikettä, kos
 - 1.9€/km, 1.5€/min. Kallis
 - 1,20 €/km + 1,20 €/min, Taksi Helsinki
 
+# Remontti - olohuone
+
+- private [sheet dm](https://docs.google.com/spreadsheets/d/1VGjqnZqZoh-lTOcGWaG-7NmNhg2bheX-cuprl2-o2AQ/edit?usp=sharing)
+- tapetin irroitus. Tapetin höyristin
+- Naulanreiät, Tasoitukset
+- Pohjamaalaus - täsmä
+- Pohjamaalaus
+  - Imukyvyn tasaaminen -> tasaisesti imevä alusta pintamaalille
+  - Tasavärinen alusta pintamaalille [tikkurila](https://tikkurila.fi/pro/artikkelit/pohjamaalit-valittava-kohteen-mukaan)
+  - Tyypilliset pohjamaalit kuivuvat yleensä nopeasti ja ovat päällemaalattavissa saman päivän aikana, jopa parin tunnin kuluttua. Lisäksi pohjamaalin pintaa on kevyt hioa.
+- 1 krt. töpöttely, 1kirt pohjamaalaus, 2krt pintamaali (1 päivä)
+- kaaret, 1 pohja, 2 päälle.
+
 # quadrantChart testing
 
 <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
