@@ -156,7 +156,8 @@ jos saa diilin, 10 snt/kWh, paljon kustannukset laskevat? ks. [private ta.dm](ht
 - 12.4.2024: jatkuu, ja koivua haloiksi
 - 17.4.2024: krookus: Tumman violetit ja valkoiset [krookukset](https://www.kekkila.fi/kasvikirjasto/krookus/) kukkivat.skillaa näkyvissä - ekat Tapiolassa raitilla Tornitasolle. Ojan perkausta talon takana, vanhojen keinujen paikalle.
 - 20.4.2024: risujen roudaus
-
+- ...
+- 10.6.2024: vanhan keinun paikalle. [Tarhaillakko](https://fi.wikipedia.org/wiki/Tarhaillakko). Vanhanajan puutarhakasvi. Orkideamainen. Suorakylvö. Kastelua pari päivää tai kunnes itää. Kaksivuotinen ruoho, joka säilyy siementämällä kasvupaikallaan.[ puutarha.net](https://puutarha.net/kasvikortisto/kasvikortit/tarhaillakko/)
 
 # 2023
 

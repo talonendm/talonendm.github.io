@@ -33,8 +33,15 @@ git push git@github-talonendm:talonendm/talonendm.github.io.git
 
 # Links - stuff
 
+- [KIC Espoo](https://kic.fi/espoo/), [hinnasto](https://kic.fi/espoo/hinnasto/#): [varaus](https://kic.fi/espoo/booking/)
 - [uusi vuosi 2023](https://talonendm.github.io/2023-01-01-uusi-vuosi/)
 - "Hyvää uutta vuotta! -onnittelu tarkoittaa siis koko tulevaa vuotta. Hyvä uuttavuotta! -onnittelu viittaa siis vain vuodenvaihteen juhlaan." [aproposlingua](https://aproposlingua.fi/admin/)
+
+## Boat
+
+- Ilmatieteenlaitos - [merivedenkorkeus - Helsinki](https://www.ilmatieteenlaitos.fi/vedenkorkeus?sealevel_station=-10022814&sealevel_graph=short&sealevel_mode=mwn2000) : "Vedenkorkeus on esitetty korkeusjärjestelmissä N2000 (uusi) ja teoreettinen keskivesi."
+- Foreca [Tuuli, kirkkonummi ](https://www.foreca.fi/Finland/Kirkkonummi/kartta/tasmatutka)
+- Palomarsolmu, [kuva](https://www.koukussa.fi/images/palomar.jpg)
 
 ## Oikeus
 
