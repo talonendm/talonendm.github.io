@@ -119,6 +119,7 @@ Valvira ei ole myöntänyt opiskelijoille psykoterapeutin ammattinimikettä, kos
 
 ## AI
 
+- [Hedra](https://www.hedra.com/) image to video
 - Airtag. Laukkuihin tms.
 - Office Co-pilot. Teams-kokouksista sisältö. Luo powerpoint-esitys.
 - "Tekoäly opettajan apurina" [opettaja.fi](https://www.opettaja.fi/ajassa/tekoaly-opettajan-apurina/), [HS](Pikkukunnan matematiikan­opettaja turhautui ja loi uuden opetus­menetelmän – Tulokset ampaisivat nousuun): [matikkamatskut Youtube](https://www.youtube.com/@MatikkamatskutTube)

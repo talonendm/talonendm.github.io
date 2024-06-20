@@ -74,6 +74,7 @@ Kuvataiteessa [provenienssi](https://fi.wikipedia.org/wiki/Provenienssi) on taid
 ## Marjatta Nuoreva
 - [Kökar?](https://kuvataiteilijamatrikkeli.fi/en/taiteilija/nuoreva-marjatta)
 
+
 ## Yrjö Saarinen
 - Kissa 1936
 - [Yrjö Saarinen - Kukka-asetelma](https://www.hagelstam.fi/yrjo-saarinen-1899-1958-d7d5c291e7bf085ff5318f0079327e13): Hagelstam 27.4.2023: öljy, sign. 1948, kaksipuoleinen, 53x73
