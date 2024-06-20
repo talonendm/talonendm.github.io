@@ -136,6 +136,12 @@ Laskurin perusteella 25 hehtaarin metsätilasta ei vielä Lahjoitettavan metsäk
 Lue lisää: Vähämerkityksinen tuki eli [de minimis](https://tem.fi/vahamerkityksinen-tuki-eli-de-minimis-tuki) -tuki, ks. valtioneuvoston [opas](https://julkaisut.valtioneuvosto.fi/bitstream/handle/10024/164694/2023_1_Opas_de_minimis_tuista_03032023.pdf?sequence=1&isAllowed=y).
 
 
+# Metka eli uusi metsätalouden kannustejärjestelmä
+
+Ajatuksena on kasvattaa terveitä ja hyvin tuottavia metsiä. Hakeminen ei vaadi enää erillistä tukihakemusta vaan tukea voi hakea tehdyn työn jälkeen. Puuston keskipituus, havupuilla 12 ja lehtipuilla 15 metrissä. Tuen ehtona on, että työt on tehty metsänhoitosuositusten mukaisesti. [^13] s.18-19
+
+
+
 # Metsäyhtymä @Kahala: MTY Talonen
 
 Yhtymä toimii niin, että se ei omista mitään omaisuutta suoraan. Sen sijaan koneet ja laitteet hankitaan jonkun osakkaan tai osakkaiden nimiin. Vaikka yhtymä ei omista fyysistä omaisuutta, sen on silti mahdollista liittää näiden koneiden ja laitteiden hankintamenot sekä poistot normaalisti yhtymän kirjanpitoon. Verotuksessa yhtymä käsitellään lähinnä laskentayksikkönä, joka ei omista omaisuutta, ja mahdolliset veroseuraamukset liittyvät suoraan osakkaiden omistamaan kalustoon. [^2] s.19
@@ -167,4 +173,5 @@ Yhtymä toimii niin, että se ei omista mitään omaisuutta suoraan. Sen sijaan 
 [^10]: TerveMetsä 4/2023 Stora Enson metsänomistajille
 [^11]: Stora Enso [Precision Forestry](https://www.storaenso.com/en/about-stora-enso/innovation/digitalisation-in-stora-enso/forest-operations)
 [^12]: MT Metsä no 4, 2023
+[^13]: TerveMetsä Stora Enso 1/2024 asiakaslehti, Metsänhoito, Metkasti tukea metsänhoitoon. Martti Linna, 2024.
 

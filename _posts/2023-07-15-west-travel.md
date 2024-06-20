@@ -17,8 +17,14 @@ Amidst the vibrant tapestry of a sun-kissed day, a quadra of lovely spirits emba
 
 ## Turku 2024
 
-- Iiu Susiraja, [WAM Turku](https://museot.fi/nayttelykalenteri/?nayttely_id=34350) 2.2.2024–12.5.2024
-  - Itäinen Rantakatu 38, [museo WAM](https://www.wam.fi/)
+- Kurjenrahka - [PDF map](https://julkaisut.metsa.fi/wp-content/uploads/sites/2/2021/07/kurjenrahkafinsveeng.pdf)
+  - 6km Savojärven kierros
+  - 1.7km Karpalopolku
+    - [Kalastus ok](https://www.luontoon.fi/kurjenrahka/aktiviteetit): "Viehekalastus on sallittua yhdellä vavalla rajoitusalueita lukuun ottamatta. Viehekalastusta varten pitää 18-69 vuotiaiden maksaa kalastonhoitomaksu (eräluvat.fi). Luvat voi ostaa erälupien verkkokaupasta (eräluvat.fi)." 
+    - ks. [kalastusrajoitus](https://kalastusrajoitus.fi/#/kalastusrajoitus) - ei ole 2406
+- see [West-travel](https://talonendm.github.io/2023-07-15-west-travel/)
+  - Iiu Susiraja, [WAM Turku](https://museot.fi/nayttelykalenteri/?nayttely_id=34350) 2.2.2024–12.5.2024
+    - Itäinen Rantakatu 38, [museo WAM](https://www.wam.fi/)
 
 ## Lohja
 
