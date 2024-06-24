@@ -166,6 +166,12 @@ Here are 20 essential sentences to know when dining in a restaurant in Dubrovnik
 
 These sentences will help you navigate a dining experience in a Croatian restaurant smoothly and ensure you can communicate your needs effectively.
 
+
+# Other stuff
+
+- [eurooppalainen-sairaanhoitokortti](https://www.kela.fi/eurooppalainen-sairaanhoitokortti)
+- Finnair [palkintolennot](https://www.finnair.com/fi-fi/finnair-plus/ker%C3%A4%C3%A4-ja-k%C3%A4yt%C3%A4-avioksia/k%C3%A4yt%C3%A4-avioksia-finnairin-lentopalkintoihin)
+
 ---
 
 [Disclaimer](https://talonendm.github.io/disclaimer)
