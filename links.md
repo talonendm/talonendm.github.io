@@ -73,6 +73,16 @@ tags:
 
 # Studies
 
+## 2024
+
+- [Tietoturvatesti YO](https://studies.helsinki.fi/ohjeet/artikkeli/opiskelijan-tietotekniikkapalvelut?check_logged_in=1#paragraph-6729): 
+  - Yliopistolaisen tietoturvatesti: [Pikaopas](https://moodle.helsinki.fi/mod/page/view.php?id=3204700)
+  - Testissä on viisi kysymystä, jotka arvotaan kysymyspankista. Testin läpäisyraja on 80/100 pistettä.
+  - Testi suoritetaan kerran lukuvuodessa.
+  - Uuden lukuvuoden testi on saatavilla 1.7. alkaen.
+  - Yliopistolaisen tietoturvatesti 2023-2024 (opiskelijat): [Moodle](https://moodle.helsinki.fi/enrol/index.php?id=58803)
+  - private dm [docs](https://docs.google.com/document/d/1VDpW17LFAW_vOjr4FFr6oRAaoT3_5EkAdQbS1eMg4Bw/edit?usp=sharing)
+
 ## 2023
 
 - Yliopisto:  [HY/MOOC: Ruoka 1.0](https://digicampus.fi/course/view.php?id=4060), 2 op, 2023–2024
