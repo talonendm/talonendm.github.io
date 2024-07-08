@@ -69,7 +69,14 @@ var canvaskoko = 1;
 
 // copy
 // var copyteksti = "\u00A9 ta.dm 2023";
-var copyteksti = "\u00A9      2023";
+
+// Create a new Date object
+let currentDate = new Date();
+
+// Get the current year
+let currentYear = currentDate.getFullYear();
+
+var copyteksti = "\u00A9      " + currentYear;
 var copyteksti2 = "talon\nendm" 
 var copynum = 1;
 var copysize = 14;
