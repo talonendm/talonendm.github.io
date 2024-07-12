@@ -159,6 +159,10 @@ jos saa diilin, 10 snt/kWh, paljon kustannukset laskevat? ks. [private ta.dm](ht
 - ...
 - 10.6.2024: vanhan keinun paikalle. [Tarhaillakko](https://fi.wikipedia.org/wiki/Tarhaillakko). Vanhanajan puutarhakasvi. Orkideamainen. Suorakylvö. Kastelua pari päivää tai kunnes itää. Kaksivuotinen ruoho, joka säilyy siementämällä kasvupaikallaan.[ puutarha.net](https://puutarha.net/kasvikortisto/kasvikortit/tarhaillakko/)
 - 15.6.2024: pihan siistiminen
+- 11.7.2024: French beans, herneet meni parempiin suihin. Testi, myöhäinen kylvö. 
+- 11.7.2024: McCulloch, öljynvaihto 1.4l. Suodattimen *pesu* kompressorilla.
+- 11.7.2024: Kirveen, viikatteen ja puutarhasaksien teroitus. Tienvierustan siistiminen viikatteella.
+- 12.7.2024: kirsikat ja punaviinimarjat kypsiä. 4 rasiaa pakkaseen.
 
 # 2023
 

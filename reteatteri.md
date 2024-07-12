@@ -71,6 +71,9 @@ talonen.dm: files:
 
 # Food Art
 
+- [Pikkelöidyt sinapinsiemenet](https://kokitjapotit.fi/pikkeloidyt-sinapinsiemenet/): "Pikkelöidyt sinapinsiemenet tuntuvat suussa ihanilta. Napakat ja hieman poksuvat siemenet tekevät sen jonkin kaivatun lisän moneen ruokaan.": sinapinsiemeniä, väkiviinaetikkaa, sokeria, vettä. 
+
+
 ## Surströmming
 
 [Surströmming](https://en.wikipedia.org/wiki/Surstr%C3%B6mming) ('hapansilakka') on kevyesti suolattu, fermentoitu Itämeren silakka, joka on perinteinen ruotsalainen herkku 1500-luvulta lähtien. Se eroaa paistetusta tai säilötystä silakasta. Itämeren silakka, eli strömming, on pienempi kuin Pohjanmeressä esiintyvä Atlantin silakka. Surströmming valmistetaan ennen kutua keväällä pyydetystä silakasta. Fermentoinnissa käytetään juuri tarpeeksi suolaa estämään kalan mätänemisen, mutta sallimaan käymisen, mikä antaa sille vahvan hajun ja happaman maun. 1940-luvulla säädettiin asetus, joka kielsi keskeneräisesti fermentoidun kalan myynnin ennen elokuun kolmatta torstaita. Vaikka asetus ei enää ole voimassa, kauppiaat noudattavat yhä tätä perinnettä.
