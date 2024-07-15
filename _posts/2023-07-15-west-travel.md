@@ -26,6 +26,41 @@ Amidst the vibrant tapestry of a sun-kissed day, a quadra of lovely spirits emba
   - Iiu Susiraja, [WAM Turku](https://museot.fi/nayttelykalenteri/?nayttely_id=34350) 2.2.2024–12.5.2024
     - Itäinen Rantakatu 38, [museo WAM](https://www.wam.fi/)
 
+### Eura-Turku
+
+Eura-Säkylä-Viikkala-Turku
+
+#### Museokortti (Turun lähistöllä)
+
+- [Liedon Vanhalinna](https://museot.fi/museohaku/index.php?museo_id=21473): Vanha Härkätie 111, 21410 Vanhalinna
+  - Ti-Su 	12:00-18:00
+- [Kuralan Kylämäki](https://museot.fi/museohaku/index.php?museo_id=21861), Jaanintie 45, 20540 Turku
+  - Museorakennukset avoinna 18.5.2024 - 18.8.2024 Ti - Su 10:00 - 18:00, vapaa pääsy
+- Turku
+  - Ett Hem -museo
+  - Sibeliusmuseo
+  - Turun tuomiokirkkomuseo
+  - Aboa Vetus & Ars Nova
+    - [Aboa Vetus](https://avan.fi/nayttelyt/aboa-vetus-vanha-turku) on maan alta löydetty kaupunginosa, jossa on eletty vuosisatojen ajan.
+    - [Marko Vuokola](https://avan.fi/nayttelyt/marko-vuokola)
+    - [Irene Suosalo](https://avan.fi/nayttelyt/irene-suosalo)
+  - Apteekkimuseo ja [Qwenselin](https://www.turku.fi/apteekkimuseo-ja-qwenselin-talo/herrainkulmasta-museoalueeksi/qwenselin-talon-historia-ja-asukkaat) talo (vanha säätyläistalo). Talo sijaitsee Aurajoen länsirannalla, jota kutsuttiin ennen Herrainkulmaksi.
+  - Turun taidemuseo
+    - [Eeva Honkanen](https://turuntaidemuseo.fi/nayttelyt/eeva-honkanen)
+    - [Nastja Säde Rönkkö](https://turuntaidemuseo.fi/nayttelyt/nastja-sade-ronkko)
+  - Luostarinmäki
+  - Turun Biologinen museo
+  - WAM:  aukeaa yleisölle taas syksyllä 2026
+  - [Forum Marinum](https://museot.fi/museohaku/index.php?museo_id=21864): Museoalus Sigyn: "Suomen ensimmäinen museolaiva ja yksi Turkua halkovan Aurajoen symboleista. "
+  - [Forum Marinum](https://museot.fi/museohaku/index.php?museo_id=22026)
+  - Forum Marinum: [Fregatti Suomen Joutsen](https://museot.fi/museohaku/index.php?museo_id=9032)
+  - Forum Marinum [Tykkivene Karjala ja Miinalaiva Keihässalmi](https://museot.fi/museohaku/index.php?museo_id=9056)
+  - Forum Marinum: [Bore](https://museot.fi/museohaku/index.php?museo_id=9033)
+  - Turun linna
+  - Turun yliopiston kasvitieteellinen puutarha
+    - Ruissalon puistotie 215
+  - [Raision museo Harkko](https://museot.fi/museohaku/index.php?museo_id=22024)
+
 ## Lohja
 
 Leaving the urban cacophony behind, they surrendered to the embrace of nature's melody, traversing meandering roads that led them through quaint villages and verdant landscapes. Each curve of the road unveiled untold secrets, whispered by the winds that had witnessed the tales of ages past.
@@ -68,6 +103,7 @@ A serendipitous pause emerged when they chanced upon the hidden gem of Eura. Tim
 
 Eura has a history of industrial activity spanning over 300 years. The Kauttua Ironworks was established in 1689 by [Baron Lorenz Creutz](https://fi.wikipedia.org/wiki/Lorentz_Creutz). Notable modern industrial structures in the area include the world-famous Alvar Aalto Terrace House and [Villa Ahlström](https://www.eura.fi/kulttuuri-ja-vapaa-aika/kulttuuri/euran-100-helmea/villa-ahlstrom/), now used by the Pyhäjärvi Institute.
 
+- [Foreca Eura](https://www.foreca.fi/Finland/Eura)
 - Kiperi
 - Euran urheilukenttä
 - [Koskeljärven luontoreitti](https://www.outdoorssatakunta.fi/kohde/koskeljarven-luontoreitti-eura-45-km/), [sijainti](https://www.luontoon.fi/koskeljarvi/kartatjakulkuyhteydet)

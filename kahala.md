@@ -55,7 +55,7 @@ Lannoituksela voi saada noin 8 prosentin tuoton. Kasvulannoitus soveltuu parhait
 
 Jatkuva kasvatus oli ensin kiellettyä, sitten siedettävää ja sen jälkeen suositeltavaa.[^3](s.65) 
 Puolet maailman selkärankaisista on kadonnut vuoden 1970 jälkeen ihmistoiminnan seurauksena.[^3] s.73, [HS 27.10.2017](https://www.hs.fi/ulkomaat/art-2000005424826.html)
-Jaksollinen hakkuu lisää kirjanpainajan ja tukkimiehentäin aiheuttamia tuhoja.[^3](s.152) 
+Jaksollinen hakkuu lisää kirjanpainajan ja tukkimiehentäin aiheuttamia tuhoja.[^3](s.152) Se on noin 5mm mittainen kuoriainen. Se levittäytyy etenkin tuoreisiin kuusimetsiin touko-kesäkuun aikana. Kaadetut kuuset on kerättävä tienvarsilta viimeistään 15.7. mennessä. [^14]
 
 ### Päätehakkuu ja metsän uudistaminen
 
@@ -174,4 +174,4 @@ Yhtymä toimii niin, että se ei omista mitään omaisuutta suoraan. Sen sijaan 
 [^11]: Stora Enso [Precision Forestry](https://www.storaenso.com/en/about-stora-enso/innovation/digitalisation-in-stora-enso/forest-operations)
 [^12]: MT Metsä no 4, 2023
 [^13]: TerveMetsä Stora Enso 1/2024 asiakaslehti, Metsänhoito, Metkasti tukea metsänhoitoon. Martti Linna, 2024.
-
+[^14]: TerveMetsä Stora Enso 1/2024 asiakaslehti, Kirjanpainajatuhojen taklaaminen, Noora Valkila, 2024.

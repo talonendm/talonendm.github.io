@@ -184,7 +184,7 @@ Valvira ei ole myöntänyt opiskelijoille psykoterapeutin ammattinimikettä, kos
 
 # Remontti - olohuone
 
-- private [sheet dm](https://docs.google.com/spreadsheets/d/1VGjqnZqZoh-lTOcGWaG-7NmNhg2bheX-cuprl2-o2AQ/edit?usp=sharing)
+- calender and private [sheet dm](https://docs.google.com/spreadsheets/d/1VGjqnZqZoh-lTOcGWaG-7NmNhg2bheX-cuprl2-o2AQ/edit?usp=sharing)
 - tapetin irroitus. Tapetin höyristin
 - Naulanreiät, Tasoitukset
 - Pohjamaalaus - täsmä
