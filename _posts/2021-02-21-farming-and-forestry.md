@@ -135,7 +135,15 @@ jos saa diilin, 10 snt/kWh, paljon kustannukset laskevat? ks. [private ta.dm](ht
 ## Työkalut
 
 - [Bosch ART 23 Combitrim](https://www.k-rauta.fi/tuote/trimmeri-bosch-art-23-combitrim/3165140349512) sähkötrimmeri nurmikon siistimiseen, [Siimaa puuilosta](https://www.puuilo.fi/bosch-art-23-sl-trimmerin-siima?gclid=CjwKCAjwg4-EBhBwEiwAzYAlsiMC8ORKpSoj8aWQBdarQyU4RCw1892aMjGurePbo6CwtmKHQCF7IhoCWswQAvD_BwE).
+- Honda HRS536C vetävä silppuava leikkuri
+  - SAE 10W-40 öljy oikeastaan aina ok, lämpötilasta riippuu (ks. [keskustelu](https://www.masinistit.com/keskustelupalsta/viewtopic.php?t=49851))
+  - öljytilavuus 0.55 l
+    - "Jotta öljy valuisi nopeasti ja kokonaan niin valuta öljy ulos kun moottori on vielä lämmin."
 
+1. Sulje polttoainehana.
+2. Irroita öljyntäyttöaukon korkki.
+3. Kallista leikkuri ja valuta öljy ulos. Ks. kuva.
+4. Täytä öljyllä ylärajamerkkiin asti. Kierrä öljyntäyttöaukon tulppa kiinni. [HRS536C](https://www.hondapower.fi/content/download/23222/194031/file/HRS536C.pdf) 
 
 # 2024
 
@@ -159,10 +167,12 @@ jos saa diilin, 10 snt/kWh, paljon kustannukset laskevat? ks. [private ta.dm](ht
 - ...
 - 10.6.2024: vanhan keinun paikalle. [Tarhaillakko](https://fi.wikipedia.org/wiki/Tarhaillakko). Vanhanajan puutarhakasvi. Orkideamainen. Suorakylvö. Kastelua pari päivää tai kunnes itää. Kaksivuotinen ruoho, joka säilyy siementämällä kasvupaikallaan.[ puutarha.net](https://puutarha.net/kasvikortisto/kasvikortit/tarhaillakko/)
 - 15.6.2024: pihan siistiminen
+- 7.7.2024: lipputangon pesu.
 - 11.7.2024: French beans, herneet meni parempiin suihin. Testi, myöhäinen kylvö. 
 - 11.7.2024: McCulloch, öljynvaihto 1.4l. Suodattimen *pesu* kompressorilla.
 - 11.7.2024: Kirveen, viikatteen ja puutarhasaksien teroitus. Tienvierustan siistiminen viikatteella.
-- 12.7.2024: kirsikat ja punaviinimarjat kypsiä. 4 rasiaa pakkaseen.
+- 12.7.2024: kirsikat ja punaviinimarjat kypsiä. 4 rasiaa pakkaseen. Hyvä kirsikkasato. 
+- 23.7.2024: kerää talteen, siemenet. Kirsikkapuu Prunus cerasus fanal. Uudistushakkuualueelle. Loput kirsikat kerätty.
 
 # 2023
 

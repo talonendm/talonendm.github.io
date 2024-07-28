@@ -22,7 +22,7 @@ Data related on courses (lecturer, year etc. available) for me at [Google sheet 
 
 # P1 ja P2 Matematiikka Mat-1.441 ja 1.442
 
-Ottaita muistiinpanoista: [ta.dm](https://docs.google.com/document/d/12k9p9jWPxdxX6sa5lrkheZIBTdBF1wSFcDSiEXbLst4/edit?usp=sharing)
+Otteita muistiinpanoista: [ta.dm](https://docs.google.com/document/d/12k9p9jWPxdxX6sa5lrkheZIBTdBF1wSFcDSiEXbLst4/edit?usp=sharing)
 - Matriisit
 - yhteenlasku
 - reaaliluvun ja matriisin kertolasku
@@ -41,12 +41,6 @@ Ottaita muistiinpanoista: [ta.dm](https://docs.google.com/document/d/12k9p9jWPxd
 - [Lagrange](https://fi.wikipedia.org/wiki/Lagrangen_kertoimet)
 - [Cobb–Douglas production](https://en.wikipedia.org/wiki/Cobb%E2%80%93Douglas_production_function)
 - [Stokesin](https://fi.wikipedia.org/wiki/Stokesin_lause) lause: "yhdistää suljetun polkuintegraalin sekä polun rajaaman avoimen pinnan pintaintegraalin."
-
-
-
-
-
-
 
 # Monimuuttujamenetelmät prossitekniikassa
 Original source: copies and notes (2003) and finally in garbage (2021).
@@ -122,10 +116,13 @@ augmented Dickey-Fuller tests (ADF):
 
 # Sovellettu Todennäköisyyslaskenta
 
+- Sovellettu todennäköisyyslaskenta tutkii, kuinka todennäköisyysteoriaa voidaan soveltaa käytännön ongelmien ratkaisemiseen. Tämä käsittää todennäköisyyksien laskemisen eri tapahtumille ja näiden tapahtumien välisten riippuvuuksien analysoinnin.
+- Mat-2.091
 - Todennäköisyyslaskenta: " Tapahtuman klassinen todennäköisyys on tapahtumalle suotuisien tulosvaihtoehtojen suhteellinen frekvenssi"
 - Tilastolliset menetelmät
 - Kaavat ja talukot [pdf](http://salserver.org.aalto.fi/vanhat_sivut/Opinnot/Mat-2.090/pdf_varasto/1_painos.pdf)
 - [Prujut by Ilkka Mellin](http://math.tkk.fi/opetus/sovtodb/)
+- [ta.dm private](https://docs.google.com/document/d/1O9HojN5ElBa2axZH2-gJuRdk9v1119Vptf1C4Slt8Vk/edit?usp=sharing)
 
 
 # Systeemidynamiikka
@@ -222,8 +219,25 @@ i vinter, nästa vinter, på vintern
 
 Mappi siivottu 18.9.2021
 
+# Predictive Control Applied For Limear and nonlinear plants
 
+- Predictive Control Applied For Limear and nonlinear plants
+  - "Predictive control algorithms emerged in the middle of the seventies from the side of industrial
+applications. The main idea was to develop robust control algorithms based on simple, measurable process
+models, providing acceptable results also with constraints, noises and parameter uncertainties. These
+algorithms, using predicted future information could provide better control performance compared to the
+usual PID control especially in case of known reference signal and with big dead time in the plant. The
+philosophy behind is that using more information better decisions could be done. The main idea is to
+calculate the actual and the subsequent control signals minimising the quadratic deviation of the reference
+signal and the output signal in a given future horizon. According to the receding horizon control strategy
+only the first control signal is used at the process input, and in the next sampling point the procedure is
+repeated." [PDF 2006 - Ruth Bars](http://kepo.hut.fi/files/2006_Bars_Course_Description.pdf)
+- [private dm - notes](https://docs.google.com/document/d/1Y7vCfzTgja-eb7FJuajgDDXzWWgJ0PsXbngslBCZ1Ow/edit?usp=sharing)
 
+# TU-22.1101 - Tuotannon talouden perusteet, 2008
+
+- Kurssin tavoitteena on antaa yleiskuva siitä, miten yritykset tekevät taloudellisia päätöksiä ja miten taloudellinen tieto auttaa yrityksiä parantamaan suorituskykyään. Kurssilla käsitellään keskeisiä taloudellisia käsitteitä, kuten kustannuslaskentaa, budjetointia ja investointien arviointia. Kurssi on suunnattu erityisesti teknillisen alan opiskelijoille, jotka haluavat ymmärtää talouden perusperiaatteita ja soveltaa niitä käytännössä.
+- [private.dm notes](https://docs.google.com/document/d/1fEt2gQzqTSCk7gqcfY_gdwhsbU2_WjOxcsbyx3ILczQ/edit?usp=sharing)
 
 
 ### Vastuuvapauslauseke
