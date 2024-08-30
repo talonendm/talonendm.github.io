@@ -145,6 +145,11 @@ jos saa diilin, 10 snt/kWh, paljon kustannukset laskevat? ks. [private ta.dm](ht
 3. Kallista leikkuri ja valuta öljy ulos. Ks. kuva.
 4. Täytä öljyllä ylärajamerkkiin asti. Kierrä öljyntäyttöaukon tulppa kiinni. [HRS536C](https://www.hondapower.fi/content/download/23222/194031/file/HRS536C.pdf) 
 
+
+# 2025
+
+- TODO: leikkaa ison omenaapuun oksat, jotka yltävät alppiruusun yläpuolelle. Omenoiden kerääminen hankalaa ja osa muumioituu pensaan sisällä. Omenoita saa tosin nykäistyä itsetehdyllä valkoisella jatkovartisella perhoshaavilla. Jakkaralta pihtien kanssa onnistuu muumio-omenoiden kerääminen elokuussa.
+
 # 2024
 
 - 8.3.2024 allerg. started. "Pähkinäpensas kukkii Etelä-Ruotsissa ja lepän kukinta on alkamassa Etelä-Ruotsissa. Suomeen ei kulkeudu siitepölyä." [norkko.fi](https://norkko.fi/)
@@ -173,6 +178,15 @@ jos saa diilin, 10 snt/kWh, paljon kustannukset laskevat? ks. [private ta.dm](ht
 - 11.7.2024: Kirveen, viikatteen ja puutarhasaksien teroitus. Tienvierustan siistiminen viikatteella.
 - 12.7.2024: kirsikat ja punaviinimarjat kypsiä. 4 rasiaa pakkaseen. Hyvä kirsikkasato. 
 - 23.7.2024: kerää talteen, siemenet. Kirsikkapuu Prunus cerasus fanal. Uudistushakkuualueelle. Loput kirsikat kerätty.
+- 13.8.2024: idänunikko, kuokalla viiruja, istutus private ta.dm
+- 19.8.2024: pensastomaattisatoa, muutamia tomaatteja. Hyviä ja makeita, hallilta.
+- 19.8.2024: omenasato ollut kohtalainen, vastaavanlainen lannoitus kannattaa tehdä.
+- 20.8.2024: idänunikko, saksilla siemenkodat. viereen rinteeseen pensaiden suuntaisesti suoraan maahan. ("Voit myös kylvää unikoita syksyllä, ja tällöin ne kukkivat seuraavana keväänä. Pienet siemenet on helpompi kylvää, kun sekoitat ne ensin hiekkaan." [meilläkotona](https://www.meillakotona.fi/artikkelit/unikko-kasvatus-hoito-ja-lajikkeet))
+- "Syyslannoituksen aika on elokuun alkupuolella. Syyslannoituksen tarkoituksena on lisätä seuraavan vuoden kukkasilmujen muodostumista ja parantaa talvenkestävyyttä." [Biolan](https://www.biolan.fi/artikkelit/omena.html)
+- 22.8.2024: omenapuiden ja marjapensaiden syyslannoitus. Paras omenasato vuosiin. Pienessä puussa lampun vieressä varmaan 500 valkeakuulasomenaa. Isopuu, muutamia muumiotautisia omenoita, päivittäin niiden kerääminen sekajätteeseen.
+- 24.8.2024: omenasatoa puusta, noin 20 litraa. Noin 10 viinirypälettä. Zilga. "Siemenestä voi kasvattaa viiniköynnöksen, mutta se on silloin koristekasvi. Jos haluat rypäleitäkin, pitää käyttää pistokaslisäystä." Joku taas sanoo, että voi tulla.. kylmäkäsittely. Kuivaa ja siemenet hallille. Testaa keväällä.  [suomi24](https://keskustelu.suomi24.fi/t/6569402/viinikoynnos)
+- 25.8.2024 Wohlsin sadonkorjuujuhla. Humulus lupuluksen käpyjä. Humalavesi ei oikein toiminut toivotulla tavalla. Muista huuhdella ja siivilöidä hyvin.
+  
 
 # 2023
 

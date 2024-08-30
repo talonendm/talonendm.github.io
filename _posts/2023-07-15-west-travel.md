@@ -15,6 +15,15 @@ published: true
 
 Amidst the vibrant tapestry of a sun-kissed day, a quadra of lovely spirits embarked on an enchanting sojourn. With a shared passion for jazz resonating within their souls, they sought the mystical allure of a distant rhythm echoing from the heart of Pori. The journey, like an uncharted symphony, unfurled before them, beckoning them to embark on a road less traveled.
 
+## Fiskars 2024
+
+[Oluttuoppikurssi](https://www.biancoblu.fi/lasinpuhallus.php?k=11995) - 1 oluttuoppi/osallistuja: "Esineen valmistamiseen käytetään perinteisiä menetelmiä puhaltaen, ilman muottia, joten jokaisesta tuopista tulee uniikki yksilö.
+Tuopin suuosan juomakelpoisuuden säilyttämiseksi vain pienet yksilölliset muutokset muodossa ovat mahdollisia."
+
+Reittiohjeet, [Google Maps](https://www.google.com/maps/dir//Kuparivasarantie+7,+10470+Fiskari/@60.126936,23.458593,17969m/)
+
+[Fiskarsin Panimo](https://fiskarsinpanimo.fi/) ja Puoti: auki klo12-20: Peltorivi 7, 10470 Fiskars
+
 ## Turku 2024
 
 - Kurjenrahka - [PDF map](https://julkaisut.metsa.fi/wp-content/uploads/sites/2/2021/07/kurjenrahkafinsveeng.pdf)
