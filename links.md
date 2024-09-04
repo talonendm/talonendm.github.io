@@ -11,6 +11,12 @@ tags:
 
 # 2024
 
+## Studies
+
+- AI Python for Beginners: Working with Your Own Data and Documents in Python, private [ta.dm](https://docs.google.com/document/d/18Wo8dpjsA7aUCywvZLV3nAZn1QT7VuK5EUShivyYlQo/edit)
+- AI Python for Beginners: Extending Python with Packages and APIs, private [ta.dm](https://docs.google.com/document/d/1CZOzqO5mSwKLXmnR8-5e2v7BKNjn-nFid-XC61MIo98/edit)
+- Tekoälyn etiikka: Johdanto, Tekoälyn etiikka: [Johdanto, MOOC 2 op](https://studies.helsinki.fi/kurssit/toteutus/otm-e6fbf97e-5bba-495a-9d3f-e7bbc4a36e89/TKT21031)
+- [Palvelumuotoilun sprint](https://courses.mooc.fi/org/metropolia-innovation-entrepreneurship/courses/palvelumuotoilun-sprint)
 
 ## R
 

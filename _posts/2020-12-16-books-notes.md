@@ -101,6 +101,12 @@ Harvard-tyylinen lähdeviittaus<br>
 Jormalainen, P. & Matilainen, A. 1999. Korjausrakentaminen. 2. uud. p. Helsinki: Rakennusalan kustantajat : Kustantajat Sarmala.
 
 
+## RIL 249-2009 Matalaenergiarakentaminen Asuinrakennukset
+
+"Ohje on tarkoitettu kaikille rakennusalan osapuolille: rakennuttajille, suunnittelijoille, urakoitsijoille, materiaali- ja tuotevalmistajille, valvontaviranomaisille, ym." [booky](https://www.booky.fi/tuote/matalaenergiarakentaminen_asuinrakennukset_ril_249_2009_/9789517585170?srsltid=AfmBOopRC2L0abFBNqf1pJbME0ziuWSgYyab6Lt2lXISnH4meFEHGP3g)
+
+"Kaikki rakenteen detaljit suunnitellaan ja rakennetaan siten, että ne johtavat veden ulos rakenteista, eikä rakenteen sisään."
+Private notes [ta.dm](https://docs.google.com/document/d/1KOyuq-zAgv-18Yix9A3FaBDhhJWdwazDAddfBYt7Xco/edit#heading=h.tjj2ejpgkp3x)
 
 ## TALONRAKENTAJAN KÄSIKIRJA 4 - PIENTALON VESIKATTOJA ULKOVERHOUSTYÖT
 
