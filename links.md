@@ -11,6 +11,8 @@ tags:
 
 # 2024
 
+- [re:teatteri map](https://safka.shinyapps.io/restaurants/)
+
 ## Studies
 
 - AI Python for Beginners: Working with Your Own Data and Documents in Python, private [ta.dm](https://docs.google.com/document/d/18Wo8dpjsA7aUCywvZLV3nAZn1QT7VuK5EUShivyYlQo/edit)
@@ -24,6 +26,11 @@ tags:
 - Quarto documents into self contained [HTML](https://quarto.org/docs/output-formats/html-publishing.html#standalone-html)
 - [Blogdown](https://bookdown.org/yihui/blogdown/)
 - [VaakaR](https://github.com/vaakaruode/vaakaR) and [RuuviR](https://github.com/talonendm/RuuviR/)
+
+## Other
+
+- [passikuvaohjeet e-epassi](https://epassikuva.fi/ota-passikuva-itse/)
+  - [lupakuvienvastaanotto](https://lupakuvienvastaanotto.fi/Default.aspx)
 
 # 2023
 

@@ -16,6 +16,8 @@ tags:
   - Google Analytics
   - Privacy policy
   - Jekyll
+  - ttf
+  - woff
   
 comments: true
 published: true
@@ -403,6 +405,44 @@ Configuration file: /srv/jekyll/_config.yml
 
 ~~~
 
+# Fonts ttf, woff and woff2
+
+- Create fonts, e.g. with: [fontstruct.com](https://fontstruct.com/fontstructor/edit)
+  - Download ttf
+  - Right click font-file and press (install / asenna) and then can be used e.g. in Gimp
+  - Create woff and [woff2](https://cloudconvert.com/ttf-to-woff2) files with [cloudconvert](https://cloudconvert.com/).
+    - Chrome (240915) do not support ttf anymore (see e.g. [stack](https://stackoverflow.com/questions/62026207/font-face-wont-work-for-my-ttf-file-wont-load-properly)) and you need to create these files e.g. html and js -files
+  
+## Use fonts in webpages as
+
+see for example this [page](https://vaakaruode.github.io/).
+
+### CSS
+
+~~~
+
+*/
+@font-face {
+    font-family: 'vaakaruode';
+    src: url('https://vaakaruode.github.io/assets/font/vaakaruode/vaakaruode2.ttf') format('truetype'),
+        url("https://vaakaruode.github.io/assets/font/vaakaruode/vaakaruode2.woff") format("woff"),
+        url("https://vaakaruode.github.io/assets/font/vaakaruode/vaakaruode2.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+~~~
+
+### CSS use in h2 content divs
+
+~~~
+
+.content h2 {
+    font-family: 'vaakaruode', sans-serif;
+    /* Use custom font with fallback */
+}
+~~~
 
 ### References 
 

@@ -106,6 +106,12 @@ The available fishes are:
 
 Additionally, they have fish roe available in frozen form for siika (whitefish) and muikku (vendace), and canned fish options include muikku (vendace), särki (roach), sardiini (sardine), makrilli (mackerel), and kilohaili (Atlantic herring). The availability of some of these fishes may vary depending on the season or other factors.
 
+
+## Noormarkku
+
+- [Ahlströmin ruukki](https://ahlstrominruukki.fi/), 2024. [Ahlström Voyage](https://ahlstrominruukki.fi/nae-ja-koe/ahlstrom-voyage-nayttely/): "Ahlström Voyage -näyttely vanhassa pajassa esittelee mielenkiintoisella tavalla Ahlström-yhtiöiden, suvun sekä Noormarkun ruukin historiaa ja nykypäivää yli 170 vuoden ajalta. Yhtiön tarina on merkittävä osa suomalaista teollisuus-, arkkitehtuuri-, taide- ja designhistoriaa. "
+
+
 ## Eura
 
 A serendipitous pause emerged when they chanced upon the hidden gem of Eura. Time seemed to surrender in that idyllic place, where ancient cobblestones whispered the ballads of forgotten souls. The trio embraced the fleeting connection with the past, delighting in the essence of a town steeped in nostalgia.
@@ -130,6 +136,13 @@ Eloranta lämmin saun',
 kiskan hinnat kohtuulliset.
 
 *) Limalevä ei ole vaarallista, mutta runsaana esiintyessään se muodostaa ihon pinnalle epämiellyttävältä tuntuvan, limamaisen kalvon. Se voi aiheuttaa herkkäihoisille punoitusta ja kutinaa. Limaleväisessä vedessä uimisen jälkeen iho kannattaa pestä ja kuivata huolellisesti. 
+
+
+## Harjavalta
+
+[Emil Cedercreutzin](https://www.emilcedercreutz.fi/) perintöä vaaliva museo. [2024] "Museon alueella sijaitseva veistospuisto on ulkoilmanäyttely, joka sisältää lukuisia pronssiin valettuja Emil Cedercreutzin veistoksia." [museo](https://www.emilcedercreutz.fi/museo)
+- "Emil Cedercreutzin kenties kuuluisin työ, Äidinrakkaus, on pystytetty Helsingin Varsapuistoon."
+- SENSITIVA: Lauri Ainala, Kalle Hamm & Dzamil Kamanger 26.5.2024-12.1.2025 - Immateriaalisia teoksia. (qr-koodit)
 
 ## Rauma
 

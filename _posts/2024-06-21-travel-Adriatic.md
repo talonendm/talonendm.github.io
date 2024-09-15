@@ -233,6 +233,8 @@ These sentences will help you navigate a dining experience in a Croatian restaur
 
 # Other stuff
 
+- Weekly pass 7 days (55e):
+  - you get access to some very tiny museums + walls (35e) + 1 week ticket (Libertas Dubrovnik) (21,24 e).. I felt that discount was 1,24 euros in practice - not very good deal.. and you need to change online ticket to paper one in some kiosk.
 - [eurooppalainen-sairaanhoitokortti](https://www.kela.fi/eurooppalainen-sairaanhoitokortti)
 - Finnair [palkintolennot](https://www.finnair.com/fi-fi/finnair-plus/ker%C3%A4%C3%A4-ja-k%C3%A4yt%C3%A4-avioksia/k%C3%A4yt%C3%A4-avioksia-finnairin-lentopalkintoihin)
 - tavaralista - [private dm](https://docs.google.com/spreadsheets/d/19BkGyPCeYUFju6qmrPmDd3s-zcD2MNX5jRguvoorb1c/edit?gid=687918509#gid=687918509)

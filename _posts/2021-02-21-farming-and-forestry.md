@@ -187,6 +187,7 @@ jos saa diilin, 10 snt/kWh, paljon kustannukset laskevat? ks. [private ta.dm](ht
 - 24.8.2024: omenasatoa puusta, noin 20 litraa. Noin 10 viinirypälettä. Zilga. "Siemenestä voi kasvattaa viiniköynnöksen, mutta se on silloin koristekasvi. Jos haluat rypäleitäkin, pitää käyttää pistokaslisäystä." Joku taas sanoo, että voi tulla.. kylmäkäsittely. Kuivaa ja siemenet hallille. Testaa keväällä.  [suomi24](https://keskustelu.suomi24.fi/t/6569402/viinikoynnos)
 - 25.8.2024 Wohlsin sadonkorjuujuhla. Humulus lupuluksen käpyjä. Humalavesi ei oikein toiminut toivotulla tavalla. Muista huuhdella ja siivilöidä hyvin.
 - 4.9.2024 omenoita ja marja-aroniaa tulee hyvin.
+- 14.9.2024 omenoita ja marja-aroniaa tulee hyvin. Aikainen syyslannoitus omenapuille, lämpimät säät ja sateet varmaan lisäänneet hieman muumiotautio ja osa omenoista halkeaa, varmaan jo kasvupyrähdys..
   
 
 # 2023
