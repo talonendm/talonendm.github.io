@@ -11,6 +11,7 @@ tags:
   - kirja
   - Finna
   - ChatGPT
+  - jabref
 comments: false
 published: true
 ---
@@ -18,6 +19,12 @@ published: true
 Kirjojen analysointia, muistiinpanoja ja keskustelua tekoälyn (kielimallin) kanssa aiheista. Deep Learning -kurssien muistiinpanoja: 
 
 - [Prompt Engineering for Developers](https://docs.google.com/document/d/1P6ojmZyju3B1_j9y784L42u-qekfWJtdWQVtydvsGdM/edit?usp=sharing)
+
+
+# Jabref tips and tricks
+
+- create [groups](https://docs.jabref.org/finding-sorting-and-cleaning-entries/groups)
+  - find faster your references
 
 
 # Kertoja

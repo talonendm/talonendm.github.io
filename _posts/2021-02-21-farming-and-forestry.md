@@ -188,6 +188,9 @@ jos saa diilin, 10 snt/kWh, paljon kustannukset laskevat? ks. [private ta.dm](ht
 - 25.8.2024 Wohlsin sadonkorjuujuhla. Humulus lupuluksen käpyjä. Humalavesi ei oikein toiminut toivotulla tavalla. Muista huuhdella ja siivilöidä hyvin.
 - 4.9.2024 omenoita ja marja-aroniaa tulee hyvin.
 - 14.9.2024 omenoita ja marja-aroniaa tulee hyvin. Aikainen syyslannoitus omenapuille, lämpimät säät ja sateet varmaan lisäänneet hieman muumiotautio ja osa omenoista halkeaa, varmaan jo kasvupyrähdys..
+- 23.9.2024 toinen papusato
+- 25.9.2024 viimeiset omenat roskiin, muumioituivat
+- 26.9.2024 korianterin siementen kuivatus.
   
 
 # 2023
