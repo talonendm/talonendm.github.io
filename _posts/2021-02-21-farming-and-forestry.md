@@ -191,6 +191,7 @@ jos saa diilin, 10 snt/kWh, paljon kustannukset laskevat? ks. [private ta.dm](ht
 - 23.9.2024 toinen papusato
 - 25.9.2024 viimeiset omenat roskiin, muumioituivat
 - 26.9.2024 korianterin siementen kuivatus.
+- 29.9.2024 3 täydellistä herkkutattia nurmirinteestä, n. 3 metriä kaakkoon.
   
 
 # 2023
