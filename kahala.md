@@ -141,7 +141,6 @@ Lue lisää: Vähämerkityksinen tuki eli [de minimis](https://tem.fi/vahamerkit
 Ajatuksena on kasvattaa terveitä ja hyvin tuottavia metsiä. Hakeminen ei vaadi enää erillistä tukihakemusta vaan tukea voi hakea tehdyn työn jälkeen. Puuston keskipituus, havupuilla 12 ja lehtipuilla 15 metrissä. Tuen ehtona on, että työt on tehty metsänhoitosuositusten mukaisesti. [^13] s.18-19
 
 
-
 # Metsäyhtymä @Kahala: MTY Talonen
 
 Yhtymä toimii niin, että se ei omista mitään omaisuutta suoraan. Sen sijaan koneet ja laitteet hankitaan jonkun osakkaan tai osakkaiden nimiin. Vaikka yhtymä ei omista fyysistä omaisuutta, sen on silti mahdollista liittää näiden koneiden ja laitteiden hankintamenot sekä poistot normaalisti yhtymän kirjanpitoon. Verotuksessa yhtymä käsitellään lähinnä laskentayksikkönä, joka ei omista omaisuutta, ja mahdolliset veroseuraamukset liittyvät suoraan osakkaiden omistamaan kalustoon. [^2] s.19
@@ -149,9 +148,7 @@ Yhtymä toimii niin, että se ei omista mitään omaisuutta suoraan. Sen sijaan 
 ## Yhteystiedot
 
 - MTY Talonen email: talonen.kahala (miukumauku) gmail.com
-- Jaakko, Juho ja Mikko Talonen
 - Yhteyshenkilö: Jaakko Talonen (email: jaakko.talonen (miukumauku) gmail.com)
-- [Metsäyhtymä Talonen Jaakko, Talonen Juho ja Talonen Mikko @ Asiakastieto](https://www.asiakastieto.fi/yritykset/fi/metsayhtyma-talonen-jaakko-talonen-juho-ja-talonen-mikko/31972523/yleiskuva)
 
 ---
 

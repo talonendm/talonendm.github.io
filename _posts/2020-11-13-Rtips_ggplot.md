@@ -6,13 +6,50 @@ tags:
   - R
   - package ggplot
   - package ggsave
+  - package chattr
+  - LLM
+  - copilot
 comments: true
 cover-img: /assets/pics/wide/wide_Time series and histogram.png
 thumbnail-img: /assets/pics/cover/square_time series, points and labels.png
 published: true
 ---
 
-Tools -> Global Options -> change save .Rdata (never) and disable restore .Rdata 
+
+# Custom tips
+
+- Disable .Rdata saving: 
+  - Tools -> Global Options -> change save .Rdata (never) and disable restore .Rdata 
+
+## copilot
+
+<!-- 10/2024 -->
+
+- github settings, activate copilot [talonendm](https://github.com/settings/copilot)
+- [university students](https://techcommunity.microsoft.com/t5/educator-developer-blog/step-by-step-setting-up-github-student-and-github-copilot-as-an/ba-p/3736279), free
+- Rstudio ohjeet [posit.co](https://docs.posit.co/ide/user/ide/guide/tools/copilot.html)
+  - Navigate to Tools > Global Options > Copilot.
+  - Check the box to “Enable GitHub Copilot”.
+  - Download and install the Copilot Agent components.
+  - Click the “Sign In” button.
+  - In the “GitHub Copilot: Sign in” dialog, copy the Verification Code.
+
+### Chat with AI in RStudio
+
+"Interact with Github Copilot and OpenAI’s GPT (ChatGPT) models directly in RStudio. The chattr Shiny add-in makes it easy for you to interact with these and other Large Language Models (LLMs)."  [rstudio](https://blogs.rstudio.com/ai/posts/2024-04-04-chat-with-llms-using-chattr/)
+
+- [chattr package R](https://mlverse.github.io/chattr/)
+  - check instructions
+- tillburg.ai [chattr](https://tilburg.ai/2024/05/how-to-integrate-chatgpt-inside-rstudio/)
+
+```
+# Run the app
+chattr::chattr_app()
+```
+
+and espace with ESC.
+
+
 
 # R tips - ggplot 
 
