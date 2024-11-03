@@ -50,6 +50,9 @@ chattr::chattr_app()
 and espace with ESC.
 
 
+## Quarto
+
+- [Like R Markdown, Quarto uses Knitr to execute R code, and is therefore able to render most existing Rmd files without modification.](https://quarto.org/docs/computations/r.html)
 
 # R tips - ggplot 
 

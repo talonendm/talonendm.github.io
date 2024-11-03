@@ -37,6 +37,10 @@ git push git@github-talonendm:talonendm/talonendm.github.io.git
 - [uusi vuosi 2023](https://talonendm.github.io/2023-01-01-uusi-vuosi/)
 - "Hyvää uutta vuotta! -onnittelu tarkoittaa siis koko tulevaa vuotta. Hyvä uuttavuotta! -onnittelu viittaa siis vain vuodenvaihteen juhlaan." [aproposlingua](https://aproposlingua.fi/admin/)
 
+## data
+
+- Tilastotietoa kiinteistökaupoista [API](https://khr.maanmittauslaitos.fi/tilastopalvelu/rest/v2024.2/index.html?v=2024.2.1#) (Mikko)
+
 ## Boat
 
 - Ilmatieteenlaitos - [merivedenkorkeus - Helsinki](https://www.ilmatieteenlaitos.fi/vedenkorkeus?sealevel_station=-10022814&sealevel_graph=short&sealevel_mode=mwn2000) : "Vedenkorkeus on esitetty korkeusjärjestelmissä N2000 (uusi) ja teoreettinen keskivesi."
@@ -45,6 +49,7 @@ git push git@github-talonendm:talonendm/talonendm.github.io.git
 
 ## Oikeus
 
+- "Nainen sai nostettua väärillä henkilötiedoilla 200 000 euron luotot – kovat seuraukset" [IS 26.10.2024](https://www.is.fi/taloussanomat/art-2000010772003.html): "Asianomistajia suuressa petosjutussa on noin 80, joista osa on yksityishenkilöitä." ja "Asianomaisten oikeudenkäyntikuluja tuomitun on maksettava noin 22 000 euroa. Valtio maksaa tuomitun runsaan 6 000 euron oikeudenkäyntikulut. Käräjäoikeuden antama tuomio ei ole vielä lainvoimainen."
 - "Juristilta kiellettiin esiintyminen oikeudessa" [HS 4.4.2024](https://www.hs.fi/kotimaa/turku/art-2000010332270.html): "Miehen mukaan kiellosta aiheutuu hänelle suuria taloudellisia tappioita."
 - "Taloriita kävi kalliiksi ostajalle ja myyjälle – Juristeille valtavat palkkiot" [HS 3.4.2024](https://www.hs.fi/kotimaa/turku/art-2000010331397.html) "Käräjäoikeus määräsi myyjät maksamaan ostajille 6 230 euroa hinnanalennusta viivästyskorkoineen. Muilta osin ostajien kanne hylättiin. Molemmille osapuolille jäi maksettavaksi omat oikeudenkäyntikulunsa."
   - Morjens! : 

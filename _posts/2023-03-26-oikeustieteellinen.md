@@ -15,6 +15,8 @@ Oikeustieteellisen tiedekunnan perustehtävänä on tuottaa kansainvälisesti ko
 
 Oikeustieteellisen alan yhteisvalinnan valintakoe maanantaina 23.5.2022 pidetään digitaalisena kokeena. Koe järjestetään valvottuna valintakokeena sillä paikkakunnalla, sen yliopiston osoittamissa tiloissa, minkä hakija on hakulomakkeella valinnut. Kokeeseen osallistuvilla hakijoilla tulee olla kokeen suorittamista varten oma kannettava tietokone. Valintakoetta ei voi suorittaa tabletilla tai älypuhelimella. Kannettavalla tietokoneella tulee olla mahdollista liittyä erikseen osoitettavaan langattomaan valintakoeverkkoon. [oikeustieteet.fi](https://oikeustieteet.fi/oikeustieteen-valintakoe-kevaalla-2022)
 
+- Mitä ovat [asianajajaetiikka](https://selitetty.com/mita-ovat-asianajajaetiikka/)?
+
 # Hakeminen
 
 ## 2024
@@ -177,7 +179,7 @@ graph TD
 - [Amoslaki](https://amoslaki.fi/)
 - [Jurentia](https://www.jurentia.fi/lakitoimisto/)
 - [Uudenmaan Lakimiehet Oy](https://www.uudenmaanlakimiehet.fi/)
-
+- Petri Järvensivu: [Rakennusriidat](https://www.rakennusriidat.fi/tyoturvallisuus)
 
 ---
 

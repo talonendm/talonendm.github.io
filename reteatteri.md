@@ -71,6 +71,7 @@ talonen.dm: files:
 
 # Food Art
 
+- [Ponzu](https://en.wikipedia.org/wiki/Ponzu): "Ponzu (ポン酢) is a citrus-based sauce commonly used in Japanese cuisine. It is tart, with a thin, watery consistency. Ponzu shōyu or ponzu jōyu (ポン酢醤油) is ponzu with soy sauce (shōyu) added, and the mixed dark brown product is widely referred to as simply ponzu." 10/2024
 - [Pikkelöidyt sinapinsiemenet](https://kokitjapotit.fi/pikkeloidyt-sinapinsiemenet/): "Pikkelöidyt sinapinsiemenet tuntuvat suussa ihanilta. Napakat ja hieman poksuvat siemenet tekevät sen jonkin kaivatun lisän moneen ruokaan.": sinapinsiemeniä, väkiviinaetikkaa, sokeria, vettä. 
 
 
