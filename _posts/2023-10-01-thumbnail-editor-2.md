@@ -123,17 +123,10 @@ function draw() {
     push();
 
     // before translate - if large pic
-    if (uselargecanvassetup) {
+    
       // scale(0.2*z); // additional scale 5 times smaller
 
-      translate(x, y);
-      scale(0.2);
-    } else {
-      // scale(z);
-
-      translate(x, y);
-    }
-
+translate(x, y);
 
     
     rotate(a);
@@ -144,7 +137,11 @@ function draw() {
 
 
     // image(img, 0, 0, img.width*z, img.height*z); // , width, height);
-    image(img, 0, 0, img.width * z, img.height * z); 
+    if (uselargecanvassetup) {
+      image(img, 0, 0, img.width * z * 0.2, img.height * z * 0.2); 
+    } else {
+      image(img, 0, 0, img.width * z, img.height * z); 
+    }
     pop();
 
 
@@ -155,7 +152,7 @@ function draw() {
     
 
     // lc.image(img, 0, 0, lc.width, lc.height);
-    lc.image(img, 0, 0, img.width*z*5, img.height*z*5);  // lc.defined else where
+    lc.image(img, 0, 0, img.width*z, img.height*z);  // lc.defined else where
 
     lc.pop();  // Restore previous state of lc
     
