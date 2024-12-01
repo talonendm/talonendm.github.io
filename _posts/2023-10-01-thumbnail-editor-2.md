@@ -116,9 +116,10 @@ function draw() {
   
   background(155);
   
-  push();
+  
   if (img) {
     
+    push();
     translate(x,y);
     rotate(a);
 
@@ -126,11 +127,20 @@ function draw() {
 
     // image(img, 0, 0, img.width*z, img.height*z); // , width, height);
     image(img, 0, 0, img.width, img.height); 
+    pop();
+
+
+    lc.push();  // Save the current state of lc (so transformations don't affect future drawing)
+    lc.translate(x, y);  // Apply the same translation
+    lc.rotate(a);  // Apply the same rotation
+    lc.scale(z);  // Apply the same scaling
 
     lc.image(img, 0, 0, lc.width, lc.height);
+
+    lc.pop();  // Restore previous state of lc
     
   }
-  pop();
+  
   
   
   
