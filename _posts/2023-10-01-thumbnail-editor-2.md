@@ -147,7 +147,7 @@ translate(x, y);
 
     lc.push();  // Save the current state of lc (so transformations don't affect future drawing)
     // lc.scale(z);  // Apply the same scaling
-    lc.translate(x, y);  // Apply the same translation
+    lc.translate(x*5, y*5);  // Apply the same translation
     lc.rotate(a);  // Apply the same rotation
     
 
