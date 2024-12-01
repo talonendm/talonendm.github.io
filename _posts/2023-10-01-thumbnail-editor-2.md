@@ -121,7 +121,11 @@ function draw() {
     
     translate(x,y);
     rotate(a);
-    image(img, 0, 0, img.width*z, img.height*z); // , width, height);
+
+    scale(z);  // Scale the image by zoom factor 'z'
+
+    // image(img, 0, 0, img.width*z, img.height*z); // , width, height);
+    image(img, 0, 0, img.width, img.height); 
 
     lc.image(img, 0, 0, lc.width, lc.height);
     
