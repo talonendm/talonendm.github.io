@@ -130,7 +130,7 @@ function draw() {
     } else {
       scale(z);
 
-      translate(x*z, y*z);
+      translate(x, y);
     }
 
 
