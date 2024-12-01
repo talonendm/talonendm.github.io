@@ -67,6 +67,7 @@ var nayta = true;
 var tallenna = false;
 var tallennaS = false;
 var canvaskoko = 1;
+var uselargecanvassetup = false;
 
 // copy
 // var copyteksti = "\u00A9 ta.dm 2023";
@@ -123,7 +124,13 @@ function draw() {
     translate(x,y);
     rotate(a);
 
+    
     scale(z);  // Scale the image by zoom factor 'z'
+
+    if (uselargecanvassetup) {
+      scale(0.2); // additional scale 5 times smaller
+    }
+
 
     // image(img, 0, 0, img.width*z, img.height*z); // , width, height);
     image(img, 0, 0, img.width, img.height); 
@@ -269,6 +276,12 @@ function keyPressed() {
     nayta = !nayta;
   }
 
+
+  if (key == 'L') {
+    uselargecanvassetup = !uselargecanvassetup;
+  }
+
+
   if (key == "w") {
     // watermark
 
@@ -278,13 +291,14 @@ function keyPressed() {
     if (copynum > maxcopynum) copynum = 1;
 
     if (copynum == 1) {
-      // copyteksti = "\u00A9      currentYear";
+      # currentYear = currentDate.getFullYear();
+      copyteksti = "\u00A9      " + currentYear;
       copyteksti2 = "talon\nendm" 
     } else if (copynum == 2) {
-      //copyteksti = "\u00A9      2023";
+      copyteksti = "\u00A9      " + currentYear;
       copyteksti2 = "vaaka\nruode" 
     } else if (copynum == 3) {
-      //copyteksti = "\u00A9      2023";
+      copyteksti = "\u00A9      " + currentYear;
       copyteksti2 = "rafla\nsafka" 
     } else {
       copyteksti = "";
@@ -456,6 +470,7 @@ A thumbnail editor typically allows users to select an image or video file, and 
 - c, v: Rotate - Angle
 - s: save
 - S: save large canvas
+- L: use large canvas setup (additional scale to visible canvas by 0.2)
 - e: use frame numbering
 - r: resize Canvas
 - -: frame -1
