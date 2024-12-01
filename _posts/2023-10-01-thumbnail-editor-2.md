@@ -291,7 +291,7 @@ function keyPressed() {
     if (copynum > maxcopynum) copynum = 1;
 
     if (copynum == 1) {
-      # currentYear = currentDate.getFullYear();
+      // currentYear = currentDate.getFullYear();
       copyteksti = "\u00A9      " + currentYear;
       copyteksti2 = "talon\nendm" 
     } else if (copynum == 2) {
