@@ -165,7 +165,7 @@ function draw() {
     
     let le = round(img.width*z);
     let ko = round(img.height*z);
-    let infonaytateksti = x + "," + y + ":(" + le + "," + ko +") zoom: " + round(z*100) + "%";
+    let infonaytateksti = x + "," + y + ":(" + le + "," + ko +") zoom: " + round(z*100) + "%" + " (c" + canvaskoko + ": " + iw + "x" + ih + ")";
     
   if (enabletallennusnimi) {
     infonaytateksti = infonaytateksti + " framesave:" + "e-" + tallennusnimi + zeroPad(tallennusnumero, 4);
@@ -322,7 +322,7 @@ function keyPressed() {
 
   if (key == "r") {
 
-    let maxcanvasmaara = 8;
+    let maxcanvasmaara = 9;
 
     canvaskoko = canvaskoko + 1;
     if (canvaskoko > maxcanvasmaara) canvaskoko = 1;
@@ -355,6 +355,10 @@ function keyPressed() {
     } else if (canvaskoko == 7) {
       iw = 1080;
       ih = 1080;
+      resizeCanvas(iw, ih);
+    } else if (canvaskoko == 8) {
+      iw = 3840/5;
+      ih = 2160/5;
       resizeCanvas(iw, ih);
     } else {
       resizeCanvas(lc.width, lc.height);
