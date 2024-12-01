@@ -121,15 +121,19 @@ function draw() {
   if (img) {
     
     push();
-    translate(x,y);
-    rotate(a);
 
-    
-    scale(z);  // Scale the image by zoom factor 'z'
-
+    // before translate - if large pic
     if (uselargecanvassetup) {
       scale(0.2); // additional scale 5 times smaller
     }
+
+
+    translate(x,y);
+    rotate(a);
+    
+    scale(z);  // Scale the image by zoom factor 'z'
+
+    
 
 
     // image(img, 0, 0, img.width*z, img.height*z); // , width, height);
