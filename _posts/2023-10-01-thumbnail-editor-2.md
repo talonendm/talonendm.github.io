@@ -57,7 +57,7 @@ let input;
 let img;
 var tiedostonimi = "";
 var z0 = 0.7; // 0.7;
-var z;
+var z;p5
 var x = 0;
 var y = 0;
 var a = 0;
@@ -65,6 +65,7 @@ let iw = 384;
 let ih = 384;
 var nayta = true;
 var tallenna = false;
+var tallennaS = false;
 var canvaskoko = 1;
 
 // copy
@@ -86,10 +87,17 @@ var fillColor = [255, 255, 255]; // Fill color (red in RGB)
 var pte = 100; // 50;
 var piirra = true;
 
+
+let lc; // largeCanvas;
+
+
 // called once
 function setup() {
 
 //createCanvas(640, 640);
+
+  lc = createGraphics(3840, 2160);
+
   const canvas = createCanvas(iw, ih);
   canvas.parent('sketch-holder-jt-xml')
   input = createFileInput(handleFile);
@@ -114,6 +122,8 @@ function draw() {
     translate(x,y);
     rotate(a);
     image(img, 0, 0, img.width*z, img.height*z); // , width, height);
+
+    lc.image(img, 0, 0, lc.width, lc.height);
     
   }
   pop();
@@ -162,6 +172,19 @@ function draw() {
 
   if (tallenna) {
     tallenna = false;
+
+  if (tallennaS) {
+    tallennaS = false;
+       if (enabletallennusnimi) {
+      saveCanvas(lc,
+        "large-" + tallennusnimi + "-" + zeroPad(tallennusnumero, 4),
+        "jpg"
+      );
+    } else {
+      saveCanvas(lc, "large-" + tiedostonimi, "jpg");
+    }
+  } else {
+
        if (enabletallennusnimi) {
       saveCanvas(
         "e-" + tallennusnimi + "-" + zeroPad(tallennusnumero, 4),
@@ -171,6 +194,9 @@ function draw() {
       saveCanvas("e-" + tiedostonimi, "jpg");
     }
   }
+  }
+
+
 }
 
 
@@ -238,13 +264,13 @@ function keyPressed() {
     if (copynum > maxcopynum) copynum = 1;
 
     if (copynum == 1) {
-      copyteksti = "\u00A9      2023";
+      // copyteksti = "\u00A9      currentYear";
       copyteksti2 = "talon\nendm" 
     } else if (copynum == 2) {
-      copyteksti = "\u00A9      2023";
+      //copyteksti = "\u00A9      2023";
       copyteksti2 = "vaaka\nruode" 
     } else if (copynum == 3) {
-      copyteksti = "\u00A9      2023";
+      //copyteksti = "\u00A9      2023";
       copyteksti2 = "rafla\nsafka" 
     } else {
       copyteksti = "";
@@ -317,7 +343,7 @@ function keyPressed() {
       ih = 1080;
       resizeCanvas(iw, ih);
     } else {
-      resizeCanvas(windowWidth, windowHeight);
+      resizeCanvas(lc.width, lc.height);
     }
   }
 
@@ -332,14 +358,16 @@ function keyPressed() {
     // saveCanvas('auringonkukka', 'jpg');
     // saveCanvas("e-" + tiedostonimi, 'jpg');
     tallenna = true;
+    tallennaS = false;
     //saveCanvas("e-" + tiedostonimi, 'jpg');
   }
 
 
-  if (key == 's') {
+  if (key == 'S') {
     // saveCanvas('auringonkukka', 'jpg');
     // saveCanvas("e-" + tiedostonimi, 'jpg');
     tallenna = true;
+    tallennaS = true;
     //saveCanvas("e-" + tiedostonimi, 'jpg');
   }
   if (key == 'a') {
@@ -409,6 +437,7 @@ A thumbnail editor typically allows users to select an image or video file, and 
 - z, x: Zoom
 - c, v: Rotate - Angle
 - s: save
+- S: save large canvas
 - e: use frame numbering
 - r: resize Canvas
 - -: frame -1
