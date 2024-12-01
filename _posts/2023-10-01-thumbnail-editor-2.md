@@ -124,11 +124,12 @@ function draw() {
 
     // before translate - if large pic
     if (uselargecanvassetup) {
-      scale(0.2*z); // additional scale 5 times smaller
+      // scale(0.2*z); // additional scale 5 times smaller
 
-      translate(x*0.2, y * 0.2);
+      translate(x, y);
+      scale(0.2);
     } else {
-      scale(z);
+      // scale(z);
 
       translate(x, y);
     }
@@ -143,18 +144,18 @@ function draw() {
 
 
     // image(img, 0, 0, img.width*z, img.height*z); // , width, height);
-    image(img, 0, 0, img.width, img.height); 
+    image(img, 0, 0, img.width * z, img.height * z); 
     pop();
 
 
     lc.push();  // Save the current state of lc (so transformations don't affect future drawing)
-    lc.scale(z);  // Apply the same scaling
+    // lc.scale(z);  // Apply the same scaling
     lc.translate(x, y);  // Apply the same translation
     lc.rotate(a);  // Apply the same rotation
     
 
     // lc.image(img, 0, 0, lc.width, lc.height);
-    lc.image(img, 0, 0, img.width, img.height);  // lc.defined else where
+    lc.image(img, 0, 0, img.width*z*5, img.height*z*5);  // lc.defined else where
 
     lc.pop();  // Restore previous state of lc
     
