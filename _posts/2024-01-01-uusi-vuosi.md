@@ -102,10 +102,13 @@ Valvira ei ole myöntänyt opiskelijoille psykoterapeutin ammattinimikettä, kos
 
 #### Rakentaminen
 
+- [Älä tilaa remontteja kiireellä, kotimyynti](https://www.omakotiliitto.fi/omakotilehti/2024-3/ala-tilaa-remontteja-kiireella/): "14 päivän peruuttamisaika lasketaan sopimuksen tekemisestä. Peruuttamisoikeutta ei ole silloin, kun palvelu on kokonaan suoritettu sinun nimenomaisesta pyynnöstäsi" ja "ilmainen kattotarkastus", jossa sopimuspapereita tehdään ja sopimusta tyrkytetään. Miettimisaikaa ei meinaa saada. Lukijan kokemus.
 - "Aluehallintoviraston tarkastaja toteaa, että puutteita esiintyy melkein poikkeuksetta jokaisessa yrityksessä." [YLE 11.2.2016](https://yle.fi/a/3-8663051)
 
 ## Muut
 
+- Little's law: youtube [Littles Law (how to calculate throughput & flow time)](https://www.youtube.com/watch?v=r_T8veWYrEA)
+- Toimittaja Nurmi jutellut muuten vaan [IS](https://www.is.fi/politiikka/art-2000010786510.html) ja kommentti [vauva.fi](https://www.vauva.fi/keskustelu/5794275/iltalehden-paatoimittaja-nurmi-ei-ole-kaynyt-lahdesuojalla-varustettuja)
 - "Eläinsuojelu­yhdistys varoittaa luontoon jäävistä koiran­karvoista: pikku­linnut kuolevat niihin" [HS 3.4.2024](https://www.hs.fi/kaupunki/helsinki/art-2000010332192.html): "Puun kaatamisen yhteydessä löytyneessä linnunpesässä oli kaikki poikaset jääneet kiinni koirankarvaan."; kommentti: "Hyvä että uutisoidaan. Moni varmasti tarkoituksella jättää koiran karvat luontoon juuri hyvät mielessä"
 - "Etelä-Korea aloitti tutkinnan verkko­kauppa Temusta: Epäillään valheellisesta mainonnasta" [HS 8.4.2024](https://www.hs.fi/talous/art-2000010344523.html)
 - "Ellemme varmuudella tiedä, kuinka tulee käymään, olettakaamme, että kaikki käy hyvin" - Mauno Koiviston mietelause [IL 21.5.2017](https://www.is.fi/kotimaa/art-2000005219979.html)
@@ -124,6 +127,7 @@ Valvira ei ole myöntänyt opiskelijoille psykoterapeutin ammattinimikettä, kos
 
 ## AI
 
+- [HS: Noitina pidetyt naiset joutuivat järkyttävän huhumyllyn uhreiksi melkein kuin nykypäivän sosiaalisessa mediassa 15.12.2024](https://www.hs.fi/taide/art-2000010895132.html): näyttely tukholmassa - AI noita.
 - [Hedra](https://www.hedra.com/) image to video
 - Airtag. Laukkuihin tms.
 - Office Co-pilot. Teams-kokouksista sisältö. Luo powerpoint-esitys.

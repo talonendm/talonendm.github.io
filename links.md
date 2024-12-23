@@ -27,6 +27,7 @@ tags:
   - Microsoft Copilot offers enterprise data protection (EDP) for users signed in with a Microsoft Entra account. EDP is available for these users at no extra cost. 
   - [copilot](https://copilot.microsoft.com/)
   - [CurreChat](https://curre.helsinki.fi/chat/chats)
+  - [Perplexity](https://www.perplexity.ai/): ta.dm - What do you want to know?
 
 
 ## R

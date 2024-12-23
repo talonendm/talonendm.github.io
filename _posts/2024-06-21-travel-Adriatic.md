@@ -13,54 +13,6 @@ published: true
 
 The Adriatic Sea (/ˌeɪdriˈætɪk/) is a body of water separating the Italian Peninsula from the Balkan Peninsula. The Adriatic is the northernmost arm of the Mediterranean Sea, extending from the Strait of Otranto. [[Wikipedia](https://en.wikipedia.org/wiki/Adriatic_Sea)]
 
-Private dm: [docs](https://docs.google.com/document/d/1wqd-YNIy9yeyeOzsB7VCH49ztu5YdZ-i99w016i_V_4/edit?usp=sharing)
-
-Language: [Kroatian kieli](https://fi.wikipedia.org/wiki/Kroatian_kieli)
-
-1. **Dobar dan.** - Good day.
-2. **Kako ste?** - How are you?
-   1. **Dobro, hvala. A vi?** - Good, thank you. And you?
-   2. **Odlično!** - Excellent!
-   3. **Vrlo dobro, hvala.** - Very well, thank you.
-   4. **Nisam loše.** - Not bad.
-   5. **Loše, nažalost.** - Bad, unfortunately.
-   6. **Umoran/umorna sam.** - I am tired. (umoran for male, umorna for female)
-   7. **Moglo bi biti bolje.** - Could be better.
-   8. **Super sam!** - I am great!
-   9. **Stresno je ovih dana.** - It's stressful these days.
-   10. **Sve u redu.** - Everything is fine.
-3.  **Zovem se [Your Name].** - My name is [Your Name].
-4.  **Molim vas, gdje je najbliža banka?** - Please, where is the nearest bank?
-5.  **Koliko košta ovo?** - How much does this cost? ([1.00 Croatian Kuna = 0.13272281 Euros](https://www.xe.com/currencyconverter/convert/?Amount=1&From=HRK&To=EUR), 1 EUR = 7.53450 HRK)
-  1. **Ovo košta dvadeset kuna.** - This costs twenty kuna.
-  2.  **Cijena je pedeset kuna.** - The price is fifty kuna.
-  3.  **To je stotinu kuna.** - That is one hundred kuna.
-  4.  **Ovo košta sto pedeset kuna.** - This costs one hundred and fifty kuna.
-  5.  **Ovo je na popustu i košta trideset kuna.** - This is on sale and costs thirty kuna.
-6.  **Govori li netko engleski?** - Does anyone speak English?
-7.  **Možete li mi pomoći?** - Can you help me?
-8.  **Gdje je najbliža ljekarna?** - Where is the nearest pharmacy?
-9.  **Hvala vam.** - Thank you.
-10. **Molim.** - Please / You're welcome.
-11. **Oprostite, koliko je sati?** - Excuse me, what time is it?
-12. **Kako se kaže [word] na hrvatskom?** - How do you say [word] in Croatian?
-13. **Gdje je toaleta?** - Where is the restroom?
-14. **Razumijem.** - I understand.
-15. **Ne razumijem.** - I don't understand.
-16. **Govorite li engleski?** - Do you speak English?
-17. **Mogu li dobiti račun?** - Can I get the bill?
-18. **Ja sam turist.** - I am a tourist.
-19. **Kako se zovete?** - What is your name?
-20. **Drago mi je.** - Nice to meet you.
-
-
-
-# Helsinki-Vantaa airport
-
-Traveling from Helsinki to Dubrovnik was made much easier by pre-booking parking at the airport. We chose to reserve a spot in either the P3 or P4 parking areas in advance, which proved to be a smart move. It is possible to make reservation at [Finavia](https://www.finavia.fi/fi/lentoasemat/helsinki-vantaa/pysakointi?navref=paragraph), I think 77 euros for 8 days was erasonable price at P3. The convenience of being able to drive straight into the parking hall without any hassle made the start of our journey stress-free. Although we encountered a minor issue with the license plate recognition system not working when we were leaving, the overall experience was still positive and it simplified our trip considerably.
-
-One noteworthy tip is to make sure your refrigerator is empty before you leave, so you don't come back to spoiled food. Upon our return, after collecting our luggage, we discovered the Alepa 24h convenience store right at the airport. This was incredibly handy for grabbing some essentials before heading home, ensuring we had everything we needed without an extra stop.
-
 # Dubrovnik
 
 Dubrovnik is a popular tourist destination in Croatia, known for its historic Old Town and beautiful Adriatic coastline. For families with children, Dubrovnik offers a variety of activities such as relaxing on the beach, boat trips, and exploring historical sites. The Old Town is especially charming with its narrow streets and city walls, providing a sense of stepping back in time. [Google maps ta.dm](https://www.google.com/maps/place/Dubrovnik,+Kroatia/@42.6476756,18.090904,15.25z)
@@ -100,9 +52,14 @@ From Dubrovnik: Montenegro Boat Tour from [Perast](https://www.google.com/maps/p
 
 From Dubrovnik: [Montenegro](https://fi.wikipedia.org/wiki/Montenegro) [Day Trip](https://www.getyourguide.com/dubrovnik-l513/montenegro-day-trip-from-dubrovnik-t17929/?ranking_uuid=78d9db38-c8b2-4d48-a077-9cb0bdf2ea1a)
 
+
+# Bosanka
+
+- Bus to village [Bosanka](https://en.wikipedia.org/wiki/Bosanka). Hiking back to the Dubrovnik city.
+
 # Cavtat
 
-Kaupunki 20 kilometrin päässä Dubrovnikista etelään. Bussilla nro 10, [Libertas Dubrovnik](https://www.libertasdubrovnik.hr/en/line/2/dubrovnik-cavtat-10) -aikataulu. Katso reitti [Moovit](https://moovitapp.com/index/en/public_transit-line-10-Dubrovnik-4304-923485-87446440-0)-sivulta tai apista.
+The town 20 kilometers south of Dubrovnik. Accessible by bus number 10. Note that it is probably cheaper to have Uber for four persons. Bus timetable: [Libertas Dubrovnik](https://www.libertasdubrovnik.hr/en/line/2/dubrovnik-cavtat-10). Route: [Moovit](https://moovitapp.com/index/en/public_transit-line-10-Dubrovnik-4304-923485-87446440-0).
 
 ## Perfect place for last day
 
@@ -119,26 +76,6 @@ The afternoon slipped away as we continued our explorations, stopping occasional
 As evening approached, we retrieved our luggage and made our way to the airport, ready to embark on the next leg of our journey. The goodbye to Cavtat was filled with a mix of emotions – sadness to leave such a beautiful place, but also gratitude for the memories we created.
 
 Our last day in Cavtat was a perfect blend of relaxation and exploration, a fitting end to a fantastic trip. As we boarded our flight, we carried with us the essence of this charming town, promising ourselves that we would return one day to relive the magic.
-
-
-
-# Plat
-
-- [Bus 11](https://www.rome2rio.com/s/Dubrovnik-Airport-DBV/Plat-Dubrova%C4%8Dko-Neretvanska-Croatia)
-
-# Soline
-
-
-
-# Mlini
-
-
-
-# Brasina
-
-
-
-
 
 ## Lokrum
 
@@ -230,9 +167,53 @@ Here are 20 essential sentences to know when dining in a restaurant in Dubrovnik
 
 These sentences will help you navigate a dining experience in a Croatian restaurant smoothly and ensure you can communicate your needs effectively.
 
+Language: [Kroatian kieli](https://fi.wikipedia.org/wiki/Kroatian_kieli)
+
+1. **Dobar dan.** - Good day.
+2. **Kako ste?** - How are you?
+   1. **Dobro, hvala. A vi?** - Good, thank you. And you?
+   2. **Odlično!** - Excellent!
+   3. **Vrlo dobro, hvala.** - Very well, thank you.
+   4. **Nisam loše.** - Not bad.
+   5. **Loše, nažalost.** - Bad, unfortunately.
+   6. **Umoran/umorna sam.** - I am tired. (umoran for male, umorna for female)
+   7. **Moglo bi biti bolje.** - Could be better.
+   8. **Super sam!** - I am great!
+   9. **Stresno je ovih dana.** - It's stressful these days.
+   10. **Sve u redu.** - Everything is fine.
+3.  **Zovem se [Your Name].** - My name is [Your Name].
+4.  **Molim vas, gdje je najbliža banka?** - Please, where is the nearest bank?
+5.  **Koliko košta ovo?** - How much does this cost? ([1.00 Croatian Kuna = 0.13272281 Euros](https://www.xe.com/currencyconverter/convert/?Amount=1&From=HRK&To=EUR), 1 EUR = 7.53450 HRK)
+  1. **Ovo košta dvadeset kuna.** - This costs twenty kuna.
+  2.  **Cijena je pedeset kuna.** - The price is fifty kuna.
+  3.  **To je stotinu kuna.** - That is one hundred kuna.
+  4.  **Ovo košta sto pedeset kuna.** - This costs one hundred and fifty kuna.
+  5.  **Ovo je na popustu i košta trideset kuna.** - This is on sale and costs thirty kuna.
+6.  **Govori li netko engleski?** - Does anyone speak English?
+7.  **Možete li mi pomoći?** - Can you help me?
+8.  **Gdje je najbliža ljekarna?** - Where is the nearest pharmacy?
+9.  **Hvala vam.** - Thank you.
+10. **Molim.** - Please / You're welcome.
+11. **Oprostite, koliko je sati?** - Excuse me, what time is it?
+12. **Kako se kaže [word] na hrvatskom?** - How do you say [word] in Croatian?
+13. **Gdje je toaleta?** - Where is the restroom?
+14. **Razumijem.** - I understand.
+15. **Ne razumijem.** - I don't understand.
+16. **Govorite li engleski?** - Do you speak English?
+17. **Mogu li dobiti račun?** - Can I get the bill?
+18. **Ja sam turist.** - I am a tourist.
+19. **Kako se zovete?** - What is your name?
+20. **Drago mi je.** - Nice to meet you.
+
+# Helsinki-Vantaa airport
+
+Traveling from Helsinki to Dubrovnik was made much easier by pre-booking parking at the airport. We chose to reserve a spot in either the P3 or P4 parking areas in advance, which proved to be a smart move. It is possible to make reservation at [Finavia](https://www.finavia.fi/fi/lentoasemat/helsinki-vantaa/pysakointi?navref=paragraph), I think 77 euros for 8 days was erasonable price at P3. The convenience of being able to drive straight into the parking hall without any hassle made the start of our journey stress-free. Although we encountered a minor issue with the license plate recognition system not working when we were leaving, the overall experience was still positive and it simplified our trip considerably.
+
+One noteworthy tip is to make sure your refrigerator is empty before you leave, so you don't come back to spoiled food. Upon our return, after collecting our luggage, we discovered the Alepa 24h convenience store right at the airport. This was incredibly handy for grabbing some essentials before heading home, ensuring we had everything we needed without an extra stop.
 
 # Other stuff
 
+- Private dm notes: [docs](https://docs.google.com/document/d/1wqd-YNIy9yeyeOzsB7VCH49ztu5YdZ-i99w016i_V_4/edit?usp=sharing)
 - Weekly pass 7 days (55e):
   - you get access to some very tiny museums + walls (35e) + 1 week ticket (Libertas Dubrovnik) (21,24 e).. I felt that discount was 1,24 euros in practice - not very good deal.. and you need to change online ticket to paper one in some kiosk.
 - [eurooppalainen-sairaanhoitokortti](https://www.kela.fi/eurooppalainen-sairaanhoitokortti)

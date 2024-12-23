@@ -9,7 +9,7 @@ tags:
   - Metsäyhtymä
 ---
 
-Kahala Boys voi mahdollisesti auttaa metsien asianmukaisesta hoidossa. Suunnittelua varten tarvitaan tietoa tilan sijainnista, puustosta, kasvupaikoista ja luontokohteista. Metsäsuunnitelma on avain pitkäjänteiseen hoitoon, kooten tarvittavat tiedot tilakohtaisesti ja paljastaen metsän tilan, hakkuumahdollisuudet, sekä hoitotarpeet. Tältä sivulta löydät koottua tietoa ja linkkejä hyödyllisille sivuistoille, jotka auttavat metsän liittyvissä asioissa ja haasteissa. Tekoälyn ja esimerkiksi laserkeilauaineiston avulla puuston ja metsäkuvioiden omainaisuuksia voidaan analysoida entistä tarkemmin, katso esim. [^11] 
+Metsätilanhoito - Suunnittelua varten tarvitaan tietoa tilan sijainnista, puustosta, kasvupaikoista ja luontokohteista. Metsäsuunnitelma on avain pitkäjänteiseen hoitoon, kooten tarvittavat tiedot tilakohtaisesti ja paljastaen metsän tilan, hakkuumahdollisuudet, sekä hoitotarpeet. Tältä sivulta löydät koottua tietoa ja linkkejä hyödyllisille sivuistoille, jotka auttavat metsän liittyvissä asioissa ja haasteissa. Tekoälyn ja esimerkiksi laserkeilauaineiston avulla puuston ja metsäkuvioiden omainaisuuksia voidaan analysoida entistä tarkemmin, katso esim. [^11] 
 
 [Metsään.fi](https://www.metsakeskus.fi/fi/asiointi/metsaanfi)-palvelu [^7], tarjoama Metsäkeskuksen julkisesti rahoittama, antaa metsänomistajille pääsyn metsävaratietoon. Palveluun kirjautuminen mahdollistaa oman tilan tietojen tarkastelun verkkopankkitunnuksilla tai mobiilivarmenteella. Vaikka palvelu tarjoaa laskennallisia metsänhoito- ja hakkuuehdotuksia, se ei huomioi metsänomistajan henkilökohtaisia tavoitteita, esimerkiksi pdf-print: [Private ta.dm kuvio 9](https://drive.google.com/file/d/1A3phxBG3KIr0EgWS6NZxk6OX1FbD5w9W/view?usp=sharing). Tarkempien ja yksilöllisten tietojen saamiseksi suositellaan metsäsuunnitelman laatimista tilalle.[^5]: "Metsään.fi-palvelun tarjoaa Suomen metsäkeskus. Metsäkeskuksen tehtäviin kuuluu metsiin perustuvien elinkeinojen edistäminen, metsien hoitoa ja käyttöä koskevan lainsäädännön toimeenpano sekä metsävaratietojen kerääminen ja ylläpito. Metsäkeskus toimii maa- ja metsätalousministeriön ohjauksessa. Metsään.fi-metsänomistajapalvelu on metsänomistajille tarkoitettu valtakunnallinen, sähköinen asiointipalvelu. Palvelu on maksuton. Palvelussa hyödynnetään Suomen yksityismetsistä kerättyä metsävaratietoa. Palvelu tuotetaan sekä suomeksi että ruotsiksi." [^7]
 
@@ -68,6 +68,8 @@ Avohakkuussa poistetaan lähes kaikki puusto, ja hakkuujälki täytyy uudistaa k
 Tukkipuun osuus uudistushakkuussa on lähes koko kertymästä (80-90 %), kunhan puusto on terve ja metsikkö on aiemmin harvennettu. Ilman oikea-aikaista harvennushakkuuta tukkipuukertymä jää yleensä 70 prosenttiin hakkuumäärästä tai alle. Hakkuukertymä uudistushakkuissa vaihtelee yleisesti Pohjois-Suomessa noin 200 kuutiometriin hehtaarilta ja Etelä-Suomessa 200-350 kuutiometriin hehtaarilta. Kuutiomäärään vaikuttavat kasvupaikka ja metsikön aiempi käsittely. Päätehakkuutulot voivat olla jopa 20 000 euroa hehtaarilta.[^5] Tarkista työmaalle jätettyjen sertifioinnin mukaisten säästöpuiden ja tekopökkelöiden määrä. [^10](s.9)
 
 Vinkkejä puukauppaan: ei kiirettä; metsänomistaja päättää metsien käsittelystä aina itse. Hakkuun ainaka saa ja kannattaa käydä katsomassa työmaata ja varmistaa, että kaupanteossa sovitut asiat toteutuvat. ; ota selvää mitä hakkuiden jälkeen tulee tehdä. [^12](s.40)
+
+Järeysrunko-hinnoittelu: uusi mahdollisuus syksy/2024 alkaen. Hinta määräytyy keskijäreyden mukaan. Puulajikohtaisesti, ei tukki- ja kuitupuunhintoja. Soveltuu hyvin ensiharvennus- ja harvennushakkuisiin. [^15]
 
 ## Metsälaki
 
@@ -172,3 +174,4 @@ Yhtymä toimii niin, että se ei omista mitään omaisuutta suoraan. Sen sijaan 
 [^12]: MT Metsä no 4, 2023
 [^13]: TerveMetsä Stora Enso 1/2024 asiakaslehti, Metsänhoito, Metkasti tukea metsänhoitoon. Martti Linna, 2024.
 [^14]: TerveMetsä Stora Enso 1/2024 asiakaslehti, Kirjanpainajatuhojen taklaaminen, Noora Valkila, 2024.
+[^15]: TerveMetsä Stora Enso 3/2024 asiakaslehti, Järeysrunko -hinnoittelu uutena mahdollisuutena, Noora Valkila, 2024.

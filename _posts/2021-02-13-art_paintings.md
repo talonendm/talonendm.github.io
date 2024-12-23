@@ -63,7 +63,14 @@ Kuvataiteessa [provenienssi](https://fi.wikipedia.org/wiki/Provenienssi) on taid
 
 # Artists & Stuff
 
+
+## Riitta Åkerstedt
+
+- esite taidesalonki 1996. Helsinki ja taulu, abstrakti esittää koiraa oletettavasti.
+
+
 ## Vappu Rossi
+
 - [Majesteetti](http://www.galleria12.fi/fi/ws/158/1458/rossi+vappu/majesteetti.html) - Traktori grafiikka
 
 ## Sari Bremer
