@@ -30,9 +30,7 @@ Hyvää uutta vuotta 2025! Tasavallan presidentti Stubb piti perinteisen [puheen
 
 ## Huomioitavaa:
 
-- "Presidentti Alexander Stubbin ensimmäinen uudenvuodenpuhe esitetään suorana, tasavallan presidentin kansliasta vahvistetaan Kyse on merkittävästä muutoksesta, sillä kaikki presidentti Sauli Niinistön puheet oli taltioitu etukäteen." [IL](https://www.iltalehti.fi/politiikka/a/bd279fea-0af4-464d-a469-b491d6dc1e6b)
-
-> Jotain kannattaa silti säilyttää mielissä. Suomen pääoma on osaamisessa. Osaamista on ollut, koska on pidetty arvossa oppimista, opettamista ja opettajaa. Lukeminen, laskento ja liikunta – ehkä menneen ilmaisuja alaluokilta. Mutta vaikka kuinka moderni opetusmetodi tai oppimistila kehitettäisiin, ilman noita taitoja tai kuntoa ei nuori elämässään pärjää. Monimutkaiseen maailmaan valmennus voi alkaa aika yksinkertaisista lähtökohdista.
+- "Presidentti Alexander Stubbin ensimmäinen uudenvuodenpuhe esitetään suorana, tasavallan presidentin kansliasta vahvistetaan Kyse on merkittävästä muutoksesta, sillä kaikki presidentti Sauli Niinistön puheet oli taltioitu etukäteen." [IL 31.10.2024](https://www.iltalehti.fi/politiikka/a/bd279fea-0af4-464d-a469-b491d6dc1e6b)
 
 <!-- 
 
