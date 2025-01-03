@@ -45,11 +45,15 @@ Tällaista kerrontatapaa käytetään usein luomaan syvällisempää empatiaa he
 - [Fantasy orcs etc](https://docs.google.com/document/d/1faif0u-XLbpo6EGr_q7od5OxHBEDha1EINQpibo9G9A/edit?usp=sharing)
 - private [sheets](https://docs.google.com/spreadsheets/d/1UGm89Z4n5J3uNUHhTRZsEIr4W8jqNYWh5RsIQAtu7BE/edit?usp=sharing) - story part ideas 24
 
+## Tietokirjailija
+
+- Tietokirjoja tehdään kiireellä ja editoidaan miten sattuu. Lopputuloksesta kärsii niin kirjoittaja kuin lukijakin. [Tietokirjailija jää yksin, HS Boris Stefanov 11.10.2024](https://www.hs.fi/taide/art-2000010705045.html): Kustantamo nimeää jokaiselle kirjahankkeelle kustannustoimittajan, jonka tehtävänä on tukea kirjailijaa sekä varmistaa kirjan laadukkuus ja ajallaan ilmestyminen. Työskentely alkaa yleensä tutustumisella, tekstikatkelmien pallottelulla ja rakenteen suunnittelulla. Myöhemmin kustannustoimittaja vastaa työn aikatauluttamisesta ja sisältöratkaisujen hiomisesta.
 
 # Vesikatto
 
-Rakennusalalla, erityisesti pientalojen vesikattorakenteissa tapahtuu sekä ympäristöministeriön asettamien määräysten että ohjeistuksien laiminlyöntejä. 
+Rakennusalalla, erityisesti pientalojen vesikattorakenteissa, esiintyy valitettavan usein ympäristöministeriön määräysten ja ohjeistusten laiminlyöntejä. Näiden normien rikkominen voi ilmetä esimerkiksi puutteellisina materiaalivalintoina, virheellisenä asennustyönä tai huonosti dokumentoituina ratkaisuina, jotka vaarantavat kattorakenteiden kestävyyden ja turvallisuuden. Tällaiset laiminlyönnit voivat johtua joko tietoisesta säästöhalusta tai huolimattomuudesta urakoitsijan toiminnassa, mikä tekee vastuun määrittämisestä tärkeää mahdollisten korvausvaatimusten käsittelyssä.
 
+Tahallisuus on kyseessä, jos urakoitsija tietoisesti poikkeaa määräyksistä esimerkiksi kustannusten alentamiseksi tai työn nopeuttamiseksi. Toisaalta tuottamuksellisuus eli huolimattomuus voi liittyä asiantuntemuksen tai huolellisuuden puutteeseen, jossa määräyksiä ei noudateta tiedostamatta niiden tärkeyttä. Molemmissa tapauksissa laiminlyöntien seuraukset voivat olla vakavia, ja vastuuseen vaikuttaa se, miten hyvin urakoitsijan toiminta vastaa alalle asetettuja vaatimuksia.
 
 ## Korjausrakentaminen, Jormalainen Pentti
 

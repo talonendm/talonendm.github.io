@@ -8,6 +8,8 @@ Seven dudes are members of the culinary clunb called Re:teatteri. In this page s
 
 # Restaurants
 
+- [X] Jason
+  - Jasonin menu on upea yhdistelmä makuja ja elämyksiä: aloituksena silkkinen sipulikeitto sherryn vivahteilla ja pikkupullalla, jota seuraa tuore taimen Porista yhdistettynä raikkauteen. Umamin ylistys näkyy kauden sienissä, ja pääruokana tarjoiltu peura hurmaa mureudellaan ja tyylikkäillä lisukkeilla. Lopuksi täyteläinen suklaa ja jäätelö tarjoavat täydellisen päätöksen tähän makujen juhlaan. 12/2024
 - [ ] [Sakebar](http://sakebar.fi/) 
   - Sake Bar & Izakaya Artisanal sake & good drinking food #RiceisLife
 - [ ] [Robusto](https://robusto.fi/Menu) 2.3.2024 [HS - Robusto](https://www.hs.fi/ruoka/art-2000010128822.html)

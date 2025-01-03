@@ -142,6 +142,10 @@ Lue lisää: Vähämerkityksinen tuki eli [de minimis](https://tem.fi/vahamerkit
 
 Ajatuksena on kasvattaa terveitä ja hyvin tuottavia metsiä. Hakeminen ei vaadi enää erillistä tukihakemusta vaan tukea voi hakea tehdyn työn jälkeen. Puuston keskipituus, havupuilla 12 ja lehtipuilla 15 metrissä. Tuen ehtona on, että työt on tehty metsänhoitosuositusten mukaisesti. [^13] s.18-19
 
+# Metsähallitus
+
+- "Metsähallitus on avainroolissa, kun Petteri Orpon (kok) hallitus yrittää toteuttaa lupaustaan valtion vanhojen metsien suojelusta." [HS 25.12.2024](https://www.hs.fi/politiikka/art-2000010841690.html): "Aina välillä esimerkiksi sosiaalisessa mediassa esitetään epäilyksiä, että Metsähallitus pyrkisi kasvattamaan hakkuumääriä tulospalkkion maksimoimiseksi, mutta tämä ei pidä paikkaansa"
+  - [Ministeriö hautasi tilaamansa raportin tuulivoiman haitoista](https://www.hs.fi/politiikka/art-2000010749802.html) (metsähallitus)
 
 # Metsäyhtymä @Kahala: MTY Talonen
 
