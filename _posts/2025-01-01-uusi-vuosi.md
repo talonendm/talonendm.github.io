@@ -46,6 +46,8 @@ git push git@github-talonendm:talonendm/talonendm.github.io.git
 
 - Reittiohje: [Kirkkonummi-Himos](https://maps.app.goo.gl/bJDW1KujVYxxcZko7) 3h 5 min
   - Kehä 3; E12 Tampere; Hämeenlinnasta E10 ([museolentokoneet Sydänmaa](https://maps.app.goo.gl/vSqbGVRd6oEw5eNb6))  Evo-Auttoinen-Padasjoki; E24: Harmoinen, ([Hörönkosken putous](https://maps.app.goo.gl/RhmFGDjDFtSPf1Ba9)), Huusko, ([Päijälän linnavuori](https://maps.app.goo.gl/2aFd8cLHZmz3iWaG8)) Kuhmoinen Arvaja
+  - [Himos - Padasjoki, Vääksy, Lahti Malva](https://maps.app.goo.gl/EFt43zMU5XAKxYTGA)
+    - [Kanavan panimo](https://kanavanpanimo.fi/): Vääksy
 - [rinneinfo](https://himos.fi/laskettelu/rinneinfo/), [webcamerat](https://himos.fi/laskettelu/web-kamerat/)
 - Sää Himos, Jämsä: [Foreca](https://www.foreca.fi/Finland/Jamsa/Himos)
 - tavaralista ([private ta.dm](https://docs.google.com/spreadsheets/d/19BkGyPCeYUFju6qmrPmDd3s-zcD2MNX5jRguvoorb1c/edit?usp=sharing))
@@ -55,6 +57,7 @@ git push git@github-talonendm:talonendm/talonendm.github.io.git
 
 # Links - stuff
 
+- Katon uusiminen, [private ta.dm](https://docs.google.com/document/d/1EN2obLOk5AOJNwBRC3Rg9-YRZTRnKtCAMNnZPkgqens/edit?usp=sharing)
 - [uusi vuosi 2024](https://talonendm.github.io/2024-01-01-uusi-vuosi/)
 - "Hyvää uutta vuotta! -onnittelu tarkoittaa siis koko tulevaa vuotta. Hyvä uuttavuotta! -onnittelu viittaa siis vain vuodenvaihteen juhlaan." [aproposlingua](https://aproposlingua.fi/admin/)
 
