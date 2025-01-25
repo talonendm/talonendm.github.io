@@ -8,6 +8,11 @@ tags:
 ---
 
 
+# 2025
+
+- omakanta [kanta.fi](https://www.kanta.fi/)
+- [suomi.fi](https://www.suomi.fi/)
+- vero.fi (omavero)
 
 # 2024
 
