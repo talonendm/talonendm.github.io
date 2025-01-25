@@ -8,6 +8,10 @@ Seven dudes are members of the culinary clunb called Re:teatteri. In this page s
 
 # Restaurants
 
+- Tableonline 2025 suosituksia:
+  - Spis, Bona Fide
+  - Tampere: LiV, 2h+k
+  - Turku: Kaskis, Karu izakaya
 - [X] Jason
   - Jasonin menu on upea yhdistelmä makuja ja elämyksiä: aloituksena silkkinen sipulikeitto sherryn vivahteilla ja pikkupullalla, jota seuraa tuore taimen Porista yhdistettynä raikkauteen. Umamin ylistys näkyy kauden sienissä, ja pääruokana tarjoiltu peura hurmaa mureudellaan ja tyylikkäillä lisukkeilla. Lopuksi täyteläinen suklaa ja jäätelö tarjoavat täydellisen päätöksen tähän makujen juhlaan. 12/2024
 - [ ] [Sakebar](http://sakebar.fi/) 
@@ -63,6 +67,7 @@ talonen.dm: files:
 
 # Tips
 
+- Ja: Paksoi-resepti. Kova kanta pois. 0.5dl vettä kattilaan, keitä n. 5min. öljyä soijaa. Seesaminsiemeniä päälle. 2024
 - Ju: Dry rub: "Kuivamausteseoksella eli Dry Rubilla kuorrutus on vaihtoehtoinen marinointitapa joka sopii erityisesti pitkään kypsennettävälle possun- tai naudanlihalle. Mausteseos auttaa muodostamaan maukkaan kuoren lihan ympärille jolloin kosteus pysyy paremmin tallessa ja se lisää mukavaa suutuntumaa." [mättömestari](https://www.xn--mttmestari-q5a2t.fi/resepti/kuivamausteseos-grillilihalle-dry-rub-ohje/)
   - valkosipuli ja minttu jauhe Sous vide vakuumiin vuorokaudeksi ennen grillausta
 - [Viiden tähden riesling ja veriappelsiinirisotto](https://viinilehti.fi/viini/viinivinkki/2024-1/): "Corvers Kauter R3 Riesling Reserve Organic 2022"
@@ -102,3 +107,6 @@ Mämmi is a dish that Finns simply relish.
 
 - [ohrasuurimot](https://kotiliesi.fi/resepti/ohrasuurimot/)
 
+---
+
+[Disclaimer](https://talonendm.github.io/disclaimer)

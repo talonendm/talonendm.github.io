@@ -42,6 +42,16 @@ git push git@github-talonendm:talonendm/talonendm.github.io.git
 
 -->
 
+# AI
+
+- [Tekoälyn eettinen pelikirja 1.0 - RTS](https://www.rts.fi/verkkojulkaisut/tekoalyn-pelikirja/)
+- [Nokia Design Archive](https://nokiadesignarchive.aalto.fi/)
+
+# Oikeus
+
+- [Eagle S -asianajaja haluaa ankkurin vapaaksi – IL seuraa 15.1.2025](https://www.iltalehti.fi/kotimaa/a/49288a00-da15-4941-84b3-5a0b90a00b84): "poliisi on vienyt ankkurin kaniin"
+
+
 # Himos
 
 - Reittiohje: [Kirkkonummi-Himos](https://maps.app.goo.gl/bJDW1KujVYxxcZko7) 3h 5 min
