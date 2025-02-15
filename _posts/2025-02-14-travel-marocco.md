@@ -84,14 +84,14 @@ See list of activities, [getyourguide](https://www.getyourguide.com/agadir-l1413
   - 2e + 2.5% cost with Visa
   - check phonenumber, how to close if card is lost
   - company mobilephone emergency number
-- travel insurance
+- [x] travel insurance
 - check passwords to apps, gmail etc.
 - Netflix movies, offline download
 - Spotify offline
 - Audiobooks offline
 - Clean mobilephone, download pictures
-- matkustusilmoitus UM
-
+-[ ] matkustusilmoitus UM
+- [ ] security cameras 
 
 ## home
 
