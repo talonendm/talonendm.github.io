@@ -46,11 +46,28 @@ git push git@github-talonendm:talonendm/talonendm.github.io.git
 
 - [Tekoälyn eettinen pelikirja 1.0 - RTS](https://www.rts.fi/verkkojulkaisut/tekoalyn-pelikirja/)
 - [Nokia Design Archive](https://nokiadesignarchive.aalto.fi/)
+- ChatGPT ilmaiseksi Windows-käyttäjille [mikrobitti](https://www.mikrobitti.fi/uutiset/chatgpt-ilmaiseksi-windows-kayttajille/db7dcf6d-3254-4ac3-bbfb-2b7749a099fb)
+  - [Windows store](https://apps.microsoft.com/detail/9NT1R1C2HH7J?hl=neutral&gl=FI&ocid=pdpshare)
+- Tekoälyuutiset: OpenAI:n uusi tekoälyagentti osaa käyttää tietokonettasi - [Sijoittaja.fi](https://www.sijoittaja.fi/428389/tekoalyuutiset-openain-uusi-tekoalyagentti-osaa-kayttaa-tietokonettasi/)
+- Storytel julkaisi kokonaan tekoälyn kirjoittaman äänikirjan - [AfterDawn](https://dawn.fi/uutiset/2025/01/23/storytel-tekoaly-kirja-new-horizon)
+- Tekoäly | Trump julkisti mahtipontisen hankkeen – aluksi investoidaan sata miljardia dollaria [HS](https://www.hs.fi/talous/art-2000010981352.html)
 
 # Oikeus
 
-- [Eagle S -asianajaja haluaa ankkurin vapaaksi – IL seuraa 15.1.2025](https://www.iltalehti.fi/kotimaa/a/49288a00-da15-4941-84b3-5a0b90a00b84): "poliisi on vienyt ankkurin kaniin"
+- [Vastaamo-uhri saamastaan korvauksesta](https://www.hs.fi/suomi/art-2000010986743.html)
+- [Omakotitalosta löytyi ikävä hiiriyllätys – oikeus antoi kaksi täysin eri ratkaisua - Ilta-Sanomat](https://www.is.fi/taloussanomat/art-2000010981696.html)
+  - "Hovioikeus päätyi 16 000 euron kauppahinnan alennukseen. Myyjä oli esittänyt ostajille jo aiemmin sovintotarjouksen 20 000 euroa, jonka ostajat olivat hylänneet. "
+  - "Ostajat jäivät asiassa lopulta noin 8 800 euroa miinukselle."
+- Aurinkopaneelifirmojen konkurssit iskevät maanomistajiin Ruotsissa - [Uutiset - Maaseudun Tulevaisuus](https://www.maaseuduntulevaisuus.fi/uutiset/bb15e979-d4fb-419a-9e44-9efdde836641)
+- Raskaana oleva käytti amfetamiinia: KKO päätti poikkeuksellisesta tapauksesta | [HS.fi](https://www.hs.fi/suomi/art-2000010986307.html)
+- Renault Clion kytkin suli kesken pysäköintiharjoittelun [HS](https://www.hs.fi/talous/art-2000010912271.html)
 
+
+## Eagle S
+
+- [Eagle S -asianajaja haluaa ankkurin vapaaksi – IL seuraa 15.1.2025](https://www.iltalehti.fi/kotimaa/a/49288a00-da15-4941-84b3-5a0b90a00b84): "poliisi on vienyt ankkurin kaniin"
+- [Miehistön asian­ajaja Herman Ljungberg sai lähtö­passit meri­laite­valmistajan hallituksesta - HS 25.1.2025](https://www.hs.fi/pkseutu/art-2000010988577.html)
+- Merilaitevalmistaja vapautti Herman Ljungbergin tehtävistään -[ Ilta-Sanomat](https://www.is.fi/kotimaa/art-2000010986866.html)
 
 # Himos
 
