@@ -59,6 +59,15 @@ See list of activities, [getyourguide](https://www.getyourguide.com/agadir-l1413
 - [Le Riad 3 souers](https://www.tripadvisor.com/Restaurant_Review-g1452345-d26223450-Reviews-Le_Riad_des_3_soeurs-Tamraght_Agadir_Souss_Massa.html)
   - good one: see e.g. [restaurantguru](https://fr.restaurantguru.com/Le-Riad-des-3-Soeurs-Tamraght#google_vignette)
 
+
+# Ramadan
+
+[Ramadan](https://en.wikipedia.org/wiki/Ramadan) is a holy month for Muslims, marked by fasting from sunrise to sunset, prayer, and spiritual reflection. For travelers in Muslim-majority countries, it’s important to note that restaurants and cafes may have limited daytime hours, while evenings come alive with iftar (breaking of the fast) and social gatherings. Night markets and communal meals offer a vibrant and unique cultural experience.
+
+To respect local customs, avoid eating, drinking, or smoking in public during daylight hours, and dress modestly. Be aware of adjusted business hours and traffic surges before iftar. Ramadan provides an opportunity to witness deep cultural and spiritual traditions, often accompanied by warm hospitality toward visitors.
+
+See [calender](https://www.calendardate.com/ramadan_2025.htm#google_vignette)
+
 # Tips
 
 - [What to Buy](https://agadirinsider.com/artisans-market-handicrafts-and-souvenirs-in-agadir/): Must-Have Handicrafts and Souvenirs
@@ -85,13 +94,15 @@ See list of activities, [getyourguide](https://www.getyourguide.com/agadir-l1413
   - check phonenumber, how to close if card is lost
   - company mobilephone emergency number
 - [x]  travel insurance
+  - comparison of insurance companies [vakuutusjuristi.fi](https://www.vakuutusjuristi.fi/mita-matkavakuutuksesta-korvataan-vertailu-2025/)
+  - [terveyskirjasto - Marokko](https://www.terveyskirjasto.fi/mat01052)
 - [x]  HS cancel
 - check passwords to apps, gmail etc.
 - Netflix movies, offline download
 - Spotify offline
 - Audiobooks offline
 - Clean mobilephone, download pictures
-- [x]  matkustusilmoitus UM: nap-meil, 19
+- [x]  matkustusilmoitus UM: nap-meil, 19: [matkustustiedote](https://um.fi/matkustustiedote/-/c/MA)
 - [ ]  security cameras: Ezviz red light.. offline status. Just press long in the camera and then long in the base.. no need to delete cameras from app. 
 
 ## home
@@ -100,11 +111,23 @@ See list of activities, [getyourguide](https://www.getyourguide.com/agadir-l1413
 - vattenpump, turnoff
 - overfill water 10l - empty it (valve open)
 
+# Emergency
+
+- S-pankki, lost card, [instructions](https://www.s-pankki.fi/fi/asiakaspalvelu/ukk/kysymykset/kortit/miten-toimin-jos-korttini-katoaa/)
+- Visa Finnair Aktia: Korttien ja Aktia Walletin sulkupalvelu 24 h, +358 800 0 2477 
+- Sairastuminen tai tapaturma: Soita [Ifin matka-apuun](https://www.if.fi/henkiloasiakkaat/vahingot/henkilo/matkustaja#matka-apu) +358 10 19 19 99
+  - neuvomme sinulle lähimmän suositellun hoitopaikan, kerromme mitä vakuutuksesi korvaa, autamme, jos tarvitset esimerkiksi maksusitoumuksen hoitoa varten.
+- Norwegian  +47 2149 00 15, [help contact](https://www.norwegian.com/en/help-contact/)
+- Toiminta kriisitilanteessa ulkomailla [UM](https://um.fi/toiminta-kriisitilanteessa-ulkomailla)
+  - UM Päivystys 24/7: +358 9 1605 5555
+
 # Links
 
 - [eurooppalainen-sairaanhoitokortti](https://www.kela.fi/eurooppalainen-sairaanhoitokortti)
 - Finnair [palkintolennot](https://www.finnair.com/fi-fi/finnair-plus/ker%C3%A4%C3%A4-ja-k%C3%A4yt%C3%A4-avioksia/k%C3%A4yt%C3%A4-avioksia-finnairin-lentopalkintoihin)
 - tavaralista - [private dm](https://docs.google.com/spreadsheets/d/19BkGyPCeYUFju6qmrPmDd3s-zcD2MNX5jRguvoorb1c/edit?gid=687918509#gid=687918509)
+- AirBaltic: Helsinki-Rzeszov direct 69e 1/2025
+- [ta.dm private](https://docs.google.com/document/d/1T16UcyLhDj7sKD5XzPfAMBlVPDZ5JrPKEQc6hTa3Uj4/edit?usp=sharing)
 
 ---
 

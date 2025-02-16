@@ -37,6 +37,9 @@ Seven dudes are members of the culinary clunb called Re:teatteri. In this page s
 
 # Stories
 
+- [Eggs Benedict](https://www.meillakotona.fi/reseptit/eggs-benedict)
+- [Tournedos rossini](https://www.is.fi/ruokala/resepti/art-2000001011284.html): "Naudan sisäfileepihvit viimeistellään ankanmaksalla ja tryffelillä."
+- [Kutja](https://fi.wikipedia.org/wiki/Kutja)
 - TOP 50 pizzeriaa Euroopassa. Suomesta: Forza ja Villa Severino (5/2024)
 - Tässä ovat Suomen 50 parasta ravintolaa [HS 13.3.2024](https://www.hs.fi/ruoka/art-2000010285785.html)
   - Grön, Bas Bas pärjänneet hyvin re:teatterissa. Savoy (Cafe) ja Luovuus kukkii kaoksesta olivat pettymyksiä.
