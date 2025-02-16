@@ -20,6 +20,7 @@ tags:
 
 ## Studies
 
+- HS: "Opiskelijatilauksen alennus on 40 prosenttia vastaavan tilauksen normaalihinnasta. Opiskelijatilauksen voi tehdä omassa taloudessa asuva päätoiminen opiskelija, jos taloudessa ei asu muita ansiotyössä olevia henkilöitä. Tilaus tulee tehdä pääsääntöisesti opiskelupaikkakunnalle. Tilausoikeus varmennetaan oppilaitoksen nimellä ja opiskelijakortin numerolla. Jatkuvan opiskelijatilauksen enimmäispituus on kuusi vuotta."
 - Aalto [Mooc](https://www.aalto.fi/fi/aalto-yliopisto-junior/mooc-kurssit-ja-videoluennot)s
   - [design bits](https://www.aalto.fi/fi/uutiset/muotoilun-perusteiden-avoin-verkkokurssi-ei-muotoilijoille)
   - [Radikaaliluovuus](https://divingintoradicalcreativity.aalto.fi/fi/)

@@ -8,6 +8,9 @@ Seven dudes are members of the culinary clunb called Re:teatteri. In this page s
 
 # Restaurants
 
+- Suosituksia
+  - Saiko restaurant, Fredrikinkatu 47
+  - 
 - Tableonline 2025 suosituksia:
   - Spis, Bona Fide
   - Tampere: LiV, 2h+k

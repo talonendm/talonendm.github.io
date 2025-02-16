@@ -18,6 +18,13 @@ Kuvataiteessa [provenienssi](https://fi.wikipedia.org/wiki/Provenienssi) on taid
 
 - Tpl'a (ransk. tirée par l'artiste) tarkoittaa, että grafiikanlehti on taiteilijan itsensä vedostama. Se kirjoitetaan yleensä vasempaan alareunaan vedosnumeron jommallekummalle puolelle. [wikipedia](https://fi.wikipedia.org/wiki/Taidegrafiikka)
 
+
+# 2025
+
+- Birger Carlstedt
+- [Malware Captured in Art](https://www.withsecure.com/en/experiences/museum-of-malware-art)
+  - Friday 12-16, see also [amusa.fi](https://www.amusa.fi/maailman-ensimmainen-kyberturvallisuuden-taidemuseo-museum-malware-art-avattiin-helsinkiin#google_vignette)
+
 # 2024
 
 - Tuulikki Pietilä

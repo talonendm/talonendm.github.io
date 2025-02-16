@@ -51,6 +51,7 @@ git push git@github-talonendm:talonendm/talonendm.github.io.git
 - Tekoälyuutiset: OpenAI:n uusi tekoälyagentti osaa käyttää tietokonettasi - [Sijoittaja.fi](https://www.sijoittaja.fi/428389/tekoalyuutiset-openain-uusi-tekoalyagentti-osaa-kayttaa-tietokonettasi/)
 - Storytel julkaisi kokonaan tekoälyn kirjoittaman äänikirjan - [AfterDawn](https://dawn.fi/uutiset/2025/01/23/storytel-tekoaly-kirja-new-horizon)
 - Tekoäly | Trump julkisti mahtipontisen hankkeen – aluksi investoidaan sata miljardia dollaria [HS](https://www.hs.fi/talous/art-2000010981352.html)
+- https://infography.in/ not free
 
 # Oikeus
 
@@ -82,8 +83,16 @@ git push git@github-talonendm:talonendm/talonendm.github.io.git
   - [Galleria Kivipankki](https://maps.app.goo.gl/PjEPUGBZoTNXwJbt6)
   - [Juveninkoski](https://maps.app.goo.gl/Lk7iiuzYQ4jtzEUL8)
 
+
+
+# Rakentaminen
+
+- "Rakennusten riittävä tuulettuminen ja räystäät vähentävät kosteusriskiä." ja "Räystäistä on hyötyä kaikissa rakennuksissa, varsinkin pientaloissa. Korkeammissa taloissa räystäs suojaa vain rakennuksen yläosaa, mutta yleensä ne ovat myös eniten sään rasituksille alttiina." ja "Ilmastonmuutoksen aiheuttamat ongelmat on huomioitu jo vuoden 2018 alusta voimaan astuneissa ympäristöministeriön rakentamismääräyksissä." [IS 16.2.2025](https://www.is.fi/taloussanomat/art-2000011028985.html)
+
 # Links - stuff
 
+- [Grass Mud Horse](https://r.search.yahoo.com/_ylt=AwrLA3oMw7FnBAIAlRMcBopQ;_ylu=Y29sbwNpcjIEcG9zAzEEdnRpZAMEc2VjA3Ny/RV=2/RE=1740912652/RO=10/RU=https%3a%2f%2fen.wikipedia.org%2fwiki%2fGrass_Mud_Horse/RK=2/RS=_nadjmDlexfC8_3bk9Lo57S58VM-)
+- Tehtaan hajua on leijunut Kantvikissa – yhtiön mukaan ilmiö liittyy bioenergiaan siirtymiseen [51](https://www.viisykkonen.fi/uutiset/tehtaan-hajua-leijunut-kantvikissa-%E2%80%93-yhti%C3%B6n-mukaan-ilmi%C3%B6-liittyy-bioenergiaan-siirtymiseen)
 - Katon uusiminen, [private ta.dm](https://docs.google.com/document/d/1EN2obLOk5AOJNwBRC3Rg9-YRZTRnKtCAMNnZPkgqens/edit?usp=sharing)
 - [uusi vuosi 2024](https://talonendm.github.io/2024-01-01-uusi-vuosi/)
 - "Hyvää uutta vuotta! -onnittelu tarkoittaa siis koko tulevaa vuotta. Hyvä uuttavuotta! -onnittelu viittaa siis vain vuodenvaihteen juhlaan." [aproposlingua](https://aproposlingua.fi/admin/)

@@ -85,13 +85,14 @@ See list of activities, [getyourguide](https://www.getyourguide.com/agadir-l1413
   - check phonenumber, how to close if card is lost
   - company mobilephone emergency number
 - [x]  travel insurance
+- [x]  HS cancel
 - check passwords to apps, gmail etc.
 - Netflix movies, offline download
 - Spotify offline
 - Audiobooks offline
 - Clean mobilephone, download pictures
 - [x]  matkustusilmoitus UM: nap-meil, 19
-- [ ]  security cameras 
+- [ ]  security cameras: Ezviz red light.. offline status. Just press long in the camera and then long in the base.. no need to delete cameras from app. 
 
 ## home
 
