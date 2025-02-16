@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Escape Winter - A Sunny Family Getaway to Agurin
+title: Escape Winter - A Sunny Family Getaway to Agadir
 subtitle: Morocco
 tags:
   - Marocco
@@ -79,19 +79,19 @@ See list of activities, [getyourguide](https://www.getyourguide.com/agadir-l1413
 - vattenpump
 - winter season, lower a bit heating
 - EU/ETA mobile network disable, restart phone.
-- document copies, keep in separate place than passport and official ones
+- [x] document copies, keep in separate place than passport and official ones
 - withdraw money, see daily budget estimate
   - 2e + 2.5% cost with Visa
   - check phonenumber, how to close if card is lost
   - company mobilephone emergency number
-- [x] travel insurance
+- [x]  travel insurance
 - check passwords to apps, gmail etc.
 - Netflix movies, offline download
 - Spotify offline
 - Audiobooks offline
 - Clean mobilephone, download pictures
--[ ] matkustusilmoitus UM
-- [ ] security cameras 
+- [x]  matkustusilmoitus UM: nap-meil, 19
+- [ ]  security cameras 
 
 ## home
 
