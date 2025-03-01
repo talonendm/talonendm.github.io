@@ -7,7 +7,7 @@ tags:
   - Agadir
   - travelling
 comments: false
-cover-img: /assets/pics/cover/ai/yoga-tree-wall-paint.jpg
+cover-img: /assets/pics/cover/photo/agadirbeach.jpg
 thumbnail-img: /assets/pics/thumbnail/ai/maroccodesert.jpg
 published: true
 ---
@@ -129,6 +129,10 @@ See list of activities, [getyourguide](https://www.getyourguide.com/agadir-l1413
 - La Scala
 - [Le Riad 3 souers](https://www.tripadvisor.com/Restaurant_Review-g1452345-d26223450-Reviews-Le_Riad_des_3_soeurs-Tamraght_Agadir_Souss_Massa.html)
   - good one: see e.g. [restaurantguru](https://fr.restaurantguru.com/Le-Riad-des-3-Soeurs-Tamraght#google_vignette)
+
+![Oquotidien](/assets/pics/thumbnail/e640-direct/2025/Oquotidien.jpg){: .mx-auto.d-block :}
+
+
 
 
 # Ramadan
