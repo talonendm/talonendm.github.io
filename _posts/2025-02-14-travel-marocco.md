@@ -16,6 +16,59 @@ When the cold winds of winter settle in and the snow piles up outside, there's n
 
 Hike to the [Agadir](https://en.wikipedia.org/wiki/Agadir) Oufella Ruins: Take a short hike to the Agadir Oufella Ruins for panoramic views of the city and the Atlantic Ocean. The kids will love exploring the historical site while you enjoy the spectacular scenery.
 
+# Stories
+
+## Shadows at Agadir Airport
+
+*Disclaimer: This is a work of fiction.*
+
+Two groups arrived at Agadir Airport, eager to start their vacation. Small choices led them down unsettling paths.
+
+The first group chose free Orange SIM cards, impressed by the convenience. They ignored the currency exchange booths with their bad rates, deciding to wait for better options.
+
+The second group installed an Airalo eSIM for 8 euros and exchanged 100 euros at one of the booths despite the poor rate. "At least we’ll have cash," one said, shrugging.
+
+The Orange SIM worked flawlessly, providing a perfect connection everywhere, even in remote areas. But something felt wrong. The phones wouldn’t disconnect, strange notifications appeared, and cryptic messages arrived—words they hadn’t written, as if someone was listening.
+
+The Airalo group struggled with constant connectivity issues. Their Airbnb was hard to access because the door code email wouldn’t load. When they finally entered, their phones started acting up: cameras flickered on their own, and apps opened unprompted.
+
+Later that evening, the groups met at the hotel lobby. The Orange users spoke of feeling watched. The Airalo group described their haunted devices. Both realized that something had followed them from the airport, something they didn’t understand but couldn’t ignore.
+
+## The Fifth Day in Agadir
+
+*Disclaimer: This is a work of fiction.*
+
+The Airbnb had seemed perfect in the photos. A bright terrace, airy living spaces, and most importantly, a pool shimmering under the Moroccan sun. For the first four days, it was. Mornings were spent lounging by the cool water, their laughter echoing as they escaped the relentless heat. Evenings brought bustling cafes and fragrant tagines, the city alive with music and voices.
+
+By the fifth day, the cracks began to show.
+
+It started with the water. The pool, once inviting, now felt icy and unwelcoming. The temperature hadn’t changed, but stepping in brought an unsettling chill. It wasn’t just cold—it was unnerving, like stepping into something alive. One of them joked about it. “Maybe the pool’s haunted.” No one laughed.
+
+At breakfast, the mood shifted further. Three of them felt queasy, blaming the roadside kebabs from the previous evening. By noon, two were bedridden, battling waves of nausea and cramps. The group canceled their planned beach day, shuffling between the kitchen and their friends’ rooms with water and fever meds.
+
+The remaining two, desperate for fresh air, ventured to Souk El Had. The market sprawled endlessly, its maze of stalls filled with spices, textiles, and voices calling out deals. But the charm wore off quickly. Bartering turned tense, as vendors seemed agitated, pushing aggressively for sales. They felt eyes following them as they moved through the narrow paths, the air thick with unfamiliar smells and unspoken tension.
+
+When they returned, one of the sick had tested positive for COVID with an at-home kit they’d brought “just in case.” The weight of the situation hit them. Plans for the rest of the trip dissolved into uncertainty.
+
+That night, as the city hummed outside, the group sat in silence on the terrace. The pool glimmered in the moonlight, still and cold. None of them dared go near it. The laughter of the first days felt like a memory from another world.
+
+## The Road Back to Reality
+
+*Disclaimer: This is a work of fiction.*
+
+The ride to the [airport](https://www.airportia.com/morocco/al-massira-airport/arrivals/) had barely begun, and already the group regretted not staying bedridden at the Airbnb. The taxi driver had the calm confidence of someone who had braved chaos before—and who didn’t mind creating a little himself.
+
+The road buzzed with life, a chaotic blend of honking cars, weaving scooters, and what the group had started calling "[Moroccan Ferraris](https://www.pinterest.com/pin/445926800575872154/)"—horses pulling rickety trailers stacked impossibly high with goods. A trio of them raced alongside the taxi at one point, the horses snorting and the drivers yelling commands as if they were Formula 1 racers. The trailers wobbled dangerously, and for a moment, it looked like one would tip over.
+
+Inside the taxi, the air was tense. The pale, sickly travelers were holding on for dear life, fighting the growing nausea from both illness and the erratic driving. The taxi careened through narrow gaps, dodging scooters laden with entire families, and overtaking buses on blind curves. Every sharp turn sent groans rippling through the group.
+
+Then came the inevitable. Just minutes before reaching the terminal, one of them leaned out the window and vomited. The driver glanced back, unimpressed. “You’re not the first,” he muttered, shaking his head.
+
+By the time they stumbled out of the taxi, they were wrecks. Their faces were ghostly pale, and every step was an effort. As they dragged themselves into the terminal, the combination of fever, aching muscles, and the ever-present threat of stomach rebellion loomed over them like a storm cloud.
+
+The flight home was no less harrowing, but it paled in comparison to the journey through Moroccan roads. Later, when they’d recovered, they laughed about the “Ferraris” and the madness of it all. But in the moment, it felt like the longest and most surreal ride of their lives.
+
+
 # Arrival
 
 ## [Airport Agadir](https://agaairport.com/)
