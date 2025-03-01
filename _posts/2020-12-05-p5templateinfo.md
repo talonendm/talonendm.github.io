@@ -65,6 +65,57 @@ see js code in browser
 ~~~
 
 
+## lasergriddesign
+
+Create new repository: lasergriddesign
+Add a README file: This is where you can write a long description for your project.
+
+Recommendation for license:
+- If you want the least restrictions: The MIT License is the most permissive and easiest to integrate into other projects.
+- If you want to protect against patent claims: Go for the Apache 2.0 License.
+- If you want to ensure that derivatives remain open-source: Consider GPL 3.0.
+
+When choosing a license, make sure you understand your goals and how you want others to interact with your code. GitHub provides a helpful interface when creating a new repository to select the license.
+
+> GNU GPL v3.0 was selected
+
+
+Windows, start Git Bash and do the following commands:
+
+~~~
+
+cd git # or wherever you have your repositories
+git clone https://github.com/talonendm/lasergriddesign.git
+cd lasergriddesign
+
+# git branch gh-pages  # note this is not needed
+# git checkout gh-pages
+# git push -u origin gh-pages
+# cd ..
+
+cp p5template/sketch.js lasergriddesign/sketch.js
+cp p5template/index.html lasergriddesign/index.html
+cp p5template/style.css lasergriddesign/style.css
+
+cd lasergriddesign
+
+~~~
+
+Edit files, e.g. update html-file with most recent js-packages, see [cdnjs](https://cdnjs.com/libraries/p5.js) for p5js.
+For example, onnenpyora-repo uses old js-packages, and === is not recognized. (250301)
+
+~~~
+
+git add .
+git commit -m "template copied and code changes done"
+# Note: if multiple users, --- git push origin gh-pages
+git push git@github-talonendm:talonendm/lasergriddesign
+
+~~~
+
+And app is hosted at: [https://talonendm.github.io/lasergriddesign/](https://talonendm.github.io/lasergriddesign/)
+
+
 ## Christmaself
 
 gh-pages branch: [https://talonendm.github.io/christmaself/](https://talonendm.github.io/christmaself/)

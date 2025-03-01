@@ -104,8 +104,6 @@ git push git@github-talonendm:talonendm/talonendm.github.io.git
 
 - [Teravoima](https://www.teravoima.fi/) akku
 - [Stylophone](https://stylophone.com/tabs/)
-- [Eggs Benedict](https://www.meillakotona.fi/reseptit/eggs-benedict)
-- [Tournedos rossini](https://www.is.fi/ruokala/resepti/art-2000001011284.html): "Naudan sisäfileepihvit viimeistellään ankanmaksalla ja tryffelillä."
 - Volkswagen-matkailuautot
   - California Beach Tour: 4 istuinta ja 4 makuupaikkaa.
 - [Grass Mud Horse](https://r.search.yahoo.com/_ylt=AwrLA3oMw7FnBAIAlRMcBopQ;_ylu=Y29sbwNpcjIEcG9zAzEEdnRpZAMEc2VjA3Ny/RV=2/RE=1740912652/RO=10/RU=https%3a%2f%2fen.wikipedia.org%2fwiki%2fGrass_Mud_Horse/RK=2/RS=_nadjmDlexfC8_3bk9Lo57S58VM-)

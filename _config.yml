@@ -24,16 +24,17 @@ navbar-links:
     - tags: "https://talonendm.github.io/tags/"
     - links: "https://talonendm.github.io/links/"
     - Pokenappis: "https://talonendm.github.io/pokenappis/"
-    - Re:Teatteri: "https://talonendm.github.io/reteatteri/"
     - Kahala: "https://talonendm.github.io/kahala/"
-    - vesikattolaskuri: "https://talonendm.github.io/vesikattolaskuri/"
     # - Beautiful Jekyll: "https://beautifuljekyll.com"
     # - Learn markdown: "https://www.markdowntutorial.com/"
     - Source code: "https://github.com/daattali/beautiful-jekyll#readme"
-  Author's home: 
+  Projects: # Author's Home 
     - talonendm: "https://talonendm.github.io"
+    - Laser Grid Design: "https://talonendm.github.io/lasergriddesign/"
+    - Re:Teatteri: "https://talonendm.github.io/reteatteri/"
     - rimat: "https://talonendm.github.io/rimat"
     - Vaakaruode Oy: "https://vaakaruode.github.io"
+    - vesikattolaskuri: "https://talonendm.github.io/vesikattolaskuri/"
 
 # --- Logo --- #
 
