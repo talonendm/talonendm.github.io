@@ -44,16 +44,34 @@ See list of activities, [getyourguide](https://www.getyourguide.com/agadir-l1413
 - Xtreme Park
 - Memore d'Agadir
 - Timlalin Sandboarding Site
+- Agadir Oufella
+  - [Danialand](https://danialand.com/): Station Téléphérique - Cable Car Station
 
+
+# Supermarkets
+
+- [Marjane hypermarket](https://maps.app.goo.gl/kfL1fZNFX4SWXmyb8)
+- [Souk El Had](https://soukelhad.shop/)
+  
 # Restaurants
 
+- [O Playa](https://www.tripadvisor.co.uk/Restaurant_Review-g293731-d6834306-Reviews-O_Playa-Agadir_Souss_Massa.html)
+  - 2x
+- [El Toro](https://www.tripadvisor.co.uk/Restaurant_Review-g293731-d6368387-Reviews-El_Toro-Agadir_Souss_Massa.html)
+  - 2x
 - [Restaurant La Lampara](https://restaurantguru.com/La-Lampara-Agadir)
 - [La Mauresque](https://www.tripadvisor.fr/Restaurant_Review-g293731-d1054175-Reviews-Le_Mauresque-Agadir_Souss_Massa.html)
 - Da celsi
-- Roastery Agadir
+- [Roastery Agadir](https://maps.app.goo.gl/k7SDkriU69EMbAQ66)
+  - 1x
+- [Cafe O'quotidien](https://maps.app.goo.gl/d31ejdYfeaCp1Rjq9)
+  - 4x
+- [La Cucina Di Mamma](https://maps.app.goo.gl/a2YJsQPkaPMAuVfz6)
+  - 1x
+- [Black Smith](https://maps.app.goo.gl/bniuGkf7tv8nCjjf7)
+  - 1x
 - Timam Du Chef: pizzeria
 - [Restaurant Rafiq](https://www.tripadvisor.com/Restaurant_Review-g293731-d11894152-Reviews-Restaurant_Rafiq-Agadir_Souss_Massa.html)
-- O Playa
 - Cafe Restaurant Ibtissam 
 - La Scala
 - [Le Riad 3 souers](https://www.tripadvisor.com/Restaurant_Review-g1452345-d26223450-Reviews-Le_Riad_des_3_soeurs-Tamraght_Agadir_Souss_Massa.html)

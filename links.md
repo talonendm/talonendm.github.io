@@ -13,6 +13,7 @@ tags:
 - omakanta [kanta.fi](https://www.kanta.fi/)
 - [suomi.fi](https://www.suomi.fi/)
 - vero.fi (omavero)
+- [https://talonendm.github.io/lasergriddesign/](https://talonendm.github.io/lasergriddesign/)
 
 # 2024
 
