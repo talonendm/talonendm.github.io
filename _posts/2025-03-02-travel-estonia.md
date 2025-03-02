@@ -51,6 +51,22 @@ Embarking on a family journey from Helsinki to Tartu offers a delightful blend o
 - More tips available at:
   - [meriharakka-blog](https://meriharakka.net/2021/09/16/tarton-nahtavyydet/)
 
+
+### Stuff near 
+
+- Galerii [Pallas](https://pallasart.ee/)
+
+#### Restaurants
+
+- [Gastronomist](https://gastronomist.ee/restoran-and-terrass)
+- [Humal Bistro](https://humalbistro.ee/en/menu/food/)
+- [Vapiano](https://vapiano.ee/en/)
+- Vaga Mama
+- [GingerGrill](https://gingergrill.ee/en/home/)
+- [Vilde Ja Vine](https://vilde.ee/gb/menuu/)
+
+See also "6 best restaurants" at [rantapallo.fi](https://www.rantapallo.fi/ruoka-juomat-viinit/herkuttelijan-tartto-katso-kaupungin-houkuttelevimmat-ravintolat/) and TOP10 in [Tripadvisor](https://www.tripadvisor.com/Restaurants-g274959-Tartu_Tartu_County.html).
+
 ## Additional Outdoor Activities in Tartu
 
 - **Emajõgi River Cruise**: Experience Tartu from a different perspective with a relaxing boat trip on the Emajõgi River. 
