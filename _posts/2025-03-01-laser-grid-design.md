@@ -13,9 +13,79 @@ published: true
 
 A laser cutting design [application](https://talonendm.github.io/lasergriddesign/) built with p5.js that allows users to draw lines, Bezier curves, ellipses, and save their designs as SVG files. The canvas grid and other drawing parameters can be adjusted with keyboard input, see instructions at [github readme](https://github.com/talonendm/lasergriddesign).
 
+# Notes
+
+The size of an A4 sheet of paper in inches is 8.27 x 11.69 inches. To convert these dimensions to pixels, you need to know the DPI (dots per inch) that will be used for the conversion. For standard printing purposes, 300 DPI is typically used, but you can use other values like 72 DPI for screen displays.
+
+Here’s the calculation for A4 size in pixels at different DPI values:
+
+### Formula:
+
+Pixel Dimension = Inch Dimension × DPI
+
+
+### At 300 DPI (standard print quality):
+- **Width**: 8.27 inches × 300 DPI = 2,481 pixels
+- **Height**: 11.69 inches × 300 DPI = 3,507 pixels
+
+So, at **300 DPI**, an A4 paper would be **2481 x 3507 pixels**.
+
+### At 72 DPI (standard web display):
+- **Width**: 8.27 inches × 72 DPI = 595 pixels
+- **Height**: 11.69 inches × 72 DPI = 841 pixels
+
+
 # Code notes
 
-## Bezier
+The reason for creating the saveSVGlaser function was to ensure that the SVG is saved correctly after the drawing process is fully completed. By defining a separate function, we have more control over when and how the SVG is saved. Specifically, this allows us to perform necessary actions, such as ensuring that all dynamic elements (like lines, shapes, or modifications) are fully rendered before saving, preventing incomplete or empty files from being generated. This also enables a clearer organization of the code, as the saving functionality is isolated in its own function, making the code easier to manage and modify if needed.
+
+~~~
+function saveSVGlaser() {
+  // Create an SVG canvas and draw only the stored lines
+  let svgCanvas = createGraphics(w, h, SVG);
+  svgCanvas.noFill();
+  svgCanvas.stroke(0);
+  svgCanvas.strokeWeight(use_laser_strokeweight);
+
+  for (let i = 0; i < lines.length; i++) {
+    svgCanvas.line(lines[i].x1, lines[i].y1, lines[i].x2, lines[i].y2);
+  }
+
+  // Draw existing Bezier curves
+  for (let bezierCurve of beziers) {
+    svgCanvas.bezier(
+      bezierCurve.startBx,
+      bezierCurve.startBy,
+      bezierCurve.controlX1,
+      bezierCurve.controlY1,
+      bezierCurve.controlX2,
+      bezierCurve.controlY2,
+      bezierCurve.endBX,
+      bezierCurve.endBY
+    );
+  }
+
+  // Draw all stored ellipses from the array
+  for (let i = 0; i < ellipses.length; i++) {
+    let e = ellipses[i];
+    svgCanvas.ellipse(e.x, e.y, e.radius * 2, e.radius * 2); // Draw the ellipse
+  }
+
+  if (drawRectInSave) {
+    svgCanvas.ect(0, 0, w, h);
+  }
+
+  // Save the SVG
+  let datetag = new Date().toISOString().replace(/[-:]/g, "").split('.')[0];  // Generate a timestamp
+  svgCanvas.save("laser_" + datetag + ".svg");
+}
+~~~
+
+This function saves all the drawing elements, including lines, Bezier curves, ellipses, and an optional rectangle, to an SVG file. The file is named with a timestamp to ensure uniqueness. The function provides a clear separation between drawing and saving, making it modular and easier to manage.
+
+## Application
+
+### Bezier
 
 1. Dynamic Preview:
 
@@ -136,6 +206,10 @@ if (closestIndex !== -1) {
 
 - Lasergriddesign [github](https://github.com/talonendm/lasergriddesign)
 - For Huion tablet, check [paperjs.org](http://paperjs.org/examples/chain/)
+- [Vectr](https://vectr.com/design/)
+- [boxySVG](https://boxy-svg.com/)
+  - account required
+- [svgedit](https://svgedit.github.io/releases/v6.0.0/svg-editor-es.html)
 
 ---
 
