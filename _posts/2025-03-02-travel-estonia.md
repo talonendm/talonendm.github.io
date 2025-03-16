@@ -67,6 +67,8 @@ Embarking on a family journey from Helsinki to Tartu offers a delightful blend o
 
 See also "6 best restaurants" at [rantapallo.fi](https://www.rantapallo.fi/ruoka-juomat-viinit/herkuttelijan-tartto-katso-kaupungin-houkuttelevimmat-ravintolat/) and TOP10 in [Tripadvisor](https://www.tripadvisor.com/Restaurants-g274959-Tartu_Tartu_County.html).
 
+- Restorant Aparaat
+
 ## Additional Outdoor Activities in Tartu
 
 - **Emajõgi River Cruise**: Experience Tartu from a different perspective with a relaxing boat trip on the Emajõgi River. 
@@ -94,7 +96,7 @@ See also "6 best restaurants" at [rantapallo.fi](https://www.rantapallo.fi/ruoka
   - company mobilephone emergency number
 - [x] travel insurance
   - comparison of insurance companies [vakuutusjuristi.fi](https://www.vakuutusjuristi.fi/mita-matkavakuutuksesta-korvataan-vertailu-2025/)
-  - [terveyskirjasto - Marokko](https://www.terveyskirjasto.fi/mat01052)
+  - [terveyskirjasto - Viro](https://www.terveyskirjasto.fi/mat01025)
 - [ ] check passwords to apps, gmail etc.
 - [ ] Clean mobilephone, download pictures
 - [ ]  matkustusilmoitus UM: nap-meil, 19: [matkustustiedote](https://um.fi/matkustustiedote/-/c/MA)

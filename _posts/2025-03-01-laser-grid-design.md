@@ -13,6 +13,22 @@ published: true
 
 A laser cutting design [application](https://talonendm.github.io/lasergriddesign/) built with p5.js that allows users to draw lines, Bezier curves, ellipses, and save their designs as SVG files. The canvas grid and other drawing parameters can be adjusted with keyboard input, see instructions at [github readme](https://github.com/talonendm/lasergriddesign).
 
+# Projects
+
+## Tiainen
+
+Creating a birdhouse that is both functional and aesthetically pleasing can be a fulfilling DIY project. In this design, I’ve incorporated laser-cut 3mm plywood for precision side panels while integrating practical features like a slide-out floor for cleaning. This combination of design and functionality makes it ideal for both birds and bird enthusiasts.
+
+The Design Concept: The birdhouse's main structure is made from untreated wooden boards, providing a natural, bird-friendly habitat. To elevate the design, laser-cut plywood panels are used for the sides, offering precision and the opportunity to customize with intricate patterns or cutouts. [svg](https://talonendm.github.io/assets/svg/laser/laser_tiainen_sivu_20250316T090043.svg)
+
+A key feature of the birdhouse is the entry hole [svg](https://talonendm.github.io/assets/svg/laser/sinitiainen220403.svg). The front wooden panel includes a precisely drilled 28mm hole, perfectly sized for small bird species like sparrows or blue tits. To protect this hole and enhance its appearance, a separate 3mm plywood piece is laser-cut with an exact matching hole and affixed to the front panel. This reinforcement prevents wear and gives the birdhouse a polished, professional look.
+
+One innovative aspect of this birdhouse is the slide-out floor, designed for easy cleaning. The floor panel is built into a groove on the side walls, allowing it to slide out effortlessly. This feature ensures that the birdhouse can be cleaned quickly and hygienically after each nesting season, keeping it safe and welcoming for future bird inhabitants. The sliding mechanism is durable and securely aligned to ensure the floor stays in place during regular use but can be easily removed when needed.
+
+The roof is constructed from untreated wood, maintaining a consistent natural aesthetic while providing excellent protection from the elements. Combined with the laser-cut side panels and the innovative sliding floor, the assembly is straightforward yet robust, ensuring the birdhouse will last for many seasons.
+
+This birdhouse design combines traditional woodworking with the precision of laser-cut components and practical innovations like the slide-out floor. The result is a birdhouse that’s not only functional and bird-friendly but also easy to maintain and visually striking.
+
 # Notes
 
 The size of an A4 sheet of paper in inches is 8.27 x 11.69 inches. To convert these dimensions to pixels, you need to know the DPI (dots per inch) that will be used for the conversion. For standard printing purposes, 300 DPI is typically used, but you can use other values like 72 DPI for screen displays.
@@ -33,6 +49,14 @@ So, at **300 DPI**, an A4 paper would be **2481 x 3507 pixels**.
 ### At 72 DPI (standard web display):
 - **Width**: 8.27 inches × 72 DPI = 595 pixels
 - **Height**: 11.69 inches × 72 DPI = 841 pixels
+
+P5
+
+~~~
+g.scale(72/25.4);
+~~~
+
+Note: in Inchscape default DPI is 96. 
 
 
 # Code notes
@@ -200,7 +224,12 @@ if (closestIndex !== -1) {
 
 ~~~
 
+# Examples
 
+ <!-- Embedded SVG from external file -->
+  <object type="image/svg+xml" data="/assets/svg/laser/laserHalkoSide.svg" width="200" height="200">
+    Your browser does not support SVGs.
+  </object>
 
 # Links
 
