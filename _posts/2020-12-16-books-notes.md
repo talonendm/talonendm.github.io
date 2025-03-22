@@ -55,6 +55,14 @@ Rakennusalalla, erityisesti pientalojen vesikattorakenteissa, esiintyy valitetta
 
 Tahallisuus on kyseessä, jos urakoitsija tietoisesti poikkeaa määräyksistä esimerkiksi kustannusten alentamiseksi tai työn nopeuttamiseksi. Toisaalta tuottamuksellisuus eli huolimattomuus voi liittyä asiantuntemuksen tai huolellisuuden puutteeseen, jossa määräyksiä ei noudateta tiedostamatta niiden tärkeyttä. Molemmissa tapauksissa laiminlyöntien seuraukset voivat olla vakavia, ja vastuuseen vaikuttaa se, miten hyvin urakoitsijan toiminta vastaa alalle asetettuja vaatimuksia.
 
+## RIL 107-2022
+
+> Poimulevykatteen vähimmäiskaltevuus riippuu levyn profiilin korkeudesta 1:4-1:6 ja muotolevykatteilla se on yleensä 1:4. Alla on aina käytettävä aluskatetta. Lisäksi tulee ottaa huomioon valmistajien eri tuotteille suosittelemat vähimmäiskaltevuudet. [s.152]
+
+Huomaa taulukko [s.141]: Ristiriitaisesti taulukko, jossa "Profiilipeltikate 1:3 tai loivempi": Taulukon mukaan aluskatteeksi soveltuu AKV, AKE ja AKK1, vaikka vähimmäiskaltevuus profiilipeltikatteille on 1:4 sivun 152 perusteella. (notes: 1/2025)
+
+Huomaa tärkeä asia: "Kattoristikoiden kohdalle aluskatteen päälle asennetaan vähintään 30 mm korkeat tuuletusrimat, joiden päälle kiinnitetään ruoteet." [s.153]
+
 ## Korjausrakentaminen, Jormalainen Pentti
 
 1999, 2. uudistettu painos. [Finna](https://www.finna.fi/Record/oy.996434383906252), [comments](https://www.finna.fi/Record/oy.996434383906252#usercomments): "Teos melko vanha, mutta kirja tarjoaa ihan hyödyllistä tietoa. Väärin suunnitellun tai huonosti hoidetun katon aiheuttamat vauriot voivat johtaa merkittäviin kustannuksiin. Aluskate ei saa olla tiukasti ruoteita vasten, vaan sen on oltava 20-30 mm "riippuvassa" asennossa. Aluskatteen saumat limitetään siten, että vesi ohjautuu räystäälle tai kouruihin. Huomaa, että vielä 2020-luvulla eräät rakennusalalla toimivat aluskate- ja muotokatevalmistajat ohjeistavat, että aluskatteen voi asentaa kireälle ilman roikkumaa. Veden ohjautuminen aluskatteella ei tällöin ole rakennusmääräysten mukaista."

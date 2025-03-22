@@ -44,6 +44,8 @@ git push git@github-talonendm:talonendm/talonendm.github.io.git
 
 # AI
 
+- [AIstudio](https://aistudio.google.com/):
+  - [raflasafkamodel](https://aistudio.google.com/tunedModels/)
 - [Tekoälyn eettinen pelikirja 1.0 - RTS](https://www.rts.fi/verkkojulkaisut/tekoalyn-pelikirja/)
 - [Nokia Design Archive](https://nokiadesignarchive.aalto.fi/)
 - ChatGPT ilmaiseksi Windows-käyttäjille [mikrobitti](https://www.mikrobitti.fi/uutiset/chatgpt-ilmaiseksi-windows-kayttajille/db7dcf6d-3254-4ac3-bbfb-2b7749a099fb)
@@ -70,6 +72,14 @@ git push git@github-talonendm:talonendm/talonendm.github.io.git
 - [Miehistön asian­ajaja Herman Ljungberg sai lähtö­passit meri­laite­valmistajan hallituksesta - HS 25.1.2025](https://www.hs.fi/pkseutu/art-2000010988577.html)
 - Merilaitevalmistaja vapautti Herman Ljungbergin tehtävistään -[ Ilta-Sanomat](https://www.is.fi/kotimaa/art-2000010986866.html)
 
+
+# Ympäristö
+
+- Päästöt saisi kuriin kannattavasti, [Henry Schwartz TEK blog](https://www.tek.fi/fi/uutiset-blogit/paastot-saisi-kuriin-kannattavasti): "Väitöskirjan laskentasimulaatiossa oli mukana 401 Itämerellä liikennöivää eri ikäistä rahtialusta." 
+  - "Polttoainekustannukset maksaa yleensä laivan operoija, joka vuokraa aluksen enintään muutamaksi vuodeksi. Omistajat eivät siis hyödy laivoihin tekemistään kalliista investoinneista itse" ja "Operaattorinkaan ei kannata tehdä investointeja vuokraamiinsa aluksiin, koska vuokra-ajat ovat lyhyempiä kuin investointien takaisinmaksuajat."
+  - "IMO:n uusia laivoja koskeva Energy Effeciency Design Index (EEDI), joka määrää maksimiarvon uusien laivojen päästöille. Päästörajat kiristyvät joka viides vuosi."
+  - "Valtameriliikenteessä lupaavimmat polttoaineet ovat asiantuntijoiden arvion mukaan metanoli ja ammoniakki. Esimerkiksi Mærsk-varustamo investoi jo metanolikäyttöisiin konttilaivoihin."
+
 # Himos
 
 - Reittiohje: [Kirkkonummi-Himos](https://maps.app.goo.gl/bJDW1KujVYxxcZko7) 3h 5 min
@@ -83,6 +93,11 @@ git push git@github-talonendm:talonendm/talonendm.github.io.git
   - [Galleria Kivipankki](https://maps.app.goo.gl/PjEPUGBZoTNXwJbt6)
   - [Juveninkoski](https://maps.app.goo.gl/Lk7iiuzYQ4jtzEUL8)
 
+
+# Drone
+
+- 2012: [Parrot Ar-drone 2.0 and moose](https://youtu.be/udDuCVtX2AM)
+- auringon nousu äitienpäivänä, [2013](https://youtu.be/Vmkz39Exa9g)
 
 # Sijoitus
 

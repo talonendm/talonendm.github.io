@@ -149,6 +149,9 @@ jos saa diilin, 10 snt/kWh, paljon kustannukset laskevat? ks. [private ta.dm](ht
 # 2025
 
 - TODO: leikkaa ison omenaapuun oksat, jotka yltävät alppiruusun yläpuolelle. Omenoiden kerääminen hankalaa ja osa muumioituu pensaan sisällä. Omenoita saa tosin nykäistyä itsetehdyllä valkoisella jatkovartisella perhoshaavilla. Jakkaralta pihtien kanssa onnistuu muumio-omenoiden kerääminen elokuussa.
+- 14.2.2025 kevät aikaisessa, omenapuuleikattu
+- 16.3.2025 sumu aloitettu, LL ja L https://norkko.fi/, aiemmin nappi
+- 16.3.2025: Chili esikasvatus, tosin testi kukkamultaan, ks. tarttis kylvömultaa. [Meilläkotona](https://www.meillakotona.fi/artikkelit/chilin-kasvatus-nain-se-onnistuu-vaikka-ikkunalaudalla)
 
 # 2024
 

@@ -260,6 +260,11 @@ Instructions to create interactive maps using [leaflet](https://leafletjs.com/Sl
 
 - Tamarindin nimi on peräisin arabian kielisestä nimestä tamr hindī, joka merkitsee "intialainen taateli". (limua ompusta 24/02) Tamarindipuu on kotoisin trooppisilta Itä-Afrikan aroilta. Tamarindipuuta kasvaa nykyisin myös Aasian trooppisissa osissa ja Latinalaisessa Amerikassa ja Karibialla. [Wiki](https://fi.wikipedia.org/wiki/Tamarindipuu)
 
+### Chile
+
+- 2012: private video, [multijuutuubi](https://www.youtube.com/watch?v=angGWhlUeS0)
+
+
 
 ## Links
 

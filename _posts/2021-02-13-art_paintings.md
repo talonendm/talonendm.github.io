@@ -21,6 +21,13 @@ Kuvataiteessa [provenienssi](https://fi.wikipedia.org/wiki/Provenienssi) on taid
 
 # 2025
 
+- Heikki Marila
+  - [Kukat vaihtuivat sotakuvastoon, HS 13.2.2025](https://www.hs.fi/taide/art-2000011011546.html)
+    - "Historia ei ole opettanut mitään 1930-luvusta!"
+    - "Lukko 1–6 (2024) saa aiheensa rynnäkkökiväärien lukoista."
+  - [Heikki Marila vaihtoi kukat aseisiin](https://yle.fi/a/74-20148944)
+  - [Sara Hildenin museo](https://www.sarahildenintaidemuseo.fi/nayttely/heikki-marila/), Tampere (8.2.2025 - 18.5.2025)
+  - Taidemaalari Heikki Marilaa risoo, että Suomen sisällissotaa on käsitelty niin vähän kuvataiteissa, [yle 2017](https://yle.fi/a/3-9584601)
 - Birger Carlstedt
 - [Malware Captured in Art](https://www.withsecure.com/en/experiences/museum-of-malware-art)
   - Friday 12-16, see also [amusa.fi](https://www.amusa.fi/maailman-ensimmainen-kyberturvallisuuden-taidemuseo-museum-malware-art-avattiin-helsinkiin#google_vignette)
