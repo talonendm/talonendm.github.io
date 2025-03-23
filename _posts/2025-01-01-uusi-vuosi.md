@@ -93,12 +93,6 @@ git push git@github-talonendm:talonendm/talonendm.github.io.git
   - [Galleria Kivipankki](https://maps.app.goo.gl/PjEPUGBZoTNXwJbt6)
   - [Juveninkoski](https://maps.app.goo.gl/Lk7iiuzYQ4jtzEUL8)
 
-
-# Drone
-
-- 2012: [Parrot Ar-drone 2.0 and moose](https://youtu.be/udDuCVtX2AM)
-- auringon nousu äitienpäivänä, [2013](https://youtu.be/Vmkz39Exa9g)
-
 # Sijoitus
 
 - Viking Line sijoittajat
