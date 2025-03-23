@@ -30,7 +30,13 @@ Oikeustieteellisen alan yhteisvalinnan valintakoe maanantaina 23.5.2022 pidetä�
 
 ## Materiaalia - Aiemmat kokeet
 
-- Vuosi 2023 (25.4.2023) - [Unigrafia](https://www.unicontent.fi/tuote/oikeustieteellisen-valintakoemateriaalipaketti-2023-erillisartikkelit/). Muistiinpanot - private Foxit edits at ta.dm:
+- [materiaali 2024](https://oikeustieteet.fi/ennakkomateriaali-2024-on-julkaistu)
+  - Janne Salminen: Suomen valtiosääntö ja Euroopan unioni
+  - Hallituksen esitys eduskunnalle laiksi sukupuolen vahvistamisesta ja siihen liittyviksi laeiksi, HE 189/2022, luvut 1-6
+  - Juha Karhu: Varallisuusoikeuden huomen, Lakimies 78/2022, 1085-1104
+  - Minna Pappila: Yritysvastuu ja ekologiset kompensaatiot, Liikejuridiikka 2/2019, 91-108
+  - Jaakko Salminen & Mikko Rajavuori: Yritysvastuulait ja ylikansallisen arvoketjun oikeudellinen käsitteellistäminen, Lakimies 34/2019
+- [materiaali 2023](https://oikeustieteet.fi/valintakoekirjallisuus-2023-on-julkaistu) (25.4.2023) - [Unigrafia](https://www.unicontent.fi/tuote/oikeustieteellisen-valintakoemateriaalipaketti-2023-erillisartikkelit/). Muistiinpanot - private Foxit edits at ta.dm:
   - Johdatus oikeuteen ja oikeudelliseen ajatteluun, Pia Letto-Vanamo [ta.dm](https://drive.google.com/file/d/1z0tYxO4RNao_7wLoRG0LJNEfJ3d8AXs_/view?usp=share_link)
   - Johdatus prosessioikeuteen, Mikko Vuorenpää [ta.dm](https://drive.google.com/file/d/13hn9e5zmseO4FAiqTn-xk3ciwBLEyQMj/view?usp=share_link)
   - Erillisartikkelit:
