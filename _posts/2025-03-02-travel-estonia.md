@@ -22,10 +22,30 @@ Embarking on a family journey from Helsinki to Tartu offers a delightful blend o
 - Check also:
   - [directferries](https://www.directferries.fi/)
   - [Eckero](https://www.eckeroline.fi/matkat/reittimatka)
+
+## Car 
+
+- [ ] palosammutin Baltiaan
+  - "Ensiapulaukku ei ole pakollinen yksityiskäyttöön rekisteröidyissä autoissa. Palosammutin on pakollinen ulkomailla rekisteröidyille ajoneuvoille vain, jos sammutin on pakollinen ajoneuvon rekisteröintimaan määräysten mukaan. Virossa rekisteröidyille ajoneuvoille pakollinen. Heijastinliiviä on pakko käyttää silloin, kun ajoneuvosta astutaan ulos konerikon vuoksi pimeän aikana taajaman ulkopuolella. Koskee sekä kuljettajaa että matkustajia. Myös pimeällä liikkuvan jalankulkijan tulee käyttää heijastinta tai lamppua." [autoliitto.fi](https://www.autoliitto.fi/matkailu/autolla-eurooppaan/tiet-ja-reitit/automatkailijan-via-baltica/)
+  - "Tallinna-Varsova-reitin maat, eli Viro, Latvia, Liettua ja Puola, ovat EU- sekä ETA-maita, mikä tarkoittaa sitä, että liikennevakuutus on voimassa näissä maissa paremman korvaavuuden periaatteen mukaisesti. Tämä tarkoittaa sitä, että Suomessa liikennevakuutetun ajoneuvon muussa ETA-maassa aiheuttama vahinko korvataan Suomen liikennevakuutuslain mukaan, ellei vahinkomaan lainsäädäntö edellytä parempaa turvaa."
+    - "pitää pyytää omasta vakuutusyhtiöstä." [autoliitto.fi](https://www.autoliitto.fi/matkailu/autolla-eurooppaan/tiet-ja-reitit/automatkailijan-via-baltica/)
+  - [Pohjola tuulilasi](https://vahinkoapu.pohjola.fi/henkiloasiakkaat/auto/tuulilasi?icmp=.havaku.rtim.banner.op.opsite.57913.ha_jn_asiointi)
+  - "Green Card tulee esittää liikennevahingon yhteydessä sekä tarvittaessa rajaviranomaisille." [Pohjola]
+  - Green Card [Private ta.dm](https://drive.google.com/file/d/13lzOE2LlLAdlayH5lzo8jhVAnA4aVQ1F/view?usp=sharing) ja printti hanskalokerossa.
+- [Puskaparkit Google Maps](https://goo.gl/maps/xu1sYunUT5A93aTD6)
+  - [Puskaparkit app (in browser)](https://puskaparkit.fi/)
   
 ## Day 1: Helsinki to Tallinn via Tallink Ferry
 
 **Morning**: Begin your adventure by boarding the Tallink ferry from Helsinki to Tallinn. The ferry ride provides comfortable amenities and picturesque views of the Baltic Sea.
+
+###  Heygen test
+
+- g: ta.dm | [Heygen AI](https://app.heygen.com/)
+  - [How to Animate Photos with HeyGen: Basics Explained](https://youtu.be/Els1NIcP0E8?si=_frA-FsMHJbI5mYw)
+- [OmniControlArt](https://huggingface.co/spaces/Yuanshi/OminiControl_Art): Image filters
+- [Morning video](https://youtube.com/shorts/Yk9vBHcY_pI)
+
 
 ## Day 1: Tallinn to Tartu – Exploring En Route
 
@@ -33,6 +53,7 @@ Embarking on a family journey from Helsinki to Tartu offers a delightful blend o
 
 - **Põltsamaa Castle**: Explore the ruins of this historic castle, offering a glimpse into Estonia's medieval past. 
 - **Lahemaa National Park**: If time permits, detour to Estonia's largest national park, known for its diverse landscapes and hiking trails. 
+- [Weather Tartu](https://www.foreca.fi/Estonia/Tartu/10vrk): sää Foreca
 
 **Afternoon**: Arrive in Tartu and check into your Airbnb accommodation.
 
@@ -97,6 +118,7 @@ See also "6 best restaurants" at [rantapallo.fi](https://www.rantapallo.fi/ruoka
 - [x] travel insurance
   - comparison of insurance companies [vakuutusjuristi.fi](https://www.vakuutusjuristi.fi/mita-matkavakuutuksesta-korvataan-vertailu-2025/)
   - [terveyskirjasto - Viro](https://www.terveyskirjasto.fi/mat01025)
+  - Greencard, [Pohjola vakuutus](https://www.op.fi/pohjolavakuutus)
 - [ ] check passwords to apps, gmail etc.
 - [ ] Clean mobilephone, download pictures
 - [ ]  matkustusilmoitus UM: nap-meil, 19: [matkustustiedote](https://um.fi/matkustustiedote/-/c/MA)

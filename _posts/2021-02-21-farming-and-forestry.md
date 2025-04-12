@@ -152,6 +152,9 @@ jos saa diilin, 10 snt/kWh, paljon kustannukset laskevat? ks. [private ta.dm](ht
 - 14.2.2025 kevät aikaisessa, omenapuuleikattu
 - 16.3.2025 sumu aloitettu, LL ja L https://norkko.fi/, aiemmin nappi
 - 16.3.2025: Chili esikasvatus, tosin testi kukkamultaan, ks. tarttis kylvömultaa. [Meilläkotona](https://www.meillakotona.fi/artikkelit/chilin-kasvatus-nain-se-onnistuu-vaikka-ikkunalaudalla)
+- 9.4.2025: Mahlan valutus. Korkeissa porattu reikä 18mm, ei mene ötökät 5.15l tonkkaan. Puuhun 13 mm poraus hieman yläviistoon.. saa tiivisti 15mm vesiputken. Valutuksen olisi voinut aloittaa aiemmin. Viikko sitten oli +13-16C kelejä.
+  - tiputtaa muutamassa tunnissa +6C 5litraa.. toisesta koivusta tummaa mahlaa vain liru.. taisi mennä liian syvälle tai sitten puu huonokuntoinen?
+- 11.4.2025: itäpäädystä 20-30 metrinen koivu. Haloiksi. [Fiskars WoodXpert™ kaatovänkä L](https://www.prisma.fi/tuotteet/100090422/fiskars-woodxpert-kaatovanka-l) mekanismi meni rikki, mutta puun sai kaadettua sinne minne pitikin. 
 
 # 2024
 
