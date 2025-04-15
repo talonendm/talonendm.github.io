@@ -79,6 +79,11 @@ Embarking on a family journey from Helsinki to Tartu offers a delightful blend o
 
 #### Restaurants
 
+- [Holm](https://holmrestoran.ee/menu/main-courses)
+- [Aparaat](https://www.aparaadiresto.ee/)
+- [Joyce](https://joyce.ee/en//): ok
+  - [simple Joyce](https://joyce.ee/en/simple-joyce/)
+  - pidempi: [Signature Joyce](https://joyce.ee/en/signature-joyce/)
 - [Gastronomist](https://gastronomist.ee/restoran-and-terrass)
 - [Humal Bistro](https://humalbistro.ee/en/menu/food/)
 - [Vapiano](https://vapiano.ee/en/)
