@@ -73,6 +73,12 @@ Embarking on a family journey from Helsinki to Tartu offers a delightful blend o
   - [meriharakka-blog](https://meriharakka.net/2021/09/16/tarton-nahtavyydet/)
 
 
+### Biking at Tartu
+
+- [Komoot, 10 routes](https://www.komoot.com/discover/Tartu/@58.3871500,26.8239762/tours?sport=touringbicycle&map=true&regionId=16285&max_distance=64235)
+- Tartu bike system [map](https://ratas.tartu.ee/map)
+  - [Paradise street art](https://visittartu.com/street-art-in-tartu/)
+
 ### Stuff near 
 
 - Galerii [Pallas](https://pallasart.ee/)

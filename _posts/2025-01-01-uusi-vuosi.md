@@ -64,6 +64,7 @@ git push git@github-talonendm:talonendm/talonendm.github.io.git
 - Aurinkopaneelifirmojen konkurssit iskevät maanomistajiin Ruotsissa - [Uutiset - Maaseudun Tulevaisuus](https://www.maaseuduntulevaisuus.fi/uutiset/bb15e979-d4fb-419a-9e44-9efdde836641)
 - Raskaana oleva käytti amfetamiinia: KKO päätti poikkeuksellisesta tapauksesta | [HS.fi](https://www.hs.fi/suomi/art-2000010986307.html)
 - Renault Clion kytkin suli kesken pysäköintiharjoittelun [HS](https://www.hs.fi/talous/art-2000010912271.html)
+- Milloin huhu muuttuu sisäpiirintiedoksi, ja kuka vastaa pörssitiedottamisesta? [hannessnellmann](https://www.hannessnellman.com/news-and-views/blog/milloin-huhu-muuttuu-sisapiirintiedoksi-ja-kuka-vastaa-porssitiedottamisesta/)
 
 
 ## Eagle S
