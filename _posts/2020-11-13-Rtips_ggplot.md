@@ -16,6 +16,15 @@ published: true
 ---
 
 
+
+# R
+
+va: 24.4.2025 
+- [R](https://cran.r-project.org/bin/windows/base/) 4.5.0
+- [Rstudio](https://posit.co/download/rstudio-desktop/)
+- Rtools 4.5
+
+
 # Custom tips
 
 - Disable .Rdata saving: 

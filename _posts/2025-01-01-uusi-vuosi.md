@@ -54,6 +54,7 @@ git push git@github-talonendm:talonendm/talonendm.github.io.git
 - Storytel julkaisi kokonaan tekoälyn kirjoittaman äänikirjan - [AfterDawn](https://dawn.fi/uutiset/2025/01/23/storytel-tekoaly-kirja-new-horizon)
 - Tekoäly | Trump julkisti mahtipontisen hankkeen – aluksi investoidaan sata miljardia dollaria [HS](https://www.hs.fi/talous/art-2000010981352.html)
 - https://infography.in/ not free
+- [Study modules MOOC](https://www.mooc.fi/en/study-modules/#pilvipohjaiset-websovellukset)
 
 # Oikeus
 
@@ -122,6 +123,15 @@ git push git@github-talonendm:talonendm/talonendm.github.io.git
 - Katon uusiminen, [private ta.dm](https://docs.google.com/document/d/1EN2obLOk5AOJNwBRC3Rg9-YRZTRnKtCAMNnZPkgqens/edit?usp=sharing)
 - [uusi vuosi 2024](https://talonendm.github.io/2024-01-01-uusi-vuosi/)
 - "Hyvää uutta vuotta! -onnittelu tarkoittaa siis koko tulevaa vuotta. Hyvä uuttavuotta! -onnittelu viittaa siis vain vuodenvaihteen juhlaan." [aproposlingua](https://aproposlingua.fi/admin/)
+
+# Energia - Aurinko
+
+Aurinkopaneelien hinta vaihtelee laajalti Suomessa, mutta keskimäärin voit odottaa maksavasi noin 5000 € – 11000 € aurinkovoimalastasi avaimet käteen -pakettina toimitettuna. Esimerkiksi 5 kW:n (kilowatin) aurinkosähköjärjestelmä maksaa keskimäärin noin 6000 € vuonna 2025. [google] 8kw 9000e (Pe).
+
+- 250426
+  - [LämpöYkkönen](https://lampoykkonen.fi/aurinkopaneelit/?msclkid=d380bc3efb7e1d3a4033d4329f06b767)
+    - 250426: 5990e asennettuna Longi 435W aurinkopaneelit x12 + Growatt 6kW Hybrid Invertteri.
+  
 
 
 ---
