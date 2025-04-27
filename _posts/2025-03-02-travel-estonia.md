@@ -72,6 +72,14 @@ Embarking on a family journey from Helsinki to Tartu offers a delightful blend o
 - More tips available at:
   - [meriharakka-blog](https://meriharakka.net/2021/09/16/tarton-nahtavyydet/)
 
+## Friday
+
+- [Kolm tilli](https://sevensons.ee/kohad/kolm-tilli/)
+
+## Saturday:
+
+- Biking: city e-bikes
+- 27C. Slow service at Cafe Truffe, city center. Ordered Leffe, no Leffe.
 
 ### Biking at Tartu
 
@@ -85,11 +93,14 @@ Embarking on a family journey from Helsinki to Tartu offers a delightful blend o
 
 #### Restaurants
 
-- [Holm](https://holmrestoran.ee/menu/main-courses)
-- [Aparaat](https://www.aparaadiresto.ee/)
-- [Joyce](https://joyce.ee/en//): ok
+- [Aparaat](https://www.aparaadiresto.ee/) - Saturday: fast and quality service
+- [Joyce](https://joyce.ee/en//): good service, delicious. Sunday
   - [simple Joyce](https://joyce.ee/en/simple-joyce/)
   - pidempi: [Signature Joyce](https://joyce.ee/en/signature-joyce/)
+
+### Backlog
+
+- [Holm](https://holmrestoran.ee/menu/main-courses)
 - [Gastronomist](https://gastronomist.ee/restoran-and-terrass)
 - [Humal Bistro](https://humalbistro.ee/en/menu/food/)
 - [Vapiano](https://vapiano.ee/en/)
@@ -98,8 +109,6 @@ Embarking on a family journey from Helsinki to Tartu offers a delightful blend o
 - [Vilde Ja Vine](https://vilde.ee/gb/menuu/)
 
 See also "6 best restaurants" at [rantapallo.fi](https://www.rantapallo.fi/ruoka-juomat-viinit/herkuttelijan-tartto-katso-kaupungin-houkuttelevimmat-ravintolat/) and TOP10 in [Tripadvisor](https://www.tripadvisor.com/Restaurants-g274959-Tartu_Tartu_County.html).
-
-- Restorant Aparaat
 
 ## Additional Outdoor Activities in Tartu
 

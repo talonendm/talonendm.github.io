@@ -25,6 +25,13 @@ Fig) quick GIMP experiment with layers
 
 - [DOCS - remontti 2023 - private](https://docs.google.com/document/d/1NhHTMk0GU4PR4X0--GB0hOznUhG2eIfkZpp8H5n3jZ8/edit?usp=sharing): talon maalaus ja sokkeli ([548X](https://tikkurila.fi/varit/548x-548x)). 
 
+## PINNOITTAMINEN – Tiivistetyt ohjeet 2025 talon itäpääty
+
+- weber 137: Suurin raekoko n. 1,0 mm. Menekki n. 1,5 kg/m²/mm. [K-rauta]
+- Valmistelu: Sekoita Yki Rouhepinnoite hyvin ja ohenna vedellä (enintään 1 %), jos tarpeen. Sijoita rajakohdat huomaamattomiin paikkoihin.
+- Levitys: Levitä teräslastalla raekoon paksuinen kerros noin 1 m² alueelle.
+- Hierrä heti muovihiertimellä kevyesti painaen. Poista ylimääräinen pinnoite tarvittaessa lastalla.
+
 # Kosteussuunnittelu
 
 - [RIL 250-2020 Kosteudenhallinta ja homevaurioiden estäminen](https://www.ril.fi/kirjakauppa/ohjeet-ja-normit/ril-250-2020-kosteudenhallinta-ja-homevaurioiden-estaminen-p-751.html): "Ohjeen tavoitteena on kuvata kosteusasetuksen henkeä ja hyvää rakentamistapaa toteuttava rakentamisen kosteudenhallinnan kokonaisprosessi lähtien rakennuttamisen tavoitteista ja päättyen käyttäjän tehtäviin."  
