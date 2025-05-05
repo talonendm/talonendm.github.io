@@ -132,7 +132,14 @@ Aurinkopaneelien hinta vaihtelee laajalti Suomessa, mutta keskimäärin voit odo
   - [LämpöYkkönen](https://lampoykkonen.fi/aurinkopaneelit/?msclkid=d380bc3efb7e1d3a4033d4329f06b767)
     - 250426: 5990e asennettuna Longi 435W aurinkopaneelit x12 + Growatt 6kW Hybrid Invertteri.
   
+# Pro 22 Traeger
 
+- ribs 250503, [youtube](https://www.youtube.com/watch?v=fUTKdVpRkMQ). Meni Lion Ribsit kuivaksi ja soosia liian vähän.
+
+
+# Links
+
+- historialliset satelliittikuvat [google.earth](https://earth.google.com/)
 
 ---
 

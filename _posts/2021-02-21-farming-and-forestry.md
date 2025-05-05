@@ -155,14 +155,18 @@ jos saa diilin, 10 snt/kWh, paljon kustannukset laskevat? ks. [private ta.dm](ht
 - 9.4.2025: Mahlan valutus. Korkeissa porattu reikä 18mm, ei mene ötökät 5.15l tonkkaan. Puuhun 13 mm poraus hieman yläviistoon.. saa tiivisti 15mm vesiputken. Valutuksen olisi voinut aloittaa aiemmin. Viikko sitten oli +13-16C kelejä.
   - tiputtaa muutamassa tunnissa +6C 5litraa.. toisesta koivusta tummaa mahlaa vain liru.. taisi mennä liian syvälle tai sitten puu huonokuntoinen?
 - 11.4.2025: itäpäädystä 20-30 metrinen koivu. Haloiksi. [Fiskars WoodXpert™ kaatovänkä L](https://www.prisma.fi/tuotteet/100090422/fiskars-woodxpert-kaatovanka-l) mekanismi meni rikki, mutta puun sai kaadettua sinne minne pitikin. 
+- 17.4.2025: Chili altakasteluruukkuun. Turkkilaiset pavut (alkuperä 2022 Lidl) idätys pääsiäismunakennossa ja talouspaperin välissä.
+- 23.4.2025: raparperit pilkistävät penkistä
 - 26.4.2025: puuilo [kenttälapio](https://www.puuilo.fi/retki-kokoontaitettava-retkilapio), metallinpaljastimen kaveriksi
 - 27.4.2025: kasvimaan kääntö lapiolla
 - 27.4.2025: kylmä jakso, muutaman litran päivässä mahlaa
 - 27.4.2025: 6 orvokkia, 4 itäpäätyyn kompostoreille, 2 pääovelle
 - 27.4.2025: retiisiä valkoinen iso ruukku, ja yksi säkki itäpäädyn puuaidalle
-- 27.4.2025: neliö ja pitkä penkki itäpuoli, Siikli Sieglende (maatilapuodista siemenperunat) 2,5e/kg -> 0,85e
-- 27.4.2025: pitkä penkki ja osa pohjoisen penkistä Annabelle 2,5e/kg -> 0,225g -> 0,56e
+- 27.4.2025: Siikli: neliö ja pitkä penkki itäpuoli, Siikli Sieglende (maatilapuodista siemenperunat) 2,5e/kg -> 0,85e
+- 27.4.2025: pitkä penkki ja osa toisen pitkän pohjoisen penkistä Annabelle 2,5e/kg -> 0,225g -> 0,56e
+- 01.5.2025: lisäys: yksi jauhoinen peruna ja yksi rosamunda.
 - 27.4.2025: persiljan suojaus (viime vuotinen) ja viime vuotisten sipulien siirto kasvimaan kulmaan. 
+- 1.5.2025: valkoapilaa multa-alueille. TODO: Rullaa multa tiiviiksi. Google: "Jaa alueelle tarvittava siemenmäärä kahteen osaan. Kylvä puolet yhteen suuntaan ja puolet toiseen suuntaan, ristiin. Sekoita siemenet pintakerrokseen ja jyrää kevyesti, jotta siemenet saavat hyvän kontaktin maahan. Pidä maan pinta kosteana siementen itämisen ajan, 1-3 viikkoa."
 
 # 2024
 
