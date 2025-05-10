@@ -19,7 +19,19 @@ Kuvataiteessa [provenienssi](https://fi.wikipedia.org/wiki/Provenienssi) on taid
 - Tpl'a (ransk. tirée par l'artiste) tarkoittaa, että grafiikanlehti on taiteilijan itsensä vedostama. Se kirjoitetaan yleensä vasempaan alareunaan vedosnumeron jommallekummalle puolelle. [wikipedia](https://fi.wikipedia.org/wiki/Taidegrafiikka)
 
 
-# 2025
+# 20250508
+
+- Seppo Polameri, [Karhu](https://www.hagelstam.fi/seppo-polameri-11)
+- Liisa Kanerva - [Kuningas soittaa](https://www.hagelstam.fi/liisa-kanerva)
+- Albert Edelfelt, [Maria Hagelstam](https://www.hagelstam.fi/albert-edelfelt-48)
+  - Maria Hagelstam ([Marie von Heiroth](https://fi.wikipedia.org/wiki/Marie_von_Heiroth_(Edelfelt)), o.s. Djakoffsky) etsaus, laattasigneeraus, pieniä jälkiä, 16,5x20,5
+  - Grafiikkatyö kuvaa lukemiseen keskittynyttä nuorta naista. Inspiraationa oli muun muassa Paul Helleun elegantit kuivaneulatyöt, jotka Edelfelt oli nähnyt Pariisissa. Marie von Heiroth toimi Edelfeltin grafiikan uran alkusysäyksenä, minkä jälkeen hän loi seuraavien kolmen vuoden aikana yli 70 grafiikan teosta. Tämä työ heijastelee Edelfeltin piirustustaitoa ja hänen kiintymystään herkkään viivaan.
+  - [Finna](https://www.finna.fi/Record/kansallisgalleria.75F979999E68F292D7AC1615B320A74C)
+- Heli Salonen - jäi huutamatta [Asema](https://www.hagelstam.fi/heli-salonen-a64d0812dc208ea0f709a31b6574964c)
+- Reijo Malkki - [Sydämeni valolla täytät](https://www.hagelstam.fi/reijo-malkki-de81b8e5a98a5fd138e27d6d07c60a9c) - skip
+- [Ulla Rantanen etsaus](https://www.hagelstam.fi/f5fd81933319af0497df4130a79808c9) skip
+
+# 2025Q1
 
 - Heikki Marila
   - [Kukat vaihtuivat sotakuvastoon, HS 13.2.2025](https://www.hs.fi/taide/art-2000011011546.html)

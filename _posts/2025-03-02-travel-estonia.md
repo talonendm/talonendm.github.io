@@ -162,6 +162,7 @@ See also "6 best restaurants" at [rantapallo.fi](https://www.rantapallo.fi/ruoka
 
 # Links
 
+- [past weather Tartu](https://www.timeanddate.com/weather/estonia/tartu/historic)
 - [eurooppalainen-sairaanhoitokortti](https://www.kela.fi/eurooppalainen-sairaanhoitokortti)
 - Finnair [palkintolennot](https://www.finnair.com/fi-fi/finnair-plus/ker%C3%A4%C3%A4-ja-k%C3%A4yt%C3%A4-avioksia/k%C3%A4yt%C3%A4-avioksia-finnairin-lentopalkintoihin)
 - tavaralista - [private dm](https://docs.google.com/spreadsheets/d/19BkGyPCeYUFju6qmrPmDd3s-zcD2MNX5jRguvoorb1c/edit?gid=687918509#gid=687918509)

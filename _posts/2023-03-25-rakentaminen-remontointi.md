@@ -27,10 +27,16 @@ Fig) quick GIMP experiment with layers
 
 ## PINNOITTAMINEN – Tiivistetyt ohjeet 2025 talon itäpääty
 
-- weber 137: Suurin raekoko n. 1,0 mm. Menekki n. 1,5 kg/m²/mm. [K-rauta]
+- weber 137: Suurin raekoko n. 1,0 mm. Menekki n. 1,5 kg/m²/mm. [K-rauta] - 25.28e 25kg riitti sopivasti, hieman as
 - Valmistelu: Sekoita Yki Rouhepinnoite hyvin ja ohenna vedellä (enintään 1 %), jos tarpeen. Sijoita rajakohdat huomaamattomiin paikkoihin.
 - Levitys: Levitä teräslastalla raekoon paksuinen kerros noin 1 m² alueelle.
 - Hierrä heti muovihiertimellä kevyesti painaen. Poista ylimääräinen pinnoite tarvittaessa lastalla.
+
+### Retro 5/2025
+
+- hieman liian kovaa painoin ja liian ohuelti tuli joihinkin kohtiin. Täytynee maalata samalla värillä päälle?
+- Käsihiemakivi Rahina, 26.87e
+- weber 137: 25kg [K-rauta] - 25.28e - riitti sopivasti, hieman jäi yli askarteluihin. Saapas, kenkä ja paino koukuilla.
 
 # Kosteussuunnittelu
 
