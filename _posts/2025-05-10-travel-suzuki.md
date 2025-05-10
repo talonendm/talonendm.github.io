@@ -13,6 +13,8 @@ published: true
 
 # Suzuki Gs 450
 
+- 98885.1
+
 ## Insurance stuff
 
 - "Jos törmäät mihin tahansa eläimeen, korvaamme kolarista ajoneuvollesi aiheutuneet vauriot bonusta alentamatta. Maksat vain 200 euron omavastuun. Eläimen väistämisestä aiheutuneet vahingot korvataan törmäysturvasta." (ei törmäysturvaa osakaskosssa)
@@ -25,7 +27,8 @@ published: true
     - Hinauspalvelun tuottaa Viking Hinaus.
     - Jos maksoit hinauksen itse tai sinulle aiheutui matkan jatkamisesta kuluja, tee vahinkoilmoitus.
     - Hinauspalvelu ulkomailla +358 10 515 8777.
-- "Korvaamme ulkomailla sattuneesta liikennevahingosta aiheutuneita henkilö- ja esinevahinkoja, kun autosi kuljettaja on vahingosta vastuussa. Omavastuu on 500 euroa. Vastuuturva on voimassa tietyissä ETA-maiden ulkopuolisissa Green Card -sopimusmaissa. Tarkista voimassaoloalue vakuutusehdoista."
+    - "Korvaamme ulkomailla sattuneesta liikennevahingosta aiheutuneita henkilö- ja esinevahinkoja, kun autosi kuljettaja on vahingosta vastuussa. Omavastuu on 500 euroa. Vastuuturva on voimassa tietyissä ETA-maiden ulkopuolisissa Green Card -sopimusmaissa. Tarkista voimassaoloalue vakuutusehdoista."
+
 ---
 
 [Disclaimer](https://talonendm.github.io/disclaimer)
