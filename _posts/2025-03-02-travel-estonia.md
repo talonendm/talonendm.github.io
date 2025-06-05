@@ -107,8 +107,12 @@ Embarking on a family journey from Helsinki to Tartu offers a delightful blend o
 - Vaga Mama
 - [GingerGrill](https://gingergrill.ee/en/home/)
 - [Vilde Ja Vine](https://vilde.ee/gb/menuu/)
+- Book: Löytöretkellä BALTIAN LUONNOSSA. Hyviä retkikohteita Balttiaan. Kaarina Silmunen.
 
 See also "6 best restaurants" at [rantapallo.fi](https://www.rantapallo.fi/ruoka-juomat-viinit/herkuttelijan-tartto-katso-kaupungin-houkuttelevimmat-ravintolat/) and TOP10 in [Tripadvisor](https://www.tripadvisor.com/Restaurants-g274959-Tartu_Tartu_County.html).
+
+
+
 
 ## Additional Outdoor Activities in Tartu
 

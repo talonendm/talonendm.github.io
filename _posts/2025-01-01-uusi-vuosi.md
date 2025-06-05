@@ -44,6 +44,10 @@ git push git@github-talonendm:talonendm/talonendm.github.io.git
 
 # AI
 
+- [NotebookLM](https://notebooklm.google.com/)
+  - ja.ta, ta.ja, vaaka, ta.dm: note change language if needed from app (ENG / FIN).
+  - [VLC player](https://www.videolan.org/): wav to mp3 (or [ffmpeg](https://ffmpeg.org/download.html#build-windows))
+    - [podbean](https://talonendm.podbean.com/)
 - [AIstudio](https://aistudio.google.com/):
   - [raflasafkamodel](https://aistudio.google.com/tunedModels/)
 - [Tekoälyn eettinen pelikirja 1.0 - RTS](https://www.rts.fi/verkkojulkaisut/tekoalyn-pelikirja/)
@@ -135,6 +139,15 @@ Aurinkopaneelien hinta vaihtelee laajalti Suomessa, mutta keskimäärin voit odo
 # Pro 22 Traeger
 
 - ribs 250503, [youtube](https://www.youtube.com/watch?v=fUTKdVpRkMQ). Meni Lion Ribsit kuivaksi ja soosia liian vähän.
+
+
+# Toho
+
+- puunsuojaus polttamalla
+  - Idealgas Propane HeatingTorch: Cannello Gas. DG-2212BM0077 (29.9e motonet 250528)
+  - huomioi letkun päiväys, kaikissa letkuissa tulisi olla viimeinen käyttöpäivämäärä
+  - Jumbo **High** Pressure Regulator (14.99e motonet 250528)
+    - tohottimen kanssa.. matalapaine venttiili keittiökamojen kanssa.
 
 
 # Links

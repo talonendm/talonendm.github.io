@@ -167,6 +167,12 @@ jos saa diilin, 10 snt/kWh, paljon kustannukset laskevat? ks. [private ta.dm](ht
 - 01.5.2025: lisäys: yksi jauhoinen peruna ja yksi rosamunda.
 - 27.4.2025: persiljan suojaus (viime vuotinen) ja viime vuotisten sipulien siirto kasvimaan kulmaan. 
 - 1.5.2025: valkoapilaa multa-alueille. TODO: Rullaa multa tiiviiksi. Google: "Jaa alueelle tarvittava siemenmäärä kahteen osaan. Kylvä puolet yhteen suuntaan ja puolet toiseen suuntaan, ristiin. Sekoita siemenet pintakerrokseen ja jyrää kevyesti, jotta siemenet saavat hyvän kontaktin maahan. Pidä maan pinta kosteana siementen itämisen ajan, 1-3 viikkoa."
+- ...
+- 1.6.2025: rucola, tummabasilika, ym. siemenet kylvö kasvilaatikkoon
+- kasvihuoneeseen itäneet pavut
+- 4.6.2025: Chilit kasvihuoneeseen
+- 4.6.2025: rikkaruohojen seasta hevoskastanja isoon saviruukkuun
+- 5.6.2025: lehtipersiljaruukku kasvilaatikkoon
 
 # 2024
 

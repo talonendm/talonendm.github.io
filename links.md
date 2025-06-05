@@ -10,6 +10,7 @@ tags:
 
 # 2025
 
+- [https://talonendm.podbean.com/](https://talonendm.podbean.com/)
 - omakanta [kanta.fi](https://www.kanta.fi/)
 - [suomi.fi](https://www.suomi.fi/)
 - vero.fi (omavero)

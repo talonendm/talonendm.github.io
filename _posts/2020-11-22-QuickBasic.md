@@ -13,6 +13,7 @@ cover-img: /assets/pics/cover/screenshot/qb.JPG
 thumbnail-img: /assets/pics/thumbnail/screenshot/qb.JPG
 published: true
 ---
+
 # Quick Basic
 
 "From the 80s to eternity. Unlike traditional BASIC and QBasic code, QB64 gets compiled automatically into machine code – allowing exceptional performance, easy distribution, and the ability to link with external C and C++ programming libaries.", se [qb64 portal](https://www.qb64.org/portal/).
@@ -39,6 +40,9 @@ unpack e.g. to C:\qb64\
 
 ![bas code in 45 binary format](/assets/pics/page/screenshot/qb64_45binarydetected.JPG){: .mx-auto.d-block :}
 
+## Discussion
+
+- [Suomeksi keskustelua koodista](https://notebooklm.google.com/notebook/bf965add-7c3f-4556-b279-16743bc35311/audio)
 
 {: .box-warning}
 **Warning:** Never download exe-files from untrusted pages!

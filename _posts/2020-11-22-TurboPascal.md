@@ -13,12 +13,15 @@ cover-img: /assets/pics/cover/screenshot/pascal.JPG
 thumbnail-img: /assets/pics/thumbnail/www/TP.JPG
 published: true
 ---
+
 # Turbo Pascal
+
 "Borland Turbo Pascal is a Pascal programming language compiler with an Integrated Development Environment targeted at the hobbyist and entry-level market." - [Win World PC](https://winworldpc.com/product/turbo-pascal/5x)
 
 ![HELI.exe](/assets/pics/page/screenshot/HELIpas.JPG){: .mx-auto.d-block :}
 
 ## Version
+
 My old files were not working after testing TP5.5 and the most recent DOSBox 0.74-3 and Turbo Pascal. I learned Turbo Pascal in the mid of 90s. 
 If I remember correct, I got a Finnish text book and disk with it from Santa Claus. 
 In my programs I have used GRAFIIKKA.TPU or with 8 characters GRAFIIKK.TPU file. In addition I had this next to PAS files: EGAVGA.BGI [download](https://osdn.net/projects/sfnet_hlanguage/downloads/Source/BGI/EGAVGA.BGI/).
@@ -127,7 +130,27 @@ The Helicopter Game has three "published" versions:
 
 ## Setup and generate random map ALOITUS.PAS
 
-I felt good when I opened this code file. I was quite positive surprised about the cleanisess and clarity of my about 20 years old code.
+I felt a sense of satisfaction as I opened this code file. I was pleasantly surprised by the cleanliness and clarity of the code I had written nearly 20 years ago.
+
+### Game Mechanics & Features:
+
+- Two-Player Combat: The game supports two players, with separate input controls (h[1].nap and h[2].nap arrays define control keys for player 1 and 2). This is also evident in the split-screen display suggested by 319*(d-1) or 323*(d-1) offsets in drawing functions, where d likely represents the player index (1 or 2).
+- Helicopter Control: Players can control gas (acceleration/deceleration) using h[d].nap[1] (gas+) and h[d].nap[2] (gas-), turn left (h[d].nap[3]), turn right (h[d].nap[5]), and reverse direction (h[d].nap[4]). Firing is handled by h[d].nap[6].
+ - Physics Simulation:Gravity (g=10): Helicopters are affected by gravity.
+ - Air Resistance (ilmanvastus=1.0013): This constant is applied to vy and vx (vertical and horizontal velocities) to simulate air resistance, slowing down the helicopter's movement over time.
+ - Collision Detection: "Collision is detected by observing following points," and the code includes checks for h[d].y[1,a]>maah[a] (helicopter points exceeding terrain height) and h[d].y[1,0]<0 (hitting the ceiling).
+- Landing Logic: A specific set of conditions ((maah[1]<443) and (h[d].vy<0.2) and (abs(maah[1]-maah[2])<1) and (a<3) and (h[d].k[1]>80) and (h[d].k[1]<110)) must be met for a successful "laskeutuminen" (landing), implying a realistic landing mechanism. Failure to meet these conditions results in a "loser:=100" state (crash/explosion).
+ - Combat System:Helicopter Projectiles: Helicopters can "Ampuminen" (shoot) projectiles (panoksia=10, panosnopeus=2). Projectiles disappear after a certain range (panoskantama=500) or upon hitting terrain/targets.
+ - Ground Turrets (tykkeja=8): The game features ground-based turrets that fire back at helicopters. Turrets have energy (ty[d].energy:=10) and track their targets.
+- Damage & Energy: Helicopters have energy:=20. Taking hits from enemy projectiles reduces energy, leading to a "loser" state when energy reaches zero. The game displays energy using colored bars.
+ - Map Generation:Procedural Map Generation: kartansuunnittelu procedure generates random maps with varying "korkeusvaihtelu" (height variation).
+ - Map Constants: Constants like kartankoko (map size, e.g., 50, 70, 90), ktark (terrain detail/scale), and vesi (water level) define the landscape.
+- Pre-defined Start/End Points: The map typically has a starting position for helicopters and water at the end (map[kartankoko]:=vesi).
+ - Graphics & Sound:Uses graph unit for graphics (lines, circles, bars, pixels, text output).
+ - Uses crt unit for basic console operations, including readkey for input and sound for sound effects (e.g., explosion sounds sound(random(100)), hit sounds sound(300)).
+ - Helicopter drawing involves complex coordinate calculations (helkkarinkoordinaatit procedures) to render its shape and propeller animation (h[d].pro).
+- An "explosion" (rajahdys) procedure is implemented with sound and visual effects.
+
 
 ~~~
 program alku;
@@ -2423,5 +2446,7 @@ C:\> PELAA
 
 
 # References
+
 - Thumbnail picture [Antique Software: Turbo Pascal v5.5](https://edn.embarcadero.com/article/20803)
 - [Turbo Pascal (With DOSBox)](https://sourceforge.net/projects/turbopascal-wdb/)
+- [https://talonendm.podbean.com/](https://talonendm.podbean.com/)

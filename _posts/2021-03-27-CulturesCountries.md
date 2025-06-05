@@ -55,6 +55,11 @@ You can get [basic information](https://restaurants-guide.tokyo/column/stay-safe
 - Pasmo card is useful and facilitates commuting or moving from place A to B.
 - Ginza line (e.g. between Kyobashi (G10) and Shibuya (G01)).
 
+## Clothes
+
+- Geta, [how to make it](https://www.instructables.com/Japanese-Geta-1/)
+  - [Geta](https://en.wikipedia.org/wiki/Geta_(footwear)) (下駄) are traditional Japanese footwear resembling flip-flops.
+  - Product mpckups, [prompt examples](https://www.godofprompt.ai/blog/prompts-for-product-mockups)
 
 ## Travelling to Japan
 
