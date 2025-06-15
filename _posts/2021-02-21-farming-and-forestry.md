@@ -173,6 +173,12 @@ jos saa diilin, 10 snt/kWh, paljon kustannukset laskevat? ks. [private ta.dm](ht
 - 4.6.2025: Chilit kasvihuoneeseen
 - 4.6.2025: rikkaruohojen seasta hevoskastanja isoon saviruukkuun
 - 5.6.2025: lehtipersiljaruukku kasvilaatikkoon
+- 8.6.2025: kasvilaatikoita
+  - 8.6.2025: 4 säkkiä tramppalaatikossa. Tilli, sitruunamelissa, keräsalaatti ja salaatti mix (Rusta)
+  - Summer Flowers, sulkapallokentän laitaan (1 vuotiset)
+  - Violettiherne ja sokeriherne (liuotus vanhoista). Itä herne, länsi violetti herne (Rusta)
+- 9.6.2025: Auringonkukkaa sulkapallo kentän laitaan. Unikkojen viereen Wohlsgardenista viime vuonna saatu käärmeenlaukka.
+- 
 
 # 2024
 
