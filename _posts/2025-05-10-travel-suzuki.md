@@ -13,7 +13,12 @@ published: true
 
 # Suzuki Gs 450
 
-- 98885.1
+- 98885.1 (5/2025)
+
+
+## Huolto
+
+- [Ketjujen huolto 101](https://customhoj.fi/blogs/mcblogg/motorcycle-chain-maintenance-101-a-guide-to-tensioning-your-chain)
 
 ## Insurance stuff
 
