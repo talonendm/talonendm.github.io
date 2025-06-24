@@ -64,6 +64,10 @@ Astuvansalmi tuo historian lähelle. Tuhansia vuosia vanhat kalliomaalaukset ker
 - stuff - take with you, [privata ta.dm](https://docs.google.com/spreadsheets/d/19BkGyPCeYUFju6qmrPmDd3s-zcD2MNX5jRguvoorb1c/edit?usp=sharing)
 - general summer plans, [private ta.dm](https://docs.google.com/document/d/1PyTRdfl51dnbZYe0ZIq83jFfvQ_F2qFU4TMWlZXUqI4/edit?usp=sharing)
 
+## Other Travelling links
+
+- "Nummelan perusmitta on tarkasti 864,12 metriä ja siksi arvostettu vientituote" [HS](https://www.hs.fi/tiede/art-2000011277662.html)
+
 ---
 
 [Disclaimer](https://talonendm.github.io/disclaimer)

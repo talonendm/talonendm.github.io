@@ -34,7 +34,7 @@ Muuta:
   - valmistele valukastike
 - Pellettigrilliin aamulla
 - "Kypsennä 110-120 asteessa ja tarkkaile lämpöä, porsaan kassler on revittävää kun sen sisälämpö saavuttaa 87-90 astetta." [poppamies](https://poppamies.fi/reseptit/pulled-pork/)
-
+- Nyhtöpossu, [K-ruoka](https://www.k-ruoka.fi/artikkelit/arki/mika-pulled-pork). "Possu kypsennetään hajoavan mureaksi." ja "Kypsennä, kunnes lihan sisälämpötilan nousee vähintään 93 asteeseen, mielellään yli."
 
 ### Porsaan ulkofilee 2.2kg
 
@@ -61,6 +61,10 @@ Muuta:
 # Weber hiiligrilli
 
 - [Weber coal](https://www.taloon.com/brikettigrilli-weber-master-touch-premium-e-5770-2019)
+
+# Food stuff
+
+- [Steak with coffee sauce Recipe | Food From Portugal](https://www.foodfromportugal.com/recipes/steak-coffee-sauce/)
 
 ---
 
