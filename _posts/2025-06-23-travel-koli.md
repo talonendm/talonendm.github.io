@@ -23,12 +23,16 @@ Kolin maisemat ovat jotain, mitä jokaisen suomalaisen tulisi nähdä ainakin ke
 
 - [Kiehisen kierros](https://www.luontoon.fi/en/trails/kiehisenkierros-trail-joensuu-193073-en), 19.4km
 - Jari ja Kari. [Yle areena](https://areena.yle.fi/1-3838878) - ei katsottavissa
+- jaa tämä sijainti O-O ikoni FB:n vieressä
+  - [Savijärven luontopolku](https://puskaparkit.fi/viewer/index.php?code=67f6448f99836&m=304): 63.100506, 29.672889
 
 # Helvetinportin polku, Sarvinki
 
 Helvetinportti kuulostaa nimenä pelottavalta, mutta paikan päällä vastassa on upea luonnonmuodostelma. Kapea kalliosola ja sitä ympäröivä tiheä metsä luovat mystisen tunnelman. Helppo ja hyvin merkitty polku sopii erinomaisesti päiväretkelle. Sarvinki tarjoaa myös rauhallisia paikkoja levähtää luonnon äärellä, joten asuntoautoilijalle tämä on erinomainen pysähdyspaikka.
 
 - [luontoon.fi - reitti](https://www.luontoon.fi/en/trails/helvetinportin-polku-joensuu-529724-en): 0.6km
+- Enossa puskaparkki
+  - [Louhiojan uimaranta](https://puskaparkit.fi/viewer/index.php?code=67f6448f99836&m=304). Suihkut ja kiska.
 
 # Astuvansalmen kalliomaalaukset
 
