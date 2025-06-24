@@ -16,6 +16,11 @@ published: true
 
 # Road trip
 
+Route plans:
+
+- [Grossglocknerin alppitie - Venetsia - Firenze](https://maps.app.goo.gl/DPfgp36dUnLj9rgXA)
+- [Grossglockner - Lugano - Liechtenstein](https://maps.app.goo.gl/9v2Pap8DWxy6BDZW9)
+
 Route Overview (Via Venice)
 Distance: ~840 km (~520 miles)
 
@@ -57,7 +62,6 @@ Grossglocknerilta Firenzeen
 Ajoaika: Grossglocknerilta Firenzeen matka kestää noin 6–7 tuntia (noin 530 km). Reitti kulkee Itävallan ja Italian Alppien läpi, ja kauniit maisemat seuraavat mukana lähes koko matkan. Vinkki: Matkan varrella voit pysähtyä esimerkiksi Bolzanossa tai Gardajärven rannalla taukoa varten.
 
 - [Großglockner](https://www.grossglockner.at/en) Hochalpenstraße eli *korkea alppitie*, [kartta](https://www.grossglockner.at/en/for-your-visit/grossglockner-map).
-- 
 - [tämämatka.fi](https://tamamatka.fi/grossglockner-high-alpine-road-2504m-itavallan-upea-mutkatie/)
 
 ## Slovenia

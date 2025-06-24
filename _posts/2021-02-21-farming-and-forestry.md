@@ -178,7 +178,11 @@ jos saa diilin, 10 snt/kWh, paljon kustannukset laskevat? ks. [private ta.dm](ht
   - Summer Flowers, sulkapallokentän laitaan (1 vuotiset)
   - Violettiherne ja sokeriherne (liuotus vanhoista). Itä herne, länsi violetti herne (Rusta)
 - 9.6.2025: Auringonkukkaa sulkapallo kentän laitaan. Unikkojen viereen Wohlsgardenista viime vuonna saatu käärmeenlaukka.
-- 
+- Laatikoissa. Rukola itää, basilika kituttaa. Tilli ja sitruunamelissa ei oikein lähtenyt. 
+- 20.6.2025: Minttua 1 kpl
+- 22.6.2025: Minttua kaksi rinnetien viereen revittynä.
+- 22.6.2025: Hevoskastanja: 1 kpl itä, 4 rinteeeseen, 5 länsipäätyyn. Siirto Eurasta.
+- 22.6.2025: muutama krassi pensasmarjan viereen rinnetien viereen.
 
 # 2024
 
