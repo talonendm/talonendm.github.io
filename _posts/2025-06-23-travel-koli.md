@@ -8,12 +8,14 @@ tags:
   - Suomi
 comments: false
 cover-img: /assets/pics/cover/e1024/e-queens-gambit.jpg
-thumbnail-img: /assets/pics/thumbnail/e640-direct/e-vaskitsa.jpg
+thumbnail-img: /assets/pics/thumbnail/e640-direct/2025/e-vaskitsa.jpg
 published: true
 ---
 
 Asuntoautoilu antaa mahdollisuuden pysähtyä spontaanisti kauniissa paikoissa. Reitin varrelle mahtui rauhallisia levikkeitä, joissa vietimme evästaukoja, pieniä kyliä persoonallisine kahviloineen sekä järvenrantapaikkoja, joissa sai ihailla auringonlaskua. Suomen kesä yllättää kerta toisensa jälkeen. Suomen luonto ja kulttuuri yhdistyvät näissä Itä-Suomen kohteissa täydellisesti. Asuntoautolla liikkuminen tarjoaa vapauden kokea kaikki omassa tahdissa, mikä tekee matkasta unohtumattoman. [Google Maps](https://maps.app.goo.gl/KVsactuH16rTEu68A) -reittihahmotelma.
 
+- Joensuu: [Luontopolut](https://www.joensuu.fi/luontopolut)
+- [Puskaparkit](https://puskaparkit.fi/)
 
 # Kolin kansallispuisto
 
@@ -43,6 +45,19 @@ Astuvansalmi tuo historian lähelle. Tuhansia vuosia vanhat kalliomaalaukset ker
 # Verla
 
 [Verlan](https://verla.fi/) tehdasmuseo on kuin aikamatka teollisuuden alkuajoille. UNESCO:n maailmanperintökohteena se kertoo vanhasta paperiteollisuudesta ja suomalaisen työn historiasta. Alueella on kauniita rakennuksia, museokauppa ja kahvila, joissa voi hengähtää ja nauttia miljööstä. Verla on loistava yhdistelmä kulttuuria ja historiaa.
+
+# Auto - Mercedes Hymer
+
+- Ovenavausnapit ei toimi. Avaimella luukut
+  - kuskinpuolella spessu
+- Sukopistokkeet. Adapteri autoon. Irroita pistoke sinisellä kytkimellä.
+- Puhtaanveden säiliö. 50%, kokonaistilavuus:
+  - Harmaaveden tyhjennys. Nappi takana Oikealla
+  - Omat luukut inputtiin:
+    - Sähkö
+    - vesi
+- Peruutuskamera, laita valot päälle niin toimii paremmin. Huom. ei automaattivaloja.
+
 
 # Links
 

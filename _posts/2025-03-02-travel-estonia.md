@@ -8,7 +8,7 @@ tags:
   - travelling
 comments: false
 cover-img: /assets/pics/cover/e1024/e-IMG20240905194158.jpg
-thumbnail-img: /assets/pics/thumbnail/e640-direct/e-tartu2.jpg
+thumbnail-img: /assets/pics/thumbnail/e640-direct/2025/e-tartu2.jpg
 published: true
 ---
 

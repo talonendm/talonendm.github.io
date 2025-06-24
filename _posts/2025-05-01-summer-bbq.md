@@ -16,6 +16,25 @@ published: true
 
 ## Cooking 
 
+### Porsaan Kassler 2.3kg ja 2.5kg
+
+Kaslerista tehdessäsi pulled porkia, tavoitelämpötila lihan sisällä on yleensä 90–96 °C. Tämä lämpötila takaa, että liha on riittävän pehmeää ja helposti revittävissä. Käytä paistomittaria, joka hälyttää, kun sisälämpötila saavuttaa noin 85 °C. Tämä on hyvä välietappi ennen siirtämistä Trageriin.
+
+Tragerin puupelleteillä viimeistely:
+- Siirrä liha Trageriin, kun sisälämpötila on noin 85 °C.
+- Jatka savustamista, kunnes sisälämpötila on 90–96 °C.
+- Tämä tuo lihan pinnalle savun makua ja viimeistelee kypsymisen.
+- Muista antaa lihan levätä foliossa tai lämpölaatikossa noin 30–60 minuuttia ennen repimistä, jotta mehukkuus säilyy.
+
+Muuta:
+
+- 97C target
+- kuivaus, mausteet pintaan ja takaisin jääkaappiin, ks. [Yhteishyvä](https://yhteishyva.fi/reseptit/kasslerpaisti/recipe-2020)
+- uunissa yön yli
+  - valmistele valukastike
+- Pellettigrilliin aamulla
+- "Kypsennä 110-120 asteessa ja tarkkaile lämpöä, porsaan kassler on revittävää kun sen sisälämpö saavuttaa 87-90 astetta." [poppamies](https://poppamies.fi/reseptit/pulled-pork/)
+
 
 ### Porsaan ulkofilee 2.2kg
 
