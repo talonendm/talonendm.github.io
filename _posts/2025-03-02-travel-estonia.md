@@ -41,7 +41,7 @@ Embarking on a family journey from Helsinki to Tartu offers a delightful blend o
 
 ###  Heygen test
 
-- g: ta.dm | [Heygen AI](https://app.heygen.com/)
+- g: ta.dm - [Heygen AI](https://app.heygen.com/)
   - [How to Animate Photos with HeyGen: Basics Explained](https://youtu.be/Els1NIcP0E8?si=_frA-FsMHJbI5mYw)
 - [OmniControlArt](https://huggingface.co/spaces/Yuanshi/OminiControl_Art): Image filters
 - [Morning video](https://youtube.com/shorts/Yk9vBHcY_pI)
