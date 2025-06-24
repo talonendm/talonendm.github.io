@@ -16,6 +16,13 @@ tags:
 - vero.fi (omavero)
 - [https://talonendm.github.io/lasergriddesign/](https://talonendm.github.io/lasergriddesign/)
 
+## Kirjastot
+
+- [Helmet laitteet](https://helmet.finna.fi/Content/tilat-ja-laitteet)
+  - [varaamo Espoo](https://varaamo.espoo.fi/search?&municipality=espoo&search=iso+omena)
+- Oodi: 
+  - [Laserleikkuri omatoimiaika](https://varaamo.hel.fi/reservation-unit/634)
+
 # 2024
 
 - [re:teatteri map](https://safka.shinyapps.io/restaurants/)

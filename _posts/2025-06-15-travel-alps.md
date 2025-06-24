@@ -43,6 +43,23 @@ Notes: Venice and Florence have ZTL (limited traffic zones). Plan parking outsid
 
 ![i.01](/assets/pics/page/route/europe2025.jpg){: .mx-auto.d-block :}
 
+## Grossglockner High Alpine Road
+
+Grossglockner High Alpine Road (Großglockner Hochalpenstraße) on yksi Euroopan kauneimmista maisemateistä, joka vie sinut suoraan Itävallan korkeimpien huippujen ja henkeäsalpaavien maisemien äärelle. Tämä noin 48 kilometriä pitkä vuoristotie yhdistää Fuschin kylän Salzburgin osavaltiossa Heiligenblutin kylään Kärntenin osavaltiossa. Tie kulkee Grossglocknerin, Itävallan korkeimman vuoren (3798 m), ohi ja tarjoaa lukuisia näköalapaikkoja, retkeilyreittejä ja museoita matkasi varrella.
+
+Kauan kannattaa varata aikaa?
+Grossglockner High Alpine Road on paljon muutakin kuin pelkkä tie – se on kokemus. Ajomatkaan kannattaa varata vähintään 4–6 tuntia, jotta ehdit nauttia maisemista, pysähtyä näköalapaikoilla ja tutustua alueen nähtävyyksiin, kuten Edelweißspitze-huippuun ja Franz-Josefs-Höhestä avautuviin maisemiin, ks. [Google Maps](https://www.google.com/maps/place/Grossglocknerin+alppitie/@47.1429299,11.9209921,9.17z)
+
+Münchenistä Grossglocknerille: Ajoaika: Münchenistä Grossglockner High Alpine Roadin pohjoiselle sisäänkäynnille Fuschissa kestää noin 3–4 tuntia (noin 240 km). Paras reitti kulkee Salzburgin kautta ja jatkuu A10-moottoritietä kohti Fuschia.
+
+Grossglocknerilta Firenzeen
+
+Ajoaika: Grossglocknerilta Firenzeen matka kestää noin 6–7 tuntia (noin 530 km). Reitti kulkee Itävallan ja Italian Alppien läpi, ja kauniit maisemat seuraavat mukana lähes koko matkan. Vinkki: Matkan varrella voit pysähtyä esimerkiksi Bolzanossa tai Gardajärven rannalla taukoa varten.
+
+- [Großglockner](https://www.grossglockner.at/en) Hochalpenstraße eli *korkea alppitie*, [kartta](https://www.grossglockner.at/en/for-your-visit/grossglockner-map).
+- 
+- [tämämatka.fi](https://tamamatka.fi/grossglockner-high-alpine-road-2504m-itavallan-upea-mutkatie/)
+
 ## Slovenia
 
 - Vintgarin rotko
@@ -74,6 +91,14 @@ Notes: Venice and Florence have ZTL (limited traffic zones). Plan parking outsid
 ## Sveitsi
 
 - Lindau
+
+
+# Autonvuokraus
+
+- Axa ja tarinoita: [appamatkustaa.fi](https://appamatkustaa.fi/autonvuokrauksen-ihmeellinen-maailma/)
+- onnistu autonvuokrauksessa [tamamatka.fi](https://tamamatka.fi/autonvuokraus-5-vinkkia-onnistumiseen/)
+- Finnairin ja AXA:n välillä ei ole suoraa kumppanuutta autonvuokrauksessa. Voit kuitenkin kerätä Finnair Plus -pisteitä
+  - kokemuksia: [suomi24.fi](https://keskustelu.suomi24.fi/t/9958618/autonvuokraus)
 
 # Links
 
