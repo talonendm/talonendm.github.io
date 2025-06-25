@@ -9,6 +9,7 @@ tags:
   - JS
   - 2012
   - processing.js
+  - notebooklm
 comments: true
 cover-img: /assets/pics/cover/screenshot/helicopter.JPG
 thumbnail-img: /assets/pics/thumbnail/screenshot/helicopter.JPG
@@ -19,6 +20,18 @@ published: true
 Play game in full screen here: [Helicopter Game](http://talonendm.github.io/helicopter/helikopteripeli2) and without instructions panel here: [Helicopter Game 1](https://talonendm.github.io/helicopter/helikopteripeli).
 Note: Press START NEW GAME in the bottom of canvas to activate keyboard.
 
+## Note
+
+a two-player combat game titled "Helicopter 2012." It primarily consists of Processing language code, defining game mechanics, graphics rendering, and user interactions. The code establishes global variables for game elements like helicopter size, environmental factors (gravity, air resistance, clouds, sun), and player-specific attributes such as energy and ammunition. It details setup and draw functions to initialize the game canvas and continuously update the game state, along with a HLine class that manages individual helicopter properties and actions, including movement, firing, and collision detection. The source also specifies keyboard controls for each player and mouse interactions for game functions, indicating a combat simulation where players control helicopters to engage each other.
+
+### how
+
+- copy code
+- analyze, create mindmap
+- notebook lm (ja.ta), download: D / notebooklm wav
+  - open with convert to mp3 with VLC player (250625)
+    - Convert CTRL + R -> Helicopter 2012_ A Two-Player Combat Game.mp3
+    - upload to [podbean ta.dm](https://talonendm.podbean.com/e/helicopter-2012/)
 
 ## Coding memories
 The helicopter game is based on original Turbo Pascal Helicopter game. 

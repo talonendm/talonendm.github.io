@@ -61,10 +61,19 @@ Muuta:
 # Weber hiiligrilli
 
 - [Weber coal](https://www.taloon.com/brikettigrilli-weber-master-touch-premium-e-5770-2019)
+- Käyttö:
+  1. Tarkista pelletit ja lisää tarvittaessa
+  2. Käännä SMOKE
+  3. odota muutama minuutti, kunnes tulee savua. Tarkista että homma toimii.
+  4. SHUT DOWN CYCLE ja anna jäähtyä
+  5. Laita pellit ym. paikoilleen
+  6. tai aloita tästä: Kansi auki, SMOKE ja venaa 2 minuuttia
+  7. jos lihat esim. esikypsytetty uunissa, iske tässä vaiheessa jo grilliin ja lämpömittarit köntteihin.
+  8. aseta haluttu lämpötila 
 
 # Food stuff
 
-- [Steak with coffee sauce Recipe | Food From Portugal](https://www.foodfromportugal.com/recipes/steak-coffee-sauce/)
+- [Steak with coffee sauce Recipe - Food From Portugal](https://www.foodfromportugal.com/recipes/steak-coffee-sauce/)
 
 ---
 

@@ -46,6 +46,7 @@ git push git@github-talonendm:talonendm/talonendm.github.io.git
 
 - [NotebookLM](https://notebooklm.google.com/)
   - ja.ta, ta.ja, vaaka, ta.dm: note change language if needed from app (ENG / FIN).
+  - ja.ta: 250625, helikopteripeli2.pde ja info.pde. [results and info howto](https://talonendm.github.io/2020-11-29-helicopter/)
   - [VLC player](https://www.videolan.org/): wav to mp3 (or [ffmpeg](https://ffmpeg.org/download.html#build-windows))
     - [podbean](https://talonendm.podbean.com/)
 - [AIstudio](https://aistudio.google.com/):

@@ -17,6 +17,25 @@ Asuntoautoilu antaa mahdollisuuden pysähtyä spontaanisti kauniissa paikoissa. 
 - Joensuu: [Luontopolut](https://www.joensuu.fi/luontopolut)
 - [Puskaparkit](https://puskaparkit.fi/)
 
+
+# Testireissu
+
+- Iso-melkutin: puhdas vesi ja kalastusmahdollisuus [P](https://puskaparkit.fi/viewer/index.php?code=67f6448f99836&m=304) 
+  - Purinlahti, [EP](https://puskaparkit.fi/viewer/index.php?code=67f6448f99836&m=304)
+
+# Imatra
+
+- Matkalla:
+  - [Mäyrämäen rotko](https://uolevik.kuvat.fi/blog/244/mayramaen-rotko-orimattila/), [paljon parkkia](https://puskaparkit.fi/viewer/index.php?code=67f6448f99836&m=304)
+  - Koivuviikin virkistysalue [Parkkia 2](https://puskaparkit.fi/viewer/index.php?code=67f6448f99836&m=304) 
+    - Tommijärvi, [kalastus](https://www.kalapaikka.net/tammijarvi_jarvi_kalastus_luvat_kalaistutukset_ravustus_vesilinnun_metsastys_vedenlaatu_lomamokit_pyhtaa___69007.asp) ok. Loviisan ja Inkeroisen välissä.
+      - uusi grillikota ja puita 2025
+  - Imatralla
+    - Valkamanranta, [enemmän parkkia](https://puskaparkit.fi/viewer/index.php?code=67f6448f99836&m=304)
+    - Neitsytniemen kartano, [enemmän parkkia](https://puskaparkit.fi/viewer/index.php?code=67f6448f99836&m=304)
+    - Immalan uimaranta, [enemmän parkkia](https://puskaparkit.fi/viewer/index.php?code=67f6448f99836&m=304)
+    - Lahteinen, [luonnon parkki](https://puskaparkit.fi/viewer/index.php?code=67f6448f99836&m=304)
+
 # Kolin kansallispuisto
 
 Kolin maisemat ovat jotain, mitä jokaisen suomalaisen tulisi nähdä ainakin kerran elämässään. Ikoninen näkymä Ukko-Kolilta Pieliselle huokuu rauhaa ja ajattomuutta. Kansallispuiston vaellusreitit tarjoavat vaihtoehtoja niin kokeneille patikoijille kuin rentoa luontopäivää kaipaaville. Kolin luonto on kuin postikortti, jossa yhdistyvät jylhät kalliot, satumaiset metsät ja kirkkaat vesistöt. Asuntoautolla liikkuminen on helppoa, sillä alueella on hyviä pysäköinti- ja majoituspaikkoja matkailijoille.
