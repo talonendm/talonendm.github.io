@@ -12,11 +12,11 @@ thumbnail-img: /assets/pics/thumbnail/e640-direct/2025/e-vaskitsa.jpg
 published: true
 ---
 
-Asuntoautoilu antaa mahdollisuuden pysähtyä spontaanisti kauniissa paikoissa. Reitin varrelle mahtui rauhallisia levikkeitä, joissa vietimme evästaukoja, pieniä kyliä persoonallisine kahviloineen sekä järvenrantapaikkoja, joissa sai ihailla auringonlaskua. Suomen kesä yllättää kerta toisensa jälkeen. Suomen luonto ja kulttuuri yhdistyvät näissä Itä-Suomen kohteissa täydellisesti. Asuntoautolla liikkuminen tarjoaa vapauden kokea kaikki omassa tahdissa, mikä tekee matkasta unohtumattoman. [Google Maps](https://maps.app.goo.gl/KVsactuH16rTEu68A) -reittihahmotelma.
+Asuntoautoilulla voi pysähtyä spontaanisti kauniisiin paikkoihin. Reitin varrelta voi löytää rauhallisia levähdyspaikkoja eväiden nauttimista varten, viehättäviä pieniä kyliä persoonallisine kahviloineen sekä järvenrantapaikkoja, joissa voi ihastella auringonlaskuja. Suomen kesä onnistuu yllättämään kerta toisensa jälkeen. Itä-Suomen kohteissa luonnon ja kulttuurin voi antaa sulautua täydellisesti yhteen. Asuntoautolla matkustamalla voi kokea vapauden edetä omassa tahdissa ja tehdä matkasta unohtumattoman. 
 
+- [Google Maps](https://maps.app.goo.gl/KVsactuH16rTEu68A) -reittihahmotelma.
 - Joensuu: [Luontopolut](https://www.joensuu.fi/luontopolut)
 - [Puskaparkit](https://puskaparkit.fi/)
-
 
 # Testireissu
 

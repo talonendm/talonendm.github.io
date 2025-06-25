@@ -36,6 +36,15 @@ Muuta:
 - "Kypsennä 110-120 asteessa ja tarkkaile lämpöä, porsaan kassler on revittävää kun sen sisälämpö saavuttaa 87-90 astetta." [poppamies](https://poppamies.fi/reseptit/pulled-pork/)
 - Nyhtöpossu, [K-ruoka](https://www.k-ruoka.fi/artikkelit/arki/mika-pulled-pork). "Possu kypsennetään hajoavan mureaksi." ja "Kypsennä, kunnes lihan sisälämpötilan nousee vähintään 93 asteeseen, mielellään yli."
 
+Story:
+
+- noin klo20, 125C. Valkoiseen ja mustaan vuokaan. Mustavuoka pellille alataso, valkoinen keskitasolle ritilälle. Olisivat mahtuneet yhteen, mutta nestettä lähtee irti ja kääntäminen yöllä onnistui helpommin. 
+- Grilliin noin klo0630. 85 ja 87 astetta
+- lihanesteen siivilöinti, maizenaa randomilla. Lämpimään liemeen. Kiehautus ja vatkaaminen teki ihmeitä. Ruskea kastike.
+  - Ks. Valelukastike [Ylikypsä possun kassler](https://www.maajakotitalousnaiset.fi/reseptit/ylikypsa-possun-kassler) ja kohta kastike.
+- klo830 päälle soossia. 91 ja 95 astetta. Grilli 107C.
+
+
 ### Porsaan ulkofilee 2.2kg
 
 - 67C [Kruoka](https://www.k-ruoka.fi/artikkelit/grillaus/nain-grillaat-porsaanlihaa)

@@ -61,6 +61,14 @@ git push git@github-talonendm:talonendm/talonendm.github.io.git
 - https://infography.in/ not free
 - [Study modules MOOC](https://www.mooc.fi/en/study-modules/#pilvipohjaiset-websovellukset)
 
+# Asuntohakuja
+
+- Myydään: [Tapiola Oikotie 1-2h](https://asunnot.oikotie.fi/myytavat-asunnot?pagination=1&locations=%5B%5B14823,5,%2202120,%20Espoo%22%5D%5D&cardType=100&roomCount%5B%5D=1&roomCount%5B%5D=2&size%5Bmax%5D=40)
+- Vuokrataan: [Tapiola](https://asunnot.oikotie.fi/vuokra-asunnot?pagination=1&locations=%5B%5B14823,5,%2202120,%20Espoo%22%5D%5D&cardType=101&roomCount%5B%5D=1&roomCount%5B%5D=2&buildingType%5B%5D=1&buildingType%5B%5D=256&size%5Bmax%5D=46&size%5Bmin%5D=24)
+  - 670-740e, 250625
+- [Vuokraa](https://asunnot.oikotie.fi/vuokraa)
+- ta.dm, [drive private](https://drive.google.com/drive/folders/1bekRWmGltNWUqyNNaU4VTM438ZqIdT5O?usp=drive_link)
+
 # Oikeus
 
 - [Vastaamo-uhri saamastaan korvauksesta](https://www.hs.fi/suomi/art-2000010986743.html)
