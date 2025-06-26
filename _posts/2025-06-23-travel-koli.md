@@ -12,16 +12,21 @@ thumbnail-img: /assets/pics/thumbnail/e640-direct/2025/e-vaskitsa.jpg
 published: true
 ---
 
-Asuntoautoilulla voi pysähtyä spontaanisti kauniisiin paikkoihin. Reitin varrelta voi löytää rauhallisia levähdyspaikkoja eväiden nauttimista varten, viehättäviä pieniä kyliä persoonallisine kahviloineen sekä järvenrantapaikkoja, joissa voi ihastella auringonlaskuja. Suomen kesä onnistuu yllättämään kerta toisensa jälkeen. Itä-Suomen kohteissa luonnon ja kulttuurin voi antaa sulautua täydellisesti yhteen. Asuntoautolla matkustamalla voi kokea vapauden edetä omassa tahdissa ja tehdä matkasta unohtumattoman. 
+Asuntoautoilulla voi pysähtyä spontaanisti kauniisiin paikkoihin. Reitin varrelta voi löytää rauhallisia levähdyspaikkoja eväiden nauttimista varten, viehättäviä pieniä kyliä persoonallisine kahviloineen sekä järvenrantapaikkoja, joissa voi ihastella auringonlaskuja. Suomen kesä onnistuu yllättämään kerta toisensa jälkeen. Itä-Suom en kohteissa luonnon ja kulttuurin voi antaa sulautua täydellisesti yhteen. Asuntoautolla matkustamalla voi kokea vapauden edetä omassa tahdissa ja tehdä matkasta unohtumattoman. 
+
+
+# Matka
 
 - [Google Maps](https://maps.app.goo.gl/KVsactuH16rTEu68A) -reittihahmotelma.
 - Joensuu: [Luontopolut](https://www.joensuu.fi/luontopolut)
 - [Puskaparkit](https://puskaparkit.fi/)
 
-# Testireissu
+## Testireissu
 
 - Iso-melkutin: puhdas vesi ja kalastusmahdollisuus [P](https://puskaparkit.fi/viewer/index.php?code=67f6448f99836&m=304) 
   - Purinlahti, [EP](https://puskaparkit.fi/viewer/index.php?code=67f6448f99836&m=304)
+
+
 
 # Imatra
 
@@ -69,8 +74,10 @@ Astuvansalmi tuo historian lähelle. Tuhansia vuosia vanhat kalliomaalaukset ker
 
 [Verlan](https://verla.fi/) tehdasmuseo on kuin aikamatka teollisuuden alkuajoille. UNESCO:n maailmanperintökohteena se kertoo vanhasta paperiteollisuudesta ja suomalaisen työn historiasta. Alueella on kauniita rakennuksia, museokauppa ja kahvila, joissa voi hengähtää ja nauttia miljööstä. Verla on loistava yhdistelmä kulttuuria ja historiaa.
 
-# Auto - Mercedes Hymer
+# Auto - Mercedes Hymermobil star light
 
+- [konepörssi](https://koneporssi.com/autot/esittelyssa-uusi-mercedes-benz-hymer-b-585-starline/)
+- [camprest](https://camprest.com/en/blog/motorhome-caravan-news/hymer-starlight-1) -arvostelu
 - Ovenavausnapit ei toimi. Avaimella luukut
   - kuskinpuolella spessu
 - Sukopistokkeet. Adapteri autoon. Irroita pistoke sinisellä kytkimellä.
@@ -81,6 +88,15 @@ Astuvansalmi tuo historian lähelle. Tuhansia vuosia vanhat kalliomaalaukset ker
     - vesi
 - Peruutuskamera, laita valot päälle niin toimii paremmin. Huom. ei automaattivaloja.
 
+## Lataus
+
+- [sähköautojen latauskarta](https://latauskartta.fi/)
+  - adapteri voisi olla jees: [Type 2 to Suko pistorasia Adapteri](https://evasema.fi/tuote/schuko-type-2-adapteri/?srsltid=AfmBOorPMJTgcFbVxiDPPvVHFMo8cqo2iR5mZ5af6258sn8Kcd3tMk-p)
+  - vikavirtasuoja kans ok
+
+## Sää
+
+- supersää, [sadetutka](https://www.is.fi/supersaa/sadetutka/)
 
 # Links
 

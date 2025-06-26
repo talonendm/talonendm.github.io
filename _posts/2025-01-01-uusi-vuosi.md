@@ -68,6 +68,10 @@ git push git@github-talonendm:talonendm/talonendm.github.io.git
   - 670-740e, 250625
 - [Vuokraa](https://asunnot.oikotie.fi/vuokraa)
 - ta.dm, [drive private](https://drive.google.com/drive/folders/1bekRWmGltNWUqyNNaU4VTM438ZqIdT5O?usp=drive_link)
+- vero: [vuokratulojen verotus](https://www.vero.fi/syventavat-vero-ohjeet/ohje-hakusivu/49336/vuokratulojen-verotus7/)
+  - "Vuokraustoimintaan liittyvistä matkoista aiheutuneet menot ovat vähennyskelpoisia menoja vuokratuloista." ja "Vähennyksen perusteena ovat matkoista aiheutuneet todelliset kustannukset. Verohallinnon vuosittain antamassa yhtenäistämisohjeessa on kerrottu, miten matkustamiskulujen määrä arvioidaan, jos vähennykseen oikeuttavien ajojen määrä on selvitetty, mutta kustannusten todellista määrää ei ole pystytty selvittämään."
+  - "Hankintamenon voi kuitenkin vähentää vuosimenona, jos kalusteen tai kodinkoneen hankintameno on enintään  1 200 euroa. Esimerkiksi enintään  1 200 euroa maksavan hellan tai jääkaapin vaihtamisesta aiheutuneet menot voi siten vähentää vuosikorjauskuluna."
+  - "Kaavamainen vähennys on  40 euroa kuukaudessa, kun vuokrauksen kohteena on kalustettu yksiö tai huone. Jos vuokrauksen kohteena on kalustettu kaksio tai suurempi asunto, vähennyksen määrä on  60 euroa kuukaudessa."
 
 # Oikeus
 

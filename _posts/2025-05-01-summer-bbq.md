@@ -44,6 +44,10 @@ Story:
   - Ks. Valelukastike [Ylikypsä possun kassler](https://www.maajakotitalousnaiset.fi/reseptit/ylikypsa-possun-kassler) ja kohta kastike.
 - klo830 päälle soossia. 91 ja 95 astetta. Grilli 107C.
 
+Pakastin
+
+- 250625 Kassler kastike: 3kpl Maizena, kiehautus
+- 4 kpl pulled pork + iso lautasella folion alla
 
 ### Porsaan ulkofilee 2.2kg
 
@@ -83,6 +87,13 @@ Story:
 # Food stuff
 
 - [Steak with coffee sauce Recipe - Food From Portugal](https://www.foodfromportugal.com/recipes/steak-coffee-sauce/)
+- Retikkasalaatti
+  - Aasialaisvivahteinen kastike sekoitetaan mirinistä, limetistä, riisiviinietikasta sekä paahdetusta seesamiöljystä. 
+  - [kurkkuretikkasalaatti](https://kotiliesi.fi/resepti/retikka-kurkkusalaatti/)
+- Juuren hoito
+  - Diiva vehnäpohjaisen [juuren hoito](https://shop.leipapaja.com/fi/pages/diiva-vehnajuuren-hoito): "Juuren ruokkiminen ennen leipomista: Ota emojuuri jääkaapista leipomista edeltävänä iltana ja ota osa emojuuresta puhtaaseen purkkiin. Ruoki vehnäjuurta suhteessa 1: 2 : 2, eli esim. 50 g emojuurta + 100 g vettä + 100 g jauhoja. Saat 250 grammaa leivontavalmista juurta."
+    - ks. ohjeet pataleivän tekemiseen
+  - [Yhteishyvä - resepti](https://yhteishyva.fi/ruoka-ja-reseptit/nain-leivot-trendikasta-vaaleaa-juurileipaa-tarvit/2JGiSJvGN57ZvY2ev3z0vb)
 
 ---
 

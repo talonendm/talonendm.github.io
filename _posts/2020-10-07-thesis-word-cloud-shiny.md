@@ -61,9 +61,9 @@ The experiments primarily used high-frequency process data recorded from the Olk
 
 Challenges include dealing with noise in raw data, the risk of losing relevant information with excessive smoothing, and ensuring that statistically significant variables truly relate to a fault. Problems in data mining and modeling also arise if preprocessing parameters are not optimal. Future developments include refining the leakage index for clearer user representation, improving data mining of all available data sets by storing more comprehensive information like delays between variables, and exploring other modeling techniques such as Self-Organizing Maps (SOM) or Kalman filters.
 
-# Thesis articles
+# Thesis - articles
 
-(talon\OneDrive\TiedostotMore\thesis - articles)
+All articles available locally: (talon\OneDrive\TiedostotMore\thesis - articles)
 
 ## Leakage Detection by Adaptive Process Modeling (2008)
 
@@ -96,12 +96,46 @@ This paper introduces a novel approach for abnormal process state detection in n
 
 > Simplicity for Operators: The "unsteadiness" index simplifies monitoring; "a notification system using the unsteadiness index works without operator monitoring."
 
-- LATER: [Podbean jaakko.talonen]()
+- [Podbean jaakko.talonen](https://jaakkotalonen.podbean.com/e/abnormal-process-state-detection-by-cluster-center-point-monitoring-in-bwr-nuclear-power-plant-2009/)
 
-## Generated Control Limits as a Basis of Operator-Friendly Process Monitoring (2009)
+## Publication III: Generated Control Limits as a Basis of Operator-Friendly Process Monitoring (2009)
 
+This academic paper from the IEEE International Workshop on Intelligent Data Acquisition and Advanced Computing Systems introduces a novel method for process monitoring and fault detection in complex industrial environments, specifically nuclear power plants. Authors Jaakko Talonen and Miki Sirola propose using data-generated control limits and a new feature called "alarm balance" to address the problem of excessive alarms that often overwhelm operators. Their research, utilizing real and simulator data from the Olkiluoto nuclear power reactors in Finland, aims to provide operator-friendly visualizations that simplify the identification of abnormal process states, thereby improving safety and reducing downtime. The core of their method involves dynamically adjusting alarm thresholds based on historical signal deviations and statistical properties, rather than relying on static, pre-set limits.
 
+### What are the main advantages and limitations of this new method?
 
+- Early and Accurate Fault Detection: The method can detect faults or their pre-stages, improving safety and reducing downtime.
+- Operator-Friendly: It addresses the problem of alarm overload by reducing the perceived dimensionality of monitored signals through aggregated features like alarm balance.
+- Data-Driven and Applicable to Large Systems: Unlike knowledge-based methods, it is easily applicable to large-scale, complex systems as it is based on readily available process data.
+- Robust and Simple Implementation: The model is robust to different parameter values and can be implemented relatively easily by tuning a few parameters, contrasting with the one-by-one adjustment needed in conventional alarm systems.
+- Computational Efficiency: The method is computationally light, allowing for frequent data analysis.
+Improved Fault Diagnosis: Visualizations like alarm balance by unit and localized time stamps aid in determining the type and location of faults.
+
+- [Podbean jaakko.talonen](https://www.podbean.com/eas/pb-u3shg-18ea9bd)
+
+## Publication IV: Modelling Power Output at Nuclear Power Plant by Neural Networks (2010)
+
+This article proposes two distinct neural network (NN) methodologies for industrial process signal forecasting, specifically focusing on predicting power output at a boiling water reactor (BWR) type nuclear power plant in Olkiluoto, Finland. The research utilizes real data from the plant and explores methods for input signal selection, emphasizing the importance of cross-correlation analysis to detect delays between signals. The paper compares the performance of Feed-Forward (FF) and Elman Neural Network (ENN) architectures, finding that ENN generally yields better prediction results for one-step ahead idle power forecasting. Model evaluation is conducted using criteria like Normalized Mean Square Error (NMSE) and Median Absolute Error (MAE), with the authors noting the need for further research on nonstationary processes before real-world implementation.
+
+> "Convert to podcast introduction, max 500 characters"
+
+> "Welcome to 'Nuclear Insights,' where we explore cutting-edge advancements in nuclear technology. In today’s episode, we dive into neural network innovations for industrial forecasting. Using real data from a boiling water reactor in Olkiluoto, Finland, we compare Feed-Forward and Elman Neural Networks for power output prediction. With techniques like cross-correlation analysis and metrics such as NMSE, discover why ENN stands out and the challenges of tackling nonstationary processes. Stay tuned!"
+
+- [Podbean jaakko.talonen](https://www.podbean.com/ew/pb-tcn6u-18eaa04)
+
+## Publication V: Analyzing Parliamentary Elections Based on Voting Advice Application Data (2011)
+
+ This article describes a methodology for modeling the values of Finnish citizens and Members of Parliament (MP) by combining voting advice application (VAA) data with the results of the 2011 parliamentary elections. The authors preprocess the qualitative VAA data into a high-dimensional matrix, which is then reduced to two principal components using Principal Component Analysis (PCA) for visualization. They employ kernel density estimation to create "value grids" representing the distribution of opinions for candidates, parties, and the electorate, even approximating missing data based on party affiliations. The paper visualizes these value distributions, indicating left/right economic views and liberal/conservative social stances as the primary axes, offering insights into voter behavior, party positions, and potential government coalition formations.
+
+### How was the data collected and preprocessed for analysis?
+
+The data originated from two main sources: a VAA published by Helsingin Sanomat (HS), Finland's largest newspaper, and the official results of the 2011 parliamentary elections. Candidates answered 31 questions across various topics (e.g., economy, taxes, defense). This qualitative VAA data was then converted into a high-dimensional quantitative matrix, where each answer option became a variable. Candidate-assigned importance levels for questions were also incorporated into a weight matrix. For analysis, candidates who provided more than 20 answers were included, and the data matrix was mean-centered.
+
+### What are the broader implications and future possibilities of this research?
+
+This study opened up numerous possibilities for political data mining. The methodology could be used to analyze how well citizens' values align with their MPs' values, explore the impact of different electoral systems, and examine value distribution differences between demographic groups (e.g., young vs. old candidates). Furthermore, by incorporating areal information (electoral districts, cities, or even polling stations), the research could visualize citizens' values on maps and correlate them with other socio-economic indicators like housing prices or unemployment rates. The authors emphasize that this is a dynamic field of research with ongoing data production that can lead to more complex future analyses.
+
+- LATER [Podbean jaakko.talonen]()
 
 # Thesis 2015
 
