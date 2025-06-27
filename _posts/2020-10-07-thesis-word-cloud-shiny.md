@@ -125,7 +125,7 @@ This article proposes two distinct neural network (NN) methodologies for industr
 
 ## Publication V: Analyzing Parliamentary Elections Based on Voting Advice Application Data (2011)
 
- This article describes a methodology for modeling the values of Finnish citizens and Members of Parliament (MP) by combining voting advice application (VAA) data with the results of the 2011 parliamentary elections. The authors preprocess the qualitative VAA data into a high-dimensional matrix, which is then reduced to two principal components using Principal Component Analysis (PCA) for visualization. They employ kernel density estimation to create "value grids" representing the distribution of opinions for candidates, parties, and the electorate, even approximating missing data based on party affiliations. The paper visualizes these value distributions, indicating left/right economic views and liberal/conservative social stances as the primary axes, offering insights into voter behavior, party positions, and potential government coalition formations.
+Article written by Jaakko Talonen and Mika Sulkava describes a methodology for modeling the values of Finnish citizens and Members of Parliament (MP) by combining voting advice application (VAA) data with the results of the 2011 parliamentary elections. The authors preprocess the qualitative VAA data into a high-dimensional matrix, which is then reduced to two principal components using Principal Component Analysis (PCA) for visualization. They employ kernel density estimation to create "value grids" representing the distribution of opinions for candidates, parties, and the electorate, even approximating missing data based on party affiliations. The paper visualizes these value distributions, indicating left/right economic views and liberal/conservative social stances as the primary axes, offering insights into voter behavior, party positions, and potential government coalition formations.
 
 ### How was the data collected and preprocessed for analysis?
 
@@ -135,7 +135,26 @@ The data originated from two main sources: a VAA published by Helsingin Sanomat 
 
 This study opened up numerous possibilities for political data mining. The methodology could be used to analyze how well citizens' values align with their MPs' values, explore the impact of different electoral systems, and examine value distribution differences between demographic groups (e.g., young vs. old candidates). Furthermore, by incorporating areal information (electoral districts, cities, or even polling stations), the research could visualize citizens' values on maps and correlate them with other socio-economic indicators like housing prices or unemployment rates. The authors emphasize that this is a dynamic field of research with ongoing data production that can lead to more complex future analyses.
 
-- LATER [Podbean jaakko.talonen]()
+- [Podbean jaakko.talonen](https://www.podbean.com/eas/pb-k3ccn-18ec8cc)
+
+## Publication VI: Network Visualization of Car Inspection Data using Graph Layout (2012)
+
+This academic paper, authored by Jaakko Talonen, Miki Sirola, and Mika Sulkava, introduces a network visualization method for car inspection data, specifically focusing on rejection reasons. The researchers utilized data from A-Katsastus, a major vehicle inspection provider in Northern Europe, to aggregate extensive statistical tables into a single visual network. They compare this novel network visualization, implemented using the Gephi platform and ForceAtlas2 algorithm, with a Principal Component Analysis (PCA) approach previously explored. The core objective is to enhance the analysis of dependencies between various rejection reasons and car models, ultimately providing a more efficient and readable way to interpret complex vehicle inspection statistics than traditional tables.
+
+### What is the primary goal of the research presented in "Network Visualization of Car Inspection Data using Graph Layout"?
+
+The primary goal is to aggregate and visualize extensive car inspection data, specifically rejection statistics, into a single network visualization. This aims to overcome the limitations of traditional table-based reporting, which typically involves dozens of separate tables based on year, make, or model. By visualizing this information as a network, the researchers intend to make it easier for users to study dependencies between different rejection reasons and car models, and to draw their own conclusions.
+
+- [Podbean jaakko.talonen](https://www.podbean.com/ew/pb-wv57d-18eca4e)
+
+## Publication VII: The Finnish Car Rejection Reasons Shown in an Interactive SOM Visualization Tool. In Workshop on Self Organizing Maps, Chile, Santiago, 325–334, December 2012
+
+The authors highlight the integration of Collaborative Filtering (CF) as a preprocessing step to address missing values and filter discrete data, enhancing the effectiveness of SOM training. This combined approach allows for deeper insights into car rejection reasons, including their temporal relationships and dependencies. The interactive nature of the SOM visualization tool facilitates the exploration of complex datasets, enabling users to analyze car differences through component planes and filter out driver-dependent factors. The paper concludes by demonstrating the tool's utility in making car inspection data more informative and outlines future work to further classify car performance.
+
+## Publication VIII: Self-organizing map based visualization techniques and their assessment. International Journal of Computing, Vol. 11, issue 2, pages 96–103, http://www.computingonline.net, September 2012.
+
+later
+
 
 # Thesis 2015
 
