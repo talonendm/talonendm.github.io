@@ -61,6 +61,12 @@ The experiments primarily used high-frequency process data recorded from the Olk
 
 Challenges include dealing with noise in raw data, the risk of losing relevant information with excessive smoothing, and ensuring that statistically significant variables truly relate to a fault. Problems in data mining and modeling also arise if preprocessing parameters are not optimal. Future developments include refining the leakage index for clearer user representation, improving data mining of all available data sets by storing more comprehensive information like delays between variables, and exploring other modeling techniques such as Self-Organizing Maps (SOM) or Kalman filters.
 
+## Suomeksi
+
+Diplomityö käsittelee ydinvoimalaitosten (NPP) vikojen havaitsemista adaptiivisen prosessimallinnuksen avulla. Se keskittyy Jaakko Talosen diplomityöhön, joka esittelee tiedonlouhinnan (DM) menetelmiä ja painotettua rekursiivista pienimmän neliösumman (WRLS) menetelmää vuotojen ja muiden hitaasti kehittyvien poikkeamien tunnistamiseksi. Työssä hyödynnetään Olkiluodon ydinvoimalaitokselta kerättyä prosessidataa ja esitellään tietohallintatyökalun (DMT) kehitystä off-line-analyysiin. Tavoitteena on parantaa vikadiagnostiikkaa ja tukea operaattoreiden päätöksentekoa turvallisuuden ja tehokkuuden lisäämiseksi ydinvoimaloissa.
+
+
+
 # Thesis - articles
 
 All articles available locally: (talon\OneDrive\TiedostotMore\thesis - articles)
@@ -76,6 +82,11 @@ This source describes a method for detecting steam line leakages in a boiling wa
 Industrial processes are inherently nonstationary, meaning their statistical properties and dependencies between variables can change over time due to various factors like different process states or external conditions (e.g., seasonal variations). Static models, while useful for training simulators or understanding plant dynamics, are not accurate enough for fault detection in such dynamic environments. Adaptive modeling, on the other hand, allows the model to continuously update its coefficients, enabling it to recognize abnormal events in these dynamic processes.
 
 - [Podbean jaakko.talonen](https://www.podbean.com/ew/pb-tgnq4-18e8007)
+
+### Vuotojen havaitseminen adaptiivisella prosessimallinnuksella
+
+Tutkimus käsittelee mukautuvan prosessimallinnuksen hyödyntämistä höyrylinjojen vuotojen havaitsemiseen kiehutusvesireaktorityyppisessä ydinvoimalaitoksessa, kuten Olkiluodossa. Siinä esitellään painotettu rekursiivinen pienimpien neliösummien (WRLS) menetelmä aikasarjojen mallintamiseen ja vuodon tunnistusindeksin kehittämiseen mallin estimointivirheen perusteella. Pääkomponenttianalyysiä (PCA) käytetään tulkintamuuttujien valintaan sen varmistamiseksi, että adaptiivisen mallin muuttujat ovat lineaarisesti korreloituneita, mikä on välttämätöntä vankan vuodonilmaisumallin kannalta. Tämä menetelmä osoittautuu erityisen tehokkaaksi pienten putkivirtausten vuotojen havaitsemisessa, tarjoten vaihtoehdon muille tunnistusjärjestelmille.
+
 
 ## Publication II: "Abnormal Process State Detection by Cluster Center Point Monitoring in BWR Nuclear Power Plant"
 
@@ -151,9 +162,21 @@ The primary goal is to aggregate and visualize extensive car inspection data, sp
 
 The authors highlight the integration of Collaborative Filtering (CF) as a preprocessing step to address missing values and filter discrete data, enhancing the effectiveness of SOM training. This combined approach allows for deeper insights into car rejection reasons, including their temporal relationships and dependencies. The interactive nature of the SOM visualization tool facilitates the exploration of complex datasets, enabling users to analyze car differences through component planes and filter out driver-dependent factors. The paper concludes by demonstrating the tool's utility in making car inspection data more informative and outlines future work to further classify car performance.
 
+### How is Collaborative Filtering (CF) utilized in this study, and why is it important?
+
+Collaborative Filtering (CF) is used as a preprocessing method before SOM training to address missing values and filter the discrete data. Inspired by recommender systems, CF predicts the probability of specific rejection reasons for each car, effectively filling in the "missing" information (both zero and one values) in the large data matrix. This "collaboration" among car data helps in obtaining more reliable estimates of rejection reason probabilities, which is crucial for effective SOM visualization. Without this filtering, a large number of car labels would cluster in the same SOM nodes, making differentiation difficult.
+
+### What is a Self-Organizing Map (SOM), and how does it contribute to the visualization goal?
+
+A Self-Organizing Map (SOM) is a type of artificial neural network that visualizes high-dimensional data in a low-dimensional view (e.g., 2D). It preserves the topological structure of the input data, meaning that similar data points are mapped to neighboring neurons on the map. In this study, SOMs are used to visually explore the preprocessed car inspection data, allowing for the identification of relationships and patterns among different cars and their rejection reasons that would be difficult to discern from raw data or traditional tables.
+
+- [Podbean jaakko.talonen](https://www.podbean.com/eas/pb-q3rns-18ef28a)
+
 ## Publication VIII: Self-organizing map based visualization techniques and their assessment. International Journal of Computing, Vol. 11, issue 2, pages 96–103, http://www.computingonline.net, September 2012.
 
-later
+This article, "SELF-ORGANIZING MAP BASED VISUALIZATION TECHNIQUES AND THEIR ASSESSMENT" by Miki Sirola and Jaakko Talonen, focuses on data-analysis based visualization techniques for decision support, specifically using the Self-Organizing Map (SOM) method. The authors explore the application of SOM in dynamic systems, particularly within the context of a Finnish nuclear power plant, Olkiluoto, using both plant and training simulator data. They discuss various user interface and visualization assessment criteria and present a case study demonstrating the SOM method's information value in process visualization. The paper concludes by highlighting the challenges in measuring this information value quantitatively and suggests that a combination of methodologies might yield the best results.
+
+- [Podbean jaakko.talonen](https://www.podbean.com/eas/pb-4u7pn-18ef2fd)
 
 
 # Thesis 2015

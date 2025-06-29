@@ -26,7 +26,10 @@ Asuntoautoilulla voi pysähtyä spontaanisti kauniisiin paikkoihin. Reitin varre
 - Iso-melkutin: puhdas vesi ja kalastusmahdollisuus [P](https://puskaparkit.fi/viewer/index.php?code=67f6448f99836&m=304) 
   - Purinlahti, [EP](https://puskaparkit.fi/viewer/index.php?code=67f6448f99836&m=304)
 
+## Testireissu2
 
+- Korppoo
+  - Korppoo-Houtskari [lautta-aikataulu](https://www.finferries.fi/lauttaliikenne/lauttapaikat-ja-aikataulut/korppoo-houtskari.html)
 
 # Imatra
 
