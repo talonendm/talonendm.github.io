@@ -31,6 +31,37 @@ Asuntoautoilulla voi pysähtyä spontaanisti kauniisiin paikkoihin. Reitin varre
 - Korppoo
   - Korppoo-Houtskari [lautta-aikataulu](https://www.finferries.fi/lauttaliikenne/lauttapaikat-ja-aikataulut/korppoo-houtskari.html)
 
+## Testireissu3 - Mustion linna
+
+- [Mustion Ruukin Uimaranta](https://puskaparkit.com/viewer/index.php?code=67f6448f99836&m=11961): EP
+  - [Bråtan](https://puskaparkit.com/viewer/index.php?code=67f6448f99836&m=1974) Enemmän puskaa: parille retkeilyatutolle tilaa. Pieni tulipaikka (halkoja messiin), Uiminen ja kalastaminen mahdollista. Rauhallinen
+    - [Google Maps](https://maps.app.goo.gl/sSfe745fTNLiEhFn7). [Dronekuva, Google maps](https://maps.app.goo.gl/n1jYYQ5aWnXz9cx17)
+    - Lähellä: Oxberget frisbeefield. Härkävuori: "18-lane course. Large parking lot, track map next to the parking lot. Two warm-up baskets in the warm-up area."
+  - [Korpudden EP](https://puskaparkit.com/viewer/index.php?code=67f6448f99836&m=2230). Jylhät kalliot. P, tulipaikka, keittokatos, käymälä
+    - [Google Maps kuva](https://maps.app.goo.gl/s6ya8KdiG8qqhC4y7)
+- Fiskarsin lähellä:
+  - [Flacksjön uimaranta](https://puskaparkit.com/viewer/index.php?code=67f6448f99836&m=12069): pieni matka siistiin rantaan. Hyvä tie, uimaranta ja puucee
+    - [Fiskars village](https://fiskarsvillage.fi/nae-ja-koe/luontoaktiviteetit-ja-reitit/) -kotisivut
+    - [outdoor active](https://www.outdooractive.fi/fi/route/maastopyoeraeily/suomi/flacksjoe-maastopyoeraereitti-fiskars-village/59239641/#caml=ah9,3vwhph,9y0jim,0,0&dm=1) -kartta
+- Raaseporin Tenholassa
+  - [Ovanmalmin virkistysalue](https://retkipaikka.fi/ovanmalmin-virkistysalue-raaseporin-tenholassa/)
+
+# Loviisa
+
+## Routes
+
+- To Loviisa: [sp private](https://www.sports-tracker.com/workout/haques/685ef3fd4967a810b7b6a74b)
+- Valko: Loviisa Frisbee golf: [sp private](https://www.sports-tracker.com/workout/haques/685fc2cff30ba84ddd935557)
+- [Ruotsinpyhtää](https://fi.wikipedia.org/wiki/Ruotsinpyht%C3%A4%C3%A4)
+  - [Strömforsin ruukki](https://stromforsinruukki.com/): yksi parhaiten säilyneistä ruukkiyhdyskunnista Suomessa.
+    - [Eagle Karting](https://stromforsinruukki.com/eagle-karting/)
+  - skip: [Kukuljärven vaellusreitti](https://stromforsinruukki.com/kukuljarven-retkeilyreitti/)
+    - 9.3km, 3h: [youtube](https://www.youtube.com/watch?v=yCE4ikP0w1M). Järviä, mutta kallioalueita. Jyrkkiä mäkiä, rappuset ja köysiä. Puolessa välissä kukuljärven erämaajärvi. Luola, jossa Jaakko Bränni asusteli.
+- Ruotsinpyhtää, 1792 tie ehkä hieman pieni ja mutkainen asuntoautolle. Ratula, Mäkiselkä ja siitä 354 tieltä 6-tielle Arboretum Mustilan kohdalla. 6-tietä pitkin Teevetti ja Kivijärven kohdalle, josta Jurvala, Risulahti, Kännätsalo etsittiin kalapaikkaa. Sellainen löytyi Jalkosalmen lavan läheltä [Uimintien varrelta](https://puskaparkit.fi/viewer/index.php?code=67f6448f99836&m=853).
+  saaliksi mini ahven ja simpukka, jotka palautettiin Kivijärveen. 
+- Lemin kautta Lappeenrannan Prismaan. Sieltä käväisy [Kivisalmen P-paikalla](https://puskaparkit.fi/viewer/index.php?code=67f6448f99836&m=1181), joka oli täynnä [Kuivasaaren kanavalle](https://puskaparkit.fi/viewer/index.php?code=67f6448f99836&m=1715). yleinen P-paikka noin 5 astetta mäessä, josta ajoimme jyrkän huonokuntoisen tien alassa "piknik-paikalle". Hieno paikka kalastaa ja uida. Kivikkoinen ranta, mutta laiturin vierestä luonnon kivirappuset kanavaan, jossa piti tietysti varoa virtausta.
+- Back home, pysähdys Pentik Kuusankoski, [Kymen Paviljongilla](https://maps.app.goo.gl/7zaAiBB9CMYoKrtA7).
+
 # Imatra
 
 - Matkalla:
