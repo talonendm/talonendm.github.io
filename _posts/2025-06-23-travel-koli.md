@@ -20,18 +20,25 @@ Asuntoautoilulla voi pysähtyä spontaanisti kauniisiin paikkoihin. Reitin varre
 - [Google Maps](https://maps.app.goo.gl/KVsactuH16rTEu68A) -reittihahmotelma.
 - Joensuu: [Luontopolut](https://www.joensuu.fi/luontopolut)
 - [Puskaparkit](https://puskaparkit.fi/)
+- [Hämeen ilvesreitti](https://www.luontoon.fi/fi/reitit/iso-melkutin-hameen-ilvesreitti-loppi-526713)
 
-## Testireissu
+## Päivän Melkutus
 
 - Iso-melkutin: puhdas vesi ja kalastusmahdollisuus [P](https://puskaparkit.fi/viewer/index.php?code=67f6448f99836&m=304) 
+  - [Karttapaikka](https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=6736903.948765358&e=340003.8045821252&title=m&desc=&zoom=10&layers=W3siaWQiOjIsIm9wYWNpdHkiOjEwMH1d-z)
   - Purinlahti, [EP](https://puskaparkit.fi/viewer/index.php?code=67f6448f99836&m=304)
+  - sää - [Foreca Räyskälä](https://www.foreca.fi/Finland/Loppi/Rayskala)
+  - [Melkuttimen kierto](https://www.loppi.fi/hyvinvointi-ja-vapaa-aika/ulkoilureitit-ja-luontokohteet/retkeilyreitit/melkuttimen-kierto/)
+  - Poron polku
+    - pyöräilymahdollisuus: [loppi.fi](https://www.loppi.fi/hyvinvointi-ja-vapaa-aika/ulkoilureitit-ja-luontokohteet/polkupyorareitit/poronpolun-reitit/)
+    - "[Poronpolun](https://jalki.fi/routes/50-poronpolku) reitiltä löytyy eripituisia maastopyöräilyreittejä. 5 km pituinen Melkuttimen reitti on helppo ajettava. Pisimmät reitit ovat korkeuserojen vuoksi paikoin haastavia."
 
 ## Testireissu2
 
 - Korppoo
   - Korppoo-Houtskari [lautta-aikataulu](https://www.finferries.fi/lauttaliikenne/lauttapaikat-ja-aikataulut/korppoo-houtskari.html)
 
-## Testireissu3 - Mustion linna
+## Mustion linna - Bråtan - Flacksjö - Raaseporin linna
 
 - [Mustion Ruukin Uimaranta](https://puskaparkit.com/viewer/index.php?code=67f6448f99836&m=11961): EP
   - [Bråtan](https://puskaparkit.com/viewer/index.php?code=67f6448f99836&m=1974) Enemmän puskaa: parille retkeilyatutolle tilaa. Pieni tulipaikka (halkoja messiin), Uiminen ja kalastaminen mahdollista. Rauhallinen
