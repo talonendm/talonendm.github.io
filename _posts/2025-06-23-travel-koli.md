@@ -24,6 +24,7 @@ Asuntoautoilulla voi pysähtyä spontaanisti kauniisiin paikkoihin. Reitin varre
 
 ## Päivän Melkutus
 
+- Maps: [reittiohjeet](https://maps.app.goo.gl/CpskGsUiZPoejLPz7)
 - Iso-melkutin: puhdas vesi ja kalastusmahdollisuus [P](https://puskaparkit.fi/viewer/index.php?code=67f6448f99836&m=304) 
   - [Karttapaikka](https://asiointi.maanmittauslaitos.fi/karttapaikka/?lang=fi&share=customMarker&n=6736903.948765358&e=340003.8045821252&title=m&desc=&zoom=10&layers=W3siaWQiOjIsIm9wYWNpdHkiOjEwMH1d-z)
   - Purinlahti, [EP](https://puskaparkit.fi/viewer/index.php?code=67f6448f99836&m=304)
@@ -32,6 +33,11 @@ Asuntoautoilulla voi pysähtyä spontaanisti kauniisiin paikkoihin. Reitin varre
   - Poron polku
     - pyöräilymahdollisuus: [loppi.fi](https://www.loppi.fi/hyvinvointi-ja-vapaa-aika/ulkoilureitit-ja-luontokohteet/polkupyorareitit/poronpolun-reitit/)
     - "[Poronpolun](https://jalki.fi/routes/50-poronpolku) reitiltä löytyy eripituisia maastopyöräilyreittejä. 5 km pituinen Melkuttimen reitti on helppo ajettava. Pisimmät reitit ovat korkeuserojen vuoksi paikoin haastavia."
+  - [flyk.com](https://flyk.com/map?drone&lang=fi#p=11.63/60.7347/24.0591)
+- [Lajalampi](https://www.google.com/maps/place/Sorlammen+luontopolku/@60.2555122,24.5577029,12.4z)
+  - Aurinkoahven: [youtube](https://www.youtube.com/watch?v=DUkZrTM8UVk), 13:15. Mikrojigikin saattaa olla liian iso. Kokeile mato-ongella.
+  - [Sorlammen luontopolku](https://retkipaikka.fi/sorlammen-luontopolku-espoossa/)
+
 
 ## Testireissu2
 
