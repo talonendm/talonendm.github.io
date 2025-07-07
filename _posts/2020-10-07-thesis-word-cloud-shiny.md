@@ -65,6 +65,8 @@ Challenges include dealing with noise in raw data, the risk of losing relevant i
 
 Diplomityö käsittelee ydinvoimalaitosten (NPP) vikojen havaitsemista adaptiivisen prosessimallinnuksen avulla. Se keskittyy Jaakko Talosen diplomityöhön, joka esittelee tiedonlouhinnan (DM) menetelmiä ja painotettua rekursiivista pienimmän neliösumman (WRLS) menetelmää vuotojen ja muiden hitaasti kehittyvien poikkeamien tunnistamiseksi. Työssä hyödynnetään Olkiluodon ydinvoimalaitokselta kerättyä prosessidataa ja esitellään tietohallintatyökalun (DMT) kehitystä off-line-analyysiin. Tavoitteena on parantaa vikadiagnostiikkaa ja tukea operaattoreiden päätöksentekoa turvallisuuden ja tehokkuuden lisäämiseksi ydinvoimaloissa.
 
+> Suomeksi, mutta viittaa artikkelin alkuperäiseen Englanninkieliseen nimeen. Selitä tutkimusartikkeli 80-vuotiaalle mummolle.
+
 
 
 # Thesis - articles

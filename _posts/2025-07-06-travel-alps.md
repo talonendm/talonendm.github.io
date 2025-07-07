@@ -12,7 +12,9 @@ thumbnail-img: /assets/pics/thumbnail/e384-direct/e-pic-0004.jpg
 published: true
 ---
 
-# Munchen
+# Munchen to Munchen
+
+- [Travel map](https://talonendm.github.io/compass/travelmap)
 
 # Road trip
 
