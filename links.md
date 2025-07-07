@@ -16,6 +16,12 @@ tags:
 - vero.fi (omavero)
 - [https://talonendm.github.io/lasergriddesign/](https://talonendm.github.io/lasergriddesign/)
 
+## Studies
+
+- [Sukellus radikaaliin luovuuteen](https://divingintoradicalcreativity.aalto.fi/fi/), 3op, [kurssin sisältö](https://divingintoradicalcreativity.aalto.fi/fi/kurssi/kurssin-sisalto/)
+  - [HS 14.11.2024](https://www.hs.fi/visio/art-2000010820401.html)
+  - 
+
 ## Kirjastot
 
 - [Helmet laitteet](https://helmet.finna.fi/Content/tilat-ja-laitteet)

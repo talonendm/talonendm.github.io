@@ -16,6 +16,17 @@ published: true
 
 - [Travel map](https://talonendm.github.io/compass/travelmap)
 
+## Weather
+
+- [Munchen](https://www.accuweather.com/en/de/hackenviertel/80331/weather-forecast/3557792?city=m%C3%BCnchen,%20landeshauptstadt)
+- [Saltzburg](https://www.accuweather.com/en/at/salzburg/30760/weather-forecast/30760)
+- [Liezen](https://www.accuweather.com/en/at/liezen/25302/weather-forecast/25302?city=liezen)
+- [Garda](https://www.accuweather.com/en/it/garda/1771/weather-forecast/1771)
+- [Venice](https://www.accuweather.com/en/it/venice/216711/weather-forecast/216711?city=venice)
+- [Florence](https://www.accuweather.com/en/it/florence/216189/weather-forecast/216189?city=florence)
+- [Como](https://www.accuweather.com/en/it/como/214043/weather-forecast/214043?city=como)
+- [Lugano](https://www.accuweather.com/en/ch/lugano/1671/weather-forecast/1671)
+
 # Road trip
 
 Route plans:
