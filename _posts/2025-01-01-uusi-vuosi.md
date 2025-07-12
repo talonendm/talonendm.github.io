@@ -74,6 +74,10 @@ git push git@github-talonendm:talonendm/talonendm.github.io.git
   - "Hankintamenon voi kuitenkin vähentää vuosimenona, jos kalusteen tai kodinkoneen hankintameno on enintään  1 200 euroa. Esimerkiksi enintään  1 200 euroa maksavan hellan tai jääkaapin vaihtamisesta aiheutuneet menot voi siten vähentää vuosikorjauskuluna."
   - "Kaavamainen vähennys on  40 euroa kuukaudessa, kun vuokrauksen kohteena on kalustettu yksiö tai huone. Jos vuokrauksen kohteena on kalustettu kaksio tai suurempi asunto, vähennyksen määrä on  60 euroa kuukaudessa."
 
+## Luottotietojen tarkistus
+
+- omat [luottotiedot](https://www.asiakastieto.fi/omatieto/fi/omien-tietojen-tarkastus) kerran vuoteen
+
 # Oikeus
 
 - [Vastaamo-uhri saamastaan korvauksesta](https://www.hs.fi/suomi/art-2000010986743.html)

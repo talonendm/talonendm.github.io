@@ -31,6 +31,9 @@ published: true
 
 Route plans:
 
+1. Lindau
+   1. matkalla: Neuschwanstein 9-18 auki. Ei ole lippuja
+
 - [Grossglocknerin alppitie - Venetsia - Firenze](https://maps.app.goo.gl/DPfgp36dUnLj9rgXA)
 - [Grossglockner - Lugano - Liechtenstein](https://maps.app.goo.gl/9v2Pap8DWxy6BDZW9)
 
