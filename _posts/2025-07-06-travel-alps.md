@@ -29,7 +29,65 @@ published: true
 
 # Road trip
 
-Route plans:
+## Actual Routes (private)
+
+- Lindau running: [sp](https://www.sports-tracker.com/workout/haques/68749fc75d913167f1e360d3)
+- Paradiso running: [sp](https://www.sports-tracker.com/workout/haques/68761e1d8d989709694afa1e)
+- Lugano to Como: [sp](https://www.sports-tracker.com/workout/haques/68764c6dd10837227e2295ca)
+- Como to Bergamo: [sp](https://www.sports-tracker.com/workout/haques/6878c79914b8540bdeb698ec)
+- Riva Del Garda: walking: [sp](https://www.sports-tracker.com/workout/haques/687971718b8b6979c62cd52a)
+- Pedal Boating - Garda: [sp](https://www.sports-tracker.com/workout/haques/687a3c2fb4b0ce2a4a9befe1)
+- Hiking: Santa Barbara: [sp](https://www.sports-tracker.com/workout/haques/687a72a140105778ec9a0c0c)
+- Garda to Fusch: [sp](https://www.sports-tracker.com/workout/haques/687b8034b0124476346454ff)
+- Hiking: [sp](https://www.sports-tracker.com/workout/haques/687bc78f39cf20283410b97f)
+- Fusch to Salzburg via Rauris: [sp](https://www.sports-tracker.com/workout/haques/687cfe69b54af00016e1ac29)
+- Cycling: Sunday shopping: [sp](https://www.sports-tracker.com/workout/haques/687d1d13b54af00016e2a831)
+- Cycling: Apartment to Maria Platz: [sp](https://www.sports-tracker.com/workout/haques/687dd7527374826b5212437d)
+- Apartment to [Salzwelten Salzburg](https://www.salzwelten.at/en/salzburg/discover-experience) via Au.
+- Cycling: Apartment to Red Bull Hangar: [sp](https://www.sports-tracker.com/workout/haques/687f7250901e8f6e3bf58b34)
+- Salzburg to Munchen: [sp](https://www.sports-tracker.com/workout/haques/687f7250901e8f6e3bf58b34)
+- Dachau to Airport Car Return: [sp](https://www.sports-tracker.com/workout/haques/687f9727d56807641e60b901)
+
+# Lindau
+
+Lindau is a charming town located on the eastern shore of Lake Constance (Bodensee) in southern Germany, near the borders of Austria and Switzerland. Known for its picturesque old town situated on an island, Lindau offers stunning views of the lake and the surrounding Alps.
+
+One night, near the Austrian border in the Zech district of Lindau, the peaceful beauty of the lakeside comes alive. The quiet streets and lapping waters of Lake Constance create a serene atmosphere. Running along the shoreline, you can hear the gentle waves, feel the cool breeze from the lake, and see the distant lights across the water. A tranquil and unforgettable experience on the edge of Germany and Austria.
+
+# Lugano
+
+Leaving the tranquil lakeside town of Lindau, you head south by car, crossing through the scenic landscapes of southern Germany, Austria, and into Switzerland. The journey to Lugano takes around 4 hours, depending on your route and stops along the way, with spectacular views of alpine valleys, tunnels through the mountains, and the shimmering lakes of the Swiss countryside.
+
+Arriving in Lugano, you stay for one night in the elegant district of Paradiso, set at the southern end of the lake. The hotel offers a rooftop pool where you can unwind with panoramic views over Lake Lugano and the surrounding mountains. As the sun sets, the lights of the city reflect in the water below, and the air is filled with the relaxed charm of Ticino, a blend of Swiss precision and Italian warmth. It is the perfect stop between two lakeside worlds.
+
+# Bellagio (Como)
+
+After a scenic drive from Lugano, you arrive at the enchanting town of Bellagio on Lake Como. Nestled where the lake’s three branches meet, Bellagio is known for its charming streets, stunning waterfront views, and lush gardens. For your two-night stay, you’ve chosen a cozy Airbnb with a refreshing pool just steps from the lake, offering the perfect blend of relaxation and lakeside beauty. Whether lounging by the pool or exploring the historic center, Bellagio invites you to unwind and soak in the magic of one of Italy’s most beloved lake destinations.
+
+# River del Garda via Bergamo
+
+Leaving the serene beauty of Lake Como behind, you set off toward the River del Garda region, traveling through the vibrant city of Bergamo. Nestled between the Alps and the Po Valley, Bergamo offers a delightful stop with its historic upper town (Città Alta), medieval walls, and lively piazzas—a perfect blend of culture and charm. It was visited last time, so we decided to skip it.
+
+From Bergamo, the journey continues toward the stunning Garda River area, where the crystal-clear waters flow into Lake Garda, Italy’s largest lake. The river valleys here offer scenic landscapes, charming towns, and plenty of opportunities for outdoor adventures, from hiking to watersports. This route provides a wonderful mix of cultural exploration and natural beauty, bridging the tranquil lakes with the dynamic river landscapes of northern Italy.
+
+# Fusch
+
+From the peaceful landscapes of the Garda River region, you embark on a scenic journey toward Fusch, Austria, driving along one of Europe’s most spectacular alpine routes,
+the Grossglockner High Alpine Road. This iconic mountain pass winds through towering peaks, alpine meadows, and glaciers, offering breathtaking panoramic views at every turn.
+
+Crossing into Austria, the Grossglockner route takes you through the Hohe Tauern National Park, home to the country’s highest mountain, the Grossglockner itself. After descending the alpine heights, you arrive in the charming village of Fusch, nestled in the valley below, known for its traditional Austrian hospitality and stunning mountain backdrop.
+
+This route combines dramatic alpine scenery with peaceful village life, making it an unforgettable leg of your journey through the heart of the Alps.
+
+# Rauris
+
+# Salzburg
+
+## Car Renting
+
+- "Lautakunnan mukaan näyttötaakka vahingon syntymisestä vuokra-ajalla, on vuokraamolla. Lisäksi se huomautti, että myös vuokra-ajalla asiakas on vastuussa vain sellaisista vahingoista, jotka ovat aiheutuneet hänen huolimattomuudestaan. Näin ollen asiakas ei ole vastuussa esimerkiksi ilkivallan seurauksena tai muun vuokraajasta riippumattomasta syystä aiheutuneesta vahingosta, jos asiakas on menetellyt huolellisesti." [IS 2025](https://www.is.fi/autot/art-2000011386845.html)
+
+## Route plans:
 
 1. Lindau
    1. matkalla: Neuschwanstein 9-18 auki. Ei ole lippuja
