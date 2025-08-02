@@ -183,6 +183,14 @@ jos saa diilin, 10 snt/kWh, paljon kustannukset laskevat? ks. [private ta.dm](ht
 - 22.6.2025: Minttua kaksi rinnetien viereen revittynä.
 - 22.6.2025: Hevoskastanja: 1 kpl itä, 4 rinteeeseen, 5 länsipäätyyn. Siirto Eurasta.
 - 22.6.2025: muutama krassi pensasmarjan viereen rinnetien viereen.
+- 25.7.2025: Heinäkuun helteissä hevoskastanjoista suurin osa kärventyi
+- 26.7.2025: Retiisisato epäonnistui, olivat täynnä matoja. Olisiko alkuun kosteus ja sitten helteet ja multasäkissä kasvattaminen ollut sellainen kombo, ettei oikein toiminut noille. Biohon meni. Yhdestä maistoin palasen ja oli ihan ok ilman matoja.
+- 26.7.2025: salaattisato (istutettu 8.6.) kasvoi yli ja kuivui. (reissussa) Tuosta sai kuitenkin muutaman salaatin tehtyä.
+- 28.7.2025: Helteiden takia punaviinimarjat kypsyivät nopeasti, menivät jopa hieman yli. Noin 20 pussia pakkaseen.
+- 1.8.2025: Kasvihuoneessa chilien alkuja, myös papuja.
+- 1.8.2025: liuotettu hernesato hyvä (8.6.2025), mutta kaupan herneet jotka suoraan maahan kukkivat vasta. Muistsa liuotus esimerkiksi yön yli vuonna 2026.
+- 2.8.2025: Vihanneskrassi kasvatuslaatikkoon keittiön lähelle. Rukola kukkinut ja siemenkotia. Kerää myöhemmin kesällä talteen.
+
 
 # 2024
 

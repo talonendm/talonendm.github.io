@@ -54,21 +54,44 @@ Lindau is a charming town located on the eastern shore of Lake Constance (Bodens
 
 One night, near the Austrian border in the Zech district of Lindau, the peaceful beauty of the lakeside comes alive. The quiet streets and lapping waters of Lake Constance create a serene atmosphere. Running along the shoreline, you can hear the gentle waves, feel the cool breeze from the lake, and see the distant lights across the water. A tranquil and unforgettable experience on the edge of Germany and Austria.
 
+On the way: Schloss Neuschwanstein
+
+![i.01](/assets/pics/page/travelling/2025/linna-e-pic-0001.jpg){: .mx-auto.d-block :}
+
+![i.01](/assets/pics/page/travelling/2025/linna2-e-pic-0001.jpg){: .mx-auto.d-block :}
+
+
 # Lugano
 
-Leaving the tranquil lakeside town of Lindau, you head south by car, crossing through the scenic landscapes of southern Germany, Austria, and into Switzerland. The journey to Lugano takes around 4 hours, depending on your route and stops along the way, with spectacular views of alpine valleys, tunnels through the mountains, and the shimmering lakes of the Swiss countryside.
+Leaving the tranquil lakeside town of Lindau, you head south by car, crossing through the scenic landscapes of southern Germany, Austria (Bregenz), Liechtenstein (Vaduz) and into Switzerland. The journey to Lugano takes around 4 hours, depending on your route and stops along the way, with spectacular views of alpine valleys, tunnels through the mountains, and the shimmering lakes of the Swiss countryside.
 
 Arriving in Lugano, you stay for one night in the elegant district of Paradiso, set at the southern end of the lake. The hotel offers a rooftop pool where you can unwind with panoramic views over Lake Lugano and the surrounding mountains. As the sun sets, the lights of the city reflect in the water below, and the air is filled with the relaxed charm of Ticino, a blend of Swiss precision and Italian warmth. It is the perfect stop between two lakeside worlds.
+
+- Vinjentti: Itävalta. [Autoeurope](https://www.autoeurope.fi/kuljettajan-opas-itavalta/)
+  - [ASFINAG](https://www.asfinag.at/en/toll/vignette/), 10 days, 12.7e. Digital toll with app.
+
+![i.01](/assets/pics/page/travelling/2025/lugano-e-pic-0001.jpg){: .mx-auto.d-block :}
+
+![i.01](/assets/pics/page/travelling/2025/mcraclette-e-pic-0001.jpg){: .mx-auto.d-block :}
+
 
 # Bellagio (Como)
 
 After a scenic drive from Lugano, you arrive at the enchanting town of Bellagio on Lake Como. Nestled where the lake’s three branches meet, Bellagio is known for its charming streets, stunning waterfront views, and lush gardens. For your two-night stay, you’ve chosen a cozy Airbnb with a refreshing pool just steps from the lake, offering the perfect blend of relaxation and lakeside beauty. Whether lounging by the pool or exploring the historic center, Bellagio invites you to unwind and soak in the magic of one of Italy’s most beloved lake destinations.
 
+![i.01](/assets/pics/page/travelling/2025/como-e-pic-0001.jpg){: .mx-auto.d-block :}
+
+![i.01](/assets/pics/page/travelling/2025/como2-e-pic-0001.jpg){: .mx-auto.d-block :}
+
 # River del Garda via Bergamo
 
-Leaving the serene beauty of Lake Como behind, you set off toward the River del Garda region, traveling through the vibrant city of Bergamo. Nestled between the Alps and the Po Valley, Bergamo offers a delightful stop with its historic upper town (Città Alta), medieval walls, and lively piazzas—a perfect blend of culture and charm. It was visited last time, so we decided to skip it.
+Leaving the serene beauty of Lake Como behind, you set off toward the River del Garda region, traveling through Lecco and the vibrant city of Bergamo. Nestled between the Alps and the Po Valley, Bergamo offers a delightful stop with its historic upper town (Città Alta), medieval walls, and lively piazzas—a perfect blend of culture and charm. It was visited last time, so we decided to skip it.
 
 From Bergamo, the journey continues toward the stunning Garda River area, where the crystal-clear waters flow into Lake Garda, Italy’s largest lake. The river valleys here offer scenic landscapes, charming towns, and plenty of opportunities for outdoor adventures, from hiking to watersports. This route provides a wonderful mix of cultural exploration and natural beauty, bridging the tranquil lakes with the dynamic river landscapes of northern Italy.
+
+![i.01](/assets/pics/page/travelling/2025/river-del-garda-e-pic-0001.jpg){: .mx-auto.d-block :}
+
+![i.01](/assets/pics/page/travelling/2025/santa-barbara-e-pic-0001.jpg){: .mx-auto.d-block :}
 
 # Fusch
 
@@ -79,13 +102,30 @@ Crossing into Austria, the Grossglockner route takes you through the Hohe Tauern
 
 This route combines dramatic alpine scenery with peaceful village life, making it an unforgettable leg of your journey through the heart of the Alps.
 
+Note: For example *Tageskarte PKW* price for car 45e and motorcycle 35e included to hotel price (Grossglockner High Alpine Road). Free visits to National park Sommer Card (Hohe Tauern), e.g. at Rauris destinations and 
+
+![i.01](/assets/pics/page/travelling/2025/alps-e-pic-0001.jpg){: .mx-auto.d-block :}
+
 # Rauris
+
+![i.01](/assets/pics/page/travelling/2025/rauris-e-pic-0001.jpg){: .mx-auto.d-block :}
+
+![i.01](/assets/pics/page/travelling/2025/pollo-rauris-e-pic-0001.jpg){: .mx-auto.d-block :}
+
+![i.01](/assets/pics/page/travelling/2025/rauris-mini-golf-e-pic-0001.jpg){: .mx-auto.d-block :}
 
 # Salzburg
 
+![i.01](/assets/pics/page/travelling/2025/salzburg-e-pic-0001.jpg){: .mx-auto.d-block :}
+
 ## Car Renting
 
+- [ ] Vuokra-autoon: Miniusb-laturit messiin. Nissan Quasqaissa esimerkiksi takapenkillä kaksi laturipistoketta.
 - "Lautakunnan mukaan näyttötaakka vahingon syntymisestä vuokra-ajalla, on vuokraamolla. Lisäksi se huomautti, että myös vuokra-ajalla asiakas on vastuussa vain sellaisista vahingoista, jotka ovat aiheutuneet hänen huolimattomuudestaan. Näin ollen asiakas ei ole vastuussa esimerkiksi ilkivallan seurauksena tai muun vuokraajasta riippumattomasta syystä aiheutuneesta vahingosta, jos asiakas on menetellyt huolellisesti." [IS 2025](https://www.is.fi/autot/art-2000011386845.html)
+- Dollar rental (Hertz). Pussissa autopaikan sijainti, ja lipuke, että terminaalista pääsee pois. Ajaminen takaisin Munchenin terminaaliin oli ohjeistettu hyvin ja siellä oli heti henkilökunta ottamassa vastaan. Ei tarvinniut etsiä samaa autopaikkaa. 
+  - Ulkopuolista vakuutusta ei kannata ottaa AXA tms. sillä, autovuokraamot myyvät omia ja lisäävät lisäkuluja. 
+    - Pers G&T: 110e
+    - Varkausvakuutus ja vahinko 1250 euron omavastuulla ja ylimääräiset vakuutukset poistavat omavastuun.
 
 ## Route plans:
 

@@ -16,6 +16,24 @@ thumbnail-img: /assets/pics/thumbnail/ai/summerfest.jpg
 published: true
 ---
 
+# Kesäkisat 2025
+
+- VI
+- MI
+- GR
+- HE
+- Ja: ei palkintojen jakoa. Löylynheitto jäi suorittamatta
+  - Friba
+  - Jenkkifudis
+  - Halon heitto
+  - Pallon kuljetus lehtipuhaltimella
+
+Ribs 5kg (4 pakettia) ja sisäfilepötkö. Ribs keitto kokiksessa ja sitten Traegeriin. Sisäfileen kanssa ponzua. Salaattia ja perunaa.
+
+# Suurmestari 2024
+
+1. KA
+
 # Stadi vastaan Lande (2023/07)
 
 Päivä alkoi lounaalla, soveltaen tätä [Paella-reseptiä](https://kaikkiaitinireseptit.blogspot.com/2014/07/paella-superherkullinen.html?sc=1690311079278#c7729886216712487382). Safka tulikin valmistettua avotulella vesisateessa. Onneksi aurinko tuli esiin, kun vieraat kutsuttiin syömään.

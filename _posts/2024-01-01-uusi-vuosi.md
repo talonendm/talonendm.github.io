@@ -125,6 +125,11 @@ Valvira ei ole myöntänyt opiskelijoille psykoterapeutin ammattinimikettä, kos
 - [Suomella on keino lopettaa Venäjän varjolaivaston riskialusten kulku, tutkija sanoo](https://www.hs.fi/ulkomaat/art-2000010345861.html) HS 12.4.2024
 
 
+## Batteries
+
+- Energizer 6/2025:
+  - 2016 Lithium type * 2 --> to some device.
+
 ## AI
 
 - [HS: Noitina pidetyt naiset joutuivat järkyttävän huhumyllyn uhreiksi melkein kuin nykypäivän sosiaalisessa mediassa 15.12.2024](https://www.hs.fi/taide/art-2000010895132.html): näyttely tukholmassa - AI noita.
