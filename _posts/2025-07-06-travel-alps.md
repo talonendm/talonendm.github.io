@@ -239,7 +239,6 @@ library(data.table)
 
 # Mapbox configuration
 # token <- "p... created 2508"
-# token <- Sys.getenv("MAPBOX_TOKEN")
 token <- Sys.getenv("MAPBOX_PUBLIC_TOKEN")
 # mapboxapi::mb_access_token(token, install = TRUE)
 
