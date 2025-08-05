@@ -224,6 +224,68 @@ Ajoaika: Grossglocknerilta Firenzeen matka kestää noin 6–7 tuntia (noin 530 
 - stuff - take with you, [privata ta.dm](https://docs.google.com/spreadsheets/d/19BkGyPCeYUFju6qmrPmDd3s-zcD2MNX5jRguvoorb1c/edit?usp=sharing)
 - general summer plans, [private ta.dm](https://docs.google.com/document/d/1PyTRdfl51dnbZYe0ZIq83jFfvQ_F2qFU4TMWlZXUqI4/edit?usp=sharing)
 
+# Travel map code
+
+```
+
+# I:\Oma Drive\data\travelling / create_geojson_path_2025.R
+
+library(httr)
+library(jsonlite)
+# install.packages('mapboxapi')
+library(mapboxapi)
+# install.packages("data.table")
+library(data.table)
+
+# Mapbox configuration
+# token <- "p... created 2508"
+# token <- Sys.getenv("MAPBOX_TOKEN")
+token <- Sys.getenv("MAPBOX_PUBLIC_TOKEN")
+# mapboxapi::mb_access_token(token, install = TRUE)
+
+# .............................
+create_route <- function(origin = NULL, destination = NULL, routetype = NULL, swap_coordinates = TRUE) {
+
+  if (swap_coordinates) {
+    origin <- c(origin[2], origin[1])
+    destination <- c(destination[2], destination[1])
+  }
+
+  route <- mapboxapi::mb_directions(
+    # access_token = token,
+    origin = origin,
+    destination = destination,
+    exclude = 'ferry',
+    profile = routetype,  # Options: "driving", "walking", "cycling"
+    output = "sf"         # Return as sf object
+  )
+
+  return(route)
+}
+# .............................
+routes <- list()
+
+coord <- read.csv("I:/Oma Drive/data/travelling/2025munchen_travel_coordinates.txt")
+routes <- list()
+for (i in c(1:dim(coord)[1])) {
+  print(paste0(i, ": ", coord$origin_lat[i], ", ", coord$origin_lon[i], " to ",
+               coord$destination_lat[i], ", ", coord$destination_lon[i], " (", coord$routetype[i], ")"))
+
+  routes[[i]] <- create_route(
+    origin = c(coord$origin_lon[i],coord$origin_lat[i]),
+    destination = c(coord$destination_lon[i],
+                    coord$destination_lat[i]),
+    routetype = coord$routetype[i],
+    swap_coordinates = FALSE
+  )
+}
+
+route_all <- data.table::rbindlist(routes)
+sf::st_write(route_all, "D:/temp/routeXXXsaksa.geojson", driver = "GeoJSON", delete_dsn = TRUE)
+# .............................
+
+```
+
 ---
 
 [Disclaimer](https://talonendm.github.io/disclaimer)

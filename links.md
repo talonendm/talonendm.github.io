@@ -15,6 +15,8 @@ tags:
 - [suomi.fi](https://www.suomi.fi/)
 - vero.fi (omavero)
 - [https://talonendm.github.io/lasergriddesign/](https://talonendm.github.io/lasergriddesign/)
+- AI:
+  - [Gemini ta.dm](https://gemini.google.com/app): json-pics etc. Google Image V4 tested 250802
 
 ## Studies
 

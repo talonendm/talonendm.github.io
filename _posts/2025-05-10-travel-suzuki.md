@@ -14,7 +14,7 @@ published: true
 # Suzuki Gs 450
 
 - 98885.1 (5/2025)
-
+- 99290.2 (250802): 10.00l, 17.19e, 98e Neste
 
 ## Huolto
 
