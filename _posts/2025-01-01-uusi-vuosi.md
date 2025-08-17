@@ -126,6 +126,8 @@ git push git@github-talonendm:talonendm/talonendm.github.io.git
 # Rakentaminen
 
 - "Rakennusten riittävä tuulettuminen ja räystäät vähentävät kosteusriskiä." ja "Räystäistä on hyötyä kaikissa rakennuksissa, varsinkin pientaloissa. Korkeammissa taloissa räystäs suojaa vain rakennuksen yläosaa, mutta yleensä ne ovat myös eniten sään rasituksille alttiina." ja "Ilmastonmuutoksen aiheuttamat ongelmat on huomioitu jo vuoden 2018 alusta voimaan astuneissa ympäristöministeriön rakentamismääräyksissä." [IS 16.2.2025](https://www.is.fi/taloussanomat/art-2000011028985.html)
+- "Ikiaikainen japanilaisten käyttämä puun pinnan hiillostamistekniikka, shou sugi ban, on kehitetty alun perin puisten rakenteiden suojaamiseksi säältä." [Novenberg](https://novenberg.fi/shou-sugi-ban/)
+  - Toholla kasvulaatikoita ja moponkuljetusalusta 6/2025
 
 # Drone
 
@@ -154,9 +156,18 @@ Aurinkopaneelien hinta vaihtelee laajalti Suomessa, mutta keskimäärin voit odo
   - [LämpöYkkönen](https://lampoykkonen.fi/aurinkopaneelit/?msclkid=d380bc3efb7e1d3a4033d4329f06b767)
     - 250426: 5990e asennettuna Longi 435W aurinkopaneelit x12 + Growatt 6kW Hybrid Invertteri.
   
-# Pro 22 Traeger
+
+# Laitteet
+
+## Pro 22 Traeger
 
 - ribs 250503, [youtube](https://www.youtube.com/watch?v=fUTKdVpRkMQ). Meni Lion Ribsit kuivaksi ja soosia liian vähän.
+
+## Magnat 507
+
+- soundia [youtube](https://www.youtube.com/watch?v=HJOCQFbJUXU)
+- [25e pari joku myynyt](https://bbs.io-tech.fi/threads/magnat-quantum-507-lattiakauitin-pari-helsinki.264178/)
+
 
 
 # Toho

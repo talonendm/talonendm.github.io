@@ -15,6 +15,7 @@ published: true
 # Munchen to Munchen
 
 - [Travel map](https://talonendm.github.io/compass/travelmap)
+- [Travel map full](https://talonendm.github.io/compass/geojsonmap/Rgeojson/v4.html)
 
 ## Weather
 
@@ -225,6 +226,14 @@ Ajoaika: Grossglocknerilta Firenzeen matka kestää noin 6–7 tuntia (noin 530 
 - general summer plans, [private ta.dm](https://docs.google.com/document/d/1PyTRdfl51dnbZYe0ZIq83jFfvQ_F2qFU4TMWlZXUqI4/edit?usp=sharing)
 
 # Travel map code
+
+## Updated
+
+### gsheets -package
+
+The gsheet package is more lightweight but does not have a direct sheet = "name" argument. Instead, it can only fetch the first worksheet/tab from a Google Sheet. gsheet reads the worksheet/tab that corresponds to the gid in the URL. Each tab in a Google Sheet has a unique gid (you can see it in the URL when that tab is selected).
+
+## Old 
 
 ```
 

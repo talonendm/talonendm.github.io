@@ -190,7 +190,8 @@ jos saa diilin, 10 snt/kWh, paljon kustannukset laskevat? ks. [private ta.dm](ht
 - 1.8.2025: Kasvihuoneessa chilien alkuja, myös papuja.
 - 1.8.2025: liuotettu hernesato hyvä (8.6.2025), mutta kaupan herneet jotka suoraan maahan kukkivat vasta. Muistsa liuotus esimerkiksi yön yli vuonna 2026.
 - 2.8.2025: Vihanneskrassi kasvatuslaatikkoon keittiön lähelle. Rukola kukkinut ja siemenkotia. Kerää myöhemmin kesällä talteen.
-
+- 10.8.2025: Kasvihuoneesta ja hallin vierestä kattilallinen papuja. 17 min keitto ja pakkaseen.
+- 15.8.2025: 6 uutta hevoskastanjaa, osa kuoli hellenjakson aikana.
 
 # 2024
 
