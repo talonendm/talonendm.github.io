@@ -16,6 +16,10 @@ published: true
 
 - [Travel map](https://talonendm.github.io/compass/travelmap)
 - [Travel map full](https://talonendm.github.io/compass/geojsonmap/Rgeojson/v4.html)
+  - [Travel map full](https://talonendm.github.io/compass/geojsonmap/Rgeojson/v7.html)
+  - [Travel map full](https://talonendm.github.io/compass/geojsonmap/Rgeojson/v8.html)
+  - [Travel map full](https://talonendm.github.io/compass/geojsonmap/Rgeojson/v9.html)
+  - [Travel map full](https://talonendm.github.io/compass/geojsonmap/Rgeojson/v10.html)
 
 ## Weather
 
