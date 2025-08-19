@@ -270,6 +270,12 @@ Instructions to create interactive maps using [leaflet](https://leafletjs.com/Sl
 - 2012: private video, [multijuutuubi](https://www.youtube.com/watch?v=angGWhlUeS0)
 
 
+### Malaysia
+
+#### Taman Negara
+
+- [Gua Telinga](https://www.tamannegara.asia/gua-telinga/), cave.
+
 
 ## Links
 
