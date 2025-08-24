@@ -14,13 +14,16 @@ published: true
 
 # Munchen to Munchen
 
-- [Travel map](https://talonendm.github.io/compass/travelmap)
+- [Travel map planning](https://talonendm.github.io/compass/travelmap)
 - [Travel map full](https://talonendm.github.io/compass/geojsonmap/Rgeojson/v4.html)
-  - [Travel map full](https://talonendm.github.io/compass/geojsonmap/Rgeojson/v7.html)
-  - [Travel map full](https://talonendm.github.io/compass/geojsonmap/Rgeojson/v8.html)
-  - [Travel map full](https://talonendm.github.io/compass/geojsonmap/Rgeojson/v9.html)
-  - [Travel map full](https://talonendm.github.io/compass/geojsonmap/Rgeojson/v10.html)
-  - [Travel map full gsheets test](https://talonendm.github.io/compass/geojsonmap/Rgeojson/v11.html)
+
+## testing
+
+- [Travel map full7](https://talonendm.github.io/compass/geojsonmap/Rgeojson/v7.html)
+- [Travel map full8](https://talonendm.github.io/compass/geojsonmap/Rgeojson/v8.html)
+- [Travel map full9](https://talonendm.github.io/compass/geojsonmap/Rgeojson/v9.html)
+- [Travel map full10](https://talonendm.github.io/compass/geojsonmap/Rgeojson/v10.html)
+- [Travel map full11 gsheets test](https://talonendm.github.io/compass/geojsonmap/Rgeojson/v11.html)
 
 ## Weather
 
@@ -237,6 +240,10 @@ Ajoaika: Grossglocknerilta Firenzeen matka kestää noin 6–7 tuntia (noin 530 
 ### gsheets -package
 
 The gsheet package is more lightweight but does not have a direct sheet = "name" argument. Instead, it can only fetch the first worksheet/tab from a Google Sheet. gsheet reads the worksheet/tab that corresponds to the gid in the URL. Each tab in a Google Sheet has a unique gid (you can see it in the URL when that tab is selected).
+
+Stored to local: I:\Oma Drive\data\googlesheetRpaths
+
+Code: Reteatteri/R
 
 ## Old 
 

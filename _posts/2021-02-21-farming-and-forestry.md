@@ -192,6 +192,7 @@ jos saa diilin, 10 snt/kWh, paljon kustannukset laskevat? ks. [private ta.dm](ht
 - 2.8.2025: Vihanneskrassi kasvatuslaatikkoon keittiön lähelle. Rukola kukkinut ja siemenkotia. Kerää myöhemmin kesällä talteen.
 - 10.8.2025: Kasvihuoneesta ja hallin vierestä kattilallinen papuja. 17 min keitto ja pakkaseen.
 - 15.8.2025: 6 uutta hevoskastanjaa, osa kuoli hellenjakson aikana.
+- 21.8.2025: kompostorin tyhjennys (2) -> 1 ja 3, [private ta.dm](https://docs.google.com/spreadsheets/d/1KrexxRqigmjHFJtK63wTE1OMzwcuNP3AaVYRwfUuqag/edit?usp=sharing)
 
 # 2024
 
