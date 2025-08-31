@@ -232,6 +232,7 @@ Ajoaika: Grossglocknerilta Firenzeen matka kestää noin 6–7 tuntia (noin 530 
 - [Google Maps](https://maps.app.goo.gl/vyF5ybzsPCqdv7VU7)
 - stuff - take with you, [privata ta.dm](https://docs.google.com/spreadsheets/d/19BkGyPCeYUFju6qmrPmDd3s-zcD2MNX5jRguvoorb1c/edit?usp=sharing)
 - general summer plans, [private ta.dm](https://docs.google.com/document/d/1PyTRdfl51dnbZYe0ZIq83jFfvQ_F2qFU4TMWlZXUqI4/edit?usp=sharing)
+- [rooffighter](https://talonendm.github.io/rooffighter) game
 
 # Travel map code
 

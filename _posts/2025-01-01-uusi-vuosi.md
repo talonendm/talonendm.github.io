@@ -135,6 +135,15 @@ git push git@github-talonendm:talonendm/talonendm.github.io.git
   - DJI Neo
   - Hover X1
 
+
+# Karting
+
+## Espoo
+
+- 00:31.372 8/2025
+- 00:31:46x 5/2025
+- 00:33.479 5/2025
+
 # Links - stuff
 
 - [Car oma - Beach Tour California](https://talonendm.github.io/2022-02-19-car/)
