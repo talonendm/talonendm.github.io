@@ -129,6 +129,25 @@ git push git@github-talonendm:talonendm/talonendm.github.io.git
 - "Ikiaikainen japanilaisten käyttämä puun pinnan hiillostamistekniikka, shou sugi ban, on kehitetty alun perin puisten rakenteiden suojaamiseksi säältä." [Novenberg](https://novenberg.fi/shou-sugi-ban/)
   - Toholla kasvulaatikoita ja moponkuljetusalusta 6/2025
 
+# Kirkkonummi kaavoitus
+
+## Bro-Kolsari
+
+## Kantvik 10/2025
+
+- [Kantvikin osayleiskaava](https://kirkkonummi.fi/kaavoitus/nahtavana-nyt-ja-uudet-hankkeet/ajankohtaiset-kaavat-etelainen-kirkkonummi/21000-kantvikin-oyk/)
+  - Tilanne: Ehdotusvaihe (2.6.2025), nähtävillä 1.9. – 7.11.2025
+  - Valmisteluvaihe
+    - Osayleiskaavan valmisteluaineisto nähtävillä 29.11.2021 – 21.1.2022: [Kaavakartta 3460](https://kirkkonummi.fi/wp-content/uploads/files/619de3fdc91058061300045c/3460_Kantvik_OYK_kaavakartta_ja_m__r_ykset.pdf)
+- [Storymaps - Kantvik](https://storymaps.arcgis.com/stories/99e1a065a6104fb5b5a5232ff26f2c15)
+  - "Osayleiskaavan luonnon monimuotoisuuden kannalta erityisen merkittävät alueet (luo) perustuvat alueelta laadittuihin luontoselvityksiin."
+  - Viheryhteydett: "Ekologisiset yhteydet on huomioitu osayleiskaavassa yleismääräyksin sekä seuraavin kaavamerkinnöin"
+  - Vyöhyke 4: Pientalovaltaiset tiivistettävän asumisen alueet
+    - Vyöhyke 4 sijoittuu asemakaavoittamattomille pääosin yleiskaavan AP tai A-1 alueille, jotka ovat toteutuneet väljinä.
+    - Uusia vyöhykkeen 4 mukaisia asumisen alueita ovat mm. Syväjärvi, Syvälaakso, Pippurniemi, Pippuri ja Valkolampi.
+
+
+
 
 # Karting
 
