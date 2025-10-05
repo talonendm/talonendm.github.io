@@ -193,6 +193,8 @@ jos saa diilin, 10 snt/kWh, paljon kustannukset laskevat? ks. [private ta.dm](ht
 - 10.8.2025: Kasvihuoneesta ja hallin vierestä kattilallinen papuja. 17 min keitto ja pakkaseen.
 - 15.8.2025: 6 uutta hevoskastanjaa, osa kuoli hellenjakson aikana.
 - 21.8.2025: kompostorin tyhjennys (2) -> 1 ja 3, [private ta.dm](https://docs.google.com/spreadsheets/d/1KrexxRqigmjHFJtK63wTE1OMzwcuNP3AaVYRwfUuqag/edit?usp=sharing)
+- 27.9.2025: kompostorit 1 ja 3 kasvimaalle
+- 27.9.2025: keltakukkien siemeniä ja papuja talteen. Isosta omenapuusta ei tullut oikeastaan ollenkaan omenoita, eikä siis muumioita. Punainen omenapuu, ihan ok sato. Hirvieläimet käyvät syömässä omenoita.
 
 # 2024
 

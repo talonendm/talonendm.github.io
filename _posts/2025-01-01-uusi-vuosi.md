@@ -129,17 +129,12 @@ git push git@github-talonendm:talonendm/talonendm.github.io.git
 - "Ikiaikainen japanilaisten käyttämä puun pinnan hiillostamistekniikka, shou sugi ban, on kehitetty alun perin puisten rakenteiden suojaamiseksi säältä." [Novenberg](https://novenberg.fi/shou-sugi-ban/)
   - Toholla kasvulaatikoita ja moponkuljetusalusta 6/2025
 
-# Drone
-
-- kuvauskopteri kelpaa metsän kalustoksi [maaseuduntulevaisuus, 2017](https://www.maaseuduntulevaisuus.fi/metsa/37553e7b-3c12-570c-bc2d-7aac0faa2a36)
-  - DJI Neo
-  - Hover X1
-
 
 # Karting
 
 ## Espoo
 
+- 00:31:226 9/2025
 - 00:31.372 8/2025
 - 00:31:46x 5/2025
 - 00:33.479 5/2025

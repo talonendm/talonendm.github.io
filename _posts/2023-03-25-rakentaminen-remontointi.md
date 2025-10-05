@@ -42,6 +42,14 @@ Fig) quick GIMP experiment with layers
 - Käsihiemakivi Rahina, 26.87e
 - weber 137: 25kg [K-rauta] - 25.28e - riitti sopivasti, hieman jäi yli askarteluihin. Saapas, kenkä ja paino koukuilla.
 
+## 9L/2025 Mineriittikaton paikkaus
+
+- huopapalat
+- mineriittilevyt
+- Tytan Waterstop paikkausmassa  1kg 16.99e, metallilastalla levitys. Hyvin tarttui ja osottautui toimivaksi.
+
+
+
 # Kosteussuunnittelu
 
 - [RIL 250-2020 Kosteudenhallinta ja homevaurioiden estäminen](https://www.ril.fi/kirjakauppa/ohjeet-ja-normit/ril-250-2020-kosteudenhallinta-ja-homevaurioiden-estaminen-p-751.html): "Ohjeen tavoitteena on kuvata kosteusasetuksen henkeä ja hyvää rakentamistapaa toteuttava rakentamisen kosteudenhallinnan kokonaisprosessi lähtien rakennuttamisen tavoitteista ja päättyen käyttäjän tehtäviin."  
