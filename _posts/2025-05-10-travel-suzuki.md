@@ -443,6 +443,11 @@ Virtalukkoa voidaan testata jatkuvuuden osalta **kahvamon instrumenttien konsoli
     - Hinauspalvelu ulkomailla +358 10 515 8777.
     - "Korvaamme ulkomailla sattuneesta liikennevahingosta aiheutuneita henkilö- ja esinevahinkoja, kun autosi kuljettaja on vahingosta vastuussa. Omavastuu on 500 euroa. Vastuuturva on voimassa tietyissä ETA-maiden ulkopuolisissa Green Card -sopimusmaissa. Tarkista voimassaoloalue vakuutusehdoista."
 
+## Liikenteestä poisto
+
+- Ei kannata turhaan tehdä. Selkeästi ei ole vaikutusta.. maksut painottuu [touko-syys](http://www.moottoripyora.org/keskustelu/showthread.php/302220-Liikennek%C3%A4yt%C3%B6st%C3%A4-poisto-talveksi-turhaako), ks. keskustelu ja [kaavio](https://www.if.fi/contentassets/716049a67c3841728c03f8fd65386321/mp-hinnoittelu.png)
+
+
 ---
 
 [Disclaimer](https://talonendm.github.io/disclaimer)
