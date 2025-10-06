@@ -49,8 +49,7 @@ Yhteenvetona, aloita tarkistamalla, että akku on ladattu ja että kaikki liitä
 
 - [ ] SW40 spray akkunapoihin.
 
-ämä "naks"-ääni tarkoittaa, että käynnistyssolenoidi (starttirele) saa pienen ohjausvirran ja yrittää kytkeytyä, mutta se ei pysty johtamaan riittävää suurta virtaa käynnistysmoottorin pyörittämiseksi.
-Tässä ovat seuraavat loogiset vaiheet, jotka perustuvat lähteiden vianmääritystietoihin:
+Tämä "naks"-ääni tarkoittaa, että käynnistyssolenoidi (starttirele) saa pienen ohjausvirran ja yrittää kytkeytyä, mutta se ei pysty johtamaan riittävää suurta virtaa käynnistysmoottorin pyörittämiseksi.
 
 1. Tarkista Korkean Virran Liitännät
 Vaikka akku on uusi, huonot liitännät estävät virran kulkua, mikä aiheuttaa sen, että solenoidi vain naksahtaa.
@@ -90,18 +89,19 @@ Tällainen vika on usein listattu lähteissä oireena "Starter motor sluggish" (
   - PS. testaa, onko sivujalalla merkitystä, ei kyl pitäis olla.
 
 
-# Ohjeita
-
+# Yhteenvetoja - Ohjeita
 
 ## 8 Akku: latausmenettely
 
-Akun normaali kapasiteetti on 14 ampeerituntia. On sallittua ladata akkua hätätilanteessa nopeammalla latausnopeudella, mutta tämä lyhentää akun käyttöikää ja sitä tulisi välttää. Tästä syystä on suositeltavaa käyttää pienintä mahdollista latausnopeutta. Vältä huoltoasemien tarjoamia “pikalaatus”-palveluja — ne kyllä lataavat akun nopeasti, mutta samalla ylikuumentavat sen ja voivat puolittaa sen käyttöiän.
+Akun normaali kapasiteetti on 14 Ah (ampeerituntia) ja 12V jännite. Akkua voi hätätilanteessa nopeammalla latausnopeudella, mutta tämä lyhentää akun käyttöikää ja sitä tulisi välttää. Tästä syystä on suositeltavaa käyttää pienintä mahdollista latausnopeutta. Vältä huoltoasemien tarjoamia "pikalataus"-palveluja. Saattavat tosin ylikuumentaa akun ja voivat puolittaa sen käyttöiän.
 
 Älä koskaan jätä poistamatta akun kennojen korkkeja tai tarkistamatta, että sivutuulettimen (tai ilmanpoistokanavan) aukko on auki ennen akun lataamista. Muuten latauksen aikana syntyvä kaasu saattaa rikkoa akun kotelon, mikä voi johtaa vakaviin seurauksiin.
 
-Älä yritä ladata akkua sen ollessa vielä paikallaan ja johdot kytkettyinä. Tämä johtaa vain jännitteen­säätimen/tasasuuntaajan rikkoutumiseen.
+Älä yritä ladata akkua sen ollessa vielä paikallaan ja johdot kytkettyinä. Tämä johtaa vain jännitteen­säätimen (regulator/rectifier) tai tasasuuntaajan rikkoutumiseen.
 
-Normaali latausnopeus akuille, joiden kapasiteetti on enintään 14 ampeerituntia, on 1½ ampeeria.
+- Sulakerasia löytyy yleensä akun tai istuimen läheltä. Joissakin malleissa sulakkeet ovat myös ohjaustangon alla pienessä kotelossa. Vinkki: Sulakerasian kansi on yleensä klipsillä kiinni, ja sen päällä lukee sulakearvot (esim. 10A, 15A). Tip: The fuse box cover usually has clips and often shows the fuse ratings (e.g., 10A, 15A).
+
+Normaali latausnopeus akuille, joiden kapasiteetti on enintään 14 ampeerituntia, on 1.5 ampeeria.
 
 ## 9 Sulake: sijainti, tehtävä ja vaihto
 
