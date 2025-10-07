@@ -6,8 +6,8 @@ tags:
   - Travelling
   - Motorcycle
 comments: false
-cover-img: /assets/pics/cover/e1024/e-IMG20240905194158.jpg
-thumbnail-img: /assets/pics/thumbnail/e640-direct/2025/e-IMG20240811115233.jpg
+cover-img: /assets/pics/cover/e1024/e-IMG20250921172032.jpg
+thumbnail-img: /assets/pics/thumbnail/e640-direct/2025/e-IMG20250802161455.jpg
 published: true
 ---
 
