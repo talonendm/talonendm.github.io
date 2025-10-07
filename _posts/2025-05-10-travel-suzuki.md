@@ -11,6 +11,8 @@ thumbnail-img: /assets/pics/thumbnail/e640-direct/2025/e-IMG20250802161455.jpg
 published: true
 ---
 
+"Popular Mechanicsin kirjoittaja Wallace Wyss esitti 1973, että termi café racer syntyi alun perin vastapariksi road racerille, joiden omistajat ajelivat kahvilasta toiseen ikinä kilpailematta." [Kahvilakilpuri](https://fi.wikipedia.org/wiki/Kahvilakilpuri) Lue lisää [wikipediasta](https://en.wikipedia.org/wiki/Caf%C3%A9_racer).
+
 # Suzuki Gs 450
 
 - 98885.1 (5/2025)
