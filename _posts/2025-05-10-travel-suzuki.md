@@ -89,6 +89,16 @@ Ennen kokoamista tarkista O-renkaiden ja öljytiivisteiden kunto molemmista päi
 Tarkista myös alusrikat (shimsit), joita on ankkurin molemmissa päissä, ja kokoa moottori ohjeen kuvan mukaisesti. Päätykannen asennus voi olla hankalaa, koska se täytyy sovittaa harjapidinkokoonpanon yli. Varmista, ettei kansi osu harjoihin ja että moottorin rungossa oleva kohdistustappi osuu päätykannen uraan. Sama kohdistusperiaate pätee vastakkaiseen kanteen.
 
 
+Starter motor - potential options
+
+[Nakkilan pyörä ja mopo](https://www.npm.fi/fi/varaosa-luettelot/suzuki/450-cc/gs-450/18-kaynnistinmoottori): katso myös räjäytyskuva.
+
+[Moottorikäynnistin Suzukille 31100-27A00 31100-20C00 31100-20C01 31100-27A01-H17 Fedex Express](https://viprh.com/fi-fi/products/moottorin-kaynnistin-suzuki-31100-27a00-31100-20c00-31100-20c01-31100-27a01-h17-fedex-express?country=FI&gad_campaignid=21931448812&gad_source=1&gbraid=0AAAAA-NwHavD993oVAnh4aP0dbCbNvK6e&gclid=Cj0KCQjw9JLHBhC-ARIsAK4PhcqJRrIgcfI-BeaPbfHhawENeYVwJ9Qe--jppdAJ0uNwrDMaDo13XRwaAn3VEALw_wcB&stkn=14814d335ff6&utm_campaign=Google+Shopping&utm_medium=cpc&utm_source=google&variant=41114413826187)
+
+[Sixty5 Starttimoottori Suzuki KATANA GSX600F 88-97](https://www.karkkainen.com/verkkokauppa/sixty5-starttimoottori-suzuki-katana-gsx600f-88-97?id=103366403&gad_source=1&gad_campaignid=16014351047&gbraid=0AAAAAD6HXy5I2KTG5jqo6lgkORX286X90&gclid=Cj0KCQjw9JLHBhC-ARIsAK4PhcpxNFFk-H6ADD1ouHffMYl0gFWB93pILpKTgzEtkQl5A9uP9Yhb7HMaAirMEALw_wcB)
+
+[31100-15H00 Moottoripyörän käynnistysmoottori Suzuki GSX1300 GSX1300R:lle](https://www.onbuy.com/fi/p/31100-15h00-moottoripyoran-kaynnistysmoottori-suzuki-gsx1300-gsx1300rlle~p144355340/?exta=gshplfi&bidnamic_id=(gclid)&exta=gshplfi&extac=price_segment_90&gad_source=1&gad_campaignid=23066013513&gbraid=0AAAAACRXwGLPMBtgt2GbGcRAn5PXurSHH&gclid=Cj0KCQjw9JLHBhC-ARIsAK4PhcrgnZv31dcwu__IaREVFTYCY7OZ4ATxXy90t0lrLGdh4FYlEvvL3DoaAt-sEALw_wcB)
+
 ## Ongelmat 
 
 - 4.10.2025: 
