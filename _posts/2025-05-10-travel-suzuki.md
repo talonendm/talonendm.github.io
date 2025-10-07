@@ -25,6 +25,69 @@ published: true
   -  YTX-BS 12V 8,4V
      -  [Suomenakut](https://www.suomenakut.fi/akut-ja-paristot/yuasa-mp-akku-ytx9-bs-12v-8-4ah-150x87x105-cca-135a/p/5050694001871/?utm_campaign=VK+PMax%3A+Akut+Smart+Shopping+NH+%5B100008229%5D&utm_source=google&utm_medium=cpc&utm_term=5050694001871&utm_content=5362025-e1-nx-m-c17618339406-g-a-uCjwKCAjw6P3GBhBVEiwAJPjmLs01K2W4ZGcen6w5-KLqj_EUyZuC4PblWMqWjOYPJPTIL5-b5yiPFBoCNw4QAvD_BwE-cat-k5050694001871-mod&gad_source=1&gad_campaignid=17182780075&gbraid=0AAAAACeR8Aj4ive6h-s0N_QdBD3JWN9_x&gclid=CjwKCAjw6P3GBhBVEiwAJPjmLs01K2W4ZGcen6w5-KLqj_EUyZuC4PblWMqWjOYPJPTIL5-b5yiPFBoCNw4QAvD_BwE)
 
+## Huolto - Starttimoottorin putsaus
+
+Käynnistinmoottorin irrottamiseksi katkaise ensin virta irrottamalla akun positiivinen johto, jotta sähköjärjestelmä eristyy. Poista sitten käynnistinmoottorin suojalevy ja irrota paksu virtakaapeli moottorin liittimestä. Käynnistinmoottori on kiinnitetty kampikammioon kahdella pultilla, jotka kulkevat laipassa olevan päätykannen läpi. Irrota nämä pultit ja siirrä moottoria oikealle, kunnes se osuu kotelon seinämään. Tämän jälkeen nosta moottorin oikea pää ylös ja irrota koko yksikkö. Jos moottori on tiukassa, voit käyttää puista vipuvartta moottorin etukannen ja vaihteistokotelon välissä. Ole varovainen, jotta ettet vahingoita osia.
+
+![i.01](/assets/pics/thumbnail/e640-direct/2025/gs1.jpg){: .mx-auto.d-block :}
+
+![i.02](/assets/pics/thumbnail/e640-direct/2025/gs2.jpg){: .mx-auto.d-block :}
+
+![i.03](/assets/pics/thumbnail/e640-direct/2025/gs3.jpg){: .mx-auto.d-block :}
+
+![i.04](/assets/pics/thumbnail/e640-direct/2025/gs4.jpg){: .mx-auto.d-block :}
+
+Tämä mötikkä pitää irroittaa, jotta starttimoottorin saa irti. Luultavasti on jokin huohotusputki tms. Todella ahdas väli ja on käytettävä niveltä. 
+
+![i.05](/assets/pics/thumbnail/e640-direct/2025/gs5.jpg){: .mx-auto.d-block :}
+
+![i.06](/assets/pics/thumbnail/e640-direct/2025/gs6.jpg){: .mx-auto.d-block :}
+
+![i.07](/assets/pics/thumbnail/e640-direct/2025/gs7.jpg){: .mx-auto.d-block :}
+
+![i.08](/assets/pics/thumbnail/e640-direct/2025/gs8.jpg){: .mx-auto.d-block :}
+
+![i.09](/assets/pics/thumbnail/e640-direct/2025/gs9.jpg){: .mx-auto.d-block :}
+
+![i.10](/assets/pics/thumbnail/e640-direct/2025/gs10.jpg){: .mx-auto.d-block :}
+
+![i.11](/assets/pics/thumbnail/e640-direct/2025/gs11.jpg){: .mx-auto.d-block :}
+
+Puhdista osat paineilmalla ja esimerkiksi brake cleanerilla. Käytettiin non-static hiekkapaperia, puukon kärjellä sai kuparien välistä hiilitöhnää pois.
+
+![i.12](/assets/pics/thumbnail/e640-direct/2025/gs12.jpg){: .mx-auto.d-block :}
+
+![i.13](/assets/pics/thumbnail/e640-direct/2025/gs13.jpg){: .mx-auto.d-block :}
+
+Ennen asentamista. Kannattaa testata ylimääräisellä akulla. Käytettiin vanhaa starttiakkua. Esimerkiksi vapaa-ajan akku ei käynyt sillä ei anna riittävää virtaa moottorille. Kipinä tuli ja putsattiin moottori uudelleen. Voi olla, että olisi toiminut. Asentaminen paikallinen kuitenkin niin suuri vaiva, että kannattaa testata ennen uudelleen kiinnittämistä. Pidä moottorista kiinni, kun kiinnität kaapelit. Ensin + ja sitten lopuksi - starttimoottorin runkoon. Apukädet tarpeen tässä vaiheessa.
+
+![i.14](/assets/pics/thumbnail/e640-direct/2025/gs14.jpg){: .mx-auto.d-block :}
+
+![i.15](/assets/pics/thumbnail/e640-direct/2025/gs15.jpg){: .mx-auto.d-block :}
+
+![i.16](/assets/pics/thumbnail/e640-direct/2025/gs16.jpg){: .mx-auto.d-block :}
+
+![i.17](/assets/pics/thumbnail/e640-direct/2025/gs17.jpg){: .mx-auto.d-block :}
+
+Starttimoottori, akku lähes loppuun käytetty. Toimi kuitenkin testaamiseen. Ja starttimoottori lähti pyörimään. Pultit kiinnitetty akkuun, sillä irtokaapelit sen verran järeät.
+
+Yleisiä ohjeita, mutta tällä kertaa riitti putsaus.
+
+Useimmiten käynnistinmoottorissa huoltoa tarvitsevat harjat. Moottorin päätykannet on kiinnitetty kahdella pitkällä ruuvilla, jotka kulkevat rungon läpi. Kun ruuvit poistetaan, päätykansi voidaan irrottaa ja harjanpidinlevy tulee näkyviin.
+
+Pienellä talttapäällä nosta varovasti harjaa painavan jousiklipsin päätä ja vedä harja pois pidikkeestään. Mittaa harjan pituus: jos se on alle 9,0 mm (0,4 tuumaa), harja on vaihdettava.
+
+Ennen uusien harjojen asentamista varmista, että kommuttaattori on puhtas. Kommuttaattori koostuu kuparisegmenteistä, joita vasten harjat painautuvat. Puhdista se lasipaperilla (ei hiomapaperilla tai “wet-and-dry”-paperilla), koska hiomajyvät voivat jäädä kupariin ja kuluttaa harjat ennenaikaisesti. Kiillota lopuksi pinta metallinkiillotusaineella ja pyyhi se spriillä kostutetulla liinalla, jotta pinnasta tulee rasvaton.
+Tarkista myös mikaneristeet segmenttien välissä - niiden tulisi olla vähintään 0,2 mm (0,008 tuumaa) syvemmällä kuin kupari. Jos näin ei ole, vie ankkuri (armatuuri) Suzuki-huoltoon tai sähköalan asiantuntijalle urituksen uusimista varten.
+
+Asenna harjat takaisin pidikkeisiinsä ja varmista, että ne liukuvat vapaasti. Jos asennat vanhat harjat, ne on asetettava alkuperäisiin paikkoihinsa, sillä ne ovat kuluneet kommuttaattorin muotoon.
+
+Jos moottori vaikuttaa vikaantuneelta, poista ankkuri ja mittaa sen sähköinen jatkuvuus ja eristys yleismittarilla. Varmista, että kommuttaattorin segmenttien välillä on tasainen vastusarvo, ja että segmenttien ja ankkurin ytimen välillä on täydellinen eristys. Mikäli eristys- tai jatkuvuusvika havaitaan, ankkuri on vaihdettava.
+
+Ennen kokoamista tarkista O-renkaiden ja öljytiivisteiden kunto molemmista päistä. Jos jokin niistä on kulunut, vaurioitunut tai haurastunut, se on vaihdettava. Tiiviste voidaan irrottaa varovasti pienellä talttapäällä, varoen vaurioittamasta pehmeitä alumiinipintoja. Asenna uusi tiiviste suorassa, voitele sen ulkopinta moottoriöljyllä ja sivele ohut öljykerros tiivistehuuleen ennen kokoamista.
+
+Tarkista myös alusrikat (shimsit), joita on ankkurin molemmissa päissä, ja kokoa moottori ohjeen kuvan mukaisesti. Päätykannen asennus voi olla hankalaa, koska se täytyy sovittaa harjapidinkokoonpanon yli. Varmista, ettei kansi osu harjoihin ja että moottorin rungossa oleva kohdistustappi osuu päätykannen uraan. Sama kohdistusperiaate pätee vastakkaiseen kanteen.
+
 
 ## Ongelmat 
 
