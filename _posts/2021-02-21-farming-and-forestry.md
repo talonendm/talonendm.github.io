@@ -195,6 +195,8 @@ jos saa diilin, 10 snt/kWh, paljon kustannukset laskevat? ks. [private ta.dm](ht
 - 21.8.2025: kompostorin tyhjennys (2) -> 1 ja 3, [private ta.dm](https://docs.google.com/spreadsheets/d/1KrexxRqigmjHFJtK63wTE1OMzwcuNP3AaVYRwfUuqag/edit?usp=sharing)
 - 27.9.2025: kompostorit 1 ja 3 kasvimaalle
 - 27.9.2025: keltakukkien siemeniä ja papuja talteen. Isosta omenapuusta ei tullut oikeastaan ollenkaan omenoita, eikä siis muumioita. Punainen omenapuu, ihan ok sato. Hirvieläimet käyvät syömässä omenoita.
+- 19.10.2025: Paleltuneet vihreät paprikat. 1h Katolla. Korkit. Ruohonleikkuu. Halkovarastosiivous. Kompostoreihin kuivia lehtiä.
+- 26.10.2025: Kurkut 2kpl, siemenet talteen. Kasvulaatikoihin ylivuoto reiät poralla. 
 
 # 2024
 
