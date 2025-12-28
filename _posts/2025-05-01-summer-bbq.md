@@ -14,6 +14,22 @@ published: true
 
 # Traeger Pro Series 22 
 
+## Christmas Fish (pakastimesta 2 lohifileetä)
+
+- jääkaappiin edellisenä päivänä
+- huoneen lämpöön.
+- posta ruodot
+- karkea suolaus
+  - pyrstöt 2kpl graavaukseen: karkea suola, valkopippuri, tilli, snadisti sokeria. 24-48 tuntia, syö 3-5 päivän kuluessa.
+- Treager Smoke asentoon.. kunnes savua, 86C alkuun..
+  - myöhemmin 104C
+  - GPT suositteli öljyä, kala oli kyllä rasvainen
+    - Alder tai Apple purut, mulla kait jotain generalii
+- Lämpötila 55C-60C eli noin 45-60 minuuttia
+- laita vuokaan ja folio kevyesti päälle
+  - anna vetäytyä 5 minsaa
+
+
 ## Cooking 
 
 ### Porsaan Kassler 2.3kg ja 2.5kg

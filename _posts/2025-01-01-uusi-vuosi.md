@@ -6,6 +6,7 @@ tags:
   - uusi vuosi
   - suomi
   - links
+  - QR
 comments: false
 cover-img: /assets/pics/cover/photo/newyear2020v2.JPG
 thumbnail-img: /assets/pics/thumbnail/photo/varjo.JPG
@@ -44,6 +45,7 @@ git push git@github-talonendm:talonendm/talonendm.github.io.git
 
 # AI
 
+- p5editor: [QR-code](https://editor.p5js.org/haques/sketches/7MFcdhJPu)
 - [NotebookLM](https://notebooklm.google.com/)
   - ja.ta, ta.ja, vaaka, ta.dm: note change language if needed from app (ENG / FIN).
   - ja.ta: 250625, helikopteripeli2.pde ja info.pde. [results and info howto](https://talonendm.github.io/2020-11-29-helicopter/)
@@ -181,6 +183,31 @@ Aurinkopaneelien hinta vaihtelee laajalti Suomessa, mutta keskimäärin voit odo
   
 
 # Laitteet
+
+## Älypistorasia
+
+- Deltaco Smart Home LED-merkkivalo WiFi 2.4GHz, 10A älypistorasia - Musta ([tekniikkaosat](https://www.tekniikkaosat.fi/tuote/deltaco-smart-home-led-merkkivalo-wifi-2-4ghz-10a-alypistorasia-musta)) 12/2025
+  - Huom! Google Router toimii molemmissa 2.4 ja 5.0ghz eikä sitä voi säätää. Yhdistäminen verkkoon hankalaa. GPT:n vinkit. Asennusta aloittaessa, Bluetooth tunnistamisen jälkeen siirry kauemmaksi älypistorasiasta asennuksen aikana. Tällöin käytetään 2.4ghz ja asetus onnistuu. Tämän jälkeen voi käyttää normaalisti ja toimii kotiverkossa.
+  - Löytyi Google Home -apista ja voi laittaa päälle sekä pois
+  - ihan hyvät ajatustoiminnot pistorasiassa (251216)
+  - SH-P01M Smart Mini Plug sisäkäyttöön
+    - Tehdasasetusten palauttaminen ja yhdistäminen. Pidä 5 sec. virtanappia pohjassa.
+    - Asenna eka Deltaco app ja tee tili, sitten vasta Google Homeen.
+- Akku 1 kpl BL-4C vaihtoakku Doro-kännykkään 12/2025
+
+
+## Kaarisaha
+
+- 30'' 760 mm keltainen
+- G-Man Type G40H terä puuilosta 4.95e 12/2025. Bow Saw Blade 
+
+## Sähköpyörä valkoinen
+
+- renkaan paikkaus: 3 nastan reikää. 12/2025.
+  - 04/22
+  - 2A4 28" 
+  - 28/47-622/636
+  - 28x1.10-1.75
 
 ## Pro 22 Traeger
 
