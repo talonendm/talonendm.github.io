@@ -8,6 +8,17 @@ tags:
 ---
 
 
+
+# 2026
+
+- [Ping Pong 1 player](https://talonendm.github.io/ballrotation/pingpong/1/index.html)
+  - Arrows
+- [Ping Pong 2 players](https://talonendm.github.io/ballrotation/pingpong/2/index.html)
+  - w and s OR Arrows
+- [Darts](https://talonendm.github.io/ballrotation/darts/index.html)
+  - web cam and posenet
+  - under construction
+
 # 2025
 
 - [https://talonendm.podbean.com/](https://talonendm.podbean.com/)
