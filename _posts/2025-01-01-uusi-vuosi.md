@@ -162,6 +162,7 @@ git push git@github-talonendm:talonendm/talonendm.github.io.git
 
 # Links - stuff
 
+- Aurinkopaneelista autokatos. Tee kattopuista kehikko
 - [Car oma - Beach Tour California](https://talonendm.github.io/2022-02-19-car/)
 - [Teravoima](https://www.teravoima.fi/) akku
 - [Stylophone](https://stylophone.com/tabs/)

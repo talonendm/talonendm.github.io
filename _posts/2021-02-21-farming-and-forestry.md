@@ -146,6 +146,25 @@ jos saa diilin, 10 snt/kWh, paljon kustannukset laskevat? ks. [private ta.dm](ht
 4. Täytä öljyllä ylärajamerkkiin asti. Kierrä öljyntäyttöaukon tulppa kiinni. [HRS536C](https://www.hondapower.fi/content/download/23222/194031/file/HRS536C.pdf) 
 
 
+
+# 2026
+
+- 13.3.2026 PE: metsähommia. Ohjeita, vänkärin käyttö: [Metsolan Metsäkoulu 21, Eritasosahaus vänkärille.](https://www.youtube.com/watch?v=kV3j1HvVOlA)
+  - Fiskars kaatovänkä [WoodExpert L](https://www.puuilo.fi/fiskars-kaatovanka-woodexpert-l)
+- kirsikkapuun leikkaus
+- nuorten omenapuiden leikkaus
+- Minikasvihuoneet, siemeniä rullalle pyttyyn
+- 13.3.2026: leppä kaukokulkeutunut. Allergia aloituettu. LLL https://norkko.fi/
+- ison omenapuun leikkaus
+- 21.3.2026: paprika osaan minikasvihuoneita. Taimien kasvatus
+- 23.2.2026: majhlaa tiputtaa isokoivu, toisesta ei tule
+- 23.3.2026: "Ruusupapu (Phaseolus coccineus) on nopeakasvuinen köynnös, joka kylvetään touko-kesäkuussa maan lämmettyä (+15°C) tai esikasvatetaan sisällä huhti-toukokuussa. Liota siemeniä 1 vrk ennen kylvöä, kylvä 2–3 cm syvyyteen ja pidä multa kosteana." Ruusupapu kasvaa vauhdilla 5.15l vesipöntössä ikkunalaudalla. 
+- Kasvimaan lähellä olevan ruusun siistiminen. Terasssialueelle tulevat oksat poikki
+- 24.3.2026: ruusupapu siirto kahteen valkoiseen leveeseen ruukkuun
+- 24.3.2026: mahla 4 litraaa 18mm reikä (liian iso, elmukelmua tiivisteeksi) --> kirkasta. 13mm reikä vanhaan koivuun, noin 1litra, ja rusehtavaa. Voi olla että puun ikä ja se, että on kosketuksissa koivun ulkokuoreen ennen putkeen menoa värjää mahlan. Maku melko sama.. jopa parempi kuin tuossa elmukelmuvaihtoehdossa. 
+- 27.3.2026: Hake kompostorit 1 ja 2 (pihlaja tms. omenapuun oksat silpuksi)
+- TODO: Talon edustalla japanin kukka (keikkaus)
+
 # 2025
 
 - TODO: leikkaa ison omenaapuun oksat, jotka yltävät alppiruusun yläpuolelle. Omenoiden kerääminen hankalaa ja osa muumioituu pensaan sisällä. Omenoita saa tosin nykäistyä itsetehdyllä valkoisella jatkovartisella perhoshaavilla. Jakkaralta pihtien kanssa onnistuu muumio-omenoiden kerääminen elokuussa.

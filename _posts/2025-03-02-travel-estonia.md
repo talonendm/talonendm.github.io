@@ -35,6 +35,22 @@ Embarking on a family journey from Helsinki to Tartu offers a delightful blend o
 - [Puskaparkit Google Maps](https://goo.gl/maps/xu1sYunUT5A93aTD6)
   - [Puskaparkit app (in browser)](https://puskaparkit.fi/)
   
+
+### Vakuutus
+
+#### Liikennevakuutus
+
+"Liikennevahingot ratkaistaan yleensä vahingon sattumismaan säännösten mukaan.
+ETA-alueiden ulkopuolella liikennevahingon korvausmäärät ovat huomattavasti suppeammat. Selvitä vakuutusyhtiöstä lisäturvan tarve." (pohjola 2601)
+
+#### Autovakuutus (vapaaehtoinen vakuutus)
+
+- Pohjoismaiden ulkopuolella ajoneuvovahingoissa omavastuu voi olla normaalia suurempi. Tarkasta omavastuu vakuutusehdoista ja vakuutuskirjalta ennen matkaa ulkomaille.
+- Moottoripyörälle tai henkilöautolle Virossa, Latviassa, Liettuassa, Puolassa, Venäjällä, Valko-Venäjällä, Ukrainassa tai Moldovassa sattuneessa varkausvahingossa omavastuu on 20 % vahingon määrästä, kuitenkin vähintään 600 euroa.
+- Yksityiskäyttöisen moottoripyörän tai henkilöauton osakaskon varkausvakuutus ei ole voimassa Venäjällä, Valko-Venäjällä, Ukrainassa, Moldovassa, Virossa, Latviassa, Liettuassa ja Puolassa. Varkausvakuutusta ei voida laajentaa näihin maihin.
+- Osakaskon autopalveluvakuutus on voimassa vain Suomessa, Ruotsissa, Norjassa ja Tanskassa sekä näiden maiden välisessä kuljetuksessa. (pohjola 2601)
+
+
 ## Day 1: Helsinki to Tallinn via Tallink Ferry
 
 **Morning**: Begin your adventure by boarding the Tallink ferry from Helsinki to Tallinn. The ferry ride provides comfortable amenities and picturesque views of the Baltic Sea.
