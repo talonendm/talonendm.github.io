@@ -15,13 +15,36 @@ published: true
 
 Hyvää uutta vuotta 2026! 
 
+# todo
+
+## vappu 2026
+
+- tiktok vesiputkesta ilmapallotorvi. Pätkä putkea ilmapalloon. Teikka kiinni isompaan putkeen - tööt
+- 512 Ankallisgalleria taskari
+  - lahja, mude tai vabu
+- [Kalastonhoitomaksu](https://www.eraluvat.fi/kalastus/kalastonhoitomaksu) 47e
+
+# Safka - reteatteri move
+
+- Shii 10/2025
+  - Mirin, soija fifty-fifty
+  - marinoi keltuainen ja syö illalla
+  - tonnikala tako
+  - hattarakone ja lohi
+
 # Links
 
+- member+ [ruka C9 Kanerva](https://memberplus.fi/lomahuoneisto/ruka-2)
 - historialliset satelliittikuvat [google.earth](https://earth.google.com/)
 - Heureka [NOX](https://www.heureka.fi/blogs/ajankohtaista/nox)
   - NOX-tiedeilta 27.3. klo 18–22 teemalla mielenterveys
 - [Vintero](https://vintero.fi/)
 - flixonase nenäsumu ja [norkko](https://norkko.fi/)
+
+
+## oikeus
+
+- Pariskunta myi niin karmean hometalon, että siitä tuomittiin vankeutta [3/2026 IL](https://www.iltalehti.fi/kotimaa/a/34d1080c-0b17-4f8d-8a14-02202f72c271)
 
 ## sportti
 

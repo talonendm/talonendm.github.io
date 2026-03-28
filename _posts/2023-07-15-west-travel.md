@@ -118,6 +118,7 @@ A serendipitous pause emerged when they chanced upon the hidden gem of Eura. Tim
 
 Eura has a history of industrial activity spanning over 300 years. The Kauttua Ironworks was established in 1689 by [Baron Lorenz Creutz](https://fi.wikipedia.org/wiki/Lorentz_Creutz). Notable modern industrial structures in the area include the world-famous Alvar Aalto Terrace House and [Villa Ahlström](https://www.eura.fi/kulttuuri-ja-vapaa-aika/kulttuuri/euran-100-helmea/villa-ahlstrom/), now used by the Pyhäjärvi Institute.
 
+- Euran kemikalio
 - [Foreca Eura](https://www.foreca.fi/Finland/Eura)
 - Kiperi
 - Euran urheilukenttä

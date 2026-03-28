@@ -14,6 +14,19 @@ published: true
 
 # Traeger Pro Series 22 
 
+## Possun filee 5.95e x 2 (3/2026)
+
+Mukaillein poppamies [ohjetta](https://poppamies.fi/reseptit/savustettu-pulled-pork/)
+
+- klo07 lämpimään ja n. 150g 3.6kg lihaa popamies. lihan kuivaus ja sit hieronta mustassa metallissa vuoassa.
+- grilli päälle klo08.. smoke asento alkuun ja mittarit valmiiksi ym. putsaus. hallilla
+- klo855 hae pellettejä . klo0910 peuramaalle
+- takaisin.. kostutus 1-1.5 h välein
+- klo14: mittarit: 65c ja 63c
+- klo1510: mittarit: 69c ja 68 folio
+  - jonkin aikaa
+  - hajos haarukalla. Poppamies soosia. Osa pakkaseen ja loput burstan välissä
+
 ## Christmas Fish (pakastimesta 2 lohifileetä)
 
 - jääkaappiin edellisenä päivänä
