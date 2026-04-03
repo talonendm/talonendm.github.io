@@ -30,7 +30,7 @@ Hyvää uutta vuotta 2026!
   - Mirin, soija fifty-fifty
   - marinoi keltuainen ja syö illalla
   - tonnikala tako
-  - hattarakone ja lohi
+  - hattarakone ja lohi 
 
 # Links
 
@@ -77,6 +77,31 @@ Standard height from the floor to the bullseye on the dartboard is 5 feet 8 inch
 # Car
 
 ## Hyundai Ioniq9
+
+- Hyundai Ioniq 9 – isoa mukavaa vaivattomilla sähköillä [moottori.fi](https://moottori.fi/koeajo/koeajo-hyundai-ioniq-9-isoa-mukavaa-vaivattomilla-sahkoilla/)
+  - Mittaristonäyttö on 12,3 tuumaa
+  - Auton puheohjausta voi käyttää suomeksi, mutta englanniksi käytössä on Hyundai AI Assistant, joka osaa hyödyntää ChatGPT:tä jonninjoutavuuksien etsinnässä. 
+  - kojelaudassa Santa Fen tapaan UV-C-ultraviolettivaloa käyttävä desinfiointilokero esimerkiksi älypuhelimelle. 
+  - Kuusipaikkaisessa versiossa myös keskirivin istuimet ovat Hyundain mukavammat Premium Relaxation -istuimet etuistuinten tapaan.
+  - Tavaratilaa on 338 litrasta aina 2 419 litraan, riippuen istuinten asennosta. Lisäksi käytössä on 52-litrainen etutavaratila nelivedossa, takavedon saadessa hiukan lisää tilaa. Vetokyky on nelivedossa 2 500 kg. 
+  - yli 100 kW lataustehon vielä 75% varauksessa. Hyundain mukaan 10-80% lataus vie 24 minuuttia.  Type 2 -latauksen huipputeho on 11 kW. 
+- Nappanahkaa ja leivänmuruja [TM](https://tekniikanmaailma.fi/lehti/18b-2025/koeajo-hyundai-ioniq-9-nappanahkaa-ja-leivanmuruja/)
+  -  Lokeron koko on 52 litraa, joten se on kätevimmillään esimerkiksi latauskaapelien kuljetukseen.
+- Ioniq 9 on Hyundain kallein malli – Jättimäinen sähkötila-auto hurmaa mukavuudella, mutta kokemus on persoonaton ja kulutus kova [apu](https://www.apu.fi/artikkelit/hyundai-ioniq-9-428-hv-jatti-on-mukava-iso-koko-kova-kulutus)
+  - b 
+
+## 30.3
+
+- peräkoukku. Irroitettava. Myös pistoke kääntyy piiloon ja vapautetaan napilla
+- myHyundai app
+- kortti aktivoitu
+- palvelu 6kk
+- talvirenkaat 20''
+- kesärenkaat 21'' 285
+- usb-c
+  - mobile to hard drive T7 500gb mustapiuha. Samsung 12/2020 to car.
+- Iso 110 kWh:n akku, 800 voltin järjestelmä mahdollistaa nopean latauksen [nettiauto](https://www.nettiauto.com/artikkeli/koeajo_valtava_sahkomaasturi_hyundai_ioniq_9_tuo_kodin_mukavuudet_tien_paalle)
+
 
 # vero
 

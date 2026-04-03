@@ -163,7 +163,12 @@ jos saa diilin, 10 snt/kWh, paljon kustannukset laskevat? ks. [private ta.dm](ht
 - 24.3.2026: ruusupapu siirto kahteen valkoiseen leveeseen ruukkuun
 - 24.3.2026: mahla 4 litraaa 18mm reikä (liian iso, elmukelmua tiivisteeksi) --> kirkasta. 13mm reikä vanhaan koivuun, noin 1litra, ja rusehtavaa. Voi olla että puun ikä ja se, että on kosketuksissa koivun ulkokuoreen ennen putkeen menoa värjää mahlan. Maku melko sama.. jopa parempi kuin tuossa elmukelmuvaihtoehdossa. 
 - 27.3.2026: Hake kompostorit 1 ja 2 (pihlaja tms. omenapuun oksat silpuksi)
-- TODO: Talon edustalla japanin kukka (keikkaus)
+- 29.3.2026: Talon edustalla Syyshortensian leikkaus, 2-4. silmuparin yläpuolelta, niistä kohdin jossa kuivunut kukinta. (leikkaus)
+- 29.3.2026: altakastelu ruukkuun kääretortusta 2 hernettä-. Loput herneet homehtu, luultavati liian syvällä mullassa.
+- maanpeittokasvin harvennusta rappusten luota
+- trampoinin kehikon siirto
+- 1.4.2026 Uusi akku traktoriin
+  - Motonet mtx moottoripyötä - ja pienkoneakku (ensin - irti ja sitten +) latauts kun napajännite laskenut 12V akussa alle 12,4V. Talven aikana vähintään lataus joka 3. kuukausi. 12V 28A U1R (right +) [MTX Energy Garden-akku 12V 28Ah U1R-9 SLA](https://www.motonet.fi/tuote/mtx-energy-garden-akku-12v-28ah-u1r-9-sla?product=90-1071)
 
 # 2025
 
