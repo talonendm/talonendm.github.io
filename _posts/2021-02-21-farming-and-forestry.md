@@ -169,6 +169,14 @@ jos saa diilin, 10 snt/kWh, paljon kustannukset laskevat? ks. [private ta.dm](ht
 - trampoinin kehikon siirto
 - 1.4.2026 Uusi akku traktoriin
   - Motonet mtx moottoripyötä - ja pienkoneakku (ensin - irti ja sitten +) latauts kun napajännite laskenut 12V akussa alle 12,4V. Talven aikana vähintään lataus joka 3. kuukausi. 12V 28A U1R (right +) [MTX Energy Garden-akku 12V 28Ah U1R-9 SLA](https://www.motonet.fi/tuote/mtx-energy-garden-akku-12v-28ah-u1r-9-sla?product=90-1071)
+- 3.4.2026 pitkäperjantai: kasvit hallille pois ikkunalaudalta 
+- 8.4.2026 herttavourenkilpi.. osa kylmällä vedellä pesu ja lout kiehautus vedesä.. roskien poisto ja uuniin 50C ja siitä takan päälle kuivumaan.
+- 12.4.2026 Raparperit pilkistävät. 40 l multaa päälle. Sammaleen rapsutus pois eka.
+- 14.4.2026 tie routinut keskeltä. Lapiolla raastamista. Uriin lopuksi hiekoitussepeliä. Ihan ok kunnostus.
+- 17.4.2026 lämminpäivä. Trampoliini 4 säkkiä bioroskiksila. Yhteen retiisi 2022, kahteen kulahtnutta Big Maxia, ja yhteen uudempaa Big maxia. Hallin itäpuolelle kasvulaatikkoon Korianteria. Talon edustalle länteen salaattimix, keskelle jäävuorisalaatti ja pohjoisimmalle 3. sektorille vihanneskrassia.
+- Lämpimiä päiviä, mutta pakkasta luvattu vielä. Perunan voi istuttaa jo nyt, vaikka viikon päästä olisi tulossa useita yöpakkasia, kunhan huomioi muutaman asian: tärkeintä on, että siemenperunat istutetaan riittävän syvälle (noin 8–10 cm) ja peitetään kunnolla mullalla tai harjulla, sillä maan alla ne kestävät kylmää varsin hyvin eikä pakkanen yleensä vahingoita niitä ennen kuin versot ovat nousseet pintaan; jos maa on kuitenkin vielä kylmää ja märkää, istutusta kannattaa lykätä, mutta jos maa on kuiva ja muokattava, istutus onnistuu jo nyt, ja lisäsuojaksi voi halutessaan käyttää harsoa, jolloin mahdolliset pakkaset eivät hidasta kasvua merkittävästi. 
+- Istutussäkkeihin voit kylvää melko turvallisesti jo nyt, mutta kasvien kylmänkestävyys vaihtelee: salaatti, retiisi ja vihanneskrassi kestävät viileää hyvin ja jopa pienet yöpakkaset (noin [−2, −4] °C) menevät yleensä ilman ongelmia, joten ne voi kylvää huoletta, kunhan multa ei jäädy kokonaan; korianteri sietää viileää kohtalaisesti, mutta ei pidä toistuvista pakkasista, joten se hyötyy harson tai muun suojan käytöstä; sen sijaan kurpitsa kuten Big Max on hyvin hallanarka, eikä sitä kannata kylvää ulos istutussäkkeihin ennen kuin yöpakkaset ovat ohi – sen voi esikasvattaa sisällä ja siirtää ulos vasta, kun lämpötilat pysyvät plussalla myös öisin.
+
 
 # 2025
 
