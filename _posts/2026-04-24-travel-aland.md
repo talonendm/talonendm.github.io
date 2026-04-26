@@ -59,20 +59,23 @@ Matkan varrella on satamia, ravintoloita ja majoitusta. Reitti sopii autoilijoil
 ## Kustavin kautta
 
 Reitti kulkee Kustavin kautta Iniöön ja edelleen Houtskariin. Se muodostaa yhdessä Saaristotien kanssa Saariston rengastien.
-
 Reitin voi kulkea autolla tai pyörällä. Mukana on useita lauttayhteyksiä. Reitti yhdistää useita saaristokohteita.
 
+- [Iniön reitin lautat](https://www.rengastie.fi/iniontien-lautat/)
+  
 ## Kemiönsaaren kautta
 
 Reitti kulkee Kemiönsaaren kautta. Kasnäsistä lähtee yhteysaluksia ulkosaaristoon. Högsåraan pääsee Svartnäsistä.
-
 Alueella on satamia, luontokohteita ja majoitusta.
+
+- [Kemiönsaari](https://www.visitkimitoon.fi/fi/)
 
 ## Sisäsaaristoon Rymättylän kautta
 
 Rymättylästä pääsee yhteysaluksilla Turun ulkoilusaariin, kuten Pähkinäisiin ja Maisaareen.
+Autolla Rymättylään ja Aaslaan: Turusta ajetaan Naantalin kautta Rymättylään (seututie 189) ja edelleen Airismaan lossin kautta Aaslan saareen saakka, josta yhteysalukset lähtevät.
 
-Reitti sopii päiväretkiin.
+- Lossit ja yhteysalukset [naantali.fi](https://www.naantali.fi/fi/asuminen-ja-ymparisto/liikenne-ja-veneily/joukkoliikenne/lossit-ja-yhteysalukset)
 
 ## Maantielautat
 
