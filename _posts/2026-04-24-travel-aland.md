@@ -52,6 +52,10 @@ Reitti kulkee Turusta Paraisten kautta Nauvoon, Korppooseen ja Houtskariin. Muka
 
 Matkan varrella on satamia, ravintoloita ja majoitusta. Reitti sopii autoilijoille ja pyöräilijöille. Kesällä liikenne voi olla vilkasta.
 
+- Reitti on kierettävissä kauttaaltaan 8.5. – 13.9.2026 [parainen](https://visitparainen.fi/saariston-rengastie/)
+- Turusta Kaarinan, Paraisten, Nauvon ja Korppoon kautta Houtskarin Mossalaan. [rengatie.fi](https://www.rengastie.fi/saaristotie/)
+- Parainen-Nauvo [FinFerries](https://www.finferries.fi/lauttaliikenne/lauttapaikat-ja-aikataulut/parainen-nauvo.html)
+
 ## Kustavin kautta
 
 Reitti kulkee Kustavin kautta Iniöön ja edelleen Houtskariin. Se muodostaa yhdessä Saaristotien kanssa Saariston rengastien.
