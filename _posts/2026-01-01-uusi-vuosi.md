@@ -84,6 +84,12 @@ Finally, the speaker discusses the concept of technological singularity, where A
 
 - Telttakiuas Sawu [Kipakka](https://www.tori.fi/recommerce/forsale/item/16460268)
 
+# Kotiakku
+
+- Elisa [kotiakku](https://elisa.fi/kotiakku/) + aurinkopaneelit (hallin lähelle)
+  - Vai pitääkö olla päärakennuksella? Kellariin pelihyllyn tilalle. Ehkä 2027 / 2028
+
+
 
 # darts
 

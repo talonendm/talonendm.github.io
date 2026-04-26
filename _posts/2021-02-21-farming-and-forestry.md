@@ -176,7 +176,12 @@ jos saa diilin, 10 snt/kWh, paljon kustannukset laskevat? ks. [private ta.dm](ht
 - 17.4.2026 lämminpäivä. Trampoliini 4 säkkiä bioroskiksila. Yhteen retiisi 2022, kahteen kulahtnutta Big Maxia, ja yhteen uudempaa Big maxia. Hallin itäpuolelle kasvulaatikkoon Korianteria. Talon edustalle länteen salaattimix, keskelle jäävuorisalaatti ja pohjoisimmalle 3. sektorille vihanneskrassia.
 - Lämpimiä päiviä, mutta pakkasta luvattu vielä. Perunan voi istuttaa jo nyt, vaikka viikon päästä olisi tulossa useita yöpakkasia, kunhan huomioi muutaman asian: tärkeintä on, että siemenperunat istutetaan riittävän syvälle (noin 8–10 cm) ja peitetään kunnolla mullalla tai harjulla, sillä maan alla ne kestävät kylmää varsin hyvin eikä pakkanen yleensä vahingoita niitä ennen kuin versot ovat nousseet pintaan; jos maa on kuitenkin vielä kylmää ja märkää, istutusta kannattaa lykätä, mutta jos maa on kuiva ja muokattava, istutus onnistuu jo nyt, ja lisäsuojaksi voi halutessaan käyttää harsoa, jolloin mahdolliset pakkaset eivät hidasta kasvua merkittävästi. 
 - Istutussäkkeihin voit kylvää melko turvallisesti jo nyt, mutta kasvien kylmänkestävyys vaihtelee: salaatti, retiisi ja vihanneskrassi kestävät viileää hyvin ja jopa pienet yöpakkaset (noin [−2, −4] °C) menevät yleensä ilman ongelmia, joten ne voi kylvää huoletta, kunhan multa ei jäädy kokonaan; korianteri sietää viileää kohtalaisesti, mutta ei pidä toistuvista pakkasista, joten se hyötyy harson tai muun suojan käytöstä; sen sijaan kurpitsa kuten Big Max on hyvin hallanarka, eikä sitä kannata kylvää ulos istutussäkkeihin ennen kuin yöpakkaset ovat ohi – sen voi esikasvattaa sisällä ja siirtää ulos vasta, kun lämpötilat pysyvät plussalla myös öisin.
-
+- 25.4.2026 Annabelle 2.5kg (5.95e) kasvimaa kahteen itä-länsisuomi penkkiin. Lannoitus aiemmin, penkin kääntö ja vaot. Ohjeissa 15cm. syvyys, mutta laitoin noin 8 40l säkkiä multaa päälle. Syvyys ehkä 10cm. 
+  - yhteen penkkiin yksi sipulipussi.
+- "Retiisien kasvuaika kylvöstä satoon on alle 30 päivää. Kasvilavaan varhain toukokuussa. Aikaiset kylvöt kannattaa suojata harsokankaalla pakkasen varalta. Retiisi itää jo viiden asteen lämmössä (maan lämpötila)" [kotijakeittio](https://kotijakeittio.fi/artikkeli/nain-kasvatat-retiisia-6.165.123832.692b10c6c7#:~:text=Retiisien%20kasvuaika%20kylv%C3%B6st%C3%A4%20satoon%20on,l%C3%A4mmitettyyn%20kasvihuoneeseen%20jo%20huhtikuussa%20ja)
+  - Tämä on ollut ongelma: "Kaalikärpäsen toukat hakeutuvat juuristoon ja poraavat niihin reikiä. Tämän voi estää sillä, että ei kasvata retiisejä kaalien ja rucolan lähellä."
+    - EI VIELÄ
+- 26.4.2026 Tikkaterassin byggaus
 
 # 2025
 
