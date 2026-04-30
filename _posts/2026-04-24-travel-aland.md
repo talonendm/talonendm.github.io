@@ -46,6 +46,13 @@ Ahvenanmaan (Ahvenanmaa) erityisasema tarkoittaa, että se kuuluu Suomi:n ja Eur
 
 Saaristoon saapuminen [PDF private](https://drive.google.com/file/d/1SDI2RsvXsK8rMGmZY7Qwk9SbxQogfFUe/view?usp=sharing)
 
+- [rengastie kartta](https://www.rengastie.fi/)
+- auvo (pieni rengastie): Kesäisin m/s Östern (Finferries) kulkee reitillä Nauvo–Seili–Hanka. Liput ja varaukset kannattaa hoitaa m/s Östernin sivuilla.
+  - [Ostern](https://www.ostern.fi/aikataulut/)
+  - Autopaikkavarauksen alukselle voi tehdä vain
+    - Muut autot lastataan saapumisjärjestyksessä.
+    - Leiriytyminen ja ajoneuvon vieminen Seilin saarelle on kielletty
+
 ## Paraisten kautta (Saaristotie)
 
 Reitti kulkee Turusta Paraisten kautta Nauvoon, Korppooseen ja Houtskariin. Mukana on teitä, siltoja ja maksuttomia maantielauttoja. Reitiltä pääsee useille yhteysalusreiteille ulkosaaristoon.

@@ -99,7 +99,13 @@ Standard height from the floor to the bullseye on the dartboard is 5 feet 8 inch
 
 - Clas Ohlsson  8mm reikä, [levytulppa](https://www.clasohlson.com/fi/Levytulppa/p/40-9227) (ankkuri), ruuvi tasakanta iso 45mm 3kpl. Muista oikeanlainen ruuvi ja naputus kumivasaralla. 260413
 
+## Fitbit Charge 5
+
+- ranneke tilattu 260430 Alilta.
+
 # Car
+
+- poljin tassut tilattu 260430
 
 ## Hyundai Ioniq9
 
