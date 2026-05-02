@@ -182,6 +182,12 @@ jos saa diilin, 10 snt/kWh, paljon kustannukset laskevat? ks. [private ta.dm](ht
   - Tämä on ollut ongelma: "Kaalikärpäsen toukat hakeutuvat juuristoon ja poraavat niihin reikiä. Tämän voi estää sillä, että ei kasvata retiisejä kaalien ja rucolan lähellä."
     - EI VIELÄ
 - 26.4.2026 Tikkaterassin byggaus
+- 30.4.2026 hieman vielä mahlan tiputusta, mutta laatu ei enää ole hyvä. Koivuihin on tullut silmut.
+- 2.5.2026 [Zilga](https://www.viherpeukalot.fi/viinikoynnos-zilga-1) 9.99e viiniköynnös (Kasvukorkeus: 4-8 metriä) vanhalle rajatulle mansikkamaalle. Kaksi kärryllistä kasvimaalta multaa sekoitettuna 120l halpismultaa. Keskelle aluetta. Vettä kuoppaan, tasoitus ja katteeksi männynkäpyjä. Zildaa kaipaa happaman maan ja kohopenkin
+  - 2 x ruukkunarsissi, 0.50e kausi meni jo, lammen lähelle kosteaan maahan vanhojen narsissien viereen männyn kupeeeseen.
+- 2.5.2026 vanhan Zilgan siirto samaan isoon penkkiin kuin humalat. 40l multaa ja 45 musta multaa, jossa hieman matalampi pH. Kokopenkkiin ja siirto onnistui kuivan maan takia ihan kohtalaisesti. Hieman oli jo silmun alkua, mutta aika pitkän juuren sain otettua mukaan. Istutus kuitenkin tehty (May - Toukokuu 2021) ja vain mini rypäleitä tullut. Uudessa paikassa enemmän tilaa juurille, ja itseasiassa hallin vesiputki olisi varmaan kans tullut jossain vaiheessa vastaan. Tuossa on tilaa kasvaa, kuusimetsä suojaa hieman tuulelta. 
+- 2.5.2026 Lepän kukinta ohi. Koivu KK norkko.fi
+- TODO: Takapihan ojasta savista maata, tasoita traktorireitti ja sulkapallon eteläpuolelta rinnettä.
 
 # 2025
 

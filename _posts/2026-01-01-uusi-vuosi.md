@@ -103,6 +103,14 @@ Standard height from the floor to the bullseye on the dartboard is 5 feet 8 inch
 
 - ranneke tilattu 260430 Alilta.
 
+### Hype areena
+
+- [Hype](https://hypeareena.fi/fi). Hybridiarena Hype sijaitsee aivan Espoon Kivenlahden metroaseman vieressä. Kävelymatka asemalta areenalle on lyhyt, noin 5 minuuttia. Metro on suorin tapa saapua paikalle. [Maps](https://maps.app.goo.gl/2r98mWzqHUSsPnyJ9)
+  - [sp](https://www.sports-tracker.com/workout/haques/69f5bdda045ae01b637238a9) private (testaa joskus pyörällä polkuja pitkin Hirsalan ja järvien etelä puolelta, ks. Sports Tracker zoom)
+  - 12h HSL parkki
+  - 2h, syötärekkari keskuksessa. Käynti ulkokautta
+  - mopon saa pyöräparkkiin
+
 # Car
 
 - poljin tassut tilattu 260430
