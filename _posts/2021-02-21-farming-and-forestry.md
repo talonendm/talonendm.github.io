@@ -181,13 +181,22 @@ jos saa diilin, 10 snt/kWh, paljon kustannukset laskevat? ks. [private ta.dm](ht
 - "Retiisien kasvuaika kylvöstä satoon on alle 30 päivää. Kasvilavaan varhain toukokuussa. Aikaiset kylvöt kannattaa suojata harsokankaalla pakkasen varalta. Retiisi itää jo viiden asteen lämmössä (maan lämpötila)" [kotijakeittio](https://kotijakeittio.fi/artikkeli/nain-kasvatat-retiisia-6.165.123832.692b10c6c7#:~:text=Retiisien%20kasvuaika%20kylv%C3%B6st%C3%A4%20satoon%20on,l%C3%A4mmitettyyn%20kasvihuoneeseen%20jo%20huhtikuussa%20ja)
   - Tämä on ollut ongelma: "Kaalikärpäsen toukat hakeutuvat juuristoon ja poraavat niihin reikiä. Tämän voi estää sillä, että ei kasvata retiisejä kaalien ja rucolan lähellä."
     - EI VIELÄ
-- 26.4.2026 Tikkaterassin byggaus
+- 26.4.2026 Tikkaterassin byggaus. Terassiruuvi 1000kpl 26e tarjous. 7 x pilariharkko, 240x240x195, 11kg kpl, 2.75e/kpl, firmatarjous. 3.10e/kpl normi. 
 - 30.4.2026 hieman vielä mahlan tiputusta, mutta laatu ei enää ole hyvä. Koivuihin on tullut silmut.
 - 2.5.2026 [Zilga](https://www.viherpeukalot.fi/viinikoynnos-zilga-1) 9.99e viiniköynnös (Kasvukorkeus: 4-8 metriä) vanhalle rajatulle mansikkamaalle. Kaksi kärryllistä kasvimaalta multaa sekoitettuna 120l halpismultaa. Keskelle aluetta. Vettä kuoppaan, tasoitus ja katteeksi männynkäpyjä. Zildaa kaipaa happaman maan ja kohopenkin
   - 2 x ruukkunarsissi, 0.50e kausi meni jo, lammen lähelle kosteaan maahan vanhojen narsissien viereen männyn kupeeeseen.
 - 2.5.2026 vanhan Zilgan siirto samaan isoon penkkiin kuin humalat. 40l multaa ja 45 musta multaa, jossa hieman matalampi pH. Kokopenkkiin ja siirto onnistui kuivan maan takia ihan kohtalaisesti. Hieman oli jo silmun alkua, mutta aika pitkän juuren sain otettua mukaan. Istutus kuitenkin tehty (May - Toukokuu 2021) ja vain mini rypäleitä tullut. Uudessa paikassa enemmän tilaa juurille, ja itseasiassa hallin vesiputki olisi varmaan kans tullut jossain vaiheessa vastaan. Tuossa on tilaa kasvaa, kuusimetsä suojaa hieman tuulelta. 
 - 2.5.2026 Lepän kukinta ohi. Koivu KK norkko.fi
-- TODO: Takapihan ojasta savista maata, tasoita traktorireitti ja sulkapallon eteläpuolelta rinnettä.
+- 3.5.2026: Takapihan ojasta savista maata, tasoita traktorireitti ja sulkapallon eteläpuolelta rinnettä. Ison altakasteluruukun köynnöskasvin leikkaaminen. Puusta muutama lehti, ja oksa lähtee. Katsotaan saadaanko elvytettyä.
+- 4.5.2026: samettiruusu, valkoinen pitkäruukku. Chilit kuoli. Koripallokentän kasvulava. Puolet rucolaa, puolet (vasen) ruusupapu. Ei kastelua. Iltapäivällä sadetta. Kahteen pikku altakasteleruukkuun ruusupapua. Katsotaan lähteekö
+- 6.5.2026: kahvipuruja Zilgalle käpyjen päälle.
+- 9.5.2026: Pinaatti: sipulikasvihuoneeseen ja avomaalle. Suorakylvö onnistuu hyvin Suomessa tähän aikaan. Helsingissä toukokuu on oikein hyvä aika kylvää ensimmäinen sato. Kylvä noin:
+  - 1–2 cm syvyyteen
+  - riviväli 20–30 cm
+  - harvenna taimet noin 5–10 cm välein
+  - Pinaatti myös altakasteluruukkuihin. Papu kuoli.
+
+Kasvatuslaatikossa pinaatti toimii erityisen hyvin, koska kosteus pysyy tasaisempana ja maa lämpenee nopeammin.
 
 # 2025
 
