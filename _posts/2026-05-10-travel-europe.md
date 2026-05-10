@@ -221,6 +221,43 @@ sf::st_write(route_all, "D:/temp/routeXXXsaksa.geojson", driver = "GeoJSON", del
 
 ```
 
+
+# Polish
+
+# Matkalla hyödyllisiä lauseita (suomi + puola)
+
+1. Missä on rautatieasema? — Gdzie jest dworzec kolejowy?  
+2. Missä on bussipysäkki? — Gdzie jest przystanek autobusowy?  
+3. Kuinka paljon lippu maksaa? — Ile kosztuje bilet?  
+4. Haluaisin ostaa lipun. — Chciałbym kupić bilet.  
+5. Mihin tämä juna menee? — Dokąd jedzie ten pociąg?  
+6. Onko tämä oikea bussi? — Czy to jest właściwy autobus?  
+7. Minne tämä tie johtaa? — Dokąd prowadzi ta droga?  
+8. Missä hotelli on? — Gdzie jest hotel?  
+9. Onko vapaita huoneita? — Czy są wolne pokoje?  
+10. Haluaisin varata huoneen. — Chciałbym zarezerwować pokój.  
+11. Missä wc on? — Gdzie jest toaleta?  
+12. Voitteko auttaa minua? — Czy może mi pan/pani pomóc?  
+13. En puhu puolaa hyvin. — Nie mówię dobrze po polsku.  
+14. Puhutteko englantia? — Czy mówi pan/pani po angielsku?  
+15. Olen eksynyt. — Zgubiłem się.  
+16. Kuinka pääsen keskustaan? — Jak dojadę do centrum?  
+17. Kuinka kauan matka kestää? — Jak długo trwa podróż?  
+18. Onko tämä lähellä? — Czy to jest blisko?  
+19. Paljonko tämä maksaa? — Ile to kosztuje?  
+20. Tarvitsen taksin. — Potrzebuję taksówki.  
+21. Voinko saada kartan? — Czy mogę dostać mapę?  
+22. Missä voin syödä? — Gdzie mogę zjeść?  
+23. Suositteletteko ravintolaa? — Czy poleca pan/pani restaurację?  
+24. Olen lomalla. — Jestem na wakacjach.  
+25. Haluan mennä lentokentälle. — Chcę jechać na lotnisko.  
+26. Onko tämä paikka turvallinen? — Czy to miejsce jest bezpieczne?  
+27. Missä on apteekki? — Gdzie jest apteka?  
+28. Tarvitsen apua. — Potrzebuję pomocy.  
+29. Milloin bussi lähtee? — Kiedy odjeżdża autobus?  
+30. Hyvää matkaa! — Miłej podróży!
+
+
 ---
 
 [Disclaimer](https://talonendm.github.io/disclaimer)
