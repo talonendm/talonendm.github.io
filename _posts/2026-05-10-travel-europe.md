@@ -38,6 +38,29 @@ Today, Kaunas is a vibrant and modern city with a strong focus on education, art
 2. **Laisvės Alėja**     The main pedestrian street of Kaunas, lined with cafés, restaurants, shops, and historic architecture. Perfect for walking and experiencing the city atmosphere.
 3. **Ninth Fort**     A historical fort and museum that commemorates tragic events from World War II and Soviet occupation. Known for its striking memorial and educational exhibits.
 
+# Top 3 Places to See in Olsztyn
+
+1. **Olsztyn Castle (Castle of the Warmian Chapter)**  
+   In :contentReference[oaicite:0]{index=0}, this medieval castle is the city’s most important historical landmark. It once housed Nicolaus Copernicus and now serves as a museum with exhibits on regional history.
+
+2. **Old Town of Olsztyn**  
+   A charming historic district with cobbled streets, the High Gate, and colorful buildings. It’s the cultural heart of the city with cafés, shops, and local atmosphere.
+
+3. **Lake Ukiel**  
+   A large and popular recreational lake offering beaches, walking paths, water sports, and scenic relaxation spots just a short distance from the city center.
+
+# Top 3 Places to See in Elbląg
+
+1. **Elbląg Old Town**  
+   In :contentReference[oaicite:0]{index=0}, the reconstructed Old Town features canals, modern interpretations of historic architecture, and riverside walking paths. It reflects the city’s medieval Hanseatic heritage.
+
+2. **St. Nicholas Cathedral**  
+   :contentReference[oaicite:1]{index=1} — A Gothic-style church with a tall viewing tower offering panoramic views over the city and surrounding region.
+
+3. **Elbląg Canal (Kanał Elbląski)**  
+   :contentReference[oaicite:2]{index=2} — A unique 19th-century engineering marvel where ships are transported overland on rails between different water levels, one of the most unusual waterways in Europe.
+
+
 ## Top 3 Places to See in Gdańsk
 
 1. **Old Town (Main Town Hall & Long Market)**  
@@ -50,6 +73,40 @@ Today, Kaunas is a vibrant and modern city with a strong focus on education, art
    :contentReference[oaicite:2]{index=2} — A historic peninsula where World War II began, now a memorial site with monuments and open-air exhibits.
 
 
+# Top 3 Places to See in Lębork
+
+1. **Lębork City Walls (Medieval Fortifications)**  
+   In :contentReference[oaicite:0]{index=0}, remnants of the medieval defensive walls are among the city’s most important historical attractions, reflecting its Hanseatic past.
+
+2. **St. James Church**  
+   :contentReference[oaicite:1]{index=1} — A Gothic brick church dating back to the Middle Ages, known for its tall tower and historic interior details.
+
+3. **Łeba River Embankments**  
+   Scenic riverside areas along the Łeba River offering walking paths, green spaces, and a peaceful atmosphere close to the city center.
+
+# Top 3 Places to See in Słupsk
+
+1. **Słupsk Old Town & Town Hall**  
+   In :contentReference[oaicite:0]{index=0}, the Old Town features colorful historic buildings, with the neo-Gothic Town Hall as its centerpiece. The square is a lively cultural and social hub.
+
+2. **Castle of the Pomeranian Dukes**  
+   :contentReference[oaicite:1]{index=1} — A Renaissance-era castle that now houses the Museum of Central Pomerania, including art and historical exhibitions.
+
+3. **St. Mary’s Church (Kościół Mariacki)**  
+   :contentReference[oaicite:2]{index=2} — A Gothic brick church known for its tall tower and famous collection of works by the artist Witkacy.
+
+# Top 3 Places to See in Koszalin
+
+1. **Koszalin Cathedral (St. Mary's Cathedral)**  
+   In :contentReference[oaicite:0]{index=0}, this Gothic cathedral is one of the city’s most important landmarks, known for its tall tower and striking stained-glass windows.
+
+2. **Park of the Pomeranian Dukes (Park Książąt Pomorskich)**  
+   A large green space in the city center featuring walking paths, monuments, fountains, and cultural venues, ideal for relaxing and exploring.
+
+3. **Góra Chełmska (Chełmska Hill)**  
+   :contentReference[oaicite:1]{index=1} — A popular pilgrimage and viewpoint site offering panoramic views of the region, along with a sanctuary and observation tower.
+
+
 ## Top 3 Places to See in Szczecin
 
 1. **Pomeranian Dukes’ Castle**  
@@ -60,6 +117,18 @@ Today, Kaunas is a vibrant and modern city with a strong focus on education, art
 
 3. **St. James Cathedral**  
    One of the tallest churches in Poland, known for its Gothic architecture and observation tower offering views across the city.
+
+# Top 3 Places to See in Poznań
+
+1. **Old Market Square (Stary Rynek)**  
+   In :contentReference[oaicite:0]{index=0}, this is one of the most beautiful squares in Poland, surrounded by colorful merchant houses, cafés, and the historic Town Hall famous for its mechanical goats.
+
+2. **Imperial Castle (Zamek Cesarski)**  
+   :contentReference[oaicite:1]{index=1} — A former residence built for Kaiser Wilhelm II, now a cultural center hosting exhibitions, theaters, and events.
+
+3. **Cathedral Island (Ostrów Tumski)**  
+   :contentReference[oaicite:2]{index=2} — The oldest part of Poznań, featuring the Archcathedral Basilica of St. Peter and St. Paul, an important site in Poland’s early history.
+
 
 ## Top 3 Places to See in Rostock
 

@@ -180,9 +180,14 @@ Kevyt kasko oli n. 700e
 
 eli 2-3 päivää, kannattaa poistaa.
 
-## operuslupa
+## opetuslupa
 
 Ajokorttia varten osan ajo-opetuksesta voi antaa myös opetusluvalla. [traficom](https://traficom.fi/fi/liikenne/autoilijat/ajokortit/hae-opetuslupaa)
+
+
+# Oikeus
+
+- "Asianajotoimisto Dottirin osakas Jaakko Lindgren arvioi, että maallikoiden tekoälyn käyttö on jo lisännyt kunnallisten ja hallinnollisten valitusten määriä." [HS 10.5.2026](https://www.hs.fi/visio/art-2000011963106.html)
 
 # vero
 
