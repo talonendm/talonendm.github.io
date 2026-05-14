@@ -102,14 +102,13 @@ published: true
   background-size: 24px 24px;
   background-position: 0 0, 0 12px, 12px -12px, -12px 0px;
   border-radius: 18px;
-  overflow: hidden;
-  min-height: 400px;
+  overflow: auto;
+  padding: 1rem;
 }
 
 canvas {
-  max-width: 100%;
-  height: auto;
   border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.35);
 }
 
 .statusbar {
@@ -184,9 +183,9 @@ Drop image here or use upload
 <input
   type="number"
   id="rotateStep"
-  value="0.05"
-  step="0.01"
-  min="0.01"
+  value="0.01"
+  step="0.005"
+  min="0.005"
   style="width:80px;"
 >
 
@@ -203,8 +202,9 @@ Drop image here or use upload
 <option value="5">1024 × 384</option>
 <option value="6">1024 × 1024</option>
 <option value="7">1080 × 1080</option>
-<option value="8">2000 × 1125</option>
-<option value="9">3840 × 2160 Full</option>
+<option value="8">768 × 432</option>
+<option value="9">2000 × 1125</option>
+<option value="10">3840 × 2160</option>
 
 </select>
 
@@ -308,6 +308,8 @@ let ih = 640;
 
 let canvas;
 
+const previewMax = 900;
+
 function setup() {
 
   canvas = createCanvas(iw, ih);
@@ -317,6 +319,8 @@ function setup() {
   frameRate(30);
 
   setupDropzone();
+
+  updateCanvasDisplaySize();
 }
 
 function draw() {
@@ -384,7 +388,8 @@ function drawWatermark() {
 
 function updateStatus() {
 
-  const status = document.getElementById("statusbar");
+  const status =
+    document.getElementById("statusbar");
 
   let saveName = getSaveFilename();
 
@@ -562,6 +567,25 @@ function setupDropzone() {
   });
 }
 
+function updateCanvasDisplaySize() {
+
+  let scale =
+    Math.min(
+      1,
+      previewMax / Math.max(iw, ih)
+    );
+
+  canvas.style(
+    'width',
+    (iw * scale) + 'px'
+  );
+
+  canvas.style(
+    'height',
+    (ih * scale) + 'px'
+  );
+}
+
 function changePreset(value) {
 
   if (value == 1) {
@@ -601,8 +625,13 @@ function changePreset(value) {
 
   } else if (value == 8) {
 
-    iw = 3840 / 5;
-    ih = 2160 / 5;
+    iw = 768;
+    ih = 432;
+
+  } else if (value == 9) {
+
+    iw = 2000;
+    ih = 1125;
 
   } else {
 
@@ -611,6 +640,8 @@ function changePreset(value) {
   }
 
   resizeCanvas(iw, ih);
+
+  updateCanvasDisplaySize();
 
   document.getElementById("filenameBase").value =
     "e" + iw + "x" + ih;
