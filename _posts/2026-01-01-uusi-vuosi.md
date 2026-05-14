@@ -219,6 +219,10 @@ Muusta kuin julkisesti noteeratusta osuuskunnasta (listaamaton osuuskunta) saadu
   - 14e --> 3.5e veronalainen -> 30% --> n. 1 euro veroa
 - Ennakonpidätys: Osuuskunta toimittaa maksamastaan ylijäämästä 7,5 % ennakonpidätyksen, jos jäsenen samalta osuuskunnalta verovuonna saamat ylijäämät ylittävät tietyn rajan.
 
+# Drawings
+
+![dudes](/assets/pics/thumbnail/e1080-direct/e1024x1024_0058.jpg){: .mx-auto.d-block :}
+
 ---
 
 [Disclaimer](https://talonendm.github.io/disclaimer)
