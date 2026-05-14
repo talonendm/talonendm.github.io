@@ -12,539 +12,471 @@ thumbnail-img: /assets/pics/thumbnail/photo/e384/e-amigadisk.jpg
 published: true
 ---
 
+<style>
 
-> Creating small gems,
-Thumbnails that capture the eye,
-Art in tiny form.
+.thumbnail-editor-wrapper {
+  background: linear-gradient(180deg, #1b1b1b 0%, #101010 100%);
+  border-radius: 24px;
+  padding: 1.5rem;
+  margin: 2rem 0;
+  box-shadow: 0 10px 40px rgba(0,0,0,0.35);
+  color: #f1f1f1;
+}
 
+.thumbnail-editor-header {
+  margin-bottom: 1rem;
+}
+
+.thumbnail-editor-header h1 {
+  margin: 0;
+  font-size: 2.2rem;
+  line-height: 1;
+}
+
+.thumbnail-editor-header p {
+  opacity: 0.7;
+  margin-top: 0.5rem;
+}
+
+.toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.toolbar button,
+.toolbar select,
+.toolbar input {
+  background: #222;
+  color: white;
+  border: 1px solid #444;
+  padding: 0.7rem 1rem;
+  border-radius: 12px;
+  font-size: 0.95rem;
+}
+
+.toolbar button {
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.toolbar button:hover {
+  background: #333;
+  transform: translateY(-1px);
+}
+
+#dropzone {
+  border: 2px dashed #555;
+  border-radius: 18px;
+  padding: 1rem;
+  text-align: center;
+  margin-bottom: 1rem;
+  background: rgba(255,255,255,0.03);
+  transition: all 0.2s ease;
+}
+
+#dropzone.dragover {
+  border-color: #fff;
+  background: rgba(255,255,255,0.08);
+}
+
+#sketch-holder-jt-xml {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background:
+    linear-gradient(45deg, #1a1a1a 25%, transparent 25%),
+    linear-gradient(-45deg, #1a1a1a 25%, transparent 25%),
+    linear-gradient(45deg, transparent 75%, #1a1a1a 75%),
+    linear-gradient(-45deg, transparent 75%, #1a1a1a 75%);
+  background-size: 24px 24px;
+  background-position: 0 0, 0 12px, 12px -12px, -12px 0px;
+  border-radius: 18px;
+  overflow: hidden;
+  min-height: 400px;
+}
+
+canvas {
+  max-width: 100%;
+  height: auto;
+  border-radius: 12px;
+}
+
+.statusbar {
+  margin-top: 1rem;
+  opacity: 0.7;
+  font-size: 0.9rem;
+}
+
+.help-panel {
+  margin-top: 1.5rem;
+  background: rgba(255,255,255,0.03);
+  border-radius: 14px;
+  padding: 1rem;
+}
+
+.help-panel summary {
+  cursor: pointer;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.help-panel ul {
+  margin: 1rem 0 0 0;
+  padding-left: 1rem;
+}
+
+.help-panel li {
+  margin-bottom: 0.4rem;
+}
+
+kbd {
+  background: #222;
+  border: 1px solid #444;
+  border-radius: 6px;
+  padding: 0.2rem 0.45rem;
+  font-size: 0.85rem;
+}
+
+.toast {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: #111;
+  color: white;
+  padding: 1rem 1.2rem;
+  border-radius: 12px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+  z-index: 9999;
+  animation: fadein 0.2s ease;
+}
+
+@keyframes fadein {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+</style>
+
+<div class="thumbnail-editor-wrapper">
+
+<div class="thumbnail-editor-header">
+<h1>Thumbnail Editor</h1>
+<p>Create thumbnails for YouTube, blogs, Instagram and social media.</p>
+</div>
+
+<div id="dropzone">
+Drop image here or use the upload button below
+</div>
+
+<div class="toolbar">
+
+<input type="file" id="imageLoader" accept="image/*">
+
+<button onclick="zoomOut()">Zoom −</button>
+<button onclick="zoomIn()">Zoom +</button>
+
+<button onclick="rotateLeft()">↺ Rotate</button>
+<button onclick="rotateRight()">↻ Rotate</button>
+
+<button onclick="saveImage()">Save</button>
+
+<select id="canvasPreset" onchange="changePreset(this.value)">
+  <option value="384">Square Small</option>
+  <option value="1080">Instagram Post</option>
+  <option value="youtube">YouTube Thumbnail</option>
+  <option value="portrait">Portrait</option>
+  <option value="4k">4K</option>
+</select>
+
+</div>
+
+<div id="sketch-holder-jt-xml"></div>
+
+<div class="statusbar" id="statusbar">
+No image loaded
+</div>
+
+<details class="help-panel">
+<summary>Keyboard Shortcuts</summary>
+
+<ul>
+<li><kbd>Z</kbd> Zoom out</li>
+<li><kbd>X</kbd> Zoom in</li>
+<li><kbd>C</kbd> Rotate left</li>
+<li><kbd>V</kbd> Rotate right</li>
+<li><kbd>S</kbd> Save image</li>
+<li><kbd>Drag Mouse</kbd> Move image</li>
+</ul>
+
+</details>
+
+</div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/p5.js"></script>
-<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/addons/p5.sound.min.js"></script> -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.2/addons/p5.dom.min.js"></script> 
-<div id="sketch-holder-jt-xml"></div>
 
 <script>
 
-//dom // this probably needed if objects created in js
-
-// P5editor experiments: https://editor.p5js.org/haques/sketches/uVHB7Bf4a  231001
-
-
-window.addEventListener('keydown', function(e) {
-  if(e.keyCode == 32 && e.target == document.body) {
-    e.preventDefault();
-  }
-});
-
-
-// space 32: https://stackoverflow.com/questions/22559830/html-prevent-space-bar-from-scrolling-page
-// https://stackoverflow.com/questions/18522864/disable-scroll-down-when-spacebar-is-pressed-on-firefox/18525368
-
-
-// based on assets/local_imageModification.html
-// ta.dm 2023 thumbnail editor
-// 1.9.2023: 1080 x 1080 added Instagram Post	1080 x 1080 (1:1 ratio)
-// .........................................................
-
-// tallennus manual
-// key: e
-var enabletallennusnimi = false;
-var tallennusnimi = "pic";
-var tallennusnumero = 1;
-var niminum = 1;
-
-let input;
 let img;
-var tiedostonimi = "";
-var z0 = 0.7; // 0.7;
-var z;p5
-var x = 0;
-var y = 0;
-var a = 0;
+
+let z = 1;
+let x = 0;
+let y = 0;
+let a = 0;
+
 let iw = 384;
 let ih = 384;
-var nayta = true;
-var tallenna = false;
-var tallennaS = false;
-var canvaskoko = 1;
-var uselargecanvassetup = false;
 
-// copy
-// var copyteksti = "\u00A9 ta.dm 2023";
+let canvas;
 
-// Create a new Date object
-let currentDate = new Date();
-
-// Get the current year
-let currentYear = currentDate.getFullYear();
-
-var copyteksti = "\u00A9      " + currentYear;
-var copyteksti2 = "talon\nendm" 
-var copynum = 1;
-var copysize = 14;
-var infotekstisize = 16;
-
-var fillColor = [255, 255, 255]; // Fill color (red in RGB)
-var pte = 100; // 50;
-var piirra = true;
-
-
-let lc; // largeCanvas;
-
-
-// called once
 function setup() {
 
-//createCanvas(640, 640);
+  canvas = createCanvas(iw, ih);
+  canvas.parent('sketch-holder-jt-xml');
 
-  lc = createGraphics(3840, 2160);
+  frameRate(30);
 
-  const canvas = createCanvas(iw, ih);
-  canvas.parent('sketch-holder-jt-xml')
-  input = createFileInput(handleFile);
-  input.position(0, ih + 200);
-  z = z0;
-  // const canvas = createCanvas(windowWidth*0.7, 400);
-  // canvas.parent('sketch-holder-jt-xml')
-  
-  frameRate(30); // no need to have 60.
+  setupDropzone();
 }
 
 function draw() {
-  
-  
-  if (piirra) {
-  
-  background(155);
-  
-  
+
+  background(80);
+
   if (img) {
-    
+
     push();
 
-    // before translate - if large pic
-    
-      // scale(0.2*z); // additional scale 5 times smaller
-
-translate(x, y);
-
-    
+    translate(width / 2 + x, height / 2 + y);
     rotate(a);
-    
-    // scale(z);  // Scale the image by zoom factor 'z'
 
-    
+    imageMode(CENTER);
 
+    image(
+      img,
+      0,
+      0,
+      img.width * z,
+      img.height * z
+    );
 
-    // image(img, 0, 0, img.width*z, img.height*z); // , width, height);
-    if (uselargecanvassetup) {
-      image(img, 0, 0, img.width * z * 0.2, img.height * z * 0.2); 
-    } else {
-      image(img, 0, 0, img.width * z, img.height * z); 
-    }
     pop();
 
-
-    lc.push();  // Save the current state of lc (so transformations don't affect future drawing)
-    // lc.scale(z);  // Apply the same scaling
-    lc.translate(x*5, y*5);  // Apply the same translation
-    lc.rotate(a);  // Apply the same rotation
-    
-
-    // lc.image(img, 0, 0, lc.width, lc.height);
-    lc.image(img, 0, 0, img.width*z, img.height*z);  // lc.defined else where
-
-    lc.pop();  // Restore previous state of lc
-    
+    updateStatus();
   }
-  
-  
-  
-  
-  textSize(copysize);
-  textAlign(RIGHT,BOTTOM);
-  fill(30);
-  text(copyteksti, iw-1-2,ih-1);
-  fill(150,150);
-  text(copyteksti, iw-2,ih);
-  
-  textSize(copysize/2+1);
-  textAlign(CENTER,BOTTOM);
-  fill(30);
-  text(copyteksti2, iw-1-2-44,ih-1);
-  fill(150,150);
-  text(copyteksti2, iw-2-44,ih);
-  
-  if (nayta & tiedostonimi != "" & !tallenna) {
-    textAlign(LEFT,TOP);
-    fill(50,150);
-    textSize(infotekstisize);
-    
-    let le = round(img.width*z);
-    let ko = round(img.height*z);
-    let infonaytateksti = x + "," + y + ":(" + le + "," + ko +") zoom: " + round(z*100) + "%" + " (c" + canvaskoko + ": " + iw + "x" + ih + ")";
-    
-  if (enabletallennusnimi) {
-    infonaytateksti = infonaytateksti + " framesave:" + "e-" + tallennusnimi + zeroPad(tallennusnumero, 4);
-  }
-
-    text(infonaytateksti, 0, 0);
-    
-    if (iw>le+x | ih>ko+y | x>0 | y>0) {
-      fill(255,0,0);
-    } else {
-      fill(0,255,0);
-    }
-    text(infonaytateksti, 1, 1);
-  }
-
-
-  }
-
-  if (tallenna) {
-    tallenna = false;
-
-  if (tallennaS) {
-    tallennaS = false;
-       if (enabletallennusnimi) {
-      saveCanvas(lc,
-        "large-" + tallennusnimi + "-" + zeroPad(tallennusnumero, 4),
-        "jpg"
-      );
-    } else {
-      saveCanvas(lc, "large-" + tiedostonimi, "jpg");
-    }
-  } else {
-
-       if (enabletallennusnimi) {
-      saveCanvas(
-        "e-" + tallennusnimi + "-" + zeroPad(tallennusnumero, 4),
-        "jpg"
-      );
-    } else {
-      saveCanvas("e-" + tiedostonimi, "jpg");
-    }
-  }
-  }
-
-
 }
 
+function updateStatus() {
 
-// https://stackoverflow.com/questions/2998784/how-to-output-numbers-with-leading-zeros-in-javascript
-function zeroPad(num, places) {
-  var zero = places - num.toString().length + 1;
-  return Array(+(zero > 0 && zero)).join("0") + num;
+  const status = document.getElementById("statusbar");
+
+  status.innerHTML =
+    "Zoom: " + round(z * 100) + "%" +
+    " • Rotation: " + nf(degrees(a),1,1) + "°" +
+    " • Canvas: " + iw + "×" + ih;
 }
-
 
 function handleFile(file) {
-  print(file);
-  tiedostonimi = file.name;
-  print(tiedostonimi);
-  x = 0;
-  y = 0;
-  z = z0;
-  a = 0;
+
   if (file.type === 'image') {
-    img = createImg(file.data, '');
-    img.hide();
-  } else {
-    img = null;
+
+    loadImage(file.data, loaded => {
+
+      img = loaded;
+
+      x = 0;
+      y = 0;
+      z = 1;
+      a = 0;
+
+      showToast("Image loaded");
+
+    });
   }
+}
+
+document
+  .getElementById('imageLoader')
+  .addEventListener('change', function(e) {
+
+    const file = e.target.files[0];
+
+    if (!file) return;
+
+    const reader = new FileReader();
+
+    reader.onload = function(event) {
+
+      handleFile({
+        type: 'image',
+        data: event.target.result
+      });
+    };
+
+    reader.readAsDataURL(file);
+});
+
+function setupDropzone() {
+
+  const dropzone = document.getElementById("dropzone");
+
+  dropzone.addEventListener("dragover", e => {
+
+    e.preventDefault();
+    dropzone.classList.add("dragover");
+  });
+
+  dropzone.addEventListener("dragleave", () => {
+
+    dropzone.classList.remove("dragover");
+  });
+
+  dropzone.addEventListener("drop", e => {
+
+    e.preventDefault();
+
+    dropzone.classList.remove("dragover");
+
+    const file = e.dataTransfer.files[0];
+
+    if (!file) return;
+
+    const reader = new FileReader();
+
+    reader.onload = function(event) {
+
+      handleFile({
+        type: 'image',
+        data: event.target.result
+      });
+    };
+
+    reader.readAsDataURL(file);
+  });
+}
+
+function mouseDragged() {
+
+  x += movedX;
+  y += movedY;
+}
+
+function zoomIn() {
+
+  z += 0.05;
+}
+
+function zoomOut() {
+
+  z -= 0.05;
+
+  if (z < 0.05) z = 0.05;
+}
+
+function rotateLeft() {
+
+  a -= 0.05;
+}
+
+function rotateRight() {
+
+  a += 0.05;
+}
+
+function saveImage() {
+
+  saveCanvas("thumbnail", "jpg");
+
+  showToast("Image saved");
+}
+
+function changePreset(value) {
+
+  if (value === "384") {
+
+    iw = 384;
+    ih = 384;
+
+  } else if (value === "1080") {
+
+    iw = 1080;
+    ih = 1080;
+
+  } else if (value === "youtube") {
+
+    iw = 1280;
+    ih = 720;
+
+  } else if (value === "portrait") {
+
+    iw = 720;
+    ih = 1280;
+
+  } else if (value === "4k") {
+
+    iw = 3840 / 4;
+    ih = 2160 / 4;
+  }
+
+  resizeCanvas(iw, ih);
+
+  showToast("Canvas changed");
+}
+
+function showToast(message) {
+
+  const toast = document.createElement("div");
+
+  toast.className = "toast";
+
+  toast.innerText = message;
+
+  document.body.appendChild(toast);
+
+  setTimeout(() => {
+
+    toast.remove();
+
+  }, 2000);
 }
 
 function keyPressed() {
 
- if (key == 'e') {
-    enabletallennusnimi = !enabletallennusnimi;
-  }
+  if (key === 'z') zoomOut();
 
-  if (key == 'z') {
-    z = z - 0.05;
-  }
-  if (key == 'x') {
-    z = z + 0.05;
-  }
-   if (key == 'c') {
-    a = a - 0.01;
-  }
-  if (key == 'v') {
-    a = a + 0.01;
-  }
+  if (key === 'x') zoomIn();
 
-  if (key == 'o') { // 112 is the key code for F1
-    //console.log('F1 key is pressed');
-    // Perform actions when F1 is pressed
-    fill(255);
-    noStroke();
-    ellipse(mouseX, mouseY, 40, 40);
-    
-  }
-  
-  if (key == 'i') {
-    nayta = !nayta;
-  }
+  if (key === 'c') rotateLeft();
 
+  if (key === 'v') rotateRight();
 
-  if (key == 'L') {
-    uselargecanvassetup = !uselargecanvassetup;
-  }
-
-
-  if (key == "w") {
-    // watermark
-
-    let maxcopynum = 4;
-
-    copynum = copynum + 1;
-    if (copynum > maxcopynum) copynum = 1;
-
-    if (copynum == 1) {
-      // currentYear = currentDate.getFullYear();
-      copyteksti = "\u00A9      " + currentYear;
-      copyteksti2 = "talon\nendm" 
-    } else if (copynum == 2) {
-      copyteksti = "\u00A9      " + currentYear;
-      copyteksti2 = "vaaka\nruode" 
-    } else if (copynum == 3) {
-      copyteksti = "\u00A9      " + currentYear;
-      copyteksti2 = "rafla\nsafka" 
-    } else {
-      copyteksti = "";
-      copyteksti2 = ""; 
-    }
-  }
-
-
-  if (key == "t") {
-    // tallennusnimi
-
-    let maxniminum = 4;
-
-    niminum = niminum + 1;
-    if (niminum > maxniminum) niminum = 1;
-
-    if (niminum == 1) {
-      tallennusnimi = "pic";
-    } else if (niminum == 2) {
-      tallennusnimi = "art";
-    } else if (niminum == 3) {
-      tallennusnimi = "vaaka";
-    } else {
-      tallennusnimi = "";
-    }
-  }
-
-  if (key == 'å') {
-    piirra = !piirra;
-  }
-
-  if (key == 'p') {
-    floodFill(mouseX, mouseY, fillColor);
-  }
-
-  if (key == "r") {
-
-    let maxcanvasmaara = 9;
-
-    canvaskoko = canvaskoko + 1;
-    if (canvaskoko > maxcanvasmaara) canvaskoko = 1;
-
-    if (canvaskoko == 1) {
-      iw = 384;
-      ih = 384;
-      resizeCanvas(iw, ih);
-    } else if (canvaskoko == 2) {
-      iw = 640;
-      ih = 384;
-      resizeCanvas(iw, ih);
-    } else if (canvaskoko == 3) {
-      iw = 384;
-      ih = 640;
-      resizeCanvas(iw, ih);
-    } else if (canvaskoko == 4) {
-      iw = 640;
-      ih = 640;
-      resizeCanvas(iw, ih);
-
-    } else if (canvaskoko == 5) {
-      iw = 1024;
-      ih = 384;
-      resizeCanvas(iw, ih);
-    } else if (canvaskoko == 6) {
-      iw = 1024;
-      ih = 1024;
-      resizeCanvas(iw, ih);
-    } else if (canvaskoko == 7) {
-      iw = 1080;
-      ih = 1080;
-      resizeCanvas(iw, ih);
-    } else if (canvaskoko == 8) {
-      iw = 3840/5;
-      ih = 2160/5;
-      resizeCanvas(iw, ih);
-    } else {
-      resizeCanvas(lc.width, lc.height);
-    }
-  }
-
-  if (key == "-") {
-    tallennusnumero = tallennusnumero - 1;
-  }
-  if (key == "+") {
-    tallennusnumero = tallennusnumero + 1;
-  }
-
-  if (key == "s") {
-    // saveCanvas('auringonkukka', 'jpg');
-    // saveCanvas("e-" + tiedostonimi, 'jpg');
-    tallenna = true;
-    tallennaS = false;
-    //saveCanvas("e-" + tiedostonimi, 'jpg');
-  }
-
-
-  if (key == 'S') {
-    // saveCanvas('auringonkukka', 'jpg');
-    // saveCanvas("e-" + tiedostonimi, 'jpg');
-    tallenna = true;
-    tallennaS = true;
-    //saveCanvas("e-" + tiedostonimi, 'jpg');
-  }
-  if (key == 'a') {
-    // saveCanvas('auringonkukka', 'jpg');
-    // saveCanvas("e-" + tiedostonimi, 'jpg');
-    //saveCanvas("a-" + tiedostonimi, 'jpg');
-  }
+  if (key === 's') saveImage();
 }
-
-function mouseDragged() {
-  x = x - (pmouseX - mouseX);
-  y = y - (pmouseY - mouseY);
-}
-
-function floodFill(x, y, fillColor) {
-  loadPixels();
-  let targetColor = get(x, y);
-
-  if (!colorsMatch(targetColor, fillColor)) {
-    let stack = [];
-    stack.push([x, y]);
-
-    while (stack.length > 0) {
-      let [px, py] = stack.pop();
-      if (px >= 0 && px < width && py >= 0 && py < height) {
-        let index = (py * width + px) * 4;
-        if (colorsMatch(targetColor, pixels.slice(index, index + 3))) {
-          pixels[index] = fillColor[0];
-          pixels[index + 1] = fillColor[1];
-          pixels[index + 2] = fillColor[2];
-          stack.push([px + 1, py]);
-          stack.push([px - 1, py]);
-          stack.push([px, py + 1]);
-          stack.push([px, py - 1]);
-        }
-      }
-    }
-
-    updatePixels();
-  }
-}
-
-function colorsMatch(color1, color2) {
-  //return color1[0] === color2[0] && color1[1] === color2[1] && color1[2] === color2[2];
-  
-  return (abs(color1[0] - color2[0]) < pte) && 
-          (abs(color1[1] - color2[1])<pte) && 
-    (abs(color1[2] - color2[2])<pte);
-  
-}
-
-
-
-// https://github.com/jekyll/jemoji
-// If you are using a Jekyll version less than 3.5.0, use the gems key instead of plugins.
 
 </script>
 
+## About
 
-A thumbnail editor is a software tool that is designed to create, edit, and modify thumbnail images. Thumbnail images are small images that are used to represent larger images or videos. These images are often used on websites, in video sharing platforms, and in social media platforms.
+A lightweight thumbnail editor built with p5.js.
 
-A thumbnail editor typically allows users to select an image or video file, and then create a thumbnail image from that file. The user can then edit and modify the thumbnail image using a variety of tools, such as resizing, cropping, adding text or graphics, adjusting the colors or contrast, and more.
+Supports:
+- drag and drop uploads
+- zooming
+- rotating
+- multiple canvas presets
+- quick JPG export
 
+Perfect for:
+- blog thumbnails
+- YouTube previews
+- Instagram posts
+- social media graphics
 
-# Keys
-
-- z, x: Zoom
-- c, v: Rotate - Angle
-- s: save
-- S: save large canvas
-- L: use large canvas setup (additional scale to visible canvas by 0.2)
-- e: use frame numbering
-- r: resize Canvas
-- -: frame -1
-- +: frame +1
-- i: show info
-- å: start painting .. no loop
-  - p: paint
-  - o: white ellipse
-
-
-# Code snippets
-
-Note, paint not working properly.
-
-~~~
-function floodFill(x, y, fillColor) {
-  loadPixels();
-  let targetColor = get(x, y);
-
-  if (!colorsMatch(targetColor, fillColor)) {
-    let stack = [];
-    stack.push([x, y]);
-
-    while (stack.length > 0) {
-      let [px, py] = stack.pop();
-      if (px >= 0 && px < width && py >= 0 && py < height) {
-        let index = (py * width + px) * 4;
-        if (colorsMatch(targetColor, pixels.slice(index, index + 3))) {
-          pixels[index] = fillColor[0];
-          pixels[index + 1] = fillColor[1];
-          pixels[index + 2] = fillColor[2];
-          stack.push([px + 1, py]);
-          stack.push([px - 1, py]);
-          stack.push([px, py + 1]);
-          stack.push([px, py - 1]);
-        }
-      }
-    }
-
-    updatePixels();
-  }
-}
-~~~
-
-
-~~~
-function colorsMatch(color1, color2) {
-  //return color1[0] === color2[0] && color1[1] === color2[1] && color1[2] === color2[2];
-
-  return (
-    abs(color1[0] - color2[0]) < pte &&
-    abs(color1[1] - color2[1]) < pte &&
-    abs(color1[2] - color2[2]) < pte
-  );
-}
-~~~
-
-# Links
-
-- test: available in [p5editor](https://editor.p5js.org/haques/sketches/c821CzPas)
-- [Forest Story](https://talonendm.github.io/ballrotation/foreststory/)
-
----
-
-[Disclaimer](https://talonendm.github.io/disclaimer)
-
-
+```

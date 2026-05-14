@@ -28,6 +28,20 @@ published: true
 
 # Road trip
 
+## Riika
+
+### Riika - Kaunas
+
+- "[Jelgava](https://fi.wikipedia.org/wiki/Jelgava) (saks. Mitau, ven. Елгава / Митава, puol. Mitawa) on kaupunki Keski-Latviassa Lielupejoen varrella noin 45 km lounaaseen Riiasta."
+- [Šiauliai](https://fi.wikipedia.org/wiki/%C5%A0iauliai) on Liettuan neljänneksi suurin kaupunki, jonka asukasluku vuonna 2011 oli 109 328 asukasta: "Šiauliain rakennuksista tuhottiin Ensimmäisen ja toisen maailmansodan aikana noin 85 prosenttia"
+  - [Ristien mäki - Kryžių kalnas](https://maps.app.goo.gl/XyexyzMGjGzB2ypk9)
+
+# Liettua
+
+- [autolla Liettuassa](https://www.autoeurope.fi/kuljettajan-opas-liettua/)
+- [Rantapallo](https://www.rantapallo.fi/automatkailu/matkalla-via-balticalla/)
+  - palosammutin
+
 ## Kaunas
 
 Kaunas is the second-largest city in Lithuania and one of the country’s most important cultural and historical centers. Located at the meeting point of the Nemunas and Neris rivers, the city is known for its blend of medieval architecture, interwar modernism, and lively student atmosphere. During the interwar period, Kaunas served as the temporary capital of Lithuania, which led to rapid cultural and architectural development that still shapes the city today. Its Old Town features cobblestone streets, historic churches, and landmarks such as Kaunas Castle and Town Hall Square.
@@ -37,11 +51,19 @@ Today, Kaunas is a vibrant and modern city with a strong focus on education, art
 1. **Kaunas Castle**     A medieval castle located where the Nemunas and Neris rivers meet. It is one of the oldest landmarks in the city and offers scenic views and historical exhibitions.
 2. **Laisvės Alėja**     The main pedestrian street of Kaunas, lined with cafés, restaurants, shops, and historic architecture. Perfect for walking and experiencing the city atmosphere.
 3. **Ninth Fort**     A historical fort and museum that commemorates tragic events from World War II and Soviet occupation. Known for its striking memorial and educational exhibits.
+4. [Pažaislis-luostari](https://www.pazaislis.org/lankytojams-2)
+
+### Fishing - kalastus
+
+"Kaunas tarjoaa erinomaiset kalastusmahdollisuudet, erityisesti Kaunasin tekojärvellä (Kauno marios) ja Nemunas-joella, joista voi pyydystää lahnaa, karppia, kuhaa, haukea ja jopa suurta monnia. Kalastus vaatii yleensä luvan, jonka voi ostaa Perlas-päätteiltä tai verkosta." [Gemini], [Lithunia fishing](https://lithuanianfishing.com/fishing-in-lithuania/)
 
 # Top 3 Places to See in Olsztyn
 
+[Olszyn](https://fi.wikipedia.org/wiki/Olsztyn)
+  - State of the [Teutonic Order](https://en.wikipedia.org/wiki/State_of_the_Teutonic_Order)
+
 1. **Olsztyn Castle (Castle of the Warmian Chapter)**  
-   In :contentReference[oaicite:0]{index=0}, this medieval castle is the city’s most important historical landmark. It once housed Nicolaus Copernicus and now serves as a museum with exhibits on regional history.
+   This medieval castle is the city’s most important historical landmark. It once housed Nicolaus Copernicus and now serves as a museum with exhibits on regional history.
 
 2. **Old Town of Olsztyn**  
    A charming historic district with cobbled streets, the High Gate, and colorful buildings. It’s the cultural heart of the city with cafés, shops, and local atmosphere.
@@ -52,13 +74,13 @@ Today, Kaunas is a vibrant and modern city with a strong focus on education, art
 # Top 3 Places to See in Elbląg
 
 1. **Elbląg Old Town**  
-   In :contentReference[oaicite:0]{index=0}, the reconstructed Old Town features canals, modern interpretations of historic architecture, and riverside walking paths. It reflects the city’s medieval Hanseatic heritage.
+   The reconstructed Old Town features canals, modern interpretations of historic architecture, and riverside walking paths. It reflects the city’s medieval Hanseatic heritage.
 
 2. **St. Nicholas Cathedral**  
-   :contentReference[oaicite:1]{index=1} — A Gothic-style church with a tall viewing tower offering panoramic views over the city and surrounding region.
+   A Gothic-style church with a tall viewing tower offering panoramic views over the city and surrounding region.
 
 3. **Elbląg Canal (Kanał Elbląski)**  
-   :contentReference[oaicite:2]{index=2} — A unique 19th-century engineering marvel where ships are transported overland on rails between different water levels, one of the most unusual waterways in Europe.
+   A unique 19th-century engineering marvel where ships are transported overland on rails between different water levels, one of the most unusual waterways in Europe.
 
 
 ## Top 3 Places to See in Gdańsk
@@ -72,6 +94,12 @@ Today, Kaunas is a vibrant and modern city with a strong focus on education, art
 3. **Westerplatte**  
    :contentReference[oaicite:2]{index=2} — A historic peninsula where World War II began, now a memorial site with monuments and open-air exhibits.
 
+## Sopot
+
+- "Puolassa sijaitseva Sopot on paitsi maan suosituimpia rantakohteita, myös helppo päiväretki Gdanskista." [Rantapallo](https://www.rantapallo.fi/kaupunkilomat/viihtyisa-sopot-on-helppo-paivaretkikohde-gdanskista-naista-kolmesta-asiasta-se-on-tunnettu/)
+  - [Krzywy Domek](https://pl.wikipedia.org/wiki/Krzywy_Domek)
+  - Euroopan pisin laituri: 511,5 metriä pitkä
+
 
 # Top 3 Places to See in Lębork
 
@@ -84,6 +112,8 @@ Today, Kaunas is a vibrant and modern city with a strong focus on education, art
 3. **Łeba River Embankments**  
    Scenic riverside areas along the Łeba River offering walking paths, green spaces, and a peaceful atmosphere close to the city center.
 
+
+
 # Top 3 Places to See in Słupsk
 
 1. **Słupsk Old Town & Town Hall**  
@@ -95,7 +125,12 @@ Today, Kaunas is a vibrant and modern city with a strong focus on education, art
 3. **St. Mary’s Church (Kościół Mariacki)**  
    :contentReference[oaicite:2]{index=2} — A Gothic brick church known for its tall tower and famous collection of works by the artist Witkacy.
 
-# Top 3 Places to See in Koszalin
+# Koszalin
+
+- [Koszalin](https://fi.wikipedia.org/wiki/Koszalin)
+  - [15 things](https://www.tripadvisor.com/Attractions-g274728-Activities-Koszalin_Western_Pomerania_Province_Western_Poland.html)
+
+## Top 3 Places to See in Koszalin
 
 1. **Koszalin Cathedral (St. Mary's Cathedral)**  
    In :contentReference[oaicite:0]{index=0}, this Gothic cathedral is one of the city’s most important landmarks, known for its tall tower and striking stained-glass windows.
@@ -108,6 +143,10 @@ Today, Kaunas is a vibrant and modern city with a strong focus on education, art
 
 
 ## Top 3 Places to See in Szczecin
+
+- [Panun matkat 2010](https://panunmatkat.com/2011/10/06/szczecin-puola/)
+- [The Best of Szczecin](https://visitszczecin.eu/en/best-szczecin)
+  - Mieczysław Karłowicz [Philharmonic in Szczecin](https://visitszczecin.eu/en/philharmonic/36-mieczyslaw-karlowicz-philharmonic-szczecin)
 
 1. **Pomeranian Dukes’ Castle**  
    A Renaissance castle that once served as the residence of the dukes of Pomerania. Today it hosts exhibitions, concerts, and cultural events.
@@ -130,6 +169,14 @@ Today, Kaunas is a vibrant and modern city with a strong focus on education, art
    :contentReference[oaicite:2]{index=2} — The oldest part of Poznań, featuring the Archcathedral Basilica of St. Peter and St. Paul, an important site in Poland’s early history.
 
 
+# Rostock
+
+- [Gedser Rostockiin Lautta](https://openferry.com/fi/routes/gedser-rostock)
+  - [Scandlines](https://www.scandlines.com/tickets/rostock-gedser/)
+- [9 Best Things to Do in Rostock](https://fi.hotels.com/go/germany/things-to-do-rostock)
+  - Warnemunde Beach
+  - Shipbuilding and Maritime Museum
+
 ## Top 3 Places to See in Rostock
 
 1. **Historic Old Town (Neuer Markt)**  
@@ -141,6 +188,8 @@ Today, Kaunas is a vibrant and modern city with a strong focus on education, art
 3. **Warnemünde Beach & Lighthouse**  
    :contentReference[oaicite:2]{index=2} — A popular seaside district of Rostock featuring a wide sandy beach, a scenic promenade, and a historic lighthouse overlooking the Baltic Sea.
   
+
+
 # Links
 
 - [Google Maps](https://maps.app.goo.gl/vyF5ybzsPCqdv7VU7)
