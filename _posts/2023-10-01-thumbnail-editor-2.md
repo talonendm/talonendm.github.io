@@ -203,7 +203,7 @@ Drop image here or use upload
 <option value="5">1024 × 384</option>
 <option value="6">1024 × 1024</option>
 <option value="7">1080 × 1080</option>
-<option value="8">768 × 432</option>
+<option value="8">2000 × 1125</option>
 <option value="9">3840 × 2160 Full</option>
 
 </select>
