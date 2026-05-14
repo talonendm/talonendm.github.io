@@ -175,6 +175,7 @@ Drop image here or use upload
 </div>
 
 <div class="toolbar-group">
+
 <button onclick="rotateLeft()">↺</button>
 <button onclick="rotateRight()">↻</button>
 
@@ -188,6 +189,7 @@ Drop image here or use upload
   min="0.01"
   style="width:80px;"
 >
+
 </div>
 
 <div class="toolbar-group">
@@ -197,11 +199,11 @@ Drop image here or use upload
 <option value="1">384 × 384</option>
 <option value="2">640 × 384</option>
 <option value="3">384 × 640</option>
-<option value="4">640 × 640</option>
+<option value="4" selected>640 × 640</option>
 <option value="5">1024 × 384</option>
 <option value="6">1024 × 1024</option>
 <option value="7">1080 × 1080</option>
-<option value="8">3840 × 2160</option>
+<option value="8">768 × 432</option>
 <option value="9">3840 × 2160 Full</option>
 
 </select>
@@ -216,7 +218,7 @@ Drop image here or use upload
   type="text"
   id="filenameBase"
   value="e640x640"
-  style="width:130px;"
+  style="width:140px;"
 >
 
 <button onclick="decreaseNumber()">−</button>
@@ -230,6 +232,31 @@ Drop image here or use upload
 >
 
 <button onclick="increaseNumber()">+</button>
+
+</div>
+
+<div class="toolbar-group">
+
+<label>watermark</label>
+
+<input
+  type="text"
+  id="watermarkText"
+  value=""
+  placeholder="optional"
+  style="width:160px;"
+>
+
+<label>size</label>
+
+<input
+  type="number"
+  id="watermarkSize"
+  value="14"
+  min="6"
+  max="80"
+  style="width:70px;"
+>
 
 </div>
 
@@ -256,6 +283,8 @@ No image loaded
 <li><kbd>C</kbd> Rotate left</li>
 <li><kbd>V</kbd> Rotate right</li>
 <li><kbd>S</kbd> Save image</li>
+<li><kbd>+</kbd> Image number +1</li>
+<li><kbd>-</kbd> Image number -1</li>
 <li><kbd>Drag Mouse</kbd> Move image</li>
 </ul>
 
@@ -274,14 +303,15 @@ let x = 0;
 let y = 0;
 let a = 0;
 
-let iw = 384;
-let ih = 384;
+let iw = 640;
+let ih = 640;
 
 let canvas;
 
 function setup() {
 
   canvas = createCanvas(iw, ih);
+
   canvas.parent('sketch-holder-jt-xml');
 
   frameRate(30);
@@ -314,7 +344,42 @@ function draw() {
     pop();
   }
 
+  drawWatermark();
+
   updateStatus();
+}
+
+function drawWatermark() {
+
+  let watermark =
+    document.getElementById("watermarkText").value;
+
+  if (!watermark || watermark.trim() === "") return;
+
+  let size =
+    parseInt(
+      document.getElementById("watermarkSize").value
+    );
+
+  textSize(size);
+
+  textAlign(RIGHT, BOTTOM);
+
+  fill(20);
+
+  text(
+    watermark,
+    width - 11,
+    height - 11
+  );
+
+  fill(255, 180);
+
+  text(
+    watermark,
+    width - 10,
+    height - 10
+  );
 }
 
 function updateStatus() {
@@ -334,32 +399,39 @@ function updateStatus() {
 
 function getSaveFilename() {
 
-  let base = document.getElementById("filenameBase").value;
+  let base =
+    document.getElementById("filenameBase").value;
 
-  let num = parseInt(
-    document.getElementById("imageNumber").value
-  );
+  let num =
+    parseInt(
+      document.getElementById("imageNumber").value
+    );
 
-  let padded = String(num).padStart(4, '0');
+  let padded =
+    String(num).padStart(4, '0');
 
   return base + "_" + padded + ".jpg";
 }
 
 function increaseNumber() {
 
-  let el = document.getElementById("imageNumber");
+  let el =
+    document.getElementById("imageNumber");
 
-  el.value = parseInt(el.value) + 1;
+  el.value =
+    parseInt(el.value) + 1;
 }
 
 function decreaseNumber() {
 
-  let el = document.getElementById("imageNumber");
+  let el =
+    document.getElementById("imageNumber");
 
-  el.value = Math.max(
-    0,
-    parseInt(el.value) - 1
-  );
+  el.value =
+    Math.max(
+      0,
+      parseInt(el.value) - 1
+    );
 }
 
 function getRotateStep() {
@@ -450,7 +522,8 @@ document
 
 function setupDropzone() {
 
-  const dropzone = document.getElementById("dropzone");
+  const dropzone =
+    document.getElementById("dropzone");
 
   dropzone.addEventListener("dragover", e => {
 
@@ -470,7 +543,8 @@ function setupDropzone() {
 
     dropzone.classList.remove("dragover");
 
-    const file = e.dataTransfer.files[0];
+    const file =
+      e.dataTransfer.files[0];
 
     if (!file) return;
 
@@ -541,12 +615,16 @@ function changePreset(value) {
   document.getElementById("filenameBase").value =
     "e" + iw + "x" + ih;
 
-  showToast("Canvas changed to " + iw + "×" + ih);
+  showToast(
+    "Canvas changed to " +
+    iw + "×" + ih
+  );
 }
 
 function showToast(message) {
 
-  const toast = document.createElement("div");
+  const toast =
+    document.createElement("div");
 
   toast.className = "toast";
 
