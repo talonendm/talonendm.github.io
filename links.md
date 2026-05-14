@@ -11,6 +11,7 @@ tags:
 
 # 2026
 
+- [Thumbnail editor 2](https://talonendm.github.io/2023-10-01-thumbnail-editor-2/)
 - [Ping Pong 1 player](https://talonendm.github.io/ballrotation/pingpong/1/index.html)
   - Arrows
 - [Ping Pong 2 players](https://talonendm.github.io/ballrotation/pingpong/2/index.html)

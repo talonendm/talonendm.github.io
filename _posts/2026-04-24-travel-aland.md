@@ -8,7 +8,7 @@ tags:
   - Suomi
 comments: false
 cover-img: /assets/pics/cover/e1024/e-queens-gambit.jpg
-thumbnail-img: /assets/pics/thumbnail/e640-direct/2025/e-vaskitsa.jpg
+thumbnail-img: /assets/pics/thumbnail/e640-direct/2026/e640x640_0040.jpg
 published: true
 ---
 
