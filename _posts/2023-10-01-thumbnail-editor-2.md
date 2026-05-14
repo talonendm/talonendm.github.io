@@ -30,19 +30,18 @@ published: true
 .thumbnail-editor-header h1 {
   margin: 0;
   font-size: 2.2rem;
-  line-height: 1;
 }
 
 .thumbnail-editor-header p {
   opacity: 0.7;
-  margin-top: 0.5rem;
 }
 
 .toolbar {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.5rem;
+  gap: 0.6rem;
   margin-bottom: 1rem;
+  align-items: center;
 }
 
 .toolbar button,
@@ -58,12 +57,24 @@ published: true
 
 .toolbar button {
   cursor: pointer;
-  transition: all 0.15s ease;
 }
 
 .toolbar button:hover {
   background: #333;
-  transform: translateY(-1px);
+}
+
+.toolbar label {
+  font-size: 0.85rem;
+  opacity: 0.7;
+}
+
+.toolbar-group {
+  display: flex;
+  gap: 0.4rem;
+  align-items: center;
+  background: rgba(255,255,255,0.03);
+  padding: 0.4rem;
+  border-radius: 14px;
 }
 
 #dropzone {
@@ -73,12 +84,10 @@ published: true
   text-align: center;
   margin-bottom: 1rem;
   background: rgba(255,255,255,0.03);
-  transition: all 0.2s ease;
 }
 
 #dropzone.dragover {
-  border-color: #fff;
-  background: rgba(255,255,255,0.08);
+  border-color: white;
 }
 
 #sketch-holder-jt-xml {
@@ -105,8 +114,9 @@ canvas {
 
 .statusbar {
   margin-top: 1rem;
-  opacity: 0.7;
-  font-size: 0.9rem;
+  opacity: 0.8;
+  font-size: 0.92rem;
+  line-height: 1.6;
 }
 
 .help-panel {
@@ -119,16 +129,6 @@ canvas {
 .help-panel summary {
   cursor: pointer;
   font-weight: bold;
-  margin-bottom: 0.5rem;
-}
-
-.help-panel ul {
-  margin: 1rem 0 0 0;
-  padding-left: 1rem;
-}
-
-.help-panel li {
-  margin-bottom: 0.4rem;
 }
 
 kbd {
@@ -147,20 +147,7 @@ kbd {
   color: white;
   padding: 1rem 1.2rem;
   border-radius: 12px;
-  box-shadow: 0 10px 25px rgba(0,0,0,0.3);
   z-index: 9999;
-  animation: fadein 0.2s ease;
-}
-
-@keyframes fadein {
-  from {
-    opacity: 0;
-    transform: translateY(10px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
 }
 
 </style>
@@ -173,28 +160,84 @@ kbd {
 </div>
 
 <div id="dropzone">
-Drop image here or use the upload button below
+Drop image here or use upload
 </div>
 
 <div class="toolbar">
 
+<div class="toolbar-group">
 <input type="file" id="imageLoader" accept="image/*">
+</div>
 
-<button onclick="zoomOut()">Zoom −</button>
-<button onclick="zoomIn()">Zoom +</button>
+<div class="toolbar-group">
+<button onclick="zoomOut()">−</button>
+<button onclick="zoomIn()">+</button>
+</div>
 
-<button onclick="rotateLeft()">↺ Rotate</button>
-<button onclick="rotateRight()">↻ Rotate</button>
+<div class="toolbar-group">
+<button onclick="rotateLeft()">↺</button>
+<button onclick="rotateRight()">↻</button>
 
-<button onclick="saveImage()">Save</button>
+<label>step</label>
+
+<input
+  type="number"
+  id="rotateStep"
+  value="0.05"
+  step="0.01"
+  min="0.01"
+  style="width:80px;"
+>
+</div>
+
+<div class="toolbar-group">
 
 <select id="canvasPreset" onchange="changePreset(this.value)">
-  <option value="384">Square Small</option>
-  <option value="1080">Instagram Post</option>
-  <option value="youtube">YouTube Thumbnail</option>
-  <option value="portrait">Portrait</option>
-  <option value="4k">4K</option>
+
+<option value="1">384 × 384</option>
+<option value="2">640 × 384</option>
+<option value="3">384 × 640</option>
+<option value="4">640 × 640</option>
+<option value="5">1024 × 384</option>
+<option value="6">1024 × 1024</option>
+<option value="7">1080 × 1080</option>
+<option value="8">3840 × 2160</option>
+<option value="9">3840 × 2160 Full</option>
+
 </select>
+
+</div>
+
+<div class="toolbar-group">
+
+<label>filename</label>
+
+<input
+  type="text"
+  id="filenameBase"
+  value="e640x640"
+  style="width:130px;"
+>
+
+<button onclick="decreaseNumber()">−</button>
+
+<input
+  type="number"
+  id="imageNumber"
+  value="1"
+  min="0"
+  style="width:80px;"
+>
+
+<button onclick="increaseNumber()">+</button>
+
+</div>
+
+<div class="toolbar-group">
+
+<button onclick="saveImage()">Save JPG</button>
+
+</div>
 
 </div>
 
@@ -255,6 +298,7 @@ function draw() {
     push();
 
     translate(width / 2 + x, height / 2 + y);
+
     rotate(a);
 
     imageMode(CENTER);
@@ -268,19 +312,101 @@ function draw() {
     );
 
     pop();
-
-    updateStatus();
   }
+
+  updateStatus();
 }
 
 function updateStatus() {
 
   const status = document.getElementById("statusbar");
 
+  let saveName = getSaveFilename();
+
   status.innerHTML =
+    "Canvas: " + iw + " × " + ih + " px" +
+    "<br>" +
     "Zoom: " + round(z * 100) + "%" +
     " • Rotation: " + nf(degrees(a),1,1) + "°" +
-    " • Canvas: " + iw + "×" + ih;
+    "<br>" +
+    "Save file: <b>" + saveName + "</b>";
+}
+
+function getSaveFilename() {
+
+  let base = document.getElementById("filenameBase").value;
+
+  let num = parseInt(
+    document.getElementById("imageNumber").value
+  );
+
+  let padded = String(num).padStart(4, '0');
+
+  return base + "_" + padded + ".jpg";
+}
+
+function increaseNumber() {
+
+  let el = document.getElementById("imageNumber");
+
+  el.value = parseInt(el.value) + 1;
+}
+
+function decreaseNumber() {
+
+  let el = document.getElementById("imageNumber");
+
+  el.value = Math.max(
+    0,
+    parseInt(el.value) - 1
+  );
+}
+
+function getRotateStep() {
+
+  return parseFloat(
+    document.getElementById("rotateStep").value
+  );
+}
+
+function rotateLeft() {
+
+  a -= getRotateStep();
+}
+
+function rotateRight() {
+
+  a += getRotateStep();
+}
+
+function zoomIn() {
+
+  z += 0.05;
+}
+
+function zoomOut() {
+
+  z -= 0.05;
+
+  if (z < 0.05) z = 0.05;
+}
+
+function mouseDragged() {
+
+  x += movedX;
+  y += movedY;
+}
+
+function saveImage() {
+
+  let filename = getSaveFilename();
+
+  saveCanvas(
+    filename.replace(".jpg", ""),
+    "jpg"
+  );
+
+  showToast("Saved " + filename);
 }
 
 function handleFile(file) {
@@ -297,30 +423,29 @@ function handleFile(file) {
       a = 0;
 
       showToast("Image loaded");
-
     });
   }
 }
 
 document
-  .getElementById('imageLoader')
-  .addEventListener('change', function(e) {
+.getElementById('imageLoader')
+.addEventListener('change', function(e) {
 
-    const file = e.target.files[0];
+  const file = e.target.files[0];
 
-    if (!file) return;
+  if (!file) return;
 
-    const reader = new FileReader();
+  const reader = new FileReader();
 
-    reader.onload = function(event) {
+  reader.onload = function(event) {
 
-      handleFile({
-        type: 'image',
-        data: event.target.result
-      });
-    };
+    handleFile({
+      type: 'image',
+      data: event.target.result
+    });
+  };
 
-    reader.readAsDataURL(file);
+  reader.readAsDataURL(file);
 });
 
 function setupDropzone() {
@@ -330,6 +455,7 @@ function setupDropzone() {
   dropzone.addEventListener("dragover", e => {
 
     e.preventDefault();
+
     dropzone.classList.add("dragover");
   });
 
@@ -362,72 +488,60 @@ function setupDropzone() {
   });
 }
 
-function mouseDragged() {
-
-  x += movedX;
-  y += movedY;
-}
-
-function zoomIn() {
-
-  z += 0.05;
-}
-
-function zoomOut() {
-
-  z -= 0.05;
-
-  if (z < 0.05) z = 0.05;
-}
-
-function rotateLeft() {
-
-  a -= 0.05;
-}
-
-function rotateRight() {
-
-  a += 0.05;
-}
-
-function saveImage() {
-
-  saveCanvas("thumbnail", "jpg");
-
-  showToast("Image saved");
-}
-
 function changePreset(value) {
 
-  if (value === "384") {
+  if (value == 1) {
 
     iw = 384;
     ih = 384;
 
-  } else if (value === "1080") {
+  } else if (value == 2) {
+
+    iw = 640;
+    ih = 384;
+
+  } else if (value == 3) {
+
+    iw = 384;
+    ih = 640;
+
+  } else if (value == 4) {
+
+    iw = 640;
+    ih = 640;
+
+  } else if (value == 5) {
+
+    iw = 1024;
+    ih = 384;
+
+  } else if (value == 6) {
+
+    iw = 1024;
+    ih = 1024;
+
+  } else if (value == 7) {
 
     iw = 1080;
     ih = 1080;
 
-  } else if (value === "youtube") {
+  } else if (value == 8) {
 
-    iw = 1280;
-    ih = 720;
+    iw = 3840 / 5;
+    ih = 2160 / 5;
 
-  } else if (value === "portrait") {
+  } else {
 
-    iw = 720;
-    ih = 1280;
-
-  } else if (value === "4k") {
-
-    iw = 3840 / 4;
-    ih = 2160 / 4;
+    iw = 3840;
+    ih = 2160;
   }
 
   resizeCanvas(iw, ih);
 
-  showToast("Canvas changed");
+  document.getElementById("filenameBase").value =
+    "e" + iw + "x" + ih;
+
+  showToast("Canvas changed to " + iw + "×" + ih);
 }
 
 function showToast(message) {
@@ -458,25 +572,10 @@ function keyPressed() {
   if (key === 'v') rotateRight();
 
   if (key === 's') saveImage();
+
+  if (key === '+') increaseNumber();
+
+  if (key === '-') decreaseNumber();
 }
 
 </script>
-
-## About
-
-A lightweight thumbnail editor built with p5.js.
-
-Supports:
-- drag and drop uploads
-- zooming
-- rotating
-- multiple canvas presets
-- quick JPG export
-
-Perfect for:
-- blog thumbnails
-- YouTube previews
-- Instagram posts
-- social media graphics
-
-```
