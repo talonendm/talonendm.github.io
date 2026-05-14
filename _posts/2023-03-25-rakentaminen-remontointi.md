@@ -89,6 +89,10 @@ Fig) Aluskate ei vie vettä esteettömästi räystäällä oleviin vedenpoistoj�
   - "Urakoitsijan takuuaikainen korjaamisvelvollisuus on rakennusaikana havaittujen virheiden ja puutteiden tavoin lähtökohtaisesti laaja-alaista. Urakoitsija on takuuaikana kustannuksellaan velvollinen suorittamaan kaikki tarvittavat rakennustekniset työt sekä niihin liittyvät suunnittelu- ja tutkimustoimenpiteet, jotka ovat urakoitsijan vastuulle kuuluvan rakennusvirheen korjaamisen kannalta välttämättömiä. Tämä periaate ilmenee muun muassa ratkaisun KKO 1980 II 49 perusteluista. Ylipäätään urakoitsijan korjausvelvollisuuden tarkoituksena on varmistaa se, että työntulos saatetaan urakoitsijan toimesta tai kustannuksella fyysisiltä ominaisuuksiltaan vastaamaan urakkasopimuksen vaatimuksia." [s.78](https://www.utupub.fi/bitstream/handle/10024/124378/oikeustiede_gradu2016Sj%C3%B6gren.pdf?sequence=2) ja [Laine Juha 1993](https://hamk.finna.fi/Record/vanaicat.40992?sid=3070506291)
   - "Rakennusalalla törkeän tuottamuksen käsilläolo ilmenee urakoitsijan osalta yleisimmin myönnetyn rakennusluvan, viranomaismääräysten tai muiden rakentamista ohjaavien standardien ja ohjeiden vastaisena rakentamisena." [s.83]
 
+# Laitteet
+
+- 17.10.2023: [Dehumidifier](https://www.clasohlson.com/fi/Ilmankuivain-10-litraa,-31-m2/p/36-8321?utm_source=google&utm_medium=cpc&utm_campaign=FI_CO_AO_EVM_SEM_Google_pMax_Generic&utm_id=21897491240&gad_source=1&gad_campaignid=21901364113&gbraid=0AAAAADwtHoyG7MuO_xP8Vhm-jaJttg-9n&gclid=CjwKCAjwwpDQBhAuEiwAa-4Woz5iLgNJFxXy1MHg73LaWCyXEniJY29fX75CF5VyMV-eM-naXnZZUxoCJFsQAvD_BwE): Model MDDQ-10DEN7-QA3: ohje [PDF](https://www.clasohlson.com/medias/sys_master/hff/h27/67916078055454.pdf)
+
 ---
 
 [Disclaimer](https://talonendm.github.io/disclaimer)

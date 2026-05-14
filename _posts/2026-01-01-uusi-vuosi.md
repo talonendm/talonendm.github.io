@@ -194,6 +194,12 @@ Ajokorttia varten osan ajo-opetuksesta voi antaa myös opetusluvalla. [traficom]
 
 - "Asianajotoimisto Dottirin osakas Jaakko Lindgren arvioi, että maallikoiden tekoälyn käyttö on jo lisännyt kunnallisten ja hallinnollisten valitusten määriä." [HS 10.5.2026](https://www.hs.fi/visio/art-2000011963106.html)
 
+## Kaavoitus
+
+- Kirkkonummi
+  - [Kantvikin osayleiskaavaehdotus](https://storymaps.arcgis.com/stories/99e1a065a6104fb5b5a5232ff26f2c15)
+    - KANTVIKIN OSAYLEISKAAVA (HANKE 21000): [vastineet 2022](https://kirkkonummi.fi/wp-content/uploads/2025/07/3520_Kantvik_oyk_Vastineet.pdf)
+
 # vero
 
 ## Osingot

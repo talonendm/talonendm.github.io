@@ -195,8 +195,8 @@ jos saa diilin, 10 snt/kWh, paljon kustannukset laskevat? ks. [private ta.dm](ht
   - riviväli 20–30 cm
   - harvenna taimet noin 5–10 cm välein
   - Pinaatti myös altakasteluruukkuihin. Papu kuoli.
-
-Kasvatuslaatikossa pinaatti toimii erityisen hyvin, koska kosteus pysyy tasaisempana ja maa lämpenee nopeammin.
+  - Kasvatuslaatikossa pinaatti toimii erityisen hyvin, koska kosteus pysyy tasaisempana ja maa lämpenee nopeammin.
+- 14.5.2026 salaattia: sininen ämpäri, 3 bigmax multasäkkiä, josta ei lähtenyt. hieman lisää talonedustalle kasvatuslaatikkoon, missä salaattia ennestään. 13.5.2026 yöllä satoi, niin helppo laittaa ja multa valmiiksi kosteaa, ja nyt alkoi lämmin kausi.
 
 # 2025
 

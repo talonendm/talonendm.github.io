@@ -7,6 +7,7 @@ tags:
   - suomi
   - links
   - QR
+  - karting
 comments: false
 cover-img: /assets/pics/cover/photo/newyear2020v2.JPG
 thumbnail-img: /assets/pics/thumbnail/photo/varjo.JPG
@@ -157,7 +158,7 @@ git push git@github-talonendm:talonendm/talonendm.github.io.git
 
 - 00:31:226 9/2025
 - 00:31.372 8/2025
-- 00:31:46x 5/2025
+- 00:31:463 5/2025 Polt.
 - 00:33.479 5/2025
 
 # Links - stuff
