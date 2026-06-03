@@ -38,6 +38,9 @@ Asuntoautoilulla voi pysähtyä spontaanisti kauniisiin paikkoihin. Reitin varre
   - Aurinkoahven: [youtube](https://www.youtube.com/watch?v=DUkZrTM8UVk), 13:15. Mikrojigikin saattaa olla liian iso. Kokeile mato-ongella.
   - [Sorlammen luontopolku](https://retkipaikka.fi/sorlammen-luontopolku-espoossa/)
 
+### Vaihtoehto Melkutukselle
+
+- Sonnanen [HS 260529](https://www.hs.fi/alueet/art-2000011986208.html): "Paistjärven retkeily­alueella voi uida kristallin­kirkkaassa järvessä" 
 
 ## Testireissu2
 

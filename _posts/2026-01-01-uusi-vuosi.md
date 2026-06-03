@@ -137,7 +137,14 @@ Standard height from the floor to the bullseye on the dartboard is 5 feet 8 inch
 - Adapteri.
   - jos auto auki, es lukittuu. jotta sen saa irti, ovet pitää lukita ja avata uudelleen.
 
-## 30.3
+### 23.5.
+
+- jos lataa vain 3,6kW.. todennäköisesti kolmivaihevirrasta palanut sulake tai huonosti kiinni.
+  - lopeta lataus
+  - irrota kaapeli
+  - vaihda 16A sulake
+
+### 30.3
 
 - peräkoukku. Irroitettava. Myös pistoke kääntyy piiloon ja vapautetaan napilla
 - myHyundai app

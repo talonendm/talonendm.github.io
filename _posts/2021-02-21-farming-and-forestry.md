@@ -197,6 +197,10 @@ jos saa diilin, 10 snt/kWh, paljon kustannukset laskevat? ks. [private ta.dm](ht
   - Pinaatti myös altakasteluruukkuihin. Papu kuoli.
   - Kasvatuslaatikossa pinaatti toimii erityisen hyvin, koska kosteus pysyy tasaisempana ja maa lämpenee nopeammin.
 - 14.5.2026 salaattia: sininen ämpäri, 3 bigmax multasäkkiä, josta ei lähtenyt. hieman lisää talonedustalle kasvatuslaatikkoon, missä salaattia ennestään. 13.5.2026 yöllä satoi, niin helppo laittaa ja multa valmiiksi kosteaa, ja nyt alkoi lämmin kausi.
+- 17.5.2026: Kolme kuormaa, pihatie 0-32mm (kolsari)
+- 18.5.2026: Kaksi kuormaa: 0-32mm pingis ja tie (kolsari)
+- 19.5.2026: Prisma [myyräkarkotin](https://www.prisma.fi/tuotteet/102008924/swissinno-supercat-myyrakarkotin-aurinkopaneelilla-102008924): "häätää myyrät ja muut maan alla elävät jyrsijät jopa 650 m2 alueelta."
+  - takuu 2 vuotta 19.5.2028 asti
 
 # 2025
 

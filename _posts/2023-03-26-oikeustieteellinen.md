@@ -5,6 +5,7 @@ subtitle: opiskelu
 tags:
   - oikeustieteellinen
   - pääsykoe
+  - epub
 comments: false
 cover-img: /assets/pics/cover/photo/moon.JPG
 thumbnail-img: /assets/pics/thumbnail/photo/e384/e-lawtalo.jpg
@@ -19,6 +20,82 @@ Oikeustieteellisen alan yhteisvalinnan valintakoe maanantaina 23.5.2022 pidetä�
 
 # Hakeminen
 
+## 2026
+
+"[Oikeustieteellisen](https://oikeustieteet.fi/valintaperusteet#valintakoe-ja-varasija) alan valintayhteistyön hakukohteilla on käytössä valintakokeen G yhteinen osio ja oikeustieteen eriytyvä osio. Valintakokeen yhteinen osio on suoritettava ensin, ennen eriytyvää osiota. Jokainen avattu osio tulee suorittaa kerralla loppuun eikä osioon voi palata enää myöhemmin. Valintakoe perustuu kokeessa olevaan aineistoon ja oikeustieteen eriytyvä osio perustuu lisäksi ennakkomateriaaliin."
+
+[Valintakoe G](https://yliopistovalinnat.fi/valintakokeet/valintakoe-g) koostuu:
+- yhteisestä osiosta, joka mittaa tieteellisen tiedon ja käsitteistön omaksumista ja soveltamista, (2h)
+  - "osio mittaa erityisesti tieteellisen tiedon ja käsitteistön omaksumista ja soveltamista, aineistojen analyyttista ja kriittistä tarkastelua, lähdekritiikkiä sekä ilmiöiden moniulotteisuuden ja kontekstuaalisuuden tulkintaa. Yhteinen osio perustuu kokeessa jaettavaan aineistoon ja sisältää oikein-väärin-, monivalinta- ja/tai aukkokysymyksiä."
+- viestintätieteiden eriytyvästä osiosta sekä
+- oikeustieteen eriytyvästä osiosta.
+
+Oikeustieteen eriytyvän osion ennakkomateriaali on julkaistu 1.6.2026. Ennakkomateriaalina on kaksi julkaisua:
+
+- Jaana Norio: Johdatus kuluttajaoikeuteen (luvut 1–5 ja 7, ei lukua 6) [PDF](https://yliopistovalinnat.fi/wp-content/uploads/2026/06/Norio-Johdatus-kuluttajaoikeuteen.pdf)
+- Rajaesteet Pohjoismaissa sosiaali- ja työmarkkinakysymyksissä (sivut 7–80) [PDF](https://yliopistovalinnat.fi/wp-content/uploads/2026/06/Rajaesteet-Pohjoismaissa-sosiaali-ja-tyomarkkinakysymyksissa.pdf)
+
+- Tee audioyhteenveto niin, että opin materiaalin mahdollisimman hyvin pääsykoetta varten, jossa kysytään pelkästään monivalintakysymyksiä. Haluan opetella aineiston mahdollisimman tarkasti, mutta ymmärtää myös kokonaisuuden. Tee välillä aktiivisen muistamisen kysymyksiä, esim. pidä tauko ja anna mahdollisuus vastata mielessä. Lopuksi tee kertaus.
+
+### PDF to EPUB
+
+- maksullinen: [PDFguru](https://pdfguru.com/), [Fileworld](https://fileworld.co/en/checkout?plan=plan_mono) 
+- ok - large file: [Cloudconvert](https://cloudconvert.com/pdf-to-epub) - file size too large
+- best: [pdf24.org](https://tools.pdf24.org/) - not working in storytell
+- [tiniwow](https://tinywow.com/pdf/app/to-epub)
+
+## Jaana Norio: Johdatus kuluttajaoikeuteen
+
+### Lyhenteet
+
+- EUT: Euroopan unionin tuomiistuin
+- KLS: Kuluttajausuojalaki (38/1978)
+- SEU: Sopimus Euroopan unionista
+- SEUT: .. toiminnasta
+
+### Poimintoja
+
+- "Kuluttajalta edellytetään aktiivisuutta asiansa hoitamisessa. Yhtä kuluttajaa koskeva ratkaisu ei suoraan vaikuta muiden, samanlaisessakaan riitatilanteessa olevien kuluttajien asemaan." 10%
+- Kuluttajansuojalainsäädäntö
+  - "tarkoituksena on edistää kuluttajan mahdollisuuksia tehdä omalta kannaltaan perusteltuja hyödykehankintoja eli mahdollisuuksia saada hankituksi tarpeisiinsa sopivia ja turvallisia tuotteita kohtuullisin ehdoin."
+- 1.2 Oikeusjärjestys = oikeudellisten normien kokonaisuus on perinteisesti jaettu yksityis- ja julkisoikeuteen.  
+  - julkis = esim. kunnan ja kansalaisten välisiä suhteita. 
+    - perinteisesti: rikos- ja prosessioikeus, hallinto-oikeus, valtiosääntöoikeus ja vero-oikeus.
+  - yksitys: esim. kuluttajaoikeus
+  - 1994 ETA:aan ja 1995 EU. Suomi sitoutui kuluttajaoikeuden kehittämiseen. Aluksi ei mainintaa, SEU 1993 ja SEUT 1999. 
+    - Euroopan unionin perusoikeuskirjan [38 artikla](https://fra.europa.eu/fi/eu-charter/article/38-kuluttajansuoja?field_fra_country_target_id%5B0%5D=1001).
+- Storytel s.104/340: 
+  - "Tuomioistuimen antama ratkaisu sitoo kuitenkin vain ratkaistun riidan osapuolia, ei muita tahoja,"
+  - kuluttaja-asiamiehelle on annettu oikeus panna vireille *ryhmäkanne*, josta säädetään tarkemmin ryhmäkannelaissa (444/2007).
+    - Tarkoitus: Ryhmäkanteen tavoitteena on helpottaa kuluttajien asemaa ja parantaa oikeussuojan saatavuutta tilanteissa, joissa yksittäisen kuluttajan taloudellinen intressi on liian pieni tai asia muuten liian vaivalloinen yksin ajettavaksi (esimerkiksi virheelliset palvelumaksut tai puutteelliset tuotetiedot).
+    - Vireillepano: Ainoastaan kuluttaja-asiamies voi nostaa ryhmäkanteen kuluttajien puolesta. Yksittäiset kuluttajat eivät voi sitä suoraan tehdä. (Kaikki käsitellään Helsingin käräjäoikeudessa s.105/340)
+    - Ryhmän jäsenet: Kanne kattaa kaikki ne ryhmään kuuluvat kuluttajat, jotka ovat ilmoittautuneet mukaan oikeudenkäyntiin kirjallisesti tai muulla kuluttaja-asiamiehen hyväksymällä tavalla.
+    - Vaikutus: Ryhmäkanteessa annettu tuomio sitoo kaikkia ryhmään ilmoittautuneita, ja se luo usein selkeän ennakkotapauksen myös muille samanlaisessa tilanteessa oleville kuluttajille.
+      - GEMINI 260602
+- s.106/340: toisin kuin ryhmävalituksessa, kuluttaja ei automaattisesti pääse mukaan ryhmäkanteeesen, halukkuudesta ilmoitetaan opt-in -mallilla.
+- 4. Markkinointi ja menettelyt asiakassuhteessa
+
+### Kuluttajansuojalaki KSL
+
+- Kirjassa toisin sanoin KSL 2
+- Alkuperäinen julkaisu [PDF](https://www.finlex.fi/api/assets/extra/statute-book-of-finland-pdf/fin/2008/20080093.pdf)
+  - Tee audioyhteenveto KSL 2, että opin materiaalin mahdollisimman hyvin pääsykoetta varten, jossa kysytään pelkästään monivalintakysymyksiä. Haluan opetella aineiston mahdollisimman tarkasti. Asetukset on kerrottu melko tarkasti pykälittäin. Poimi tärpit ja yksityiskohdat. Tee välillä aktiivisen muistamisen kysymyksiä, esim. pidä tauko ja anna mahdollisuus vastata mielessä. Lopuksi kertaa tärkeimmät ja olennaiset asiat. Riittää että toinen juontaja on vain äänessä.
+    - testinä jos saisi monologin
+    - testaa myös, jos saisi esimerkit mukaan kustakin pykälästä
+
+#### Muita linkkejä
+
+- [Surma - IL 260602](https://www.iltalehti.fi/kotimaa/a/d0e555cf-7b4d-46a8-87dd-710d2f091380): "Mies oli tehnyt muun muassa seuraavia hakuja tietokoneellaan ja puhelimellaan syys–helmikuussa: Miksi puoliso ei ymmärrä puhetta? Miksi en tule ymmärretyksi?"
+
+
+
+## Rajaesteet Pohjoismaissa sosiaali- ja työmarkkinakysymyksissä (sivut 7–80)
+
+Tee audioyhteenveto sivuilta 7–80 niin, että opin materiaalin mahdollisimman hyvin pääsykoetta varten, jossa kysytään pelkästään monivalintakysymyksiä. Haluan opetella aineiston mahdollisimman tarkasti, mutta ymmärtää myös kokonaisuuden. Tee välillä aktiivisen muistamisen kysymyksiä, esim. pidä tauko ja anna mahdollisuus vastata mielessä. Lopuksi tee kertaus.
+
+Tee audioyhteenveto Rajaesteet Pohjoismaissa sosiaali- ja työmarkkinakysymyksissä (sivut 7–80) niin, että opin materiaalista mahdollisimman hyvin yksityiskohtaisia asioita. Haluan opetella aineiston mahdollisimman tarkasti, mutta ymmärtää myös kokonaisuuden. Audiokatsaus mahdollisimman yksityiskohtaisesti ja pelkästään aineistoon liittyen. Turha keskustelun voi jättää pois.
+
+
 ## 2024
 
 - "Oikeustieteellisen alan yhteisvalinnassa ovat mukana Helsingin, Itä-Suomen, Lapin ja Turun yliopistot. Yliopistot käyttävät valinnassa yhteistä valintakoetta ja yhteisiä valintaperusteita." [oikeustieteet.fi/](https://oikeustieteet.fi/), [kaukohteet ja valintamäärät](https://oikeustieteet.fi/hakukohteet)
@@ -30,6 +107,10 @@ Oikeustieteellisen alan yhteisvalinnan valintakoe maanantaina 23.5.2022 pidetä�
 
 ## Materiaalia - Aiemmat kokeet
 
+- Kaikki vanhat [kokeet ja tilastot](https://oikeustieteet.fi/kokeet-ja-tilastot)
+- [materiaali](https://yliopistovalinnat.fi/wp-content/uploads/2025/06/Oikeusvaltiollisuus-Euroopan-unionissa-ja-Suomessa.pdf) 2025
+  - vanhat [kokeet](https://yliopistovalinnat.fi/valintakokeet/valintakoe-g): 
+    - Koe G - Oikeustieteen eriytyvä osio 5.6.2025 [PDF ](https://yliopistovalinnat.fi/wp-content/uploads/2025/07/Koe-G-Oikeustieteen-osio-arvosteluperusteet.pdf)
 - [materiaali 2024](https://oikeustieteet.fi/ennakkomateriaali-2024-on-julkaistu)
   - Janne Salminen: Suomen valtiosääntö ja Euroopan unioni
   - Hallituksen esitys eduskunnalle laiksi sukupuolen vahvistamisesta ja siihen liittyviksi laeiksi, HE 189/2022, luvut 1-6
