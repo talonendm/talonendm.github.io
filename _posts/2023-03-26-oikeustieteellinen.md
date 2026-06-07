@@ -22,6 +22,12 @@ Oikeustieteellisen alan yhteisvalinnan valintakoe maanantaina 23.5.2022 pidetä�
 
 ## 2026
 
+Private [ta.dm](https://docs.google.com/document/d/1T7M_GATu7gUyjG5JzZYeV6RJ6xmzPSQtPEhTEru4FH4/edit?usp=sharing) vinkit lukemiseen ja koetilaisuuteen.
+
+- Harjoittelu, ja kokeeseen mukaan
+
+### Koe
+
 "[Oikeustieteellisen](https://oikeustieteet.fi/valintaperusteet#valintakoe-ja-varasija) alan valintayhteistyön hakukohteilla on käytössä valintakokeen G yhteinen osio ja oikeustieteen eriytyvä osio. Valintakokeen yhteinen osio on suoritettava ensin, ennen eriytyvää osiota. Jokainen avattu osio tulee suorittaa kerralla loppuun eikä osioon voi palata enää myöhemmin. Valintakoe perustuu kokeessa olevaan aineistoon ja oikeustieteen eriytyvä osio perustuu lisäksi ennakkomateriaaliin."
 
 [Valintakoe G](https://yliopistovalinnat.fi/valintakokeet/valintakoe-g) koostuu:
@@ -35,10 +41,13 @@ Oikeustieteen eriytyvän osion ennakkomateriaali on julkaistu 1.6.2026. Ennakkom
 - Jaana Norio: Johdatus kuluttajaoikeuteen (luvut 1–5 ja 7, ei lukua 6) [PDF](https://yliopistovalinnat.fi/wp-content/uploads/2026/06/Norio-Johdatus-kuluttajaoikeuteen.pdf)
 - Rajaesteet Pohjoismaissa sosiaali- ja työmarkkinakysymyksissä (sivut 7–80) [PDF](https://yliopistovalinnat.fi/wp-content/uploads/2026/06/Rajaesteet-Pohjoismaissa-sosiaali-ja-tyomarkkinakysymyksissa.pdf)
 
-- Tee audioyhteenveto niin, että opin materiaalin mahdollisimman hyvin pääsykoetta varten, jossa kysytään pelkästään monivalintakysymyksiä. Haluan opetella aineiston mahdollisimman tarkasti, mutta ymmärtää myös kokonaisuuden. Tee välillä aktiivisen muistamisen kysymyksiä, esim. pidä tauko ja anna mahdollisuus vastata mielessä. Lopuksi tee kertaus.
+- LM: Tee audioyhteenveto niin, että opin materiaalin mahdollisimman hyvin pääsykoetta varten, jossa kysytään pelkästään monivalintakysymyksiä. Haluan opetella aineiston mahdollisimman tarkasti, mutta ymmärtää myös kokonaisuuden. Tee välillä aktiivisen muistamisen kysymyksiä, esim. pidä tauko ja anna mahdollisuus vastata mielessä. Lopuksi tee kertaus.
+
+## Lukeminen
 
 ### PDF to EPUB
 
+- materiaali saaminen lukulaitteeesen:
 - maksullinen: [PDFguru](https://pdfguru.com/), [Fileworld](https://fileworld.co/en/checkout?plan=plan_mono) 
 - ok - large file: [Cloudconvert](https://cloudconvert.com/pdf-to-epub) - file size too large
 - best: [pdf24.org](https://tools.pdf24.org/) - not working in storytell
@@ -77,33 +86,26 @@ Oikeustieteen eriytyvän osion ennakkomateriaali on julkaistu 1.6.2026. Ennakkom
 
 ### Kuluttajansuojalaki KSL
 
-- Kirjassa toisin sanoin KSL 2
+- Kirjassa toisin sanoin KSL 2: [Finlex](https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2008/561#OT0_OT0)
 - Alkuperäinen julkaisu [PDF](https://www.finlex.fi/api/assets/extra/statute-book-of-finland-pdf/fin/2008/20080093.pdf)
   - Tee audioyhteenveto KSL 2, että opin materiaalin mahdollisimman hyvin pääsykoetta varten, jossa kysytään pelkästään monivalintakysymyksiä. Haluan opetella aineiston mahdollisimman tarkasti. Asetukset on kerrottu melko tarkasti pykälittäin. Poimi tärpit ja yksityiskohdat. Tee välillä aktiivisen muistamisen kysymyksiä, esim. pidä tauko ja anna mahdollisuus vastata mielessä. Lopuksi kertaa tärkeimmät ja olennaiset asiat. Riittää että toinen juontaja on vain äänessä.
     - testinä jos saisi monologin
     - testaa myös, jos saisi esimerkit mukaan kustakin pykälästä
+    - [private ta.dm nLM](https://notebooklm.google.com/notebook/4edda896-78d1-455b-af89-77f6a639b896)
 
 #### Muita linkkejä
 
+- Fitburg-kaapelivaurio [yle](https://yle.fi/a/74-20230101)
+- Ylen toimittaja huijasi tekoälyllä ja läpäisi tehohoidon etäkurssin oppimatta mitään [YLE 260605](https://yle.fi/a/74-20224850)
 - [Surma - IL 260602](https://www.iltalehti.fi/kotimaa/a/d0e555cf-7b4d-46a8-87dd-710d2f091380): "Mies oli tehnyt muun muassa seuraavia hakuja tietokoneellaan ja puhelimellaan syys–helmikuussa: Miksi puoliso ei ymmärrä puhetta? Miksi en tule ymmärretyksi?"
-
-
-
-## Rajaesteet Pohjoismaissa sosiaali- ja työmarkkinakysymyksissä (sivut 7–80)
-
-Tee audioyhteenveto sivuilta 7–80 niin, että opin materiaalin mahdollisimman hyvin pääsykoetta varten, jossa kysytään pelkästään monivalintakysymyksiä. Haluan opetella aineiston mahdollisimman tarkasti, mutta ymmärtää myös kokonaisuuden. Tee välillä aktiivisen muistamisen kysymyksiä, esim. pidä tauko ja anna mahdollisuus vastata mielessä. Lopuksi tee kertaus.
-
-Tee audioyhteenveto Rajaesteet Pohjoismaissa sosiaali- ja työmarkkinakysymyksissä (sivut 7–80) niin, että opin materiaalista mahdollisimman hyvin yksityiskohtaisia asioita. Haluan opetella aineiston mahdollisimman tarkasti, mutta ymmärtää myös kokonaisuuden. Audiokatsaus mahdollisimman yksityiskohtaisesti ja pelkästään aineistoon liittyen. Turha keskustelun voi jättää pois.
-
+- Kerrostalon ovella liukastunut nainen voitti riidan: Saa yli kahden miljoonan euron korvaukset [HS](https://www.hs.fi/suomi/art-2000012041833.html)
 
 ## 2024
 
 - "Oikeustieteellisen alan yhteisvalinnassa ovat mukana Helsingin, Itä-Suomen, Lapin ja Turun yliopistot. Yliopistot käyttävät valinnassa yhteistä valintakoetta ja yhteisiä valintaperusteita." [oikeustieteet.fi/](https://oikeustieteet.fi/), [kaukohteet ja valintamäärät](https://oikeustieteet.fi/hakukohteet)
 - Oikeustieteen yhteisvalinnan valintakokeeseen luettavaksi tarkoitettu aineisto julkaistaan 23.4.2024. Materiaali julkaistaan myös maksuttomana PDF-versiona 23.4.2024. [unicontent](https://www.unicontent.fi/tuote/oikeustieteellisen-valintakoemateriaali-2024/)
 
-
 - tadm [private](https://docs.google.com/document/d/1HFx2P_NQUuzLSLu1UIHItoMoqYA-4FEHRedZKoYkJ88/edit?usp=sharing)
-
 
 ## Materiaalia - Aiemmat kokeet
 

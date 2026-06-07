@@ -188,7 +188,7 @@ jos saa diilin, 10 snt/kWh, paljon kustannukset laskevat? ks. [private ta.dm](ht
 - 2.5.2026 vanhan Zilgan siirto samaan isoon penkkiin kuin humalat. 40l multaa ja 45 musta multaa, jossa hieman matalampi pH. Kokopenkkiin ja siirto onnistui kuivan maan takia ihan kohtalaisesti. Hieman oli jo silmun alkua, mutta aika pitkän juuren sain otettua mukaan. Istutus kuitenkin tehty (May - Toukokuu 2021) ja vain mini rypäleitä tullut. Uudessa paikassa enemmän tilaa juurille, ja itseasiassa hallin vesiputki olisi varmaan kans tullut jossain vaiheessa vastaan. Tuossa on tilaa kasvaa, kuusimetsä suojaa hieman tuulelta. 
 - 2.5.2026 Lepän kukinta ohi. Koivu KK norkko.fi
 - 3.5.2026: Takapihan ojasta savista maata, tasoita traktorireitti ja sulkapallon eteläpuolelta rinnettä. Ison altakasteluruukun köynnöskasvin leikkaaminen. Puusta muutama lehti, ja oksa lähtee. Katsotaan saadaanko elvytettyä.
-- 4.5.2026: samettiruusu, valkoinen pitkäruukku. Chilit kuoli. Koripallokentän kasvulava. Puolet rucolaa, puolet (vasen) ruusupapu. Ei kastelua. Iltapäivällä sadetta. Kahteen pikku altakasteleruukkuun ruusupapua. Katsotaan lähteekö
+- 4.5.2026: samettiruusu, valkoinen pitkäruukku. Chilit kuoli. Koripallokentän kasvulava. Puolet rucolaa (hallinpuoleinen sivusta), puolet (vasen) ruusupapu. Ei kastelua. Iltapäivällä sadetta. Kahteen pikku altakasteleruukkuun ruusupapua. Katsotaan lähteekö
 - 6.5.2026: kahvipuruja Zilgalle käpyjen päälle.
 - 9.5.2026: Pinaatti: sipulikasvihuoneeseen ja avomaalle. Suorakylvö onnistuu hyvin Suomessa tähän aikaan. Helsingissä toukokuu on oikein hyvä aika kylvää ensimmäinen sato. Kylvä noin:
   - 1–2 cm syvyyteen
@@ -201,6 +201,8 @@ jos saa diilin, 10 snt/kWh, paljon kustannukset laskevat? ks. [private ta.dm](ht
 - 18.5.2026: Kaksi kuormaa: 0-32mm pingis ja tie (kolsari)
 - 19.5.2026: Prisma [myyräkarkotin](https://www.prisma.fi/tuotteet/102008924/swissinno-supercat-myyrakarkotin-aurinkopaneelilla-102008924): "häätää myyrät ja muut maan alla elävät jyrsijät jopa 650 m2 alueelta."
   - takuu 2 vuotta 19.5.2028 asti
+- 1.6.2026 tasoitetuntien reunaan multaa 200l ja unikkoa
+- 5.6.2026 unikkoa rinteeesen kuusimetsän viereen sekä pihatien penkereeseen.
 
 # 2025
 
