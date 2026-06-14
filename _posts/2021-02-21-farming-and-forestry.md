@@ -203,6 +203,8 @@ jos saa diilin, 10 snt/kWh, paljon kustannukset laskevat? ks. [private ta.dm](ht
   - takuu 2 vuotta 19.5.2028 asti
 - 1.6.2026 tasoitetuntien reunaan multaa 200l ja unikkoa
 - 5.6.2026 unikkoa rinteeesen kuusimetsän viereen sekä pihatien penkereeseen.
+- 7.6.2026 sateen jälkeen salvia parasta ennen 2011 yläpihatien vierus hallin puoleinen pätkä. ja isolehti paikka jossa myyrä myllertänyt. monivuotinen. lehtiä voi poimia tarpeen mukaan. violettikukka.
+- 11.6.2026 ennen sateita lannoitetta hevoskastanjoiden, omenepuiden ja pensaiden juurelle. Kahvipuruja rhodolle
 
 # 2025
 

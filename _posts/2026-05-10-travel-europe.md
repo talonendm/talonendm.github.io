@@ -168,7 +168,6 @@ Today, Kaunas is a vibrant and modern city with a strong focus on education, art
 3. **Cathedral Island (Ostrów Tumski)**  
    :contentReference[oaicite:2]{index=2} — The oldest part of Poznań, featuring the Archcathedral Basilica of St. Peter and St. Paul, an important site in Poland’s early history.
 
-
 # Rostock
 
 - [Gedser Rostockiin Lautta](https://openferry.com/fi/routes/gedser-rostock)
@@ -188,6 +187,37 @@ Today, Kaunas is a vibrant and modern city with a strong focus on education, art
 3. **Warnemünde Beach & Lighthouse**  
    :contentReference[oaicite:2]{index=2} — A popular seaside district of Rostock featuring a wide sandy beach, a scenic promenade, and a historic lighthouse overlooking the Baltic Sea.
   
+# Denmark
+
+## Copenhagen
+
+# Sweden
+
+## route A
+
+- Malmö
+- Kristianstad
+- Karlskrona
+- [Kalmar](https://visitsweden.com/where-to-go/southern-sweden/smaland/kalmar/)
+  - Öland
+    - Gemini: "[Öölantiin](https://fi.wikipedia.org/wiki/%C3%96%C3%B6lanti) on helppo matkustaa autolla Suomesta. Pääset saarelle mantereelta Kalmarin kaupungista lähtevää maksutonta Öölannin siltaa (Ölandsbron) pitkin, joka on noin kuusi kilometriä pitkä."
+
+
+# Alternative Turku - Copenhagen
+
+## Viking Line
+
+Turku - Tukholma 
+8:45-18:55 (Viking Glory 11h) ja 20:55-06:30 (Viking Grace)
+
+Helsinki - Tukholma
+18:10 - 10:00
+
+Tukholma - Turku
+07:45 19:50 ja 20:00-07:35
+
+Tukholma - Helsinki
+16:00-09:15
 
 
 # Links
