@@ -219,6 +219,18 @@ Tukholma - Turku
 Tukholma - Helsinki
 16:00-09:15
 
+## Stockholm - Copenhagen
+
+- Öland
+- Göteborg
+
+## Copenhagen - Gdansk
+
+- Copenhagen-Prora: [Maps-reitti](https://maps.app.goo.gl/JLcwsvyHVauR1YQg6): 5h23min 357km
+  - Gedser-Rostock
+- [Prora](https://fi.wikipedia.org/wiki/Prora)
+  - Prora-Swinoujscie [Maps-reitti](https://maps.app.goo.gl/QRQkGU7PHp5iRre38): 2h20min 149km
+- Gdynia-Kaunas
 
 # Links
 
