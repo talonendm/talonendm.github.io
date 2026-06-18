@@ -28,6 +28,9 @@ published: true
 
 # Road trip
 
+- private [DOCS ta.dm ](https://docs.google.com/document/d/1XXeHXdTI60b2imOBHN5lHHMTV_3ib8ipEPnk3kKyl0o/edit?usp=sharing)
+
+
 ## Riika
 
 ### Riika - Kaunas
@@ -231,6 +234,12 @@ Tukholma - Helsinki
 - [Prora](https://fi.wikipedia.org/wiki/Prora)
   - Prora-Swinoujscie [Maps-reitti](https://maps.app.goo.gl/QRQkGU7PHp5iRre38): 2h20min 149km
 - Gdynia-Kaunas
+
+# Drone
+
+- Sweden [MAP LFV](https://dronechart.lfv.se/)
+- Denmark [Dronezoner](https://dronezoner.eu/Dronezoner2026.html)
+- Poland [PANSA](https://dronemap.pansa.pl/)
 
 # Links
 
