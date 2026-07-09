@@ -207,6 +207,11 @@ jos saa diilin, 10 snt/kWh, paljon kustannukset laskevat? ks. [private ta.dm](ht
 - 11.6.2026 ennen sateita lannoitetta hevoskastanjoiden, omenepuiden ja pensaiden juurelle. Kahvipuruja rhodolle
 - 14.6.2026 moottorisahan putsaus ja ketjun teroitus. Aiemmin viikolla kaatuneen koivun pilkkominen (260613) ja siivoaminen. 
 - 14.6.2026 ennenkuin retiisit valmiita säkissä (vain muutama) niin matoja ja ei todellakaan houkuttele pistään salattiin. Säkki maahan, loput mullat hallin luonaolevan kivien poistoaukkojen täytöksi. Toisesta säkistä Big Max kurpitsan taimia (läpällä). Jos siitä lähtevät niin lokakuussa on valmiina paikoillaan Halloween-iloksi.
+- poissa
+- 6.7.2026: Rikkaruohot vallanneet paikkoja
+  - uusi laji tiluksilla. Humala-alueella: myrkyllinen 1-vuotinen "[harmiton](https://pohjolankasvienpauloissa.com/fumaria-officinalis-peltoemakki/)" [Peltoemäkki](https://fi.wikipedia.org/wiki/Peltoem%C3%A4kki)
+    - viihtyy ravinteella maalla (salpietari levitetty aiemmin kesällä)
+  - Korianterit, rucolat jo kukkii - meni yli
 
 # 2025
 

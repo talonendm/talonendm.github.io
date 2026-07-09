@@ -235,11 +235,44 @@ Tukholma - Helsinki
   - Prora-Swinoujscie [Maps-reitti](https://maps.app.goo.gl/QRQkGU7PHp5iRre38): 2h20min 149km
 - Gdynia-Kaunas
 
+# Electric Car - recharging and parking
+
+- Easypark Go: parking at Sweden (30 days subscription 260624)
+  - [ ]: TODO: disable order
+- Park ReCharge: (Vann) app
+- ChargeNode app (Halmstad)
+- [Oresundlinjen](https://www.oresundslinjen.com/) (ferry): Helsinbgorg to Helsingor
+  - online ticket cheaper, arrive at least 20 min before departure time (I had 22 min). Note there can be traffic near port ([MAPS](https://www.google.com/maps/@56.0396988,12.7068568,2828m/data=!3m1!1e3?entry=ttu&g_ep=EgoyMDI2MDYyOS4wIKXMDSoASAFQAw%3D%3D))
+- Elocity (Sopot) app
+- Charging Gp (poland) app
+- Ignitis On, latvia app
+- Elektrum Drive app (Latvia)
+- 
+
+# Sopot, Gnynia, Gdansk 
+
+- [Jakdojade.pl](https://jakdojade.pl/onboarding) public transport and trains
+  - e.g. Gnynia to Sopot SKM-S1 [APP](https://jakdojade.pl/sopot/Gdynia%20Red%C5%82owo/Sopot%20%C5%BBeromskiego?d=06.07.26&h=12:22&fc=54.49145:18.53833&ft=STOP_GROUP&tc=54.4405:18.55127&tt=STOP_GROUP&fsc=SKM_TROJMIASTO-GDYNIA_REDLOWO_TRAIN&tsc=ZTM_GDANSK-SOPOT_ZEROMSKIEGO). Google Pay, tickets on APP.
+
 # Drone
 
 - Sweden [MAP LFV](https://dronechart.lfv.se/)
 - Denmark [Dronezoner](https://dronezoner.eu/Dronezoner2026.html)
 - Poland [PANSA](https://dronemap.pansa.pl/)
+
+# Stories
+
+## Nakkilassa kalastuslupa Nakkilan koskille K-kaupasta
+
+- nolla, 4, nolla(a) ..
+  - no ei varmasti ole
+  - no on.
+  - ei varmasti ole neljää nollaa
+  - onhan
+  - no ei ole
+  - no niin siis 0, 4, 0
+
+
 
 # Links
 
@@ -247,6 +280,80 @@ Tukholma - Helsinki
 - stuff - take with you, [privata ta.dm](https://docs.google.com/spreadsheets/d/19BkGyPCeYUFju6qmrPmDd3s-zcD2MNX5jRguvoorb1c/edit?usp=sharing)
 - general summer plans, [private ta.dm](https://docs.google.com/document/d/1PyTRdfl51dnbZYe0ZIq83jFfvQ_F2qFU4TMWlZXUqI4/edit?usp=sharing)
 - [rooffighter](https://talonendm.github.io/rooffighter) game
+
+
+# Pics
+
+![i.0001](/assets/pics/page/travelling/2026/eu640x640_0001.jpg){: .mx-auto.d-block :}
+![i.0002](/assets/pics/page/travelling/2026/eu640x640_0002.jpg){: .mx-auto.d-block :}
+![i.0003](/assets/pics/page/travelling/2026/eu640x640_0003.jpg){: .mx-auto.d-block :}
+![i.0004](/assets/pics/page/travelling/2026/eu640x640_0004.jpg){: .mx-auto.d-block :}
+![i.0005](/assets/pics/page/travelling/2026/eu640x640_0005.jpg){: .mx-auto.d-block :}
+![i.0006](/assets/pics/page/travelling/2026/eu640x640_0006.jpg){: .mx-auto.d-block :}
+![i.0007](/assets/pics/page/travelling/2026/eu640x640_0007.jpg){: .mx-auto.d-block :}
+![i.0008](/assets/pics/page/travelling/2026/eu640x640_0008.jpg){: .mx-auto.d-block :}
+![i.0009](/assets/pics/page/travelling/2026/eu640x640_0009.jpg){: .mx-auto.d-block :}
+![i.0010](/assets/pics/page/travelling/2026/eu640x640_0010.jpg){: .mx-auto.d-block :}
+![i.0011](/assets/pics/page/travelling/2026/eu640x640_0011.jpg){: .mx-auto.d-block :}
+![i.0012](/assets/pics/page/travelling/2026/eu640x640_0012.jpg){: .mx-auto.d-block :}
+![i.0013](/assets/pics/page/travelling/2026/eu640x640_0013.jpg){: .mx-auto.d-block :}
+![i.0014](/assets/pics/page/travelling/2026/eu640x640_0014.jpg){: .mx-auto.d-block :}
+![i.0015](/assets/pics/page/travelling/2026/eu640x640_0015.jpg){: .mx-auto.d-block :}
+![i.0016](/assets/pics/page/travelling/2026/eu640x640_0016.jpg){: .mx-auto.d-block :}
+![i.0017](/assets/pics/page/travelling/2026/eu640x640_0017.jpg){: .mx-auto.d-block :}
+![i.0018](/assets/pics/page/travelling/2026/eu640x640_0018.jpg){: .mx-auto.d-block :}
+![i.0019](/assets/pics/page/travelling/2026/eu640x640_0019.jpg){: .mx-auto.d-block :}
+![i.0020](/assets/pics/page/travelling/2026/eu640x640_0020.jpg){: .mx-auto.d-block :}
+![i.0021](/assets/pics/page/travelling/2026/eu640x640_0021.jpg){: .mx-auto.d-block :}
+![i.0022](/assets/pics/page/travelling/2026/eu640x640_0022.jpg){: .mx-auto.d-block :}
+![i.0023](/assets/pics/page/travelling/2026/eu640x640_0023.jpg){: .mx-auto.d-block :}
+![i.0024](/assets/pics/page/travelling/2026/eu640x640_0024.jpg){: .mx-auto.d-block :}
+![i.0025](/assets/pics/page/travelling/2026/eu640x640_0025.jpg){: .mx-auto.d-block :}
+![i.0026](/assets/pics/page/travelling/2026/eu640x640_0026.jpg){: .mx-auto.d-block :}
+![i.0027](/assets/pics/page/travelling/2026/eu640x640_0027.jpg){: .mx-auto.d-block :}
+![i.0028](/assets/pics/page/travelling/2026/eu640x640_0028.jpg){: .mx-auto.d-block :}
+![i.0029](/assets/pics/page/travelling/2026/eu640x640_0029.jpg){: .mx-auto.d-block :}
+![i.0030](/assets/pics/page/travelling/2026/eu640x640_0030.jpg){: .mx-auto.d-block :}
+![i.0031](/assets/pics/page/travelling/2026/eu640x640_0031.jpg){: .mx-auto.d-block :}
+![i.0032](/assets/pics/page/travelling/2026/eu640x640_0032.jpg){: .mx-auto.d-block :}
+![i.0033](/assets/pics/page/travelling/2026/eu640x640_0033.jpg){: .mx-auto.d-block :}
+![i.0034](/assets/pics/page/travelling/2026/eu640x640_0034.jpg){: .mx-auto.d-block :}
+![i.0035](/assets/pics/page/travelling/2026/eu640x640_0035.jpg){: .mx-auto.d-block :}
+![i.0036](/assets/pics/page/travelling/2026/eu640x640_0036.jpg){: .mx-auto.d-block :}
+![i.0037](/assets/pics/page/travelling/2026/eu640x640_0037.jpg){: .mx-auto.d-block :}
+![i.0038](/assets/pics/page/travelling/2026/eu640x640_0038.jpg){: .mx-auto.d-block :}
+![i.0039](/assets/pics/page/travelling/2026/eu640x640_0039.jpg){: .mx-auto.d-block :}
+![i.0040](/assets/pics/page/travelling/2026/eu640x640_0040.jpg){: .mx-auto.d-block :}
+![i.0041](/assets/pics/page/travelling/2026/eu640x640_0041.jpg){: .mx-auto.d-block :}
+![i.0042](/assets/pics/page/travelling/2026/eu640x640_0042.jpg){: .mx-auto.d-block :}
+![i.0043](/assets/pics/page/travelling/2026/eu640x640_0043.jpg){: .mx-auto.d-block :}
+![i.0044](/assets/pics/page/travelling/2026/eu640x640_0044.jpg){: .mx-auto.d-block :}
+![i.0045](/assets/pics/page/travelling/2026/eu640x640_0045.jpg){: .mx-auto.d-block :}
+![i.0046](/assets/pics/page/travelling/2026/eu640x640_0046.jpg){: .mx-auto.d-block :}
+![i.0047](/assets/pics/page/travelling/2026/eu640x640_0047.jpg){: .mx-auto.d-block :}
+![i.0048](/assets/pics/page/travelling/2026/eu640x640_0048.jpg){: .mx-auto.d-block :}
+![i.0049](/assets/pics/page/travelling/2026/eu640x640_0049.jpg){: .mx-auto.d-block :}
+![i.0050](/assets/pics/page/travelling/2026/eu640x640_0050.jpg){: .mx-auto.d-block :}
+![i.0051](/assets/pics/page/travelling/2026/eu640x640_0051.jpg){: .mx-auto.d-block :}
+![i.0052](/assets/pics/page/travelling/2026/eu640x640_0052.jpg){: .mx-auto.d-block :}
+![i.0053](/assets/pics/page/travelling/2026/eu640x640_0053.jpg){: .mx-auto.d-block :}
+![i.0054](/assets/pics/page/travelling/2026/eu640x640_0054.jpg){: .mx-auto.d-block :}
+![i.0055](/assets/pics/page/travelling/2026/eu640x640_0055.jpg){: .mx-auto.d-block :}
+![i.0056](/assets/pics/page/travelling/2026/eu640x640_0056.jpg){: .mx-auto.d-block :}
+![i.0057](/assets/pics/page/travelling/2026/eu640x640_0057.jpg){: .mx-auto.d-block :}
+![i.0058](/assets/pics/page/travelling/2026/eu640x640_0058.jpg){: .mx-auto.d-block :}
+![i.0059](/assets/pics/page/travelling/2026/eu640x640_0059.jpg){: .mx-auto.d-block :}
+![i.0060](/assets/pics/page/travelling/2026/eu640x640_0060.jpg){: .mx-auto.d-block :}
+![i.0061](/assets/pics/page/travelling/2026/eu640x640_0061.jpg){: .mx-auto.d-block :}
+![i.0062](/assets/pics/page/travelling/2026/eu640x640_0062.jpg){: .mx-auto.d-block :}
+![i.0063](/assets/pics/page/travelling/2026/eu640x640_0063.jpg){: .mx-auto.d-block :}
+![i.0064](/assets/pics/page/travelling/2026/eu640x640_0064.jpg){: .mx-auto.d-block :}
+![i.0065](/assets/pics/page/travelling/2026/eu640x640_0065.jpg){: .mx-auto.d-block :}
+![i.0066](/assets/pics/page/travelling/2026/eu640x640_0066.jpg){: .mx-auto.d-block :}
+![i.0067](/assets/pics/page/travelling/2026/eu640x640_0067.jpg){: .mx-auto.d-block :}
+![i.0068](/assets/pics/page/travelling/2026/eu640x640_0068.jpg){: .mx-auto.d-block :}
+![i.0069](/assets/pics/page/travelling/2026/eu640x640_0069.jpg){: .mx-auto.d-block :}
+![i.0070](/assets/pics/page/travelling/2026/eu640x640_0070.jpg){: .mx-auto.d-block :}
 
 # Travel map code
 
