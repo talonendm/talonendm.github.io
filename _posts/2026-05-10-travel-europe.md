@@ -284,6 +284,10 @@ Tukholma - Helsinki
 
 # Pics
 
+[This is a comment that will be hidden.]: # 
+[ https://docs.google.com/spreadsheets/d/1qLqbb4lfnP-PYo_ecjJITnPSSaMUjiI-B4pjUVCIS2o/edit?usp=sharing]: #
+
+
 ![i.0001](/assets/pics/page/travelling/2026/eu640x640_0001.jpg){: .mx-auto.d-block :}
 ![i.0002](/assets/pics/page/travelling/2026/eu640x640_0002.jpg){: .mx-auto.d-block :}
 ![i.0003](/assets/pics/page/travelling/2026/eu640x640_0003.jpg){: .mx-auto.d-block :}
@@ -296,14 +300,36 @@ Tukholma - Helsinki
 ![i.0010](/assets/pics/page/travelling/2026/eu640x640_0010.jpg){: .mx-auto.d-block :}
 ![i.0011](/assets/pics/page/travelling/2026/eu640x640_0011.jpg){: .mx-auto.d-block :}
 ![i.0012](/assets/pics/page/travelling/2026/eu640x640_0012.jpg){: .mx-auto.d-block :}
+
+## Lysekil, Sweden
+
 ![i.0013](/assets/pics/page/travelling/2026/eu640x640_0013.jpg){: .mx-auto.d-block :}
 ![i.0014](/assets/pics/page/travelling/2026/eu640x640_0014.jpg){: .mx-auto.d-block :}
+
+[Makrillen](https://kalajutut.fi/kalastus/norjasta-saa-ainutlaatuista-kalaa-rannalta-vetaa-kuin-taimen-ehka-vahan-enemmankin/) anländer i maj: Under vintern uppehåller sig makrillen på stora djup uppe vid Island, men någon gång i maj brukar de första rapporterna komma om att makrillen anlänt till våra kuster. De första makrillarna hittar man ofta nära land, långt in i Bohusläns fjordar.
+
 ![i.0015](/assets/pics/page/travelling/2026/eu640x640_0015.jpg){: .mx-auto.d-block :}
 ![i.0016](/assets/pics/page/travelling/2026/eu640x640_0016.jpg){: .mx-auto.d-block :}
+
+At Lysekil "Utsiktsron"
+
 ![i.0017](/assets/pics/page/travelling/2026/eu640x640_0017.jpg){: .mx-auto.d-block :}
 ![i.0018](/assets/pics/page/travelling/2026/eu640x640_0018.jpg){: .mx-auto.d-block :}
+
+Table tennis at Lysekil park 
+
+### gullmarsstrand *0 METERS FROM THE SEA
+
+- [gullmarsstrand](https://gullmarsstrand.se/en/) lunch
+
 ![i.0019](/assets/pics/page/travelling/2026/eu640x640_0019.jpg){: .mx-auto.d-block :}
 ![i.0020](/assets/pics/page/travelling/2026/eu640x640_0020.jpg){: .mx-auto.d-block :}
+
+## Liseberg
+
+- 2295SEK Grand Curiosa Hotel. One ride 4 tickets -> 10e Åkkupong x10, 250SEK
+- [Lisebergbanan](https://www.liseberg.se/en/park/rides-attractions/lisebergbanan/): One of the highlights of my visit to Liseberg was this classic roller coaster, which was specially designed for the park. The track is over 1.3 kilometres long, the ride lasts just under three minutes, and the train reaches speeds of up to 80 km/h. When it opened in 1987, it was the biggest and longest roller coaster in Europe. Although it no longer holds those records, it is still one of the park’s most popular attractions. For me, it was the perfect level of excitement—fast and thrilling, but not too intense. It gave just the right amount of adrenaline and was a lot of fun from start to finish. I can definitely understand why it remains a favourite among visitors year after year.
+
 ![i.0021](/assets/pics/page/travelling/2026/eu640x640_0021.jpg){: .mx-auto.d-block :}
 ![i.0022](/assets/pics/page/travelling/2026/eu640x640_0022.jpg){: .mx-auto.d-block :}
 ![i.0023](/assets/pics/page/travelling/2026/eu640x640_0023.jpg){: .mx-auto.d-block :}
@@ -317,6 +343,11 @@ Tukholma - Helsinki
 ![i.0031](/assets/pics/page/travelling/2026/eu640x640_0031.jpg){: .mx-auto.d-block :}
 ![i.0032](/assets/pics/page/travelling/2026/eu640x640_0032.jpg){: .mx-auto.d-block :}
 ![i.0033](/assets/pics/page/travelling/2026/eu640x640_0033.jpg){: .mx-auto.d-block :}
+
+# Copenhagen
+
+- [Vanløse Bistro](https://www.vanlosebistro.dk/) (Dronninglundvej 10, 2720)
+
 ![i.0034](/assets/pics/page/travelling/2026/eu640x640_0034.jpg){: .mx-auto.d-block :}
 ![i.0035](/assets/pics/page/travelling/2026/eu640x640_0035.jpg){: .mx-auto.d-block :}
 ![i.0036](/assets/pics/page/travelling/2026/eu640x640_0036.jpg){: .mx-auto.d-block :}
@@ -324,11 +355,21 @@ Tukholma - Helsinki
 ![i.0038](/assets/pics/page/travelling/2026/eu640x640_0038.jpg){: .mx-auto.d-block :}
 ![i.0039](/assets/pics/page/travelling/2026/eu640x640_0039.jpg){: .mx-auto.d-block :}
 ![i.0040](/assets/pics/page/travelling/2026/eu640x640_0040.jpg){: .mx-auto.d-block :}
+
+## Miedzyzdroje, Poland
+
 ![i.0041](/assets/pics/page/travelling/2026/eu640x640_0041.jpg){: .mx-auto.d-block :}
+
+- Wave hotel
+  - 50e -> 207PLN
+
 ![i.0042](/assets/pics/page/travelling/2026/eu640x640_0042.jpg){: .mx-auto.d-block :}
 ![i.0043](/assets/pics/page/travelling/2026/eu640x640_0043.jpg){: .mx-auto.d-block :}
 ![i.0044](/assets/pics/page/travelling/2026/eu640x640_0044.jpg){: .mx-auto.d-block :}
 ![i.0045](/assets/pics/page/travelling/2026/eu640x640_0045.jpg){: .mx-auto.d-block :}
+
+- [Prima Beer And Restaurant](https://www.tripadvisor.com/Restaurant_Review-g274732-d23415555-Reviews-Prima_Beer_And_Restaurant-Miedzyzdroje_Western_Pomerania_Province_Western_Poland.html)
+
 ![i.0046](/assets/pics/page/travelling/2026/eu640x640_0046.jpg){: .mx-auto.d-block :}
 ![i.0047](/assets/pics/page/travelling/2026/eu640x640_0047.jpg){: .mx-auto.d-block :}
 ![i.0048](/assets/pics/page/travelling/2026/eu640x640_0048.jpg){: .mx-auto.d-block :}
