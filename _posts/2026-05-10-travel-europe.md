@@ -352,6 +352,9 @@ Table tennis at Lysekil park
 ![i.0035](/assets/pics/page/travelling/2026/eu640x640_0035.jpg){: .mx-auto.d-block :}
 ![i.0036](/assets/pics/page/travelling/2026/eu640x640_0036.jpg){: .mx-auto.d-block :}
 ![i.0037](/assets/pics/page/travelling/2026/eu640x640_0037.jpg){: .mx-auto.d-block :}
+
+- [Pikkuneula](https://fi.wikipedia.org/wiki/Pikkuneula) (Syngnathus rostellatus) on merineulojen (Syngnathidae) heimoon kuuluva kalalaji.
+
 ![i.0038](/assets/pics/page/travelling/2026/eu640x640_0038.jpg){: .mx-auto.d-block :}
 ![i.0039](/assets/pics/page/travelling/2026/eu640x640_0039.jpg){: .mx-auto.d-block :}
 ![i.0040](/assets/pics/page/travelling/2026/eu640x640_0040.jpg){: .mx-auto.d-block :}
@@ -365,6 +368,9 @@ Table tennis at Lysekil park
 
 ![i.0042](/assets/pics/page/travelling/2026/eu640x640_0042.jpg){: .mx-auto.d-block :}
 ![i.0043](/assets/pics/page/travelling/2026/eu640x640_0043.jpg){: .mx-auto.d-block :}
+
+- Międzyzdrojen [laituri](https://www.tripadvisor.com/Attraction_Review-g274732-d26559127-Reviews-Molo_w_Miedzyzdrojach_Seebrucke-Miedzyzdroje_Western_Pomerania_Province_Western_.html) on Puolan Itämeren rannikon pisin (395 metriä) betonirakenteinen laituri, joka toimii yhtenä kaupungin tärkeimmistä maamerkeistä
+
 ![i.0044](/assets/pics/page/travelling/2026/eu640x640_0044.jpg){: .mx-auto.d-block :}
 ![i.0045](/assets/pics/page/travelling/2026/eu640x640_0045.jpg){: .mx-auto.d-block :}
 

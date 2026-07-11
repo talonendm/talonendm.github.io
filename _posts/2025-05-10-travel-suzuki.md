@@ -20,6 +20,8 @@ published: true
 
 ## Huolto
 
+- Kytkin irtosi syksyllä. 10mm avaimella prikka (katkaistu) ja mutteri. Hankalassa paikassa, ainoa reitti tukijalan suunnalta
+- Akun kiinnitys (260711) 10mm ja negatiivinen 90 asteen kulma-avaimella (oranssityökalulaatikko)
 - [Ketjujen huolto 101](https://customhoj.fi/blogs/mcblogg/motorcycle-chain-maintenance-101-a-guide-to-tensioning-your-chain)
 - Akku 4.10.2025
   -  Irroitus. Plus puolella vähän säätöä.
