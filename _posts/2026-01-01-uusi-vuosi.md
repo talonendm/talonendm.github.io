@@ -90,6 +90,10 @@ Finally, the speaker discusses the concept of technological singularity, where A
   - Vai pitääkö olla päärakennuksella? Kellariin pelihyllyn tilalle. Ehkä 2027 / 2028
 
 
+# Keittiö
+
+- 260716: listojen takaa putsaus. Väliseinän kipsilevyreiän peittäminen 2x5 puupalikalla. Sähköjohtojakorasia lepää lattialla.
+
 
 # darts
 

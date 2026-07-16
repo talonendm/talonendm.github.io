@@ -289,17 +289,35 @@ Tukholma - Helsinki
 
 
 ![i.0001](/assets/pics/page/travelling/2026/eu640x640_0001.jpg){: .mx-auto.d-block :}
+
+- [sp Nakkilan kosket](https://www.sports-tracker.com/workout/haques/6a3a47af0c805c7555b804f9)
+
 ![i.0002](/assets/pics/page/travelling/2026/eu640x640_0002.jpg){: .mx-auto.d-block :}
 ![i.0003](/assets/pics/page/travelling/2026/eu640x640_0003.jpg){: .mx-auto.d-block :}
 ![i.0004](/assets/pics/page/travelling/2026/eu640x640_0004.jpg){: .mx-auto.d-block :}
 ![i.0005](/assets/pics/page/travelling/2026/eu640x640_0005.jpg){: .mx-auto.d-block :}
 ![i.0006](/assets/pics/page/travelling/2026/eu640x640_0006.jpg){: .mx-auto.d-block :}
+
+## Bålsta
+
+- [sp driving 1](https://www.sports-tracker.com/workout/haques/6a3c095f4a7c232b11eb09a9): ok
+
 ![i.0007](/assets/pics/page/travelling/2026/eu640x640_0007.jpg){: .mx-auto.d-block :}
 ![i.0008](/assets/pics/page/travelling/2026/eu640x640_0008.jpg){: .mx-auto.d-block :}
+
+- Häljesta Petroglyphs (Västerås)
+
 ![i.0009](/assets/pics/page/travelling/2026/eu640x640_0009.jpg){: .mx-auto.d-block :}
+
+## Örebro
+
 ![i.0010](/assets/pics/page/travelling/2026/eu640x640_0010.jpg){: .mx-auto.d-block :}
 ![i.0011](/assets/pics/page/travelling/2026/eu640x640_0011.jpg){: .mx-auto.d-block :}
 ![i.0012](/assets/pics/page/travelling/2026/eu640x640_0012.jpg){: .mx-auto.d-block :}
+
+### Vann SPA
+
+- [Brastad ICA](https://maps.app.goo.gl/GDGeC3qkv4RGjXdPA) "Jag besökte butiken för att lämna tillbaka flaskor och köpa lösgodis, men flaskautomaten var trasig. Jag kunde inte lämna tillbaka mina flaskor och var tvungen att ta med dem hem igen. Det gjorde mitt besök onödigt besvärligt."
 
 ## Lysekil, Sweden
 
@@ -358,6 +376,13 @@ Table tennis at Lysekil park
 ![i.0038](/assets/pics/page/travelling/2026/eu640x640_0038.jpg){: .mx-auto.d-block :}
 ![i.0039](/assets/pics/page/travelling/2026/eu640x640_0039.jpg){: .mx-auto.d-block :}
 ![i.0040](/assets/pics/page/travelling/2026/eu640x640_0040.jpg){: .mx-auto.d-block :}
+
+## Denmark to Germany
+
+- [sp 260628](https://www.sports-tracker.com/workout/haques/6a416c129ddc4e3507b36e18)
+- [Christiansfeld](https://fi.wikipedia.org/wiki/Christiansfeld)
+- [Aabenraa](https://fi.wikipedia.org/wiki/Aabenraa)
+- 
 
 ## Miedzyzdroje, Poland
 

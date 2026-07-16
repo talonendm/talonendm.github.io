@@ -91,7 +91,7 @@ Fig) Aluskate ei vie vettä esteettömästi räystäällä oleviin vedenpoistoj�
 
 # Laitteet
 
-- 17.10.2023: [Dehumidifier](https://www.clasohlson.com/fi/Ilmankuivain-10-litraa,-31-m2/p/36-8321?utm_source=google&utm_medium=cpc&utm_campaign=FI_CO_AO_EVM_SEM_Google_pMax_Generic&utm_id=21897491240&gad_source=1&gad_campaignid=21901364113&gbraid=0AAAAADwtHoyG7MuO_xP8Vhm-jaJttg-9n&gclid=CjwKCAjwwpDQBhAuEiwAa-4Woz5iLgNJFxXy1MHg73LaWCyXEniJY29fX75CF5VyMV-eM-naXnZZUxoCJFsQAvD_BwE): Model MDDQ-10DEN7-QA3: ohje [PDF](https://www.clasohlson.com/medias/sys_master/hff/h27/67916078055454.pdf)
+- 17.10.2023: [Dehumidifier](https://www.clasohlson.com/fi/Ilmankuivain-10-litraa,-31-m2/p/36-8321?utm_source=google&utm_medium=cpc&utm_campaign=FI_CO_AO_EVM_SEM_Google_pMax_Generic&utm_id=21897491240&gad_source=1&gad_campaignid=21901364113&gbraid=0AAAAADwtHoyG7MuO_xP8Vhm-jaJttg-9n&gclid=CjwKCAjwwpDQBhAuEiwAa-4Woz5iLgNJFxXy1MHg73LaWCyXEniJY29fX75CF5VyMV-eM-naXnZZUxoCJFsQAvD_BwE): Model MDDQ-10DEN7-QA3: ohje [PDF ](https://www.clasohlson.com/medias/sys_master/hff/h27/67916078055454.pdf)
 
 ---
 
