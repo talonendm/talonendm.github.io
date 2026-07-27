@@ -347,6 +347,7 @@ Table tennis at Lysekil park
 
 - 2295SEK Grand Curiosa Hotel. One ride 4 tickets -> 10e Åkkupong x10, 250SEK
 - [Lisebergbanan](https://www.liseberg.se/en/park/rides-attractions/lisebergbanan/): One of the highlights of my visit to Liseberg was this classic roller coaster, which was specially designed for the park. The track is over 1.3 kilometres long, the ride lasts just under three minutes, and the train reaches speeds of up to 80 km/h. When it opened in 1987, it was the biggest and longest roller coaster in Europe. Although it no longer holds those records, it is still one of the park’s most popular attractions. For me, it was the perfect level of excitement—fast and thrilling, but not too intense. It gave just the right amount of adrenaline and was a lot of fun from start to finish. I can definitely understand why it remains a favourite among visitors year after year.
+- Easypark (kokeilujakso peruttu 260718, 4.99e/kk) - voimassa 260725 asti
 
 ![i.0021](/assets/pics/page/travelling/2026/eu640x640_0021.jpg){: .mx-auto.d-block :}
 ![i.0022](/assets/pics/page/travelling/2026/eu640x640_0022.jpg){: .mx-auto.d-block :}
@@ -404,6 +405,9 @@ Table tennis at Lysekil park
 ![i.0046](/assets/pics/page/travelling/2026/eu640x640_0046.jpg){: .mx-auto.d-block :}
 ![i.0047](/assets/pics/page/travelling/2026/eu640x640_0047.jpg){: .mx-auto.d-block :}
 ![i.0048](/assets/pics/page/travelling/2026/eu640x640_0048.jpg){: .mx-auto.d-block :}
+
+- Bolt Poland 1kk test. (peruttu 260718 ok)
+
 ![i.0049](/assets/pics/page/travelling/2026/eu640x640_0049.jpg){: .mx-auto.d-block :}
 ![i.0050](/assets/pics/page/travelling/2026/eu640x640_0050.jpg){: .mx-auto.d-block :}
 ![i.0051](/assets/pics/page/travelling/2026/eu640x640_0051.jpg){: .mx-auto.d-block :}
@@ -420,12 +424,34 @@ Table tennis at Lysekil park
 ![i.0062](/assets/pics/page/travelling/2026/eu640x640_0062.jpg){: .mx-auto.d-block :}
 ![i.0063](/assets/pics/page/travelling/2026/eu640x640_0063.jpg){: .mx-auto.d-block :}
 ![i.0064](/assets/pics/page/travelling/2026/eu640x640_0064.jpg){: .mx-auto.d-block :}
+
+# Riga, Latvia
+
 ![i.0065](/assets/pics/page/travelling/2026/eu640x640_0065.jpg){: .mx-auto.d-block :}
+
+- Visited: 
+  - Rīgas Doms (virallisesti Rīgas Doma evaņģēliski luteriskā baznīca, suomeksi usein Riian tuomiokirkko) on Latvian evankelis-luterilaisen kirkon pääkirkko ja arkkipiispan istuin Riian vanhassakaupungissa.
+
 ![i.0066](/assets/pics/page/travelling/2026/eu640x640_0066.jpg){: .mx-auto.d-block :}
+
+- Vuoden 1981 silta: Daugava-joen ylittävä vinoköysisilta valmistui Neuvostoliiton aikana nimellä Gorkija tilts.
+  - Kiipeilyvillitys: Köysille kiipeäminen oli nuorten keskuudessa suosittu mutta vaarallinen ilmiö, jota yritettiin yli 10 kertaa. Mies putosi köysistä ja menehtyi 7. kesäkuuta 2012. Heinäkuussa 2012 köysien ympärille asennettiin erikoisvalmisteisia piikkilankojenesteitä ja siltaan tuotiin ympärivuorokautinen vartiointi.
+- Sillan nimi on Vanšu tilts (suomeksi Vanšu-silta tai Vinoköysisilta).
+- Sillan vieressä sijaitseva suuri lasitalo on Swedbankin pääkonttori (tunnetaan myös nimellä Saules akmens eli Aurinkokivi). Rakennus on 27-kerroksinen ja 123 metriä korkea pilvenpiirtäjä. Aivan Swedbankin tornin takana siintävät myös kaksi uudempaa, pyöreää lasitornia nimeltään Zunda Towers (entiset Z-Towers)
+- Sillan toisella puolella (Pārdaugavan eli joen vasemman rannan puolella) sijaitseva värikäs kirkko on Pyhän Kolminaisuuden ortodoksikirkko (Rīgas Svētās Trīsvienības pareizticīgo baznīca). Arkkitehtuuri: Kirkko edustaa koristeellista venäläis-bysanttilaista tyyliä, ja monet vertaavat sen satumaista ulkonäköä jopa Disney-linnaan. Valmistumisvuosi: Nykyinen puinen ja muurattu kirkkorakennus valmistui vuonna 1895.
+
 ![i.0067](/assets/pics/page/travelling/2026/eu640x640_0067.jpg){: .mx-auto.d-block :}
 ![i.0068](/assets/pics/page/travelling/2026/eu640x640_0068.jpg){: .mx-auto.d-block :}
+
+- Riian keskustan pohjoispuolella sijaitseva suuri ja vehreä Mežaparks (suomeksi Metsäpuisto).
+
 ![i.0069](/assets/pics/page/travelling/2026/eu640x640_0069.jpg){: .mx-auto.d-block :}
+
+- Frisbeegolf rata: kyseessä oli mitä todennäköisimmin huijausyritys. Älä skannaa päälleliimattuja koodeja: Jos huomaat, että koodi on vino, koholla, reunoiltaan repsottava tai selkeästi tarralla korvattu, älä käytä sitä.
+
 ![i.0070](/assets/pics/page/travelling/2026/eu640x640_0070.jpg){: .mx-auto.d-block :}
+
+- Laivalla Trio
 
 # Travel map code
 

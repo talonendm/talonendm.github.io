@@ -7,15 +7,52 @@ tags:
   - Koli
   - Suomi
 comments: false
-cover-img: /assets/pics/cover/e1024/e-queens-gambit.jpg
+cover-img: /assets/pics/cover/e2000/e2000x1125_0003.jpg
 thumbnail-img: /assets/pics/thumbnail/e640-direct/2025/e-vaskitsa.jpg
 published: true
 ---
 
-Asuntoautoilulla voi pysähtyä spontaanisti kauniisiin paikkoihin. Reitin varrelta voi löytää rauhallisia levähdyspaikkoja eväiden nauttimista varten, viehättäviä pieniä kyliä persoonallisine kahviloineen sekä järvenrantapaikkoja, joissa voi ihastella auringonlaskuja. Suomen kesä onnistuu yllättämään kerta toisensa jälkeen. Itä-Suom en kohteissa luonnon ja kulttuurin voi antaa sulautua täydellisesti yhteen. Asuntoautolla matkustamalla voi kokea vapauden edetä omassa tahdissa ja tehdä matkasta unohtumattoman. 
+# Koli 2026
 
+## Kolin kansallispuisto
 
-# Matka
+Kolin maisemat ovat jotain, mitä jokaisen suomalaisen tulisi nähdä ainakin kerran elämässään. Ikoninen näkymä Ukko-Kolilta Pieliselle huokuu rauhaa ja ajattomuutta. Kansallispuiston vaellusreitit tarjoavat vaihtoehtoja niin kokeneille patikoijille kuin rentoa luontopäivää kaipaaville. Kolin luonto on kuin postikortti, jossa yhdistyvät jylhät kalliot, satumaiset metsät ja kirkkaat vesistöt. Asuntoautolla liikkuminen on helppoa, sillä alueella on hyviä pysäköinti- ja majoituspaikkoja matkailijoille.
+
+- sää [Foreca Koli, Lieksa](https://www.foreca.fi/Finland/Lieksa/Koli)
+- [Kiehisen kierros](https://www.luontoon.fi/en/trails/kiehisenkierros-trail-joensuu-193073-en), 19.4km
+- Jari ja Kari. [Yle areena](https://areena.yle.fi/1-3838878) - ei katsottavissa
+- jaa tämä sijainti O-O ikoni FB:n vieressä
+  - [Savijärven luontopolku](https://puskaparkit.fi/viewer/index.php?code=67f6448f99836&m=304): 63.100506, 29.672889
+- Mökkikylä
+  - Pikkupurnu, 83960 Kolin kylä, Suomi
+  - [kolinlotus](https://kolinlotus.fi/)
+- Järnefeltin kallio [MAPS](https://www.google.com/maps/place/J%C3%A4rnefeltin+kallio/@63.07656,29.8214247,14.67z)
+  - Järnefeltin kallio sijaitsee Kolin kansallispuistossa Mäkrävaaran rinteellä, ja sinne pääsee vaeltamalla suositulla Mäkrän kierto -reitillä tai osana Herajärven kierrosta. Reitiltä avautuu kuuluisa kansallismaisema, jonka taidemaalari Eero Järnefelt ikuisti teokseensa Syysmaisema Pielisjärveltä vuonna 1899.
+    - [Mäkrän](https://www.visitkarelia.fi/luonto/ulkoilu-ja-vaellusreitit/makran-polku-vaellus-kansallismaisemassa-kolin-kansallispuistossa) kierto (noin 7,2 km – 7,5 km rengasreitti).
+    - [Herajärven kierto](https://www.herajarvenkierros.fi/reittikuvaus-kertomus)
+- Kolin [pirunkirkko](https://retkipaikka.fi/kolin-pirunkirkko/)
+
+## Helvetinportin polku, Sarvinki
+
+Helvetinportti kuulostaa nimenä pelottavalta, mutta paikan päällä vastassa on upea luonnonmuodostelma. Kapea kalliosola ja sitä ympäröivä tiheä metsä luovat mystisen tunnelman. Helppo ja hyvin merkitty polku sopii erinomaisesti päiväretkelle. Sarvinki tarjoaa myös rauhallisia paikkoja levähtää luonnon äärellä, joten asuntoautoilijalle tämä on erinomainen pysähdyspaikka.
+
+- [luontoon.fi - reitti](https://www.luontoon.fi/en/trails/helvetinportin-polku-joensuu-529724-en): 0.6km
+- Enossa puskaparkki
+  - [Louhiojan uimaranta](https://puskaparkit.fi/viewer/index.php?code=67f6448f99836&m=304). Suihkut ja kiska.
+
+## Astuvansalmen kalliomaalaukset
+
+Astuvansalmi tuo historian lähelle. Tuhansia vuosia vanhat kalliomaalaukset kertovat tarinoita menneistä ajoista, jolloin ihmiset elivät luonnon kanssa sopusoinnussa. Astuvansalmen alueelle pääsy vaatii hieman vaivannäköä, mutta se on sen arvoista. Järvimaisemat ja kalliot huokuvat pohjoisen luontoa parhaimmillaan, ja tunnelma on lähes harras.
+
+## Kommelin luolat
+
+[Kommelin luolat](https://retkipaikka.fi/kommelinluola/) ovat luonnon muovaama ihme, joka piilottelee kallioiden kätköissä. Tämä kohde on seikkailunhaluisille, sillä luolien tutkiminen vaatii ketteryyttä ja taskulampun. Luonnon hiljaisuus ja luolien viileä ilmapiiri tekevät vierailusta unohtumattoman. Luolat tarjoavat mahdollisuuden tutustua erilaiseen puoleen Suomen luontoa.
+
+## Otavan kirkkokivet
+
+[Otavan kirkkokivet](https://retkipaikka.fi/otavan-kirkkokivet/) ovat muinaisjäännöksiä, jotka herättävät mielikuvituksen lentoon. Suuret siirtolohkareet on aseteltu tavalla, joka saa miettimään, mikä niiden alkuperäinen tarkoitus on voinut olla. Onko kyseessä ollut muinainen pyhä paikka? Paikalla vallitsee erityinen rauha, ja se tarjoaa ainutlaatuisen ympäristön pysähtyä hetkeksi.
+
+### Matka
 
 - [Google Maps](https://maps.app.goo.gl/KVsactuH16rTEu68A) -reittihahmotelma.
 - Joensuu: [Luontopolut](https://www.joensuu.fi/luontopolut)
@@ -62,7 +99,12 @@ Asuntoautoilulla voi pysähtyä spontaanisti kauniisiin paikkoihin. Reitin varre
 - Raaseporin Tenholassa
   - [Ovanmalmin virkistysalue](https://retkipaikka.fi/ovanmalmin-virkistysalue-raaseporin-tenholassa/)
 
-# Loviisa
+# Loviisa - Lappeenranta 2025
+
+Asuntoautolla matkustaessa voi pysähtyä spontaanisti juuri siellä, missä maisema houkuttelee viipymään. Reitin varrelta löytyy rauhallisia levähdyspaikkoja eväshetkiin, viehättäviä pikkukyliä persoonallisine kahviloineen sekä järvenrantoja, joilla voi ihailla kesäiltojen auringonlaskuja. Suomen kesä osaa yllättää kauneudellaan kerta toisensa jälkeen.
+
+Itä-Suomessa luonto ja kulttuuri sulautuvat saumattomasti yhteen, tarjoten elämyksiä jokaiselle matkailijalle. Asuntoautolla liikkuessa matkan voi taittaa omaan tahtiin, poiketa kiinnostaviin kohteisiin hetken mielijohteesta ja tehdä matkasta juuri omannäköisen – sellaisen, joka jää mieleen pitkäksi aikaa.
+
 
 ## Routes
 
@@ -91,34 +133,7 @@ Asuntoautoilulla voi pysähtyä spontaanisti kauniisiin paikkoihin. Reitin varre
     - Immalan uimaranta, [enemmän parkkia](https://puskaparkit.fi/viewer/index.php?code=67f6448f99836&m=304)
     - Lahteinen, [luonnon parkki](https://puskaparkit.fi/viewer/index.php?code=67f6448f99836&m=304)
 
-# Kolin kansallispuisto
 
-Kolin maisemat ovat jotain, mitä jokaisen suomalaisen tulisi nähdä ainakin kerran elämässään. Ikoninen näkymä Ukko-Kolilta Pieliselle huokuu rauhaa ja ajattomuutta. Kansallispuiston vaellusreitit tarjoavat vaihtoehtoja niin kokeneille patikoijille kuin rentoa luontopäivää kaipaaville. Kolin luonto on kuin postikortti, jossa yhdistyvät jylhät kalliot, satumaiset metsät ja kirkkaat vesistöt. Asuntoautolla liikkuminen on helppoa, sillä alueella on hyviä pysäköinti- ja majoituspaikkoja matkailijoille.
-
-- [Kiehisen kierros](https://www.luontoon.fi/en/trails/kiehisenkierros-trail-joensuu-193073-en), 19.4km
-- Jari ja Kari. [Yle areena](https://areena.yle.fi/1-3838878) - ei katsottavissa
-- jaa tämä sijainti O-O ikoni FB:n vieressä
-  - [Savijärven luontopolku](https://puskaparkit.fi/viewer/index.php?code=67f6448f99836&m=304): 63.100506, 29.672889
-
-# Helvetinportin polku, Sarvinki
-
-Helvetinportti kuulostaa nimenä pelottavalta, mutta paikan päällä vastassa on upea luonnonmuodostelma. Kapea kalliosola ja sitä ympäröivä tiheä metsä luovat mystisen tunnelman. Helppo ja hyvin merkitty polku sopii erinomaisesti päiväretkelle. Sarvinki tarjoaa myös rauhallisia paikkoja levähtää luonnon äärellä, joten asuntoautoilijalle tämä on erinomainen pysähdyspaikka.
-
-- [luontoon.fi - reitti](https://www.luontoon.fi/en/trails/helvetinportin-polku-joensuu-529724-en): 0.6km
-- Enossa puskaparkki
-  - [Louhiojan uimaranta](https://puskaparkit.fi/viewer/index.php?code=67f6448f99836&m=304). Suihkut ja kiska.
-
-# Astuvansalmen kalliomaalaukset
-
-Astuvansalmi tuo historian lähelle. Tuhansia vuosia vanhat kalliomaalaukset kertovat tarinoita menneistä ajoista, jolloin ihmiset elivät luonnon kanssa sopusoinnussa. Astuvansalmen alueelle pääsy vaatii hieman vaivannäköä, mutta se on sen arvoista. Järvimaisemat ja kalliot huokuvat pohjoisen luontoa parhaimmillaan, ja tunnelma on lähes harras.
-
-# Kommelin luolat
-
-[Kommelin luolat](https://retkipaikka.fi/kommelinluola/) ovat luonnon muovaama ihme, joka piilottelee kallioiden kätköissä. Tämä kohde on seikkailunhaluisille, sillä luolien tutkiminen vaatii ketteryyttä ja taskulampun. Luonnon hiljaisuus ja luolien viileä ilmapiiri tekevät vierailusta unohtumattoman. Luolat tarjoavat mahdollisuuden tutustua erilaiseen puoleen Suomen luontoa.
-
-# Otavan kirkkokivet
-
-[Otavan kirkkokivet](https://retkipaikka.fi/otavan-kirkkokivet/) ovat muinaisjäännöksiä, jotka herättävät mielikuvituksen lentoon. Suuret siirtolohkareet on aseteltu tavalla, joka saa miettimään, mikä niiden alkuperäinen tarkoitus on voinut olla. Onko kyseessä ollut muinainen pyhä paikka? Paikalla vallitsee erityinen rauha, ja se tarjoaa ainutlaatuisen ympäristön pysähtyä hetkeksi.
 
 # Verla
 
