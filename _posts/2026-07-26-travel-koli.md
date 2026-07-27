@@ -25,6 +25,7 @@ Kolin maisemat ovat jotain, mitä jokaisen suomalaisen tulisi nähdä ainakin ke
   - [Savijärven luontopolku](https://puskaparkit.fi/viewer/index.php?code=67f6448f99836&m=304): 63.100506, 29.672889
 - Mökkikylä
   - Pikkupurnu, 83960 Kolin kylä, Suomi
+  - [Purnutar A](https://majoitus.koli.fi/p/303/purnutar-a)
   - [kolinlotus](https://kolinlotus.fi/)
 - Järnefeltin kallio [MAPS](https://www.google.com/maps/place/J%C3%A4rnefeltin+kallio/@63.07656,29.8214247,14.67z)
   - Järnefeltin kallio sijaitsee Kolin kansallispuistossa Mäkrävaaran rinteellä, ja sinne pääsee vaeltamalla suositulla Mäkrän kierto -reitillä tai osana Herajärven kierrosta. Reitiltä avautuu kuuluisa kansallismaisema, jonka taidemaalari Eero Järnefelt ikuisti teokseensa Syysmaisema Pielisjärveltä vuonna 1899.

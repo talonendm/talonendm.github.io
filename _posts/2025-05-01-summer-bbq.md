@@ -14,6 +14,50 @@ published: true
 
 # Traeger Pro Series 22 
 
+## Kassler 2 x 2.2kg ([260724](https://talonendm.github.io/2022-07-09-summer-games/))
+
+- Klo 5:55 grilliin 86C
+- omenapuun pala messiin
+- klo17:00
+  - makkaraa 8kpl Traegeriin, toimi hyvin. Hyvä välipala itsestään
+- lopussa hieman lämpöä. 
+- Safkaus klo20:00
+  - jäi hieman kiinteäksi toinen Kassler
+  - Racletella hyvin höysteet ja juustot perunoiden kanssa. 
+- Ensi kerralla:
+  - ensin esim 114C ja lopussa 86C kun lähellä saavutettavaa 95C ja muutenkin voi antaa vetäytyä, eli smokea loppuun ja antaa olla
+
+
+### Lisuke test GPT
+
+Mausteinen gochujang-kurkkusalaatti (2 annosta)
+
+Ainekset
+
+1 iso kurkku
+1 rkl gochujangia
+1 rkl riisiviinietikkaa (tai tavallista etikkaa hieman vähemmän)
+1 tl soijakastiketta
+1 tl seesamiöljyä
+1 tl hunajaa tai sokeria
+1 valkosipulinkynsi raastettuna
+1 tl paahdettuja seesaminsiemeniä
+1 kevätsipuli hienonnettuna (halutessa)
+
+Valmistus
+
+Viipaloi tai murskaa kurkku kevyesti ja leikkaa suupaloiksi.
+Ripottele päälle noin ½ tl suolaa ja anna seistä 10 minuuttia.
+Purista tai valuta ylimääräinen neste pois.
+Sekoita kastike: gochujang, etikka, soija, seesamiöljy, hunaja ja valkosipuli.
+Kääntele kurkut kastikkeessa.
+Viimeistele seesaminsiemenillä ja kevätsipulilla. Anna maustua 10–20 minuuttia ennen tarjoilua.
+
+Tarjoa riisin, paistetun kanan, tofun tai grillatun lihan kanssa.
+
+Jos sinulla on myös gochugarua (korealaisia chilihiutaleita), lisää 1–2 tl vielä enemmän potkua varten. Jos taas pidät miedommasta, vähennä gochujangia puoleen ruokalusikalliseen.
+
+
 ## Possun filee 5.95e x 2 (3/2026)
 
 Mukaillein poppamies [ohjetta](https://poppamies.fi/reseptit/savustettu-pulled-pork/)

@@ -10,11 +10,50 @@ tags:
   - kesäjuhla
   - Kirkkonummi
   - Rummikub
+  - suurmestari
 comments: false
 cover-img: /assets/pics/cover/ai/tractor.jpg
 thumbnail-img: /assets/pics/thumbnail/ai/summerfest.jpg
 published: true
 ---
+
+# Suurmestari 2026
+
+- [this](https://talonendm.github.io/2022-07-09-summer-games/), [DD](https://talonendm.github.io/2021-12-27-DD/)
+- Pelit: SA, Löylynheitto SA -> SA
+  - SA, JA, MI, HE, GR, VI  
+- Lajit:
+  1. Ruoteeseen peruutus traktorilla
+  2. Darts
+  3. Pöytälätkä
+  4. Keittiöputti
+  5. Demokratia friba
+  6. Sähly (3 palloa tauluun)
+  7. Minigolf
+  8. Koris 6-7
+  9. Speden spelit fudis, kaljatölkin kumoaminen
+
+# Keittiöputti – Säännöt
+
+## Pelin tavoite
+Pysy pelissä pisimpään. Viimeisenä pelissä mukana oleva pelaaja voittaa.
+
+## Pelivälineet
+- Jokaisella pelaajalla on 2 kiekkoa.
+- Väylän par on 2.
+
+## Pisteytys
+- **Hole in one (1 heitto):** Heittäjä saa **0 pistettä**, mutta **kaikki muut pelaajat saavat +1 pisteen.**
+- **Par (2 heittoa):** 0 pistettä.
+- **Bogey (3 heittoa):** +1 piste.
+- Jokaisesta parin ylittävästä heitosta tulee yksi lisäpiste (esim. 4 heittoa = +2 pistettä, 5 heittoa = +3 pistettä).
+
+## Pudotus
+- Kun pelaajan kokonaispistemäärä on **3 pistettä**, hän putoaa pelistä.
+
+## Voittaja
+- Peli jatkuu, kunnes jäljellä on vain yksi pelaaja.
+- Viimeisenä pelissä mukana oleva pelaaja voittaa.
 
 # Kesäkisat 2025
 
@@ -353,6 +392,8 @@ Diplomacy: "Diplomacy is a strategic board game created by Allan B. Calhamer in 
 
 ## Kiertoon
 
+- [Civilization board game PC](https://civilization.fandom.com/wiki/Sid_Meier%27s_Civilization:_The_Boardgame_(2002)), (sold 30€ 2026)
+  - "Sid Meier's Civilization: The Boardgame is a board game from 2002. It's a strategy game that supports 2-6 players and plays for 180 minutes or more. The game was designed by Glenn Drover and published by Eagle Games. It won the Best Historical Board Game Origins Award in 2002."
 - Brio Ludo, [Cirkel - Fia](https://jlm.kulturhotell.se/objects/c60-66262/). Round About Ludo. Peli 1970-luvulta
 - [Safari](https://www.huuto.net/kohteet/safari---vuoden-lastenpeli-v-2002/575736537): Yli 4 vuotiaille, 2-4 pelaajaa. Vuoden 2000 Tactic lautapeli.
 - [Fortnite Monopoly](https://www.puolenkuunpelit.com/kauppa/product_info.php?products_id=118337&gclid=Cj0KCQiAgOefBhDgARIsAMhqXA7VSnbvEuoZJE0vYEjOZOr2g-bAWk-0VTBjeTi9OUHAgTsK7Vz-eXoaAsEnEALw_wcB): Monopoly rahojen sijaan pelaajat ansaitsevat Health Points- pisteitä. [Hasbro, vuosi 2019](https://www.puolenkuunpelit.com/kauppa/product_info.php?products_id=132454&gclid=Cj0KCQiAgOefBhDgARIsAMhqXA6WK6jz6v5qWS_CL64wROueQ9irjVqdiFFpkvxf4xVuxjb-wB3LwhkaAsXdEALw_wcB).
