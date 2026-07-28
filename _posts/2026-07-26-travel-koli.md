@@ -190,6 +190,304 @@ Itä-Suomessa luonto ja kulttuuri sulautuvat saumattomasti yhteen, tarjoten elä
   - Teoriakoe: B-luokan teoriakoe pitää silti suorittaa.
   - Ajotunnit: Pakolliset ajotunnit (esim. pimeän ajo, maantieajo ja moottorirata) on suoritettava normaalisti.
 
+## opetusplääni GPT
+
+# Ensimmäiset ajotunnit opetusluvalla – erityisesti kytkimen opettamiseen
+
+## Tavoite
+
+Ensimmäisten harjoitusten tärkein tavoite ei ole liikenteessä ajaminen, vaan auton hallinnan oppiminen. Jos oppilaalla on haasteita kytkimen kanssa, kannattaa käyttää ensimmäiset harjoituskerrat lähes kokonaan liikkeellelähtöihin, pysähtymisiin ja kytkimen tuntopisteen löytämiseen.
+
+Kun auton hallinta alkaa sujua automaattisemmin, oppilas pystyy keskittymään paremmin liikenteen havainnointiin.
+
+---
+
+# Ennen ajoon lähtöä
+
+Käy auton hallintalaitteet läpi auton ollessa paikallaan:
+
+- Kytkin
+- Jarru
+- Kaasu
+- Vaihdekeppi
+- Käsijarru
+- Vilkut
+- Valot
+- Peilit
+
+Varmista, että ajoasento on oikea:
+
+- Istuin riittävän lähellä polkimia
+- Selkänoja sopivassa asennossa
+- Peilit säädetty
+- Turvavyö kiinni
+
+Pyydä oppilasta painamaan polkimia muutaman kerran ilman, että auto liikkuu. Näin hän saa tuntumaa niiden liikeratoihin.
+
+---
+
+# Vaihe 1: Kytkimen tuntopiste
+
+Valitse mahdollisimman rauhallinen ja tasainen alue, esimerkiksi tyhjä parkkipaikka.
+
+## Harjoitus
+
+1. Käynnistä auto.
+2. Kytkin pohjaan.
+3. Ensimmäinen vaihde päälle.
+4. Vapauta jarru.
+5. Nosta kytkintä erittäin hitaasti.
+
+Pyydä oppilasta keskittymään siihen hetkeen, jolloin:
+
+- auton keula hieman nousee
+- moottorin ääni muuttuu
+- auto alkaa ryömiä eteenpäin
+
+Kun auto lähtee liikkeelle:
+
+- paina kytkin takaisin pohjaan
+- pysäytä auto
+
+Toista harjoitus useita kertoja.
+
+## Tavoite
+
+Oppilas oppii tunnistamaan kytkimen tuntopisteen ilman kiirettä.
+
+---
+
+# Vaihe 2: Liikkeellelähtö
+
+Kun tuntopiste löytyy luontevasti, siirrytään varsinaiseen liikkeellelähtöön.
+
+## Harjoitus
+
+1. Kytkin pohjaan.
+2. Ensimmäinen vaihde päälle.
+3. Kevyt kaasu.
+4. Kytkin hitaasti tuntopisteeseen.
+5. Auto lähtee liikkeelle.
+6. Kytkin vapautetaan rauhallisesti loppuun asti.
+
+Aja 20–50 metriä.
+
+Pysähtyminen:
+
+1. Kytkin pohjaan.
+2. Jarrutus.
+3. Pysähdys.
+
+Toista useita kertoja.
+
+## Tavoite
+
+Oppilas oppii hallitun liikkeellelähdön ilman auton sammumista.
+
+---
+
+# Vaihe 3: Vaihde 1 → 2
+
+Kun liikkeellelähtö onnistuu useita kertoja peräkkäin:
+
+1. Kiihdytä rauhallisesti.
+2. Kytkin pohjaan.
+3. Vaihda toiselle vaihteelle.
+4. Vapauta kytkin tasaisesti.
+5. Jatka ajoa.
+
+Harjoittele aluksi vain vaihtoa ensimmäiseltä toiselle vaihteelle.
+
+Ei vielä tarvetta käyttää kaikkia vaihteita.
+
+---
+
+# Vaihe 4: Ohjaaminen ja käännökset
+
+Kun auton liikuttaminen onnistuu:
+
+- Loivia kaarroksia
+- Oikealle kääntymisiä
+- Vasemmalle kääntymisiä
+- U-käännöksiä turvallisessa paikassa
+
+Tässä vaiheessa tavoitteena on yhdistää:
+
+- auton hallinta
+- ohjaaminen
+- havainnointi
+
+---
+
+# Vaihe 5: Rauhallinen liikenne
+
+Vasta kun auton hallinta alkaa sujua, siirrytään liikenteeseen.
+
+Valitse:
+
+- hiljaiset asuinalueet
+- vähäinen liikenne
+- yksinkertaiset risteykset
+
+Vältä aluksi:
+
+- ruuhkia
+- keskustaa
+- monikaistaisia teitä
+- vaikeita liittymiä
+
+---
+
+# Opettajan tärkeimmät periaatteet
+
+## Anna vain yksi tehtävä kerrallaan
+
+Huono esimerkki:
+
+> "Katso peiliin, laita vilkku, vaihda kakkoselle, seuraa jalankulkijaa ja käänny seuraavasta risteyksestä."
+
+Parempi:
+
+> "Nosta kytkintä hitaasti tuntopisteeseen."
+
+Kun yksi asia onnistuu, siirrytään seuraavaan.
+
+---
+
+## Puhu rauhallisesti
+
+Oppilas kuormittuu helposti.
+
+Mitä rauhallisemmin opettaja puhuu, sitä paremmin oppilas pystyy keskittymään.
+
+---
+
+## Anna oppilaan tehdä virheitä
+
+Auton sammuminen kuuluu oppimiseen.
+
+Älä reagoi voimakkaasti.
+
+Voit sanoa esimerkiksi:
+
+> "Hyvä. Nyt tiedät missä kohtaa kytkin tarttuu. Kokeillaan uudestaan."
+
+---
+
+## Muista kehua onnistumisia
+
+Aloittelija huomaa usein vain virheet.
+
+Nosta esiin onnistumisia:
+
+- Hyvä liikkeellelähtö
+- Hyvä pysäytys
+- Hyvä havainnointi
+- Hyvä peilien käyttö
+
+Positiivinen palaute nopeuttaa oppimista merkittävästi.
+
+---
+
+# Tyypilliset kytkinvirheet
+
+## Kytkin nostetaan liian nopeasti
+
+Seurauksena:
+
+- auto nykäisee
+- auto sammuu
+
+Ratkaisu:
+
+- hitaampi vapautus
+- tuntopisteen harjoittelu
+
+---
+
+## Kaasua ei anneta riittävästi
+
+Seurauksena:
+
+- moottori tukehtuu
+- auto sammuu
+
+Ratkaisu:
+
+- kevyt ja tasainen kaasu
+- ei tarvetta painaa voimakkaasti
+
+---
+
+## Katse on vaihdekepissä
+
+Seurauksena:
+
+- havainnointi kärsii
+
+Ratkaisu:
+
+- vaihteiden käyttöä harjoitellaan niin paljon, että liikkeet alkavat tulla lihasmuistista
+
+---
+
+# Ensimmäisen harjoituskerran tavoite
+
+Harjoitus voidaan katsoa onnistuneeksi, jos oppilas:
+
+- löytää kytkimen tuntopisteen
+- saa auton liikkeelle useita kertoja
+- osaa pysäyttää auton hallitusti
+- ymmärtää kytkimen ja kaasun yhteistyön
+
+Tärkeämpää kuin ajettujen kilometrien määrä on se, että auton perushallinta alkaa tuntua oppilaasta turvalliselta ja ennustettavalta.
+
+# Huomioitavaa, jos oppilaalla on jo mopokortti
+
+Mopokortin suorittanut oppilas ei yleensä aloita täysin tyhjästä.
+
+Hänellä on usein jo kokemusta:
+
+- liikennesäännöistä
+- liikennemerkeistä
+- risteystilanteista
+- väistämissäännöistä
+- liikenteen havainnoinnista
+
+Tämän vuoksi opetuksen painopiste kannattaa siirtää nopeasti auton hallintaan.
+
+Uusia asioita ovat erityisesti:
+
+- kytkimen käyttö
+- vaihteiden vaihtaminen
+- auton koko ja mitat
+- peilien tehokas käyttö
+- auton sijoittaminen kaistalle
+- liikkeellelähdöt ja pysäytykset
+- mäkilähdöt
+
+Oppilas saattaa ymmärtää liikennetilanteen oikein, mutta hänen huomionsa voi silti siirtyä auton hallintaan niin paljon, että havainnointi hetkellisesti heikkenee.
+
+Tämä on normaalia.
+
+Kun auton käsittely alkaa automatisoitua, liikenteen havainnointi palautuu yleensä nopeasti samalle tasolle tai paremmaksi kuin mopolla ajettaessa.
+
+---
+
+# Suositeltava ensimmäinen ajokerta mopokortilliselle
+
+1. Auton hallintalaitteet läpi.
+2. Kytkimen tuntopisteen harjoittelu.
+3. Liikkeellelähdöt ja pysähtymiset.
+4. Vaihteenvaihdot 1 → 2 → 3.
+5. Rauhallista ajoa vähäliikenteisillä kaduilla.
+6. Yksinkertaisia risteystilanteita.
+
+Tavoitteena ei ole ajaa pitkää matkaa, vaan saada oppilaalle varmuus siitä, että auto lähtee liikkeelle, vaihtaa vaihdetta ja pysähtyy hallitusti.
+
+Kun nämä onnistuvat luontevasti, voidaan siirtyä vaativampiin liikennetilanteisiin.
+
+
 
 ---
 
