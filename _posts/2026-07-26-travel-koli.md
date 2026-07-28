@@ -173,6 +173,24 @@ Itä-Suomessa luonto ja kulttuuri sulautuvat saumattomasti yhteen, tarjoten elä
 
 - "Nummelan perusmitta on tarkasti 864,12 metriä ja siksi arvostettu vientituote" [HS](https://www.hs.fi/tiede/art-2000011277662.html)
 
+# Opetuslupa notes
+
+- Jos oppilaalla on jo mopokortti (AM-luokan ajokortti), hänellä on yleensä jo ajokortti ennestään. Tällöin EAS-koulutusta ei tarvitse suorittaa uudelleen, kun hän suorittaa esimerkiksi B-luokan (henkilöauto) ajokorttia.
+  - EAS-koulutus: Ei tarvitse käydä uudestaan (säästää 4 tuntia opetusta).
+    - Next
+      - Opetusajoneuvon varustelu: Asenna autoon lisäjarrupoljin opettajalle.
+      - Valkoinen kolmio: Kiinnitä magneettinen tai tarralla toimiva valkoinen opetuskolmio auton taakse.
+      - Sivupeili: Hankki itsellesi opettajan puoleinen ulkopuolinen tai sisäpuolinen lisäpeili.
+      - Ajokorttilupa: Varmista, että oppilaan B-luokan ajokorttilupa on haettu ja hyväksytty Ajovarmalla. (Ajovarma toimii Traficomin virallisena kumppanina ja palvelupisteenä. Jos hakemusta ei jostain syystä voi tehdä netissä (esim. tarvitaan uusi lääkärintodistus), asiointi hoidetaan fyysisesti Ajovarman palvelupisteessä. Myös itse kuljettajantutkinto (teoria- ja ajokoe) varataan ja suoritetaan aina Ajovarmalla)
+      - ELI
+        - Sinä (opettaja) haet opetusluvan Traficomin Oma asioinnissa.
+        - Oppilas hakee ajokorttiluvan. Jos hänellä on jo mopokortti (AM), hänen tulee hakea ajokorttilupaa ajokortin korottamiseen, koska hänellä on jo ajokortti ennestään.
+          - HUOM!: Käytä tätä [palvelua](https://www.traficom.fi/fi/autoilijat/ajokortit/hae-ajokorttilupaa-ajokortin-korottamiseen), kun haluat lisätä voimassa olevalle ajokortillesi uusia luokkia suorittamalla kuljettajantutkinnon. Puolesta asiointi ei ole palvelussa mahdollista.
+        - EAS-koulutusta ei tarvitse suorittaa uudelleen, jos oppilaalla on jo mopokortti.
+  - Teoriakoe: B-luokan teoriakoe pitää silti suorittaa.
+  - Ajotunnit: Pakolliset ajotunnit (esim. pimeän ajo, maantieajo ja moottorirata) on suoritettava normaalisti.
+
+
 ---
 
 [Disclaimer](https://talonendm.github.io/disclaimer)
