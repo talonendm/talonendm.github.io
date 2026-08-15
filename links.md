@@ -20,6 +20,18 @@ tags:
   - web cam and posenet
   - under construction
 
+# Q3 2026
+
+- Curre: CurreChat on käytettävissä kaikille Helsingin yliopiston opiskelijoille ja henkilökunnalle. Opiskelijat voivat käyttää palvelua henkilökohtaisesti tai opettajan aktivoimilla kursseilla. Henkilökohtaisessa käytössä laskuri nollautuu joka maanantai. Henkilökunnalla on käytössään 200 000 tokenia viikossa, opiskelijoilla 100 000 tokenia. Kursseilla opiskelijoilla on käytössään 200000 tokeneita viikossa. CurreChat noudattaa EU:n yleistä tietosuoja-asetusta (GDPR). Käydyt keskustelut ovat yksityisiä eivätkä tallennu järjestelmään. Käyttäjällä on mahdollisuus tallentaa keskustelu lähettämällä se itselleen sähköpostina. Palveluun syötettyjä aineistoja ei käytetä kielimallien opetukseen.
+  - Shift+Return: lähettää viestin
+- [MOOC](https://www.mooc.fi/en/)
+- Helsingin yliopiston kurssihaku: https://studies.helsinki.fi/kurssit
+  - Jos etsit jotain oikeasti kiinnostavaa tai erikoista, katso ensin nämä:
+    - Kvanttilaskenta ja kvanttifysiikka
+    - Haku: quantum
+    - https://studies.helsinki.fi/kurssit
+      - Opetussuunnitelmakausi vaihtuu 1.8.2026: Päivitä opintojaksojen uudet versiot Sisussa opintosuunnitelmaasi, jotta voit ilmoittautua syyslukukauden kursseille.
+
 # 2025
 
 - [https://talonendm.podbean.com/](https://talonendm.podbean.com/)

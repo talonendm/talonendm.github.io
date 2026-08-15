@@ -453,6 +453,11 @@ Table tennis at Lysekil park
 
 - Laivalla Trio
 
+
+# Spare parts
+
+- pyyhkinjänsulat (haku rekkarilla motonet) [Bosch](https://www.motonet.fi/tuote/bosch-aerotwin-retrofit-ar26u-ar650u-pyyhkijansulka-65-cm?product=12-0192&fromsparepartssearch=true)
+
 # Travel map code
 
 ## Updated

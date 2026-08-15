@@ -17,6 +17,13 @@ published: true
 
 - 98885.1 (5/2025)
 - 99290.2 (250802): 10.00l, 17.19e, 98e Neste
+- 99600 (260810)
+- 99659 (260814 tankkaus) 9.11l, 20.85e, 2.289e/l Mankki Espoo [sp private](https://www.sports-tracker.com/workout/haques/6a7f46ebc52ba307e8f3e7f6)
+
+## Ajoasu
+
+- US38 L32 R: vahvistetut farkut. [Richa Classic 2 ajofarkut](https://www.fc-moto.com/fi-fi/p/richa-classic-2-moottoripyoerae-farkut-short-30-RIC-7CLAIIS-1400-30) [99.5e](https://www.motonet.fi/tuote/richa-classic-2-ajofarkut-sininen?product=40-20558) D3O® Ghost Level 1 suojat polviss, Materiaali 71 % puuvillaa, 26 % corduraa ja 3 % elastaania
+- [Yoko One atv](https://www.motonet.fi/tuote/yoko-one-atv-takki-musta?product=40-17601&variant=40-17591) takki musta XXL, 49.5e
 
 ## Huolto
 

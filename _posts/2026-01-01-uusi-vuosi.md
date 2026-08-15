@@ -108,7 +108,10 @@ Standard height from the floor to the bullseye on the dartboard is 5 feet 8 inch
 - ranneke tilattu 260430 Alilta.
   - toimii
 
+## Uus rannake Power 7/2026 SA
 
+- speksit tänne
+- shokz. OpenRun Mini Black * 2 Power 139e 7/2026 2 vuoden takuu
 
 
 ## HEVC - videoplayer
