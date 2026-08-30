@@ -212,6 +212,11 @@ jos saa diilin, 10 snt/kWh, paljon kustannukset laskevat? ks. [private ta.dm](ht
   - uusi laji tiluksilla. Humala-alueella: myrkyllinen 1-vuotinen "[harmiton](https://pohjolankasvienpauloissa.com/fumaria-officinalis-peltoemakki/)" [Peltoemäkki](https://fi.wikipedia.org/wiki/Peltoem%C3%A4kki)
     - viihtyy ravinteella maalla (salpietari levitetty aiemmin kesällä)
   - Korianterit, rucolat jo kukkii - meni yli
+- 3.8.2026 Kirsikoiden poiminta noin 1-3 viikon aikana. Sato noin 5 litraa
+- 11.8.2026 paljon perhosia, [suruvaipat](https://www.suomen-perhoset.fi/suruvaippa/) parina päivänä, sitten [neitoperhosia](https://www.suomen-perhoset.fi/neitoperhonen/) ja yksi [nokkosperhonen](https://www.suomen-perhoset.fi/nokkosperhonen/)
+- 21.8.2026 omenapuiden lähelyä siistitty, jotta muumiot löyyy helpommin. Isosta puusta vesiversoja leikattu pois.
+- 27.8.2026 omenasato on hyvä, jopa kymmenen valkeakuulaa päivässä.
+- 28.8.2026 kukinta osittain ohi *kääpiösamettikukka*. Korianterin, rucolan ja unikon siemenet talteen.
 
 # 2025
 

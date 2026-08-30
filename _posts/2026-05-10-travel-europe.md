@@ -417,7 +417,15 @@ Table tennis at Lysekil park
 ![i.0055](/assets/pics/page/travelling/2026/eu640x640_0055.jpg){: .mx-auto.d-block :}
 ![i.0056](/assets/pics/page/travelling/2026/eu640x640_0056.jpg){: .mx-auto.d-block :}
 ![i.0057](/assets/pics/page/travelling/2026/eu640x640_0057.jpg){: .mx-auto.d-block :}
+
+## [Mikolajki ](https://en.wikipedia.org/wiki/Miko%C5%82ajki)
+
+[Autopesu Orlen Mikolajki](https://maps.apple.com/place?place-id=I4CADA1A8DB2D2418&address=Prawdowo+8%2C+11-730+Miko%C5%82ajki%2C+Poland&coordinate=53.802502%2C21.550801&name=ORLEN&_provider=9902)
+
 ![i.0058](/assets/pics/page/travelling/2026/eu640x640_0058.jpg){: .mx-auto.d-block :}
+
+
+
 ![i.0059](/assets/pics/page/travelling/2026/eu640x640_0059.jpg){: .mx-auto.d-block :}
 ![i.0060](/assets/pics/page/travelling/2026/eu640x640_0060.jpg){: .mx-auto.d-block :}
 ![i.0061](/assets/pics/page/travelling/2026/eu640x640_0061.jpg){: .mx-auto.d-block :}

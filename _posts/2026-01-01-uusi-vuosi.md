@@ -39,6 +39,7 @@ Hyvää uutta vuotta 2026!
 
 # Links
 
+- member+ [Tahko Rinnetähti A](https://memberplus.fi/lomahuoneisto/tahko-rinnetahti-a)
 - member+ [ruka C9 Kanerva](https://memberplus.fi/lomahuoneisto/ruka-2)
 - historialliset satelliittikuvat [google.earth](https://earth.google.com/)
 - Heureka [NOX](https://www.heureka.fi/blogs/ajankohtaista/nox)
@@ -46,6 +47,11 @@ Hyvää uutta vuotta 2026!
 - [Vintero](https://vintero.fi/)
 - flixonase nenäsumu ja [norkko](https://norkko.fi/)
 
+## Rakentaminen
+
+- Japanilainen puunsuojausmenetelmä polttamalla tunnetaan nimellä [yakisugi](https://en.wikipedia.org/wiki/Yakisugi) (tai länsimaissa usein nimellä shou sugi ban). Menetelmässä puun pinta hiilletään hallitusti liekillä, mikä antaa sille poikkeuksellisen tehokkaan, luonnollisen suojan ulkoisia rasituksia vastaan.
+  - [hiiltäminen avotulella](https://anujatalo.wordpress.com/2017/06/05/shou-sugi-ban-eli-puun-hiiltaminen/): testaa pesukonegrillillä. Notski siihen ja sitten vaan lautaa työntää siitä yli
+- [Kattoraappa - Jula](https://www.jula.fi/catalog/puutarha/puutarhatyokalut/kasityokalut/raystaskourunpuhdistajat/kattoraappa-012842/). Toimii yllättävän hyvin vanhalle tiilikatolle. TODO: laser muotit
 
 ## oikeus
 
@@ -59,7 +65,8 @@ Hyvää uutta vuotta 2026!
 
 ## AI
 
- 
+- Citymarketin kuvapalvelun puutteelliset rajoitukset johtivat mauttomien kuvien luomiseen [HS](https://www.hs.fi/suomi/art-2000012231847.html)
+- Somekone, [STT](https://www.sttinfo.fi/tiedote/72263017/somekone-nayttaa-nuorille-miten-sosiaalisen-median-algoritmi-keraa-tietoa-heista?publisherId=3747&lang=fi)
 - Snowflake: Snowflake Cortex Code is an AI-powered coding agent integrated into the Snowflake AI Data Cloud designed to accelerate data engineering, analytics, and app development.
 - OpenAI lopettaa yllättäen Sora-tekoälyvideopalvelunsa [mobiili](https://mobiili.fi/2026/03/25/openai-lopettaa-yllattaen-sora-tekoalyvideopalvelunsa-samalla-kaatui-kumppanuus-disneyn-kanssa/)
 
