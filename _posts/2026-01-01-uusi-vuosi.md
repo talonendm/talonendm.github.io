@@ -101,6 +101,9 @@ Finally, the speaker discusses the concept of technological singularity, where A
 
 - 260716: listojen takaa putsaus. Väliseinän kipsilevyreiän peittäminen 2x5 puupalikalla. Sähköjohtojakorasia lepää lattialla.
 
+## vap
+
+- Livarno Led colour changing bulb IAN 500300_2504. 6e. kaukosäädin ja lamppu. Komerossa? 2026
 
 # darts
 
@@ -109,6 +112,13 @@ Standard height from the floor to the bullseye on the dartboard is 5 feet 8 inch
 ## mustarautalankohylly VT
 
 - Clas Ohlsson  8mm reikä, [levytulppa](https://www.clasohlson.com/fi/Levytulppa/p/40-9227) (ankkuri), ruuvi tasakanta iso 45mm 3kpl. Muista oikeanlainen ruuvi ja naputus kumivasaralla. 260413
+
+## Nedis SmartLife camera 
+
+- [Motonet](https://www.motonet.fi/tuote/nedis-smartlife-valvontakamera-ulkokayttoon-wi-fi-3mp-full-hd-ip65?product=95-02983&gad_source=1&gad_campaignid=18310869743&gbraid=0AAAAADpT_UFLbqLZvl9VJ2dIgBVb4uZf3&gclid=CjwKCAjwzNTUBhAjEiwA7zcvWmOja8b_9MwiEP4oEZU8wWhzZQxqCFpBdss-iSIW0T01dg9xT6n7hhoCXvMQAvD_BwE) 49.90e wifi, takuu kaksi vuotta 8/2028 asti
+- Nedis SmartLife valvontakamera ulkokäyttöön Wi-Fi 3MP Full HD IP65
+- Käyttölämpötila: -20 — 50 C
+- Vedenkestävyys: IP65, Antennivahvistus: 3 dBi
 
 ## Fitbit Charge 5
 

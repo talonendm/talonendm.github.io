@@ -461,11 +461,30 @@ Table tennis at Lysekil park
 
 - Laivalla Trio
 
+# Stockholm story
 
-# Spare parts
+The day before leaving Stockholm had been a busy one, with a good mix of nature, Finnish connections and a taste of Stockholm's evening life.
 
-- pyyhkinjänsulat (haku rekkarilla motonet) [Bosch](https://www.motonet.fi/tuote/bosch-aerotwin-retrofit-ar26u-ar650u-pyyhkijansulka-65-cm?product=12-0192&fromsparepartssearch=true)
+During the daytime, we headed out to Tyresta National Park for a hike. After spending time in the city, it was a nice change of scenery to get out into the forest. Tyresta is known for its old-growth forest, rocky landscapes and peaceful trails, making it a great place to experience a completely different side of Stockholm. The trails took us through beautiful Nordic nature, and it was easy to forget that we were only a short distance from the city. [Breakfast to Tyresta private sp](https://www.sports-tracker.com/workout/haques/6a97c13def19db16a7c50720).
 
+After the hike ([private sp](https://www.sports-tracker.com/workout/haques/6a98067426dac512cae22c8c)), the day continued with a very different kind of Finnish connection. We visited the Embassy of Finland in Stockholm, which was followed by an Aalto Alumni meeting. It was interesting to meet other people with connections to Finland and Aalto University while being in Stockholm. These kinds of meetings always give a trip a little more depth — suddenly the city is not only about sightseeing, but also about people and connections.
+
+Later in the evening, we headed to Östermalm. The atmosphere changed again as we moved from the more official events of the day into Stockholm's evening scene.
+
+We ended up at Oaken Inn, where something rather amusing happened. Some Swedish people there started asking whether I had visited Oaken Inn earlier.
+
+It was one of those small, unexpected moments that make a travel day memorable. Somehow, there seemed to be a question about whether I had already been there before — even though, from my point of view, I was simply enjoying the evening and taking in the atmosphere.
+
+After a long day that had started with hiking in the forest, continued with the Finnish Embassy and an Aalto Alumni gathering, and ended in Östermalm and back to the hotel near embassy. ([private sp](https://www.sports-tracker.com/workout/haques/6a989682d2bd607d13c46024))
+
+Notes: 
+
+- Turku to Viking Line, [private sp](https://www.sports-tracker.com/workout/haques/6a96fe7585512819a2127a70)
+- On the roof of Stockholm’s Nordiska Museet, solar panels quietly turn sunlight into energy. The historic museum building combines old Nordic architecture with modern technology—its grand roof now helping to power the future while protecting the past.
+  - Åhlens story, [private sp](https://www.sports-tracker.com/workout/haques/6a99671946c5711393e355c1)
+- Avgift betalning erläggs i hotell-reception. 250SEK, but cheaper than in easypark area nearby
+- [Tyresta](https://studyinsweden.se/blogs/2016/02/25/tyresta-national-park/) National Park is located about 20 kilometres south of Stockholm.
+   - Typesta slott, [private sp](https://www.sports-tracker.com/workout/haques/6a98154e391063227aa6c53d)
 # Travel map code
 
 ## Updated
