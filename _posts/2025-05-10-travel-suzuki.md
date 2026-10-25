@@ -19,13 +19,58 @@ published: true
 - 99290.2 (250802): 10.00l, 17.19e, 98e Neste
 - 99600 (260810)
 - 99659 (260814 tankkaus) 9.11l, 20.85e, 2.289e/l Mankki Espoo [sp private](https://www.sports-tracker.com/workout/haques/6a7f46ebc52ba307e8f3e7f6)
+- 99972 (260921)
+- 171 (261007)
 
 ## Ajoasu
 
 - US38 L32 R: vahvistetut farkut. [Richa Classic 2 ajofarkut](https://www.fc-moto.com/fi-fi/p/richa-classic-2-moottoripyoerae-farkut-short-30-RIC-7CLAIIS-1400-30) [99.5e](https://www.motonet.fi/tuote/richa-classic-2-ajofarkut-sininen?product=40-20558) D3O® Ghost Level 1 suojat polviss, Materiaali 71 % puuvillaa, 26 % corduraa ja 3 % elastaania
 - [Yoko One atv](https://www.motonet.fi/tuote/yoko-one-atv-takki-musta?product=40-17601&variant=40-17591) takki musta XXL, 49.5e
 
-## Huolto
+# Huolto
+
+## Suzuki GS450S: ketjujen syyshuolto lyhyesti
+
+Syksyllä ketjut huolletaan ennen talvisäilytystä, jotta ruostuminen ja jäykistyminen vältetään.
+
+1. Ketjut puhdistetaan ketjunpuhdistusaineella tai esimerkiksi parafiinipohjaisella puhdistusaineella.
+2. Ketju kuivataan huolellisesti.
+3. Ketju voidellaan laadukkaalla ketjuöljyllä ketjun sisäpuolelle samalla takapyörää pyöritettäessä.
+4. Tarkistetaan ketjun kireys ja säädetään valmistajan ohjeiden mukaiseen arvoon.
+5. Tarkastetaan rattaiden kunto sekä mahdolliset jäykät lenkit tai epätasainen kuluminen.
+
+Talvisäilytyksen aikana hyvin voideltu ketju säilyy paremmassa kunnossa ja on keväällä käyttövalmiimpi.
+
+## Suzuki GS450S - ketjujen syyshuolto
+
+Syksyllä ketjut puhdistetaan, kuivataan, voidellaan ja niiden kireys tarkistetaan ennen talvisäilytystä. Samalla tarkastetaan rattaiden kuluminen sekä mahdolliset jäykät ketjulenkit.
+
+## Suzuki GS450S - ketjujen syyshuollossa tarvittavat aineet
+
+Ketjujen puhdistukseen ja suojaukseen tarvitaan yleensä seuraavat aineet:
+
+| Käyttötarkoitus | Motonet | Puuilo |
+|---|---|---|
+| Ketjujen puhdistusaine | [Ketjunpuhdistusaineet (Motonet)](https://www.motonet.fi/haku?q=ketjunpuhdistusaine) | [Ketjunpuhdistusaineet (Puuilo)](https://www.puuilo.fi/catalogsearch/result/?q=et)](https://www.motonet.fi/haku?q=ketjuspray) | [Ketjusprayt (Puuilo)](https://www.puuilo.fi/catalogsearch/result/?q=ine (tarvittaessa) | [Jarrunpuhdistusaineet (Motonet)](https://www.motonet.fi/haku?q=jarrunpuhdistusaine) | [Jarrunpuhdistusaineet (Puuilo)|
+
+### Suositeltuja tuotteita
+
+- Motul Chain Clean - ketjunpuhdistusaine
+- Motul Chain Lube Road - ketjuspray
+- IPONE Chain Cleaner - ketjunpuhdistusaine
+- IPONE X-Trem Chain Road - ketjuspray
+- CRC Brake Cleaner - jarrunpuhdistusaine
+
+### Tarvittavat välineet
+
+- Ketjuharja tai pehmeä nailonharja
+- Nukkaamattomia puhdistusliinoja
+- Suojakäsineet
+- Takapukki tai keskiseisontatuki
+
+Syyshuollon jälkeen ketjuihin jätetään tasainen voitelukerros, jotta korroosiolta suojaudutaan talvisäilytyksen aikana.
+
+## Huoltohistoria
 
 - Kytkin irtosi syksyllä. 10mm avaimella prikka (katkaistu) ja mutteri. Hankalassa paikassa, ainoa reitti tukijalan suunnalta
 - Akun kiinnitys (260711) 10mm ja negatiivinen 90 asteen kulma-avaimella (oranssityökalulaatikko)

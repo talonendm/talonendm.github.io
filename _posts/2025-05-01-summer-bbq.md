@@ -12,6 +12,28 @@ published: true
 ---
 
 
+# Hiiligrilli
+
+## luuydin
+
+Tuore luuydin syödään usein vain kevyesti lämmitettynä, jolloin rakenne jää sisältä hyvin pehmeäksi ja lähes raa'an tuntuiseksi. Luuytimessä ei ole samaa kypsyysvaatimusta kuin lihassa.
+ 
+Nopea grillaus onnistuu esimerkiksi näin:
+ 
+- Kuuma grilli, noin 250–300 °C.
+- Luut ydinpuoli ylöspäin.
+- Grillausaika 5–10 minuuttia luun koosta riippuen.
+ 
+Tavoitteena on, että ydin juuri ja juuri alkaa pehmetä ja kiiltää pinnalta. Jos luuydin alkaa voimakkaasti kuplia tai valua ulos luusta, kypsyys on jo selvästi pidemmällä.
+ 
+### Huomio riistaluista
+ 
+Jos kyseessä on kyytön sijasta esimerkiksi hirven, peuran tai muun riistan luuydin, osa metsästäjistä ja kokkaajista suosii hieman pidempää kuumennusta hygieniasyistä. Tuoreesta, asianmukaisesti käsitellystä luusta voidaan kuitenkin valmistaa myös hyvin vähän kypsennetty luuydin.
+ 
+Yleisesti parhaana rakenteena pidetään tilannetta, jossa luuydin on ulkoa lämmin ja sisältä vielä hieman hyllyvää.
+
+
+
 # Traeger Pro Series 22 
 
 ## Kassler 2 x 2.2kg ([260724](https://talonendm.github.io/2022-07-09-summer-games/))

@@ -216,7 +216,10 @@ jos saa diilin, 10 snt/kWh, paljon kustannukset laskevat? ks. [private ta.dm](ht
 - 11.8.2026 paljon perhosia, [suruvaipat](https://www.suomen-perhoset.fi/suruvaippa/) parina päivänä, sitten [neitoperhosia](https://www.suomen-perhoset.fi/neitoperhonen/) ja yksi [nokkosperhonen](https://www.suomen-perhoset.fi/nokkosperhonen/)
 - 21.8.2026 omenapuiden lähelyä siistitty, jotta muumiot löyyy helpommin. Isosta puusta vesiversoja leikattu pois.
 - 27.8.2026 omenasato on hyvä, jopa kymmenen valkeakuulaa päivässä.
-- 28.8.2026 kukinta osittain ohi *kääpiösamettikukka*. Korianterin, rucolan ja unikon siemenet talteen.
+- 28.8.2026 kukinta osittain ohi *kääpiösamettikukka*. Korianterin, rucolan ja unikon siemenet talteen. Marja-aronia keräämistä siltä kohdin, josta pitää leikata oksia.
+- 13.9.2026 viimeiset valkeakuulaat
+- 19.9.2026 viimeiset isosta omenapuusta, muutama kunnollinen. Muumiotautisia pois. Vesiversojen osittaista leikkaamista jakkaralta. Ota vielä kerran syksyllä ja keväällä loput.
+- 19.9.2026 pienen omenapuun punaiset omenat pienehköjä, muutamia poiminut suoraan puusta. Laatu hyvä ja satoa noin 30 omenaa.
 
 # 2025
 

@@ -47,6 +47,22 @@ Hyvää uutta vuotta 2026!
 - [Vintero](https://vintero.fi/)
 - flixonase nenäsumu ja [norkko](https://norkko.fi/)
 
+# Talo jatai koti
+
+## sauna
+
+- Telttakiuas Sawu [Kipakka](https://www.tori.fi/recommerce/forsale/item/16460268)
+
+## Kotiakku
+
+- Elisa [kotiakku](https://elisa.fi/kotiakku/) + aurinkopaneelit (hallin lähelle)
+  - Vai pitääkö olla päärakennuksella? Kellariin pelihyllyn tilalle. Ehkä 2027 / 2028
+
+## Keittiö
+
+- 260716: listojen takaa putsaus. Väliseinän kipsilevyreiän peittäminen 2x5 puupalikalla. Sähköjohtojakorasia lepää lattialla.
+
+
 ## Rakentaminen
 
 - Japanilainen puunsuojausmenetelmä polttamalla tunnetaan nimellä [yakisugi](https://en.wikipedia.org/wiki/Yakisugi) (tai länsimaissa usein nimellä shou sugi ban). Menetelmässä puun pinta hiilletään hallitusti liekillä, mikä antaa sille poikkeuksellisen tehokkaan, luonnollisen suojan ulkoisia rasituksia vastaan.
@@ -87,23 +103,7 @@ Finally, the speaker discusses the concept of technological singularity, where A
   - Meriveden [korkeus](https://www.ilmatieteenlaitos.fi/vedenkorkeus?sealevel_station=-10022814&sealevel_graph=short&sealevel_mode=mwn2000)
   - avoindata [rajapinnat](https://avoindata.suomi.fi/data/fi/apiset)
 
-# sauna
 
-- Telttakiuas Sawu [Kipakka](https://www.tori.fi/recommerce/forsale/item/16460268)
-
-# Kotiakku
-
-- Elisa [kotiakku](https://elisa.fi/kotiakku/) + aurinkopaneelit (hallin lähelle)
-  - Vai pitääkö olla päärakennuksella? Kellariin pelihyllyn tilalle. Ehkä 2027 / 2028
-
-
-# Keittiö
-
-- 260716: listojen takaa putsaus. Väliseinän kipsilevyreiän peittäminen 2x5 puupalikalla. Sähköjohtojakorasia lepää lattialla.
-
-## vap
-
-- Livarno Led colour changing bulb IAN 500300_2504. 6e. kaukosäädin ja lamppu. Komerossa? 2026
 
 # darts
 
@@ -112,23 +112,6 @@ Standard height from the floor to the bullseye on the dartboard is 5 feet 8 inch
 ## mustarautalankohylly VT
 
 - Clas Ohlsson  8mm reikä, [levytulppa](https://www.clasohlson.com/fi/Levytulppa/p/40-9227) (ankkuri), ruuvi tasakanta iso 45mm 3kpl. Muista oikeanlainen ruuvi ja naputus kumivasaralla. 260413
-
-## Nedis SmartLife camera 
-
-- [Motonet](https://www.motonet.fi/tuote/nedis-smartlife-valvontakamera-ulkokayttoon-wi-fi-3mp-full-hd-ip65?product=95-02983&gad_source=1&gad_campaignid=18310869743&gbraid=0AAAAADpT_UFLbqLZvl9VJ2dIgBVb4uZf3&gclid=CjwKCAjwzNTUBhAjEiwA7zcvWmOja8b_9MwiEP4oEZU8wWhzZQxqCFpBdss-iSIW0T01dg9xT6n7hhoCXvMQAvD_BwE) 49.90e wifi, takuu kaksi vuotta 8/2028 asti
-- Nedis SmartLife valvontakamera ulkokäyttöön Wi-Fi 3MP Full HD IP65
-- Käyttölämpötila: -20 — 50 C
-- Vedenkestävyys: IP65, Antennivahvistus: 3 dBi
-
-## Fitbit Charge 5
-
-- ranneke tilattu 260430 Alilta.
-  - toimii
-
-## Uus rannake Power 7/2026 SA
-
-- speksit tänne
-- shokz. OpenRun Mini Black * 2 Power 139e 7/2026 2 vuoden takuu
 
 
 ## HEVC - videoplayer
@@ -143,9 +126,7 @@ Standard height from the floor to the bullseye on the dartboard is 5 feet 8 inch
   - 2h, syötärekkari keskuksessa. Käynti ulkokautta
   - mopon saa pyöräparkkiin
 
-# Car
 
-- poljin tassut tilattu 260430
 
 ## Hyundai Ioniq9
 
